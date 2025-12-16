@@ -187,7 +187,9 @@
 
     // Default: data1 -> ./data1.json
     // If your JSONs are in a folder, change to: `./out_json/${name}.json`
-    const url = `./${name}.json`;
+    // ✅ 正确：指向 out_json 目录
+const url = `./out_json/${name}.json`;
+
 
     try {
       setStatus(`Loading: ${url} ...`);
@@ -323,3 +325,4 @@ ${JSON.stringify(selectedRecord, null, 2)}`;
 </script>
 </body>
 </html>
+
