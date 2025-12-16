@@ -1,0 +1,2722 @@
+{
+  "source_file": "data21.txt",
+  "records": [
+    {
+      "asin": "B0B5TTVVDL",
+      "csi_title": "SEAUR Pantoufle de Bain Douce Enfant Unisexe Pantoufles de Plage pour Enfants S&#233;chage Rapide &#201;t&#233; Chaussons Maison Enfant Antid&#233;rapant Confort Pantoufles Dinosaure Bleu - 26/27EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_144::{",
+          "size_map": "26/27 EU",
+          "additional_sizes_detected": [
+            "numeric_26,",
+            "26/27 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_26",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "toddler",
+            "width": "medium",
+            "to_size": "numeric_27",
+            "size_class": "numeric_range",
+            "numeric_size": 26
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_26",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "toddler",
+          "width": "medium",
+          "to_size": "numeric_27",
+          "size_class": "numeric_range",
+          "numeric_size": 26
+        },
+        "age_range": {
+          "raw_values": [
+            "Enfant",
+            "Kid"
+          ],
+          "normalized": "toddler"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Design : chaussons pour filles. Beau design, fabrication exquise, motif dinosaure unique. Rend ces sandales pour enfants très mignonnes et attrayantes.",
+            "Matériau : sandales pour tout-petits garçons. Fabriqué en matériau EVA de haute qualité, il est doux au toucher, ce qui réduit considérablement le poids de la chaussure et apporte une expérience de marche agréable aux pieds de votre enfant.",
+            "Semelles antidérapantes : sandales d'été pour enfants, semelles en EVA, bonne résistance au glissement, résistantes à l'usure et élastiques, adhérence plus forte, la marche du bébé ne tombe pas facilement, la marche est plus sûre",
+            "Occasion : sandales à enfiler pour garçons et filles. Pour la douche, le bain, la piscine, les voyages, la marche, le jeu et la marche quotidienne sont également bonnes.",
+            "Taille : sandales pour petits enfants, veuillez vérifier le tableau des tailles avant de commander afin que vous puissiez acheter le bon produit"
+          ],
+          "other": [
+            "Design:Girls Slippers Beautiful design, exquisite workmanship, unique dinosaur pattern. Makes these kids sandals very cute and attractive.",
+            "Material:Toddler Boys Sandals Made of high quality EVA material, it is soft to the touch, which greatly reduces the weight of the shoe and brings a pleasant walking experience to your child's feet.",
+            "Non-slip soles: summer sandals for children, EVA soles, good slip resistance, wear-resistant and elastic, stronger grip, baby's walking is not easy to fall, walking is safer",
+            "Occasion:Slip on sandals for boys and girls. For shower, bath, pool, travel, walking, playing and daily walking are also good.",
+            "Size:Little kids sandals, please check the size chart before ordering so that you can buy the right product"
+          ]
+        }
+      }
+    },
+    {
+      "asin": "B0B31NN3RK",
+      "csi_title": "adidas Mixte enfant Tensaur Hook And Loop Shoes, Core Black / Cloud White / Core Black, 38",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "38 EU",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Enfant",
+            "Kid"
+          ],
+          "normalized": "kid"
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": "other",
+          "normalized": "other"
+        },
+        "bullet_points": {
+          "fr": [
+            "Tige en matière synthétique",
+            "Semelle extérieure en caoutchouc non marquant"
+          ],
+          "other": [
+            "Chaussant standard",
+            "Fermeture par scratch",
+            "Doublure textile",
+            "Velcro fastening",
+            "Synthetic upper"
+          ]
+        }
+      }
+    },
+    {
+      "asin": "B0876KK89B",
+      "csi_title": "Playshoes Chaussons Housse De Pluie Pour Sac &#192; Dos Mixte Enfant, Points, M",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "30/31 EU",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Enfant",
+            "Kid"
+          ],
+          "normalized": "kid"
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Fermeture Velcro large à ouvrir",
+            "Aide supplémentaire au niveau des talons",
+            "Semelle flexible, adhérente et non décolorante",
+            "Matériau extérieur en textile résistant",
+            "Joli design à pois",
+            "Durable textile upper material"
+          ],
+          "other": [
+            "Wide open Velcro closure",
+            "Extra heel aid",
+            "Flexible, grippy and non-fading sole",
+            "Lovely polka dot design"
+          ]
+        }
+      }
+    },
+    {
+      "asin": "B0CDGG1WP6",
+      "csi_title": "CELANDA Claquettes de Requin &#201;t&#233; Filles Gar&#231;ons Shark Slides Slippers Chaussures de Piscine et Plage Antid&#233;rapante Pantoufles de Bain,Vert requin Taille:26-27 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_210::{",
+          "size_map": "170",
+          "additional_sizes_detected": [
+            "numeric_26,",
+            "$additional_links_augmentor_233::{",
+            "170"
+          ],
+          "structured_size": {
+            "gender": "women",
+            "size": "numeric_26",
+            "age_group": "toddler",
+            "size_system": "eu_footwear_size_system",
+            "to_size": "numeric_27",
+            "width": "medium",
+            "size_class": "numeric_range",
+            "numeric_size": 26
+          }
+        },
+        "footwear_size": {
+          "gender": "women",
+          "size": "numeric_26",
+          "age_group": "toddler",
+          "size_system": "eu_footwear_size_system",
+          "to_size": "numeric_27",
+          "width": "medium",
+          "size_class": "numeric_range",
+          "numeric_size": 26
+        },
+        "age_range": {
+          "raw_values": [
+            "Enfant",
+            "Kid"
+          ],
+          "normalized": "toddler"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": "not_applicable",
+          "normalized": "not_applicable"
+        },
+        "bullet_points": {
+          "fr": [
+            "CELANDA Chaussons de Bain pour Enfants Garçons Filles Pantoufles de Bain Glissières Confortables Antidérapantes Piscine Plage Chaussures de Bain Pantoufles Plates d'été Taille 21-32 EU, Requin Vert, 8.5/9 UK Child"
+          ],
+          "other": [
+            "Brand: CELANDA",
+            "CELANDA Bath Slippers for Children Boys Girls Bath Slippers Comfortable Non-Slip Pool Beach Shoes Summer Flat Slippers Size 21-32 EU, Green Shark, 8.5/9 UK Child",
+            "Size:8.5/9.5 UK",
+            "Color: Green Shark",
+            "Marque : CELANDA",
+            "Taille : 8,5/9,5 Royaume-Uni",
+            "Couleur: Requin vert"
+          ]
+        }
+      }
+    },
+    {
+      "asin": "B08Y5XG2LH",
+      "csi_title": "CMP Kids Rigel Low Trekking Shoes WP Mixte Enfant Chaussures de randonn&#233;e, Gris Asphalte Rose, 37 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "37 EU",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Enfant",
+            "Kid"
+          ],
+          "normalized": "kid"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Laçage Fast Lace et poche porte-lacets",
+            "Doublure intérieure en Lycra pour une sensation de douceur et de confort",
+            "Membrane imperméable CLIMAPROTECT",
+            "Talon TPU pour offrir stabilité et soutien lors de l'appui"
+          ],
+          "other": [
+            "Languette et montre en microfibre pour plus de confort sur le cou du pied",
+            "Bande de roulement en TPR",
+            "Semelle Ortholite avec renfort en EVA",
+            "Bandeau de protection en tissu anti-abrasion",
+            "Fast lace and lace-up pocket",
+            "Microfiber tongue and watch for comfort on the neck of the foot",
+            "Lycra inner lining for a soft and comfortable feel",
+            "TPR tread",
+            "CLIMAPROTECT waterproof membrane",
+            "Ortholite sole with EVA reinforcement",
+            "Anti-abrasion fabric protective headband",
+            "TPU heel to provide stability and support when pressing"
+          ]
+        }
+      }
+    },
+    {
+      "asin": "B0CR6SDMQY",
+      "csi_title": "Blippi Baskets pour Enfants, gar&#231;ons et Filles, Fermeture Facile au Toucher, Chaussures habill&#233;es, Escarpins de Sport",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_189::{",
+          "size_map": "24 EU",
+          "additional_sizes_detected": [
+            "numeric_24,",
+            "24 EU"
+          ],
+          "structured_size": {
+            "gender": "men",
+            "size": "numeric_24",
+            "age_group": "little_kid",
+            "size_system": "eu_footwear_size_system",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 24
+          }
+        },
+        "footwear_size": {
+          "gender": "men",
+          "size": "numeric_24",
+          "age_group": "little_kid",
+          "size_system": "eu_footwear_size_system",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 24
+        },
+        "age_range": {
+          "raw_values": [
+            "Enfant",
+            "Kid"
+          ],
+          "normalized": "little_kid"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Marchandise Blippi. Ces chaussures étonnantes sont d'un tout nouveau design et correspondent à celles portées par Blippi lui-même. Nous n’avons qu’une quantité limitée, alors agissez vite pour éviter toute déception. Chaque paire est conçue dans le thème classique des couleurs bleu et orange Blippi. Un cadeau parfait pour tous les fans de Blippi. Soyez comme Blippi.",
+            "La fixation est une sangle à fixation facile entièrement réglable. Ils sont fabriqués à partir d'un matériau en simili cuir de haute qualité avec un pare-chocs couvrant les orteils. Les chaussures sont testées avec un bon ajustement avec une semelle antidérapante résistante et une semelle intérieure rembourrée, ce qui les rend parfaitement confortables. Achetez en toute confiance parmi notre gamme de haute qualité entièrement testée.",
+            "Blippi est une série pour enfants bien connue et très appréciée. Le rêve de tous les petits garçons est d'être comme le Blippi et de vivre des aventures amusantes. Alors pourquoi ne pas ajouter ces baskets à la garde-robe de votre enfant et donner vie à certains de ses rêves, car il se sentira certainement comme Blippi dans ces chaussures uniques.",
+            "Ce modèle est parfait pour une tenue décontractée, à porter à l'école, en vacances au parc ou en sortie. Complétez n'importe quel costume de déguisement Blippi avec ces chaussures car elles correspondent au style emblématique de Blippi. Des baskets parfaites pour chaque occasion.",
+            "N'oubliez pas de consulter notre gamme complète Blippi trouvée dans notre magasin, des vêtements de nuit aux sacs à dos.",
+            "The attachment is a fully adjustable easy fix strap. They are made from a high quality faux leather material with a bumper covering the toes. The shoes are tested with a good fit with a durable non-slip sole and a cushioned insole, making them perfectly comfortable. Buy with confidence from our fully tested high quality range.",
+            "This model is perfect for casual wear, wear to school, on vacation to the park or going out. Complete any Blippi fancy dress costume with these shoes as they match Blippi's iconic style. Perfect sneakers for every occasion."
+          ],
+          "other": [
+            "Blippi merchandise. These amazing shoes are a brand new design and match those worn by Blippi himself. We only have a limited quantity, so act fast to avoid disappointment. Each pair is designed in the classic blue and orange Blippi theme. A perfect gift for any Blippi fan. Be like Blippi.",
+            "Blippi is a well-known and highly regarded children's series. Every little boys' dream is to be like the Blippi and have fun adventures. So why not add these sneakers to your child's wardrobe and bring some of their dreams to life, as they will definitely feel like Blippi in these unique shoes.",
+            "Don't forget to check out our full Blippi range found in our store, from sleepwear to backpacks."
+          ]
+        }
+      }
+    },
+    {
+      "asin": "B093HGDHRC",
+      "csi_title": "Siegertreppchen&#174; Chaussures de Danse Brillantes 26 Rouge - Chaussures de Ballerines Classiques pour Yoga, Gymnastique, Jazz pour Enfants et Adultes",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_119::{",
+          "size_map": "26 EU",
+          "additional_sizes_detected": [
+            "numeric_26,",
+            "26 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_26",
+            "age_group": "toddler",
+            "size_system": "eu_footwear_size_system",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 26
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_26",
+          "age_group": "toddler",
+          "size_system": "eu_footwear_size_system",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 26
+        },
+        "age_range": {
+          "raw_values": [
+            "Enfant",
+            "Kid"
+          ],
+          "normalized": "toddler"
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Chaussures de gymnastique pour filles et garçons, un compagnon idéal pour le sport et les loisirs. Chaussures de gymnastique de l'entreprise Siegertreppchen de Berlin qui procurent un plaisir durable.",
+            "Les chaussures de gymnastique peuvent être utilisées de manière polyvalente pour la gymnastique, le ballet, la danse jazz et le fitness. Ils sont également parfaits comme chaussons à la maison ou au jardin d'enfants.",
+            "Le matériau en coton s'adapte merveilleusement bien au pied et offre un chaussant optimal sans pression. Les pieds des enfants se sentent très bien grâce à la semelle respirante et à la voûte plantaire rembourrée.",
+            "La semelle en caoutchouc antidérapante permet une bonne adhérence sans laisser de traces sur les sols. La semelle respirante évite la transpiration des pieds et les odeurs désagréables.",
+            "En cas de salissures, il suffit de les essuyer avec un chiffon humide. Nous déconseillons formellement le nettoyage en machine afin de ne pas altérer la qualité du cuir."
+          ],
+          "other": [
+            "Gymnastics shoes for girls and boys, an ideal companion for sports and leisure. Gymnastics shoes from the Berlin company Siegertreppchen for long-lasting pleasure.",
+            "The gymnastics shoes can be used in many ways for gymnastics, ballet, jazz dance and fitness. They are also perfect as slippers at home or in the kindergarten.",
+            "The cotton material adapts wonderfully well to the foot and provides an optimal fit without pressure. Children's feet feel great thanks to the breathable sole and padded arch.",
+            "The non-slip rubber sole allows a good grip without leaving marks on floors. The breathable sole prevents foot sweating and unpleasant odours.",
+            "In case of soiling, simply wipe them with a damp cloth. We strongly advise against machine cleaning in order not to alter the quality of the leather."
+          ]
+        }
+      }
+    },
+    {
+      "asin": "B0B8DBT43M",
+      "csi_title": "Buwege Claquette Enfant Chausson Antid&#233;rapant Piscine Fille Gar&#231;on Pantoufle Plage Bain Doux Plat Maison Sandales Rose 33 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_171::{",
+          "size_map": "33 EU",
+          "additional_sizes_detected": [
+            "numeric_33,",
+            "33 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_33",
+            "age_group": "big_kid",
+            "size_system": "eu_footwear_size_system",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 33
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_33",
+          "age_group": "big_kid",
+          "size_system": "eu_footwear_size_system",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 33
+        },
+        "age_range": {
+          "raw_values": [
+            "Enfant",
+            "Kid"
+          ],
+          "normalized": "big_kid"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Style : chaussons synthétiques EVA, classiques et simples, adaptés aux garçons et aux filles, compagnon quotidien des enfants.",
+            "Conception : le dessus de la semelle a une surface en fines particules pour offrir une position confortable. Le bas de la semelle est équipé d'une rainure d'enroulement qui est effectivement antidérapante.",
+            "Le matériau EVA de haute qualité rend ces chaussons de bain pour enfants imperméables et à séchage rapide. Convient pour une utilisation quotidienne à la baignade, à la piscine, à la plage, à la maison, etc.",
+            "Qualité : matériaux écologiques qui apaisent les parents, sandales de bain pour enfants, chaussures de bain pour enfants, chaussons pour enfants, .",
+            "Style: EVA synthetic slippers, classic and simple, suitable for boys and girls, children's daily companion."
+          ],
+          "en": [
+            "Design: the upper of the sole has a fine particle surface to provide a comfortable position. The bottom of the sole is equipped with a winding groove that is effectively non-slip."
+          ],
+          "other": [
+            "High quality EVA material makes these kids bath slippers waterproof and quick drying. Suitable for daily use at swimming, pool, beach, home, etc.",
+            "Quality: Eco-friendly materials that soothe parents, kids bath sandals, kids bathing shoes, kids slippers, ."
+          ]
+        }
+      }
+    },
+    {
+      "asin": "B0DTY11FZF",
+      "csi_title": "BibYuga Generisch Chaussures pieds nus pour enfants, baskets larges, chaussures pieds nus pour gar&#231;ons et filles, chaussures de sport antid&#233;rapantes avec bande &#224; crochet et boucle, beige, 27 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_78::{",
+          "size_map": "27 EU",
+          "additional_sizes_detected": [
+            "numeric_27,",
+            "27 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_27",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "toddler",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 27
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_27",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "toddler",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 27
+        },
+        "age_range": {
+          "raw_values": [
+            "Enfant",
+            "Kid"
+          ],
+          "normalized": "toddler"
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": "Caoutchouc",
+          "normalized": "Rubber"
+        },
+        "bullet_points": {
+          "fr": [
+            "Croissance libre : les chaussures pieds nus pour enfants pour garçons et filles offrent suffisamment de liberté de mouvement pour les orteils. Beaucoup d'espace à l'avant-pied garantit que votre enfant ne se sentira pas serré ou mal à l'aise lorsque vous portez la chaussure. Si votre enfant a des pieds étroits, nous vous recommandons de choisir la taille plus petite.",
+            "Respirantes et confortables : les chaussures pieds nus pour enfants sont composées d'un matériau extérieur léger et respirant en tricot, qui est léger, doux et respirant, garantit un excellent confort et conviennent très bien pour l'intérieur et l'extérieur. Le design animal de dessin animé est mignon et vivant.",
+            "Équilibre et santé : les baskets pour enfants disposent d'une semelle Zero-Drop et d'un design de soutien de la voûte plantaire qui réduit la pression lors de la marche et assure un meilleur équilibre. Cela aide les enfants à développer une bonne posture de marche et à favoriser un développement et une croissance sains.",
+            "Antidérapantes et sûres : les chaussures pieds nus minimalistes BibYuga pour enfants ont une semelle extérieure en caoutchouc de qualité supérieure, antidérapante et résistante à l'usure. La semelle a une texture concave et convexe qui offre un maintien et une traction stables et empêche efficacement le glissement. Réduit le risque d'accident.",
+            "Favorise l'autonomie : le motif AB sur la semelle intérieure aide les enfants à distinguer facilement entre la gauche et la droite. Le design Velcro est facile à mettre et à enlever, ce qui favorise l'indépendance des enfants. Idéal pour la maison, le parc, l'école, les voyages, etc."
+          ],
+          "en": [
+            "Free Growth The wide barefoot shoes for boys and girls provide enough freedom of movement for the toes. Plenty of forefoot space ensures that your child will not feel tight or uncomfortable when wearing the shoe. If your child has narrow feet, we recommend choosing the smaller size.",
+            "BALANCE & HEALTH - The kids sneakers feature a Zero-Drop sole and arch support design that reduces pressure when walking and ensures better balance. This helps children develop good walking posture and promote healthy development and growth.",
+            "ANTI-SLIP & SAFE - BibYuga minimalist barefoot shoes for kids have a premium rubber outsole, non-slip and wear-resistant. The sole has a concave and convex texture that provides stable support and traction and effectively prevents slipping. Reduces the risk of accidents."
+          ],
+          "other": [
+            "Breathable & Comfortable The kids barefoot shoes are made of lightweight and breathable knit, which is lightweight, soft and breathable, ensures excellent comfort and is very suitable for indoor and outdoor use. The cartoon animal design is cute and lively.",
+            "Promotes Autonomy The AB pattern on the insole helps kids easily distinguish between left and right. The Velcro design is easy to put on and take off, which promotes children's independence. Ideal for home, park, school, travel, etc."
+          ]
+        }
+      }
+    },
+    {
+      "asin": "B0D47Q6YH1",
+      "csi_title": "AFS-Schuhe 1100 Mules en cuir pour enfant, chaussons pour maternelle et &#233;cole primaire, Nubuck fuchsia., 35 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_100::{",
+          "size_map": "35 EU",
+          "additional_sizes_detected": [
+            "numeric_35,",
+            "35 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_35",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "big_kid",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 35
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_35",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "big_kid",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 35
+        },
+        "age_range": {
+          "raw_values": [
+            "Kid",
+            "Enfant"
+          ],
+          "normalized": "big_kid"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": "Ethylene Vinyl Acetate",
+          "normalized": "EVA (Ethylene-vinyl acetate)"
+        },
+        "bullet_points": {
+          "fr": [
+            "AFS-Schuhe 1100, mules sportives pour enfant, en cuir véritable de qualité supérieure (35 EU, nubuck fuchsia)",
+            "Type de produit : CHAUSSURES"
+          ],
+          "other": [
+            "AFS-Schuhe 1100 Children's Sports Mules Made of High Quality Genuine Leather (35 EU, Fuchsia Nubuck)",
+            "Product type : shoes",
+            "Brand: AFS-Schuhe",
+            "size:35",
+            "Marque : AFS-Schuhe",
+            "Taille : 35 EU"
+          ]
+        }
+      }
+    },
+    {
+      "asin": "B0BZXS1KXL",
+      "csi_title": "Under Armour UA BINF Surge 4 AC Baskets pour gar&#231;ons, chaussures de sport confortables et l&#233;g&#232;res, couleur noir/gris anthracite/blanc",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": null,
+          "additional_sizes_detected": [
+            "26 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"9\"",
+            "legacy_unit": "mens_us"
+          }
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Enfant",
+            "Kid"
+          ],
+          "normalized": "kid"
+        },
+        "target_gender": "male",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Chaussures respirantes - Baskets pour garçons dotées d'une tige en maille légère et respirante pour une meilleure ventilation à chaque pas.",
+            "Chaussures de sport durables - Chaussures d'entraînement avec doublure de talon en TPU pour la durabilité et le soutien.",
+            "Baskets confortables - Des chaussures de running avec un amorti renforcé au niveau de la cheville pour un soutien supplémentaire.",
+            "Chaussures réactives - Chaussures de course légères avec semelle intermédiaire en EVA amortie et assise plantaire confortable en EVA sur toute la longueur.",
+            "Matière et forme - Chaussures de sport pour garçons Under Armour UA BINF Surge 4 AC. Matière : 72% textile, 28% synthétique ; Semelle extérieure : 100% EVA.",
+            "DURABLE SPORTS SHOES - Training shoes with TPU heel lining for durability and support."
+          ],
+          "other": [
+            "BREATHABLE SHOES - Boys trainers feature a lightweight and breathable mesh upper for better ventilation with every step.",
+            "Comfortable trainers: running shoes with reinforced ankle cushioning for extra support.",
+            "REACTIVE SHOES - Lightweight running shoe with cushioned EVA midsole and full-length comfort EVA footbed.",
+            "Material and shape: Under Armour UA BINF Surge 4 AC boys' sports shoes. Material: 72% Textile, 28% Synthetic; Outsole: 100% EVA."
+          ]
+        }
+      }
+    },
+    {
+      "asin": "B0F6NTW68Z",
+      "csi_title": "Enfants LED Sabots Gar&#231;ons Chaussons Douceur Fille Chaussures de Plage Respirantes Sandales L&#233;g&#232;res Chaussures de Jardin Antid&#233;rapantes EU 24-35",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_141::{",
+          "size_map": "24 EU",
+          "additional_sizes_detected": [
+            "numeric_24,",
+            "24 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_24",
+            "age_group": "little_kid",
+            "size_system": "eu_footwear_size_system",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 24
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_24",
+          "age_group": "little_kid",
+          "size_system": "eu_footwear_size_system",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 24
+        },
+        "age_range": {
+          "raw_values": [
+            "Kid",
+            "Enfant"
+          ],
+          "normalized": "little_kid"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Confortables, antidérapantes et sûres pour les enfants à chaque pas"
+          ],
+          "other": [
+            "Comfortable, non-slip and safe for children with every step"
+          ]
+        }
+      }
+    },
+    {
+      "asin": "B0BLCXC9GL",
+      "csi_title": "PUMA Unisex Kids Rebound V6 Mid Jr Baskets, Puma White Puma Black For All Time Red, 38 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "38 EU",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Enfant",
+            "Kid"
+          ],
+          "normalized": "kid"
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Tige en cuir synthétique",
+            "Semelle intermédiaire en caoutchouc",
+            "Semelle extérieure en caoutchouc",
+            "Bande PUMA Formstrip sur les côtés latéraux et médiaux",
+            "Détails de la marque PUMA sur la tige, le talon et la languette"
+          ],
+          "other": [
+            "Synthetic leather upper",
+            "Rubber midsole",
+            "Rubber outsole",
+            "PUMA Formstrip tape on lateral and medial sides",
+            "PUMA branding details on the upper, heel and tongue"
+          ]
+        }
+      }
+    },
+    {
+      "asin": "B0DLSZRF95",
+      "csi_title": "SAGUARO Sandales Enfants &#233;t&#233; plage Sports ext&#233;rieurs Sandales de Confinement Sandales &#224; Bout Ferm&#233; Noir 38 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_119::{",
+          "size_map": "38 EU",
+          "additional_sizes_detected": [
+            "numeric_38,",
+            "38 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_38",
+            "age_group": "big_kid",
+            "size_system": "eu_footwear_size_system",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 38
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_38",
+          "age_group": "big_kid",
+          "size_system": "eu_footwear_size_system",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 38
+        },
+        "age_range": {
+          "raw_values": [
+            "Enfant"
+          ],
+          "normalized": "big_kid"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Facile à enfiler et à enlever : Le design de la fermeture scratch facilite l'habillage et le déshabillage.",
+            "Respirant et anti-transpirant : le dessus combine la maille et le cuir dans un design en nid d'abeille et est doté de 7 ouvertures d'aération pour augmenter la respirabilité, prévenir efficacement la transpiration et les odeurs et garder les pieds des enfants continuellement au sec.",
+            "Protection anti-collision : Le bout fermé bien conçu offre une protection complète aux pieds des enfants. Il est capable de résister aux blessures imprévues causées par des pierres ou des objets tranchants lors d'activités de plein air, garantissant ainsi la sécurité et le confort des enfants lorsqu'ils explorent la nature.",
+            "Excellente adhérence au sol : cette sandale pour enfants est fabriquée en matériau composite EVA+TPR et en caoutchouc de haute qualité, elle offre une excellente adhérence au sol et une résistance au glissement, et assure la stabilité des enfants dans différents environnements. Que ce soit pour une utilisation quotidienne, sur le chemin de l'école ou lors d'activités en plein air comme les promenades à la plage et le camping, elle offre une expérience de port confortable et sûre.",
+            "Confort élégant et durabilité : Cette sandale est spécialement conçue pour être légère, souple et facile à plier afin que les enfants puissent profiter d'un confort comparable à celui d'un nuage lorsqu'ils courent ou sautent. Elle combine habilement praticité, confort et style, répondant à la fois au besoin de confort de votre enfant et à son sens de la mode. Cette sandale est sans aucun doute idéale pour les activités quotidiennes et variées de votre enfant.",
+            "STYLISH COMFORT & DURABILITY: This sandal is specially designed to be lightweight, flexible and easy to fold so kids can enjoy cloud-like comfort when running or jumping. It skillfully combines practicality, comfort and style, meeting both your child's need for comfort and fashion sense. This sandal is undoubtedly ideal for your child's daily and varied activities."
+          ],
+          "en": [
+            "Breathable & Sweatproof - The upper combines mesh and leather in a honeycomb design and has 7 ventilation openings to increase breathability, effectively prevent sweat and odor and keep children's feet continuously dry.",
+            "Excellent Ground Grip: This kids sandal is made of EVA+TPR composite material and high-quality rubber, it provides excellent ground grip and slip resistance, and ensures the stability of children in different environments. Whether for everyday use, on the way to school or during outdoor activities like beach walks and camping, it provides a comfortable and safe wearing experience."
+          ],
+          "other": [
+            "Easy to put on and take off: Velcro closure design makes it easy to put on and take off.",
+            "Anti-Collision Protection: Well-designed closed toe provides full protection for children's feet. It is able to withstand unexpected injuries caused by stones or sharp objects during outdoor activities, thus ensuring the safety and comfort of children when exploring nature."
+          ]
+        }
+      }
+    },
+    {
+      "asin": "B0CW33KYKK",
+      "csi_title": "Kmrlofiy Chaussures de Basket-Ball pour Enfants Baskets Mode Gar&#231;on Antid&#233;rapantes Chaussures de Course Baskets et Chaussures de Sport pour Enfants Sneaker (BBA-R5, 37EU)",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_141::{",
+          "size_map": "37 EU",
+          "additional_sizes_detected": [
+            "numeric_37,",
+            "37 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_37",
+            "age_group": "adult",
+            "size_system": "eu_footwear_size_system",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 37
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_37",
+          "age_group": "adult",
+          "size_system": "eu_footwear_size_system",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 37
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "male",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Matériaux : chaussures de basket-ball pour garçons avec empeigne en cuir lisse pour un soutien texturé respirant qui s'enclenche confortablement dans le pied. Revêtement en cuir robuste pour une stabilité qui englobe votre métatarse.",
+            "Fabriquées à partir d'un matériau textile et respirant. Confortables et respirantes, elles absorbent la transpiration. Ces chaussures de sport pour filles, à la mode et fonctionnelles, peuvent être utilisées pour la course à pied, les sports de plein air, etc.",
+            "Semelle : Baskets montantes pour garçons avec semelle extérieure monobloc en caoutchouc massif avec motif à chevrons pour une adhérence et un contrôle exceptionnels sur le terrain.",
+            "Ergonomique : chaussures de basket-ball pour garçons dont la tige mesure approximativement le milieu de l'arc. L'avant des chaussures montre naturellement jusqu'à 15 °. Les encoches de flexion verticales et horizontales donnent de la flexibilité dans toutes les directions. Le coussinet dure longtemps, surtout lorsque les enfants courent et se cognent partout.",
+            "Avantage : choix parfait pour de nombreuses occasions : Course à pied, jogging, équitation, conduite, entraînement, mouvement, sports de plein air, voyages, marche et vêtements de loisirs ！！Comfortable doublure textile sèche la transpiration pour rendre la sensation de pied respirant !"
+          ],
+          "other": [
+            "MATERIALS Boys basketball shoes with smooth leather upper for breathable textured support that snaps comfortably into the foot. Sturdy leather cover for stability that encompasses your metatarsal",
+            "Made from textile and breathable material. Comfortable and breathable, absorb sweat. These girls sports shoes, fashionable and functional, can be used for running, outdoor sports, etc.",
+            "Sole: Boys' high-top sneakers with solid rubber one-piece outsole with herringbone pattern for exceptional grip and control on the pitch.",
+            "ERGONOMIC - Basketball shoes for boys whose upper measures approximately the middle of the bow. The front of the shoes naturally shows up to 15°. Vertical and horizontal bending notches give flexibility in all directions. The pad lasts a long time, especially when children run and bump everywhere.",
+            "Advantage: Perfect choice for many occasions: running, jogging, riding, driving, training, movement, outdoor sports, travel, walking and leisure clothing! Comfortable textile lining dries sweat to make the foot feel breathable"
+          ]
+        }
+      }
+    },
+    {
+      "asin": "B09XTKJFQH",
+      "csi_title": "Dasongff Escarpins Petits Talons Poisson Bouche Femme, Sandales &#224; Talons Hauts avec Bride &#224; La Cheville pour Femmes avec Plateforme Cach&#233;e, Escarpins &#224; Talon Aiguilles, Chaussures de Soir&#233;e de Mariage",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_146::{",
+          "size_map": "40 EU",
+          "additional_sizes_detected": [
+            "numeric_40,",
+            "40 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_40",
+            "age_group": "adult",
+            "size_system": "eu_footwear_size_system",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 40
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_40",
+          "age_group": "adult",
+          "size_system": "eu_footwear_size_system",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 40
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": "not_applicable",
+          "normalized": "not_applicable"
+        },
+        "bullet_points": {
+          "fr": [
+            "🍓[Suggestion de taille] Avant de passer une commande, veuillez sélectionner la taille en fonction du tableau des tailles de l'image ou du tableau des tailles dans la description du produit ci-dessous.Notre taille est la taille asiatique, pas la taille européenne. ❥Rappel : Si vous rencontrez des questions avant ou après l'achat, vous pouvez nous contacter par e-mail à tout moment, et nous nous ferons un plaisir de résoudre vos problèmes.",
+            "🍍Si ce style ne répond pas à vos besoins, vous pouvez cliquer sur le \"ELECTRI\" ci-dessus, où vous pouvez voir des robes, pantalons, chaussures, maillots de bain, pantalons, chemises, manches courtes, manches longues et autres produits, tous les jours. Il existe de nombreuses mises à jour, et il y en a toujours une qui vous convient. \"ELECTRI\" garantit que le prix est absolument abordable et la qualité du produit est très élevée.",
+            "sandales homme cuir plates noires talon aiguilles serpent compensé noir tongs femme doré chaussons enfants garçon nu-pieds claquettes été pas cher pantoufle femmes ete chaussures antidérapantes restauration espadrilles hommes françaises chic enfant garcon dinosaure tissu Confortable Caoutchouc Antidérapage Pantoufles plage Antidérapant Dintérieur Dextérieur mode semelle confortable Chaussures loisirs plastique",
+            "nu pied femme ete noir chaussures antidérapantes cuisine espadrilles homme large hautes randonnée compense plate-forme hommes françaises blanc compensées noire de sécurité tongs plage et claquettes piscine tong été blanche chaussons enfants garçon pas cher pantoufle femmes chaussure tissu sandales fleurs printemps confortable Paille Vintage",
+            "If this style does not meet your needs, you can click on the \"ELECTRI\" above, where you can see dresses, pants, shoes, swimwear, pants, shirts, short sleeves, long sleeves and other products, every day. There are many updates, and there is always one that suits you. \"ELECTRI\" guarantees that the price is absolutely affordable, and the quality of the product is very high."
+          ],
+          "other": [
+            "Chaussures Mocassins Homme Ballerines Femme Escarpins Femme Talon Haut Sexy Chaussures Bateau Femme Cuir Chaussures Talon Femme Sexy Chaussures Plates Femme Cuir Espadrilles Homme Lacets Mules Femme Talon Escarpins Femme Sexy Talon Aiguille Sneakers Homme Cuir Homme Basket Sport Chaussures de Marche Femme",
+            "[Size Suggestion] Before placing an order, please select the size according to the size chart in the picture or the size chart in the product description below. Our size is Asian size, not European size. ❥Reminder: If you have any questions before or after purchase, you can contact us by email at any time, and we will be happy to solve your problems.",
+            "Men's sandals leather flat black stiletto heel snake wedge black flip flops women gold slippers children boy barefoot flip flops summer cheap slippers women summer shoes non-slip shoes catering espadrilles men French chic child boy dinosaur fabric comfortable rubber non-slip slippers beach non-slip indoor outdoor fashion comfortable sole shoes leisure plastic",
+            "nude foot woman summer black shoes non-slip kitchen espadrilles man wide high hiking compensation platform men French white wedge black safety flip flops beach and tap pool flip flops summer white slippers children boy cheap slippers women shoe fabric sandals flowers spring comfortable straw vintage",
+            "Shoes loafers man ballerinas women pumps woman high heel sexy boat shoes woman leather shoes heel woman sexy shoes woman flat shoes woman leather sneakers woman leather sneakers man sneaker sport walking shoes woman woman"
+          ]
+        }
+      }
+    },
+    {
+      "asin": "B0F25JT4XJ",
+      "csi_title": "SAMYS Sandales de Plage pour Enfants, Style Ferm&#233;, Boucle R&#233;glable (ROSE SORBET, Syst&#232;me Taille Chaussures EU, Enfant de 2 &#224; 5 ans, Num&#233;rique, Moyen, 27)",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_141::{",
+          "size_map": "27 EU",
+          "additional_sizes_detected": [
+            "numeric_27,",
+            "27 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_27",
+            "age_group": "little_kid",
+            "size_system": "eu_footwear_size_system",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 27
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_27",
+          "age_group": "little_kid",
+          "size_system": "eu_footwear_size_system",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 27
+        },
+        "age_range": {
+          "raw_values": [
+            "Enfants"
+          ],
+          "normalized": "little_kid"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "👶MATÉRIAU: Sandales en plastique souple et durable, idéales pour les activités aquatiques et estivales",
+            "🦄DESIGN SÉCURISÉ: Bout fermé protégeant les orteils des petits, parfait pour la plage et les jeux extérieurs",
+            "🐳AJUSTEMENT: Boucle latérale réglable permettant une adaptation optimale à la forme du pied de l'enfant",
+            "🐠CONFORT: Semelle intérieure texturée offrant un maintien confortable pour les activités quotidiennes",
+            "🐙STYLE: Design classique avec motif ajouré en vert menthe, parfait pour les tenues d'été",
+            "Material: Soft and durable plastic sandals, ideal for water and summer activities",
+            "STYLE: Classic design with openwork pattern in mint green, perfect for summer outfits"
+          ],
+          "other": [
+            "Safe design: closed toe protects the toes of little ones, perfect for the beach and outdoor games",
+            "Adjustment: Adjustable side buckle allows optimal adaptation to the shape of the child's foot",
+            "COMFORT: Textured insole provides comfortable support for everyday activities"
+          ]
+        }
+      }
+    },
+    {
+      "asin": "B0F9Y7BXKQ",
+      "csi_title": "Foinledr Cozy Slides Enfants Pantoufles d&apos;&#233;t&#233; Gar&#231;on Fille, Cloud Slides L&#233;ger Antid&#233;rapant, Tongs Douche Bain, Sandales Piscine Plage, Claquette Maison Chaussons House Chaussures EVA Confort",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_119::{",
+          "size_map": "27 EU",
+          "additional_sizes_detected": [
+            "numeric_27,",
+            "27 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_27",
+            "age_group": "little_kid",
+            "size_system": "eu_footwear_size_system",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 27
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_27",
+          "age_group": "little_kid",
+          "size_system": "eu_footwear_size_system",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 27
+        },
+        "age_range": {
+          "raw_values": [
+            "Enfant"
+          ],
+          "normalized": "little_kid"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "1：Confort Ultra-Léger en EVA Souple:Fabriquées en EVA de haute qualité, ces Cloud Slides offrent une sensation douce et légère, parfaites pour les Enfants pendant les journées d'été.",
+            "2：Semelle Antidérapante pour Plus de Sécurité：Les pantoufles sont dotées d’une semelle texturée antidérapante, idéales pour une utilisation à la maison, dans la douche, au bain, ou autour de la piscine.",
+            "3：Parfaites pour Intérieur & Extérieur：Ces chaussons pour Garçon et Fille conviennent aussi bien pour la Plage, la salle de bain que pour une promenade dans le jardin ou à la maison (House Chaussures).",
+            "4：Design Minimaliste & Facile à Enfiler Le style claquette sans bride permet aux enfants d’enfiler et de retirer facilement les sandales, tout en assurant un maintien confortable.",
+            "5：Tailles et Couleurs Disponibles：Disponible du 26 au 39, en noir et beige, ces Tongs d’été sont parfaites pour tous les enfants. Un excellent choix de chaussures estivales légères et pratiques.",
+            "4: Minimalist design & easy to put on. The strapless tap style allows children to easily put on and take off sandals, while ensuring a comfortable fit."
+          ],
+          "other": [
+            "1: Ultra-light soft EVA comfort: Made of high quality EVA, these cloud slides offer a soft and light feel, perfect for children during summer days.",
+            "2: Non-slip sole for extra safety: The slippers have a non-slip textured sole, ideal for use at home, in the shower, in the bath, or around the pool.",
+            "3: Perfect for indoor and outdoor: These slippers for boys and girls are suitable for the beach, the bathroom as well as for a walk in the garden or at home (house shoes).",
+            "5: Available in sizes and colours: available from 26 to 39, in black and beige, these summer flip flops are perfect for all children. A great choice of lightweight and practical summer shoes."
+          ]
+        }
+      }
+    },
+    {
+      "asin": "B07Y1P47S5",
+      "csi_title": "LACOFIA Chaussons antid&#233;rapantes d&apos;hiver pour Filles Pantoufles de Maison Chaudes en Peluche Enfant Rose 30/31(Taille Fabricant: 21)",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_254::{",
+          "size_map": "30/31 EU",
+          "additional_sizes_detected": [
+            "numeric_30,",
+            "30/31 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_30",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "toddler",
+            "width": "medium",
+            "to_size": "numeric_31",
+            "size_class": "numeric_range",
+            "numeric_size": 30
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_30",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "toddler",
+          "width": "medium",
+          "to_size": "numeric_31",
+          "size_class": "numeric_range",
+          "numeric_size": 30
+        },
+        "age_range": {
+          "raw_values": [
+            "kid",
+            "Kid"
+          ],
+          "normalized": "toddler"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Utilisant un matériau de semelle en caoutchouc TPR antidérapant et doux, design de massage des pieds, soulage la fatigue des pieds des enfants.",
+            "Joli camion de dessin animé, design de vaisseau spatial, permet au bébé de profiter du confort et du sens de la mode.",
+            "Retour ou échange gratuit"
+          ],
+          "other": [
+            "Tissus pelucheux chauds, doux et chauds, absorbent la transpiration et respirent librement.",
+            "Warm plush fabrics, soft and warm, absorb sweat and breathe freely.",
+            "Using non-slip TPR rubber soft sole material, foot massage design, relieve children's feet fatigue.",
+            "Cute cartoon truck, spaceship design, let the baby enjoy comfort and fashion sense.",
+            "Free return or exchange"
+          ]
+        }
+      }
+    },
+    {
+      "asin": "B07WZS71H3",
+      "csi_title": "Bezioner Chaussures de Danse Cuir Demi Pointe Pantoufle de Ballet Ballerine Chausson de Gymnastique pour Enfants et Femme Rose 27",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_259::{",
+          "size_map": "27 EU",
+          "additional_sizes_detected": [
+            "numeric_27,",
+            "27 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_27",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "toddler",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 27
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_27",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "toddler",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 27
+        },
+        "age_range": {
+          "raw_values": [
+            "Enfant",
+            "Kid"
+          ],
+          "normalized": "toddler"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "MATERIEL: Ballerines professionnelles en cuir PU et semelle en cuir, résistantes et antidérapantes, très confortables à porter.La doublure est en coton, respirant et doux.Avec un cordon de serrage élastique, il est plus sûr et stable.",
+            "TAILLE: 20 EU à 40 EU pour les enfants unisexes et les adultes unisexes. Il est recommandé de choisir une taille plus grande que d'habitude.",
+            "COULEUR: 3 couleurs disponibles: rose, beige, noir, convient à tous les collants, justaucorps ou robes de ballet.",
+            "FIT FOR: idéal pour la danse classique, le jazz, la gymnastique, le yoga, la danse moderne, la danse de salon, la formation en danse, les cours de physique, de théâtre et de mariage, etc., adapté à toutes les saisons.",
+            "Facile à entretenir: Pas de lavage en machine, lavage à la main recommandé.Ne pas tremper dans l'eau.Vous pouvez utiliser un chiffon humide pour essuyer et sécher à l'air.Ne pas exposer au soleil.",
+            "Material: professional ballet shoes made of PU leather and leather sole, durable and non-slip, very comfortable to wear. The lining is made of cotton, breathable and soft. With an elastic drawstring, it is safer and stable."
+          ],
+          "other": [
+            "Size: 5 to 7 UK for unisex children and unisex adults. It is recommended to choose a larger size than usual.",
+            "COLOR: 3 colors available: pink, beige, black, suitable for all tights, leotards or ballet dresses.",
+            "Fit For: ideal for classical dance, jazz, gymnastics, yoga, modern dance, ballroom dance, dance training, physics, theatre and wedding classes, etc., suitable for all seasons.",
+            "Easy to care: No machine wash, hand wash recommended. Do not soak in water. You can use a damp cloth to wipe and air dry. Do not expose to the sun."
+          ]
+        }
+      }
+    },
+    {
+      "asin": "B0F1SW4JYL",
+      "csi_title": "STQ KIDS Chaussures Barefoot Enfant Zero Drop Largeur Extra Souples B&#233;b&#233; Premiers Pas Basket Antid&#233;rapant Gar&#231;on Fille Noir Taille 25 EU/T8",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_118::{",
+          "size_map": "25 EU Large",
+          "additional_sizes_detected": [
+            "numeric_25,",
+            "25 EU Large"
+          ],
+          "structured_size": {
+            "size": "numeric_25",
+            "age_group": "little_kid",
+            "size_system": "eu_footwear_size_system",
+            "width": "wide",
+            "size_class": "numeric",
+            "numeric_size": 25
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_25",
+          "age_group": "little_kid",
+          "size_system": "eu_footwear_size_system",
+          "width": "wide",
+          "size_class": "numeric",
+          "numeric_size": 25
+        },
+        "age_range": {
+          "raw_values": [
+            "Enfant",
+            "Kid"
+          ],
+          "normalized": "little_kid"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "[Confort Optimal]: Ces chaussures barefoot enfant offrent un large espace pour les orteils, permettant aux petits pieds de s'étaler naturellement. Idéal pour les pieds larges, elles favorisent le développement de la voûte plantaire et des muscles, améliorent l'équilibre et soutiennent une croissance saine des pieds",
+            "[Marche Naturelle]: Avec leur semelle Zero Drop, ces chaussures garçon/fille permettent aux enfants de poser tout le pied au sol, offrant une stabilité accrue pour courir, grimper ou jouer. Une foulée plus naturelle pour une meilleure posture et une mécanique de marche équilibrée",
+            "[Facile à Enfiler]: Grâce à leurs ajustables, ces chaussures enfants sont ultra-faciles à mettre et à enlever. Parfaites pour l'autonomie des petits, elles encouragent l'indépendance tout en garantissant un maintien personnalisé",
+            "[Sécurité Assurée]: Dotée d'une semelle en TPR avec grip renforcé, cette chaussure garçon/fille évite les glissades. Sa flexibilité naturelle (1/3 de flexion) suit les mouvements du pied pour plus de liberté, que ce soit en intérieur ou en extérieur",
+            "[Polyvalentes]: Idéales pour la crèche, l'école, les sorties en famille ou le sport, ces chaussures enfant s'adaptent à tous les terrains. Conçues pour les petits explorateurs, elles allient protection, confort et liberté de mouvement"
+          ],
+          "en": [
+            "[Safety Assured]: Featuring a TPR sole with reinforced grip, this boy/girl shoe prevents slipping. Its natural flexibility (1/3 flexion) follows the movements of the foot for more freedom, whether indoors or outdoors"
+          ],
+          "other": [
+            "[Optimal comfort]: These barefoot children's shoes offer a wide space for the toes, allowing little feet to spread out naturally. Ideal for wide feet, they promote arch and muscle development, improve balance and support healthy foot growth",
+            "[Natural Walking]: With their Zero Drop sole, these boy/girl shoes allow children to rest their entire foot on the ground, providing increased stability for running, climbing or playing. A more natural stride for better posture and balanced walking mechanics",
+            "[Easy to put on]: Thanks to their adjustable, these children's shoes are super easy to put on and take off. Perfect for the little ones independence, they encourage independence while guaranteeing a personalized fit",
+            "[Versatile]: Ideal for nursery, school, family outings or sports, these children's shoes adapt to any terrain. Designed for little explorers, they combine protection, comfort and freedom of movement"
+          ]
+        }
+      }
+    },
+    {
+      "asin": "B0DH4S3MVC",
+      "csi_title": "HOBIBEAR Chaussures pieds nus pour enfants - Larges baskets minimalistes Zero Drop pour gar&#231;ons et filles - Chaussures d&apos;ext&#233;rieur pour trail, course, marche, Noir , 24 EU Large",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_141::{",
+          "size_map": "24 EU Large",
+          "additional_sizes_detected": [
+            "numeric_24,",
+            "24 EU Large"
+          ],
+          "structured_size": {
+            "size": "numeric_24",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "toddler",
+            "width": "wide",
+            "size_class": "numeric",
+            "numeric_size": 24
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_24",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "toddler",
+          "width": "wide",
+          "size_class": "numeric",
+          "numeric_size": 24
+        },
+        "age_range": {
+          "raw_values": [
+            "Enfant",
+            "Kid"
+          ],
+          "normalized": "toddler"
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": "Caoutchouc",
+          "normalized": "Rubber"
+        },
+        "bullet_points": {
+          "fr": [
+            "Développement naturel du pied : ces chaussures minimales sont conçues pour imiter la marche pieds nus et permettre un mouvement naturel et une croissance naturelle pour favoriser un développement sain du pied.",
+            "ZERO-DROP : fabriquées à partir de matériaux légers, ces chaussures offrent flexibilité et liberté de mouvement, parfaites pour les enfants actifs.",
+            "Respirant et confortable : le matériau respirant et le design ergonomique garantissent que les petits pieds restent au frais et confortables tout au long de la journée.",
+            "Durable et antidérapant : les semelles durables et antidérapantes de ces chaussures assurent une marche sûre et stable sur toutes les surfaces.",
+            "Facile à mettre et à enlever : ces chaussures sont équipées de fermetures Velcro pratiques qui permettent aux enfants de les mettre et de les enlever facilement de manière autonome.",
+            "DURABLE & NON-SLIP - The durable and non-slip soles of these shoes ensure safe and stable walking on any surface."
+          ],
+          "other": [
+            "NATURAL FOOT DEVELOPMENT - These minimal shoes are designed to mimic barefoot walking and allow natural movement and natural growth to promote healthy foot development.",
+            "ZERO-DROP: Made from lightweight materials, these shoes offer flexibility and freedom of movement, perfect for active children.",
+            "BREATHABLE & COMFORTABLE: Breathable material and ergonomic design ensure that little feet stay cool and comfortable all day long.",
+            "Easy to put on and take off: these shoes are equipped with practical Velcro fasteners that allow children to easily put on and take them off independently."
+          ]
+        }
+      }
+    },
+    {
+      "asin": "B0F24DGBT5",
+      "csi_title": "BOTCAM Chaussures &#224; talons princesse &#224; paillettes pour fille - Sandales &#224; talons hauts - Chaussures de princesse &#224; paillettes - Chaussures de princesse - Chaussures pour enfants - Cosplay - Mary Jane",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_167::{",
+          "size_map": "30 EU",
+          "additional_sizes_detected": [
+            "numeric_30,",
+            "30 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_30",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "toddler",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 30
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_30",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "toddler",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 30
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte"
+          ],
+          "normalized": "toddler"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Chaussures antidérapantes pour bébé - Chaussures pour bébé - Tricot - Chaussures pour bébé - Chaussures pour bébé - Unisexe - Chaussures plates pour apprendre à marcher - Chaussures d'été pour bébé de 1 à 4 ans - Semelle souple - Antidérapantes - Unisexe",
+            "Chaussures à ramper 20 21 pour garçon - 20 à 21 - 20 - En cuir - 20 - En cuir - Chaussures d'éveil pour fille - En cuir - Pour fille - Avec nom - Chaussons en cuir - Chaussures d'éveil pour fille - Avec nom - Chaussures à quatre pattes - 20 ans",
+            "Sandales unisexes en cuir pour garçons et filles - Sandales d'été - Sandales de trekking - Chaussures de sport et de plein air - Sandales fermées - Pour trekking - Randonnée d'été - Chaussures d'extérieur respirantes - Sandales pour enfants pour l'intérieur et l'extérieur - Pantoufles d'été - Chaussures de jardin pour garçon et fille - Sandales fermées - Sandales pour bébé garçon et fille - Semelle en caoutchouc souple antidérapante - Chaussures de princesse - Chaussures d'été plates",
+            "Chaussures d'apprentissage de la marche Sandales garçon en cuir Chaussures bébé 0 6 mois Chaussures bébé 0 3 mois Chaussures bébé 0 6 mois Sandales pour fille 18 Chaussures d'apprentissage de la marche Garçon Chaussures d'été pour bébé 12 18 mois Chaussures bébé 6 12 mois Fille Chaussures bébé garçon 1 an Sandales bébé fille 18 sandales taille 19 filles Chaussures bébé 6 12 mois ate Chaussures premiers pas garçon",
+            "Sandales de plage respirantes et douces en maille pour bébé fille garçon Chaussures de sport antidérapantes respirantes et légères Chaussures de course respirantes et légères pour la plage 1 à 6 ans"
+          ],
+          "other": [
+            "baby shoes non slip shoes baby shoes knit baby shoes baby shoes baby shoes unisex flat shoes for learning to walk summer shoes for 1-4 years baby soft sole non-slip unisex",
+            "crawling shoes 20 21 boys 20-21 20 leather 20 20 leather crawling shoes girls leather shoes girls girls leather shoes with name leather slippers girls first shoes with name girls crawling shoes for girls with name shoes four-legged shoes 20 years old",
+            "Unisex leather sandals for boys and girls, summer sandals, trekking sandals, sports and outdoor shoes, closed sandals, trekking sandals, summer hiking shoes, outdoor shoes, breathable, children's sandals, indoor and outdoor, summer slippers, garden shoes for boys and girls, closed sandals, children's sandals, children's shoes, non-slip soft rubber sole, princess shoes, summer shoes, flat summer shoes",
+            "Walking training shoes leather boy sandals baby shoes 0 6 months baby shoes 0 3 months baby shoes 0 6 months baby shoes 0 6 months sandals for girl 18 walking shoes boy summer shoes for baby 12 18 months baby shoes 6 12 months girl shoes baby boy 1 year sandals baby girl 18 sandals size 19 girls baby shoes 6 12 months ate shoes first steps boy",
+            "Baby Girls Boys Breathable Soft Mesh Beach Shoes Breathable Lightweight Sports Shoes Breathable Lightweight Running Shoes for Beach 1-6 Years"
+          ]
+        }
+      }
+    },
+    {
+      "asin": "B0CTHDFJMS",
+      "csi_title": "ENEN Chaussure a Roulette Mode Fille, Chaussures a roulettes Retractable Gar&#231;ons, Basket Roulette Enfant, Roller 2 Roues D&#233;formable Adolescents pour Int&#233;rieur Ext&#233;rieur",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_238::{",
+          "size_map": "34 EU",
+          "additional_sizes_detected": [
+            "numeric_34,",
+            "34 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_34",
+            "age_group": "big_kid",
+            "size_system": "eu_footwear_size_system",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 34
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_34",
+          "age_group": "big_kid",
+          "size_system": "eu_footwear_size_system",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 34
+        },
+        "age_range": {
+          "raw_values": [
+            "Enfant",
+            "Kid"
+          ],
+          "normalized": "big_kid"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Matériaux de haute qualité : la couche extérieure de la chaussure est composée de matériaux hautement anti-incrustants et résistants à l'hydrolyse. La tête anti-collision est conçue pour protéger vos pieds tout en étant imperméable et respirante pour le confort de vos pieds. Le matériau intérieur est en tissu maille et une semelle intérieure en coton respirant. Il est toujours très sec. Chaussures incroyables.",
+            "Sûr Et Stable: Les roues cachées peuvent être comme des chaussures de sport ordinaires, vous pouvez donc ajuster les patins, qui peuvent non seulement patiner, mais aussi courir. Lorsque vous voulez glisser, tournez simplement l'interrupteur au talon et ouvrez la roue, vous pouvez ajouter ces chaussures uniques à l'équipe de glisse de votre ami!",
+            "Roues En Pu De Haute Qualité: Nos roues de patins à roulettes sont toutes faites de roues en PU de haute qualité, avec une résistance à l'usure élevée, une absorption des chocs et une prise ferme. Il a également une conception élargie en PU pour améliorer la stabilité et améliorer les performances sportives et la durée de vie des roues des chaussures.",
+            "Sélection de la taille : notre taille est une taille standard, vous pouvez choisir la taille appropriée selon le tableau des tailles, il est recommandé de choisir en fonction de votre situation actuelle. Si vos pieds sont légèrement plus larges, il est recommandé de choisir une taille plus grande. Si vous préférez porter des chaussures amples, il est également recommandé de choisir une taille plus grande.",
+            "Merveilleuses idées cadeaux : roues cachées. Glissez et brillez n'importe où, n'importe quand. Cool et faciles à apprendre à conduire, ces chaussures sont un cadeau pour les enfants. Convient pour le patinage/fête/disco/danse/anniversaire/cadeaux de Noël déformation chaussures à roulettes skate chaussures avec roues avec roues rétractable de patinage pour les femmes rouleaux double rangée déformer roue chaussures chaussures avec roues pour femmes sneakers rollerskate chaussures..."
+          ],
+          "en": [
+            "High Quality PU Wheels: Our roller skate wheels are all made of high quality PU wheels, with high wear resistance, shock absorption and firm grip. It also has a widened PU design to improve stability and improve the athletic performance and life of the shoes wheels."
+          ],
+          "other": [
+            "High-quality materials: the outer layer of the shoe is made of highly anti-encrusting and hydrolysis resistant materials. Anti-collision head is designed to protect your feet while being waterproof and breathable for your feet comfort. The inner material is mesh fabric and a breathable cotton insole. It is always very dry. Amazing shoes.",
+            "Safe and stable: The hidden wheels can be like ordinary sports shoes, so you can adjust the skates, which can not only skate, but also run. When you want to slide, just turn the switch at the heel and open the wheel, you can add these unique shoes to your friend's glide team!",
+            "Size Selection: Our size is a standard size, you can choose the appropriate size according to the size chart, it is recommended to choose according to your current situation. If your feet are slightly wider, it is recommended to choose a larger size. If you prefer to wear loose shoes, it is also recommended to choose a larger size.",
+            "WONDERFUL GIFT IDEAS - Hidden wheels. Glide and shine anywhere, anytime. Cool and easy to learn to drive, these shoes are a gift for children. Suitable for skating/party/disco/dance/birthday/Christmas gifts deformation roller shoes skate shoes with wheels retractable skating for women rollers double row deform wheel shoes with wheels for women sneakers rollerskate shoes for women sneakers rollerskate shoes..."
+          ]
+        }
+      }
+    },
+    {
+      "asin": "B0CSSYHVC9",
+      "csi_title": "DRECAGE Chaussons Enfant Pantoufles de Bain Fille Chausson Gar&#231;on &#201;t&#233; Antid&#233;rapant Chaussures pour Piscine et Plage Douche Sandales Bleu Requin 26-27 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_142::{",
+          "size_map": "26/27 EU",
+          "additional_sizes_detected": [
+            "numeric_26,",
+            "26/27 EU"
+          ],
+          "structured_size": {
+            "gender": "women",
+            "size": "numeric_26",
+            "age_group": "little_kid",
+            "size_system": "eu_footwear_size_system",
+            "to_size": "numeric_27",
+            "width": "medium",
+            "size_class": "numeric_range",
+            "numeric_size": 26
+          }
+        },
+        "footwear_size": {
+          "gender": "women",
+          "size": "numeric_26",
+          "age_group": "little_kid",
+          "size_system": "eu_footwear_size_system",
+          "to_size": "numeric_27",
+          "width": "medium",
+          "size_class": "numeric_range",
+          "numeric_size": 26
+        },
+        "age_range": {
+          "raw_values": [
+            "Enfant",
+            "Child"
+          ],
+          "normalized": "little_kid"
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": "EVA",
+          "normalized": "EVA"
+        },
+        "bullet_points": {
+          "fr": [
+            "Légères : ces chaussons enfant peuvent être portées par les enfants sans effort. Les pantoufles de bain sont équipées d'une semelle intérieure antidérapante et concave afin que les pieds des enfants puissent mieux s'adapter à la semelle.",
+            "Antidérapant : la texture antidérapante de la semelle améliore efficacement l'adhérence des sandales de bain et empêche les enfants de glisser dans les zones humides, ce qui leur permet de jouer plus confortablement et en toute sécurité.",
+            "Design cartoon unique : lapin rose, canard jaune, requin bleu, grenouille verte, les couleurs vives et les animaux mignons attirent toujours l'attention des enfants, ce qui leur permet d'apprécier encore plus ces chausson fille.",
+            "Matériau de haute qualité : les chaussures pour piscine et plage sont fabriquées en EVA, un matériau respectueux de l'environnement qui offre une plus grande sécurité aux enfants.",
+            "Occasions : Ces chaussons enfant peuvent être portées toute l'année à l'intérieur comme à l'extérieur, à la piscine, à la plage, dans le jardin, au parc, en vacances, pendant les loisirs, etc. Un cadeau idéal pour les enfants."
+          ],
+          "other": [
+            "LIGHTWEIGHT - These kids slippers can be worn by children effortlessly. The bath slippers are equipped with a non-slip and concave insole so that children's feet can better fit the sole.",
+            "NON-SLIP The non-slip texture of the sole effectively improves the grip of the bath sandals and prevents children from slipping in wet areas, making them play more comfortable and safe.",
+            "UNIQUE CARTOON DESIGN - Pink rabbit, yellow duck, blue shark, green frog, bright colors and cute animals always attract children's attention, making them enjoy these girls slippers even more.",
+            "High Quality Material The pool and beach shoes are made of EVA, an environmentally friendly material that provides greater safety for children.",
+            "Occasions: These children's slippers can be worn all year round indoors and outdoors, swimming pool, beach, garden, park, vacation, leisure, etc. A great gift for children."
+          ]
+        }
+      }
+    },
+    {
+      "asin": "B0F9PW1N2P",
+      "csi_title": "Vunavueya Fille Sabots Mules Gar&#231;on Chaussures Sandales Tongs de Piscine Plage Enfant EVA Clog de Jardin Pantoufles &#201;t&#233; Rose Licorne 26 EU_170",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_142::{",
+          "size_map": "26 EU",
+          "additional_sizes_detected": [
+            "numeric_26,",
+            "26 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_26",
+            "age_group": "toddler",
+            "size_system": "eu_footwear_size_system",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 26
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_26",
+          "age_group": "toddler",
+          "size_system": "eu_footwear_size_system",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 26
+        },
+        "age_range": {
+          "raw_values": [
+            "Enfant",
+            "Kid"
+          ],
+          "normalized": "toddler"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": "not_applicable",
+          "normalized": "not_applicable"
+        },
+        "bullet_points": {
+          "fr": [
+            "Ajourés au niveau des orteils pour une meilleure ventilation et pour garder les pieds au frais.",
+            "Sa semelle en synthétique apporte une touche authentique.",
+            "Incroyablement légers et faciles à porter.",
+            "Bride de talon ajustable pour sécuriser l'ajustement."
+          ],
+          "en": [
+            "Its synthetic sole brings an authentic touch."
+          ],
+          "other": [
+            "Tige robuste en EVA pour un accueil du pied dans la douceur et le confort.",
+            "Robust EVA upper for a soft and comfortable foot support.",
+            "Openwork at the toe area for better ventilation and to keep feet cool.",
+            "Incredibly lightweight and easy to wear.",
+            "Adjustable heel strap to secure fit."
+          ]
+        }
+      }
+    },
+    {
+      "asin": "B0CD37SHKM",
+      "csi_title": "Chaussure de Princesse &#224; Talons Hauts - Ballerine Festive de Soir&#233;e et Mariage pour Fille avec Semelles Souples Antid&#233;rapantes",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_141::{",
+          "size_map": "28 EU",
+          "additional_sizes_detected": [
+            "numeric_28,",
+            "28 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_28",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "toddler",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 28
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_28",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "toddler",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 28
+        },
+        "age_range": {
+          "raw_values": [
+            "Enfant",
+            "Kid"
+          ],
+          "normalized": "toddler"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "✿ Chaussures de sport pour filles 35, chaussures en cuir pour enfants, chaussures de sport pour enfants, chaussures de danse, chaussures pour bébé, chaussures de gymnastique, respirantes, chaussures de football pour enfants, chaussures de natation pour enfants, chaussures pieds nus pour enfants à partir de 10 filles, chaussures pour enfants, chaussures de sport pour enfants, sandales bleu foncé, chaussures pour enfants, chaussures de sport pour enfants, chaussures de sport pour enfants, chaussures de sport pour enfants, chaussures de sport pour enfants, chaussures de sport pour enfants, 25 unités, couleur blanche, chaussures de sport pour enfants de 39",
+            "✿ Chaussures d'intérieur pour enfants, 25 unités, couleur blanche, chaussures de sport pour enfants, pointure 39, chaussures pour filles, 26 sandales, chaussures de mariage, chaussures de mariage pour enfants, chaussures vertes pour enfants, chaussures pieds nus pour filles, chaussures de natation jaunes pour enfants, chaussures de football pour enfants, chaussures de gym transpirantes, chaussures de sport pour bébé, chaussures de sport à pieds larges, chaussures de sport pour enfants, chaussures en cuir pour enfants, chaussures de sport pour filles, chaussures de sport pour garçons et filles",
+            "✿ Chaussures de sport pour enfants, semelle noire, sandales pour enfants, pantoufles pour enfants, chaussures de sport pour filles, 23, chaussures de sport pour enfants, chaussures de 39, chaussures blanches pour enfants, 25 chaussures pour enfants, taille 23, chaussures pour enfants, chaussures de football pieds nus, chaussures de natation jaunes, chaussures de gymnastique pour enfants, chaussures de gymnastique pour enfants, chaussures de gymnastique respirantes, chaussures pour bébé, chaussures de ballet, chaussures de sport pour enfants, chaussures en cuir pour filles 33",
+            "✿ [Taille] : nous vous recommandons de choisir une taille plus grande, environ 0,5 à 5 cm plus longue que les pieds de votre enfant, afin que votre enfant ait suffisamment d'espace pour bouger ses orteils, ce qui favorise le développement des pieds des enfants. Afin de garantir la bonne taille, nous vous prions de bien mesurer les pieds de votre enfant avant d'acheter.",
+            "✿ Convient pour le printemps, l'été, l'automne. Occasion : mariage, fête, bureau, plage, vie quotidienne, été, robe, loisirs, achats/extérieurs, etc. Complément parfait pour un jean, un pantalon décontracté, une jupe ou une robe décontractée. Si vous avez des questions, n'hésitez pas à nous contacter. Nous vous assurerons que nous ferons de notre mieux pour vous servir."
+          ],
+          "en": [
+            "✿ [Size]: We suggest you choose a larger size, which is about 0.2-2 inches longer than your child's feet, so that your child has enough space to move the toes, which contributes to the development of children's feet. In order to ensure the correct size, please measure your child's feet before purchasing."
+          ],
+          "other": [
+            "girls sports shoes, 35, leather sports shoes, baby sports shoes, baby ballerina shoes, breathable sports shoes, football booties for children, barefoot shoes for children from 10 years, children's trainers for children from 10 years, children's trainers, children's sneakers, children's sports shoes, white sports shoes, children's sports shoes, children's sports shoes, 39",
+            "✿ Children's slippers 25 white sports shoes children's sports shoes children's sports shoes for children sports shoes for children sports shoes for children sports shoes for children sports shoes for children football shoes gym shoes breathable baby sports shoes wide feet children's sports shoes blue leather sports shoes 33",
+            "children's trainers, dark sole shoes, children's sandals, children's sports shoes, children's sports shoes, children's sports shoes, 39, white, 25 sneakers, size 23, football shoes, barefoot shoes, yellow children's swimming shoes, children's slippers, green, gymnastics shoes, breathable, unisex, baby sports shoes, ballerina shoes, children's sports shoes, leather trainers, girls' trainers. - 33",
+            "✿ Suitable for spring/summer/autumn. Occasion: wedding, party, office, beach, daily, summer, dress, leisure, shopping, outdoor, etc. Perfect addition to jeans, leisure trousers, skirts or casual dresses. If you have any questions, please feel free to contact us. We will assure you that we will do our best to serve you."
+          ]
+        }
+      }
+    },
+    {
+      "asin": "B0CXM5FWT7",
+      "csi_title": "Chaussures Enfants Filles Tout-petits Enfants Filles Dessin Anim&#233; Imprim&#233; Lapin Chaussures Fourrure Int&#233;rieur Maison Chaussons Chauds Chaussons Amusants Enfants, gris, 34 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_148::{",
+          "size_map": "34 EU",
+          "additional_sizes_detected": [
+            "numeric_34,",
+            "34 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_34",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "toddler",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 34
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_34",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "toddler",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 34
+        },
+        "age_range": {
+          "raw_values": [
+            "Enfant",
+            "Kid"
+          ],
+          "normalized": "toddler"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Semelle amortissante : semelle légère et antidérapante avec une excellente absorption. Vous pouvez marcher et rester debout tranquillement pendant des heures sans avoir à souffrir de stress ou de déséquilibres.",
+            "Scènes : intérieur, mode, loisirs",
+            "Matériau extérieur : peluche",
+            "Remarque : le marquage des tailles sur les chaussures est le numéro de taille chinois. Nous vous recommandons de choisir la taille appropriée en fonction de votre longueur de pied.",
+            "La couleur de l'article réel peut varier légèrement de celle de la photo en fonction des paramètres d'affichage et de luminosité de votre ordinateur."
+          ],
+          "other": [
+            "Cushioning Sole: Lightweight, non-slip sole with excellent absorption. You can walk and stand quietly for hours without having to suffer from stress or imbalances.",
+            "Scenes: indoor, fashion, leisure",
+            "Outer material: plush",
+            "Note: The size mark on the shoes is the Chinese size number. We recommend choosing the appropriate size according to your foot length.",
+            "Due to the difference between different monitors, the picture may not reflect the actual color of the item."
+          ]
+        }
+      }
+    },
+    {
+      "asin": "B0D5ZXX9FL",
+      "csi_title": "adidas Star Wars Grand Court 2.0 EL C Shoes EU 35",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_216::{",
+          "size_map": "35 EU",
+          "additional_sizes_detected": [
+            "numeric_35,",
+            "35 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_35",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "big_kid",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 35
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_35",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "big_kid",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 35
+        },
+        "age_range": {
+          "raw_values": [
+            "Enfant",
+            "Kid"
+          ],
+          "normalized": "big_kid"
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": "Caoutchouc",
+          "normalized": "Rubber"
+        },
+        "bullet_points": {
+          "other": [
+            "Standard fit.",
+            "Elastic laces with Velcro on top.",
+            "Recycled synthetic upper.",
+            "Textile lining."
+          ]
+        }
+      }
+    },
+    {
+      "asin": "B0B3RZ9MPT",
+      "csi_title": "Vans Filmore, Basket, Checker Sidewall Asphalt,",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "37 EU",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Enfant",
+            "Kid"
+          ],
+          "normalized": "kid"
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Construction vulcanisée",
+            "Semelle extérieure gaufrée originale",
+            "Design influencé par le patin",
+            "Dessus multi-panneaux à double couture pour plus de durabilité",
+            "Languette et col rembourrés"
+          ]
+        }
+      }
+    },
+    {
+      "asin": "B0CK22H5DH",
+      "csi_title": "Mikk-line Bottes en caoutchouc enfants 25 | De Pluie Dusty Olive Enfant | l&#233;g&#232;res | imperm&#233;ables | Chaussures et pour",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_238::{",
+          "size_map": "25 EU",
+          "additional_sizes_detected": [
+            "numeric_25,",
+            "25 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_25",
+            "age_group": "toddler",
+            "size_system": "eu_footwear_size_system",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 25
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_25",
+          "age_group": "toddler",
+          "size_system": "eu_footwear_size_system",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 25
+        },
+        "age_range": {
+          "raw_values": [
+            "Enfant",
+            "Kid"
+          ],
+          "normalized": "toddler"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Design élégant - Bottes en caoutchouc unies pour garçons et filles avec un design simple et unisexe. Les bottes en caoutchouc Mikk Line sont disponibles en différentes couleurs continues.",
+            "Bottes en caoutchouc pratiques - Avec une fine couche de tissu confortable et pratique à l'intérieur. Semelles intérieures souples et amovibles qui vous permettent de trouver le bon ajustement pour votre enfant. Si de l'eau pénètre dans les bottes en caoutchouc, vous pouvez retirer les semelles intérieures et les suspendre pour les sécher.",
+            "Plus de sécurité dans l'obscurité - Avec ces bottes en caoutchouc pour filles et garçons, votre enfant est plus en sécurité dans l'obscurité grâce aux détails réfléchissants 3M des bottes en caoutchouc à longue visibilité.",
+            "Bottes antidérapantes pour enfants : marcher sur des surfaces glissantes est beaucoup plus sûre pour votre enfant, car les bottes en caoutchouc ont des semelles extérieures avec un profil antidérapant.",
+            "Bottes imperméables pour enfants : utilisez régulièrement un spray hydrofuge à base d'huile (de préférence sans PFAS) pour imperméabiliser les bottes en caoutchouc. Cela aide à entretenir les bottes en caoutchouc et à éviter l'apparition de fissures. Évitez de pulvériser la semelle extérieure car elle pourrait être glissante."
+          ],
+          "en": [
+            "WATERPROOF KIDS BOOTS - Regularly use oil-based water repellent spray (preferably PFAS free) to waterproof rubber boots. This helps to maintain the rubber boots and prevent the appearance of cracks. Avoid spraying the outsole as it may be slippery."
+          ],
+          "other": [
+            "STYLISH DESIGN - Plain wellies for boys and girls with a simple and unisex design. The Mikk Line wellies are available in various continuous colours.",
+            "Practical wellies with a thin layer of comfortable and practical fabric inside. Soft, removable insoles allow you to find the right fit for your child. If water gets into the rubber boots, you can remove the insoles and hang them to dry.",
+            "More safety in the dark - With these rubber boots for girls and boys, your child is safer in the dark thanks to the 3M reflective details of the long-visibility wellies.",
+            "NON SLIP KIDS BOOTS: Walking on slippery surfaces is much safer for your child, as the rubber boots have outsoles with a non-slip profile."
+          ]
+        }
+      }
+    },
+    {
+      "asin": "B0F3267Q44",
+      "csi_title": "YongerYong Chaussures &#224; roulettes pour Filles gar&#231;ons, Chaussures de Skateboard &#224; Baskets 2 en 1, roulettes pour Enfants Chaussures &#224; 4 Roues, Sneakers de Fitness R&#233;glables Adolescents",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_124::{",
+          "size_map": null,
+          "additional_sizes_detected": [
+            "numeric_35,"
+          ],
+          "structured_size": {
+            "size": "numeric_35",
+            "age_group": "big_kid",
+            "size_system": "eu_footwear_size_system",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 35
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_35",
+          "age_group": "big_kid",
+          "size_system": "eu_footwear_size_system",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 35
+        },
+        "age_range": {
+          "raw_values": [
+            "Enfant"
+          ],
+          "normalized": "big_kid"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Fonction roulettes rétractables : chaussures à roulettes avec conception à 4 roues pour plus de sécurité. Il y a 2 roues à l'avant et à l'arrière. Vous pouvez choisir le mode que vous préférez, 2 roues ou 4 roues, et cela transformera la chaussure en patins furtifs ; retirez toutes les roues et elles peuvent être utilisées comme des chaussures de sport normales, ce qui offre une polyvalence pratique pour différentes activités.",
+            "Confortables et durables : les patins à roulettes sont dotés d'une semelle en caoutchouc TPR résistante à l'abrasion qui offre une adhérence et une durabilité exceptionnelles, garantissant ainsi une expérience de glisse sûre et confortable.",
+            "Chaussures réglables et polyvalentes avec roulettes pour les enfants qui aiment être dehors. Nos produits dépasseront vos attentes ! Apparence mignonne avec une décoration en forme de cœur, cadeau parfait pour les enfants à Noël, au Nouvel An, à Halloween, etc.",
+            "Conseils utiles : les enfants doivent être accompagnés d'un adulte pendant toute la durée d'utilisation de ces chaussures. Il est recommandé aux débutants de ne pas patiner sur des rails, des pistes, des surfaces glissantes ou mouillées afin d'éviter des blessures graves."
+          ],
+          "en": [
+            "These roller skate shoes are perfect for boys and girls. With their stylish and fashionable appearance, they combine the functionality of sneakers with the added fun of wheels, making them suitable for various activities. This shoe is suitable for dance parties, birthday parties and roller skating."
+          ],
+          "other": [
+            "Unique invisible button design to prevent it from unfolding accidentally. You can hide the rollers by pressing the button at the heels, it will become a normal sports shoe. When you want to slide, press the button again, the rollers will appear automatically.",
+            "PREMIUM QUALITY These roller shoes are made of high quality materials, ensuring durability and long-lasting performance. Wear-resistant soles, PU roller, add lubricant before use to reduce friction and facilitate slipping."
+          ]
+        }
+      }
+    },
+    {
+      "asin": "B0F6FGH3KK",
+      "csi_title": "ZOUPREME Chaussure Elsa Sport pour Enfant Filles, Baskets Princesse de Lumineuses, Girls Light up Shoes (A1-Rosa-Mesh,26)",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_146::{",
+          "size_map": "26 EU",
+          "additional_sizes_detected": [
+            "numeric_26,",
+            "26 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_26",
+            "language_tag": "fr_FR",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "little_kid",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 26
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_26",
+          "language_tag": "fr_FR",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "little_kid",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 26
+        },
+        "age_range": {
+          "raw_values": [
+            "Enfant",
+            "Kid"
+          ],
+          "normalized": "little_kid"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "ZOUPREME Les baskets lumineuses pour filles doivent remplacer régulièrement les piles bouton pour profiter de l'effet lumineux",
+            "Chaussures décontractées pour enfants violettes et roses, avec semelles EVA résistantes à l'usure, antidérapantes et absorbant les chocs, adaptées à la course à pied et à d'autres sports de loisirs",
+            "Chaussures de sport lumineuses pour filles, disponibles en maille simple, maille double et cuir, adaptées au printemps, à l'été, à l'automne et à l'hiver",
+            "Chaussures de sport à lumière, coutures fines et velcro pour un enfilage et un retrait faciles",
+            "Achetez à votre enfant une paire de chaussures éblouissantes idéales, une petite surprise dans la vie"
+          ],
+          "other": [
+            "ZOUPREME Girls light up sneakers need to regularly replace button batteries to enjoy the light effect",
+            "Purple and pink kids casual shoes, with wear-resistant EVA soles, non-slip and shock-absorbing, suitable for running and other leisure sports",
+            "Girls Light Up Sports Shoes Available in Single Mesh, Double Mesh and Leather, Suitable for Spring, Summer, Fall and Winter",
+            "Light up trainers, fine stitching and velcro for easy on and off",
+            "Buy your child an ideal pair of dazzling shoes, a little surprise in life"
+          ]
+        }
+      }
+    },
+    {
+      "asin": "B0D5WW917L",
+      "csi_title": "Espadrilles en Toile CASTELBAJAC, Couleur Noir et Blanc, Taille 41",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_142::{",
+          "size_map": "41 EU",
+          "additional_sizes_detected": [
+            "numeric_41,",
+            "41 EU",
+            "True"
+          ],
+          "structured_size": {
+            "size": "numeric_41",
+            "age_group": "adult",
+            "size_system": "eu_footwear_size_system",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 41
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_41",
+          "age_group": "adult",
+          "size_system": "eu_footwear_size_system",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 41
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": "Caoutchouc",
+          "normalized": "Rubber"
+        },
+        "bullet_points": {}
+      }
+    },
+    {
+      "asin": "B08RNPP4C5",
+      "csi_title": "DRECAGE Sabots Enfant &#201;t&#233; Chaussons Gar&#231;ons Filles Pantoufles EVA Clogs Tongs Sandales de Plage &#224; Enfiler Piscine de Jardin Antid&#233;rapage Purple 26 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_284::{",
+          "size_map": "26 EU",
+          "additional_sizes_detected": [
+            "numeric_26,",
+            "26 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_26",
+            "age_group": "little_kid",
+            "size_system": "eu_footwear_size_system",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 26
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_26",
+          "age_group": "little_kid",
+          "size_system": "eu_footwear_size_system",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 26
+        },
+        "age_range": {
+          "raw_values": [
+            "Enfant",
+            "Kid"
+          ],
+          "normalized": "little_kid"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "4 motifs mignons au choix, les sabots sont confortables à porter et faciles à nettoyer avec de l'eau",
+            "Trous d'aération pour une meilleure respirabilité et aide à évacuer l'eau et la saleté.",
+            "Fabriqué en EVA, ce qui les rend légers et très flexibles sur les pieds. Votre enfant appréciera de mettre et d'enlever ses sabots.",
+            "Équipé d'une sangle de talon réglable pour un ajustement sûr. Ces sabots de jardin peuvent être facilement déplacés dans des pantoufles et des sandales à enfiler en ajustant la sangle dorsale"
+          ],
+          "other": [
+            "4 cute patterns to choose from, the clogs are comfortable to wear and easy to clean with water",
+            "Ventilation holes for better breathability and helps drain water and dirt.",
+            "Made of EVA, making them lightweight and very flexible on the feet. Your child will enjoy putting on and taking off their hooves.",
+            "Equipped with an adjustable heel strap for a secure fit. These garden clogs can be easily moved into slip-on slippers and sandals by adjusting the back strap"
+          ]
+        }
+      }
+    },
+    {
+      "asin": "B0C98S1TLH",
+      "csi_title": "Buwege Claquette Enfant Chausson Antid&#233;rapant Piscine Fille Gar&#231;on Pantoufle Plage Bain Doux Plat Maison Sandales Arc-en-ciel 37 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_189::{",
+          "size_map": "37 EU",
+          "additional_sizes_detected": [
+            "numeric_37,",
+            "37 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_37",
+            "age_group": "big_kid",
+            "size_system": "eu_footwear_size_system",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 37
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_37",
+          "age_group": "big_kid",
+          "size_system": "eu_footwear_size_system",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 37
+        },
+        "age_range": {
+          "raw_values": [
+            "Enfant",
+            "Child"
+          ],
+          "normalized": "big_kid"
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": "EVA.Doux et confortable, le matériau Eva se contracte et se déforme facilement à haute température. Veuillez éviter une exposition prolongée au soleil.",
+          "normalized": "EVA.Doux et confortable, le matériau Eva se contracte et se déforme facilement à haute température. Veuillez éviter une exposition prolongée au soleil."
+        },
+        "bullet_points": {
+          "fr": [
+            "Style : chaussons synthétiques EVA, classiques et simples, adaptés aux garçons et aux filles, compagnon quotidien des enfants.",
+            "Conception : le dessus de la semelle a une surface en fines particules pour offrir une position confortable. Le bas de la semelle est équipé d'une rainure torsadée, qui est effectivement antidérapante.",
+            "Scène : le matériau EVA de haute qualité rend ces chaussons de bain pour enfants imperméables et à séchage rapide. Convient pour une utilisation quotidienne à la baignade, à la piscine, à la plage, à la maison, etc.",
+            "Qualité : matériaux environnementaux qui apaisent les parents, sandales de bain pour enfants, chaussures de bain pour enfants, chaussons pour enfants, assurance qualité."
+          ]
+        }
+      }
+    },
+    {
+      "asin": "B0DFW9MV9G",
+      "csi_title": "Mishansha Bottines de Neige Enfant Doublure Chaude Chaussure Barefoot Hiver Gar&#231;on Bottes d&apos;hiver Fille Chaussures de Randonn&#233; Antid&#233;rapante L&#233;ger, Chill II, Noir 26 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_118::{",
+          "size_map": "26 EU",
+          "additional_sizes_detected": [
+            "numeric_26,",
+            "26 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_26",
+            "age_group": "toddler",
+            "size_system": "eu_footwear_size_system",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 26
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_26",
+          "age_group": "toddler",
+          "size_system": "eu_footwear_size_system",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 26
+        },
+        "age_range": {
+          "raw_values": [
+            "Kid",
+            "Enfant"
+          ],
+          "normalized": "toddler"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Doublure en peluche : Bottines de neige sont dotées d'une doublure en peluche (y compris la semelle intérieure) qui garde les pieds au chaud et les rend confortables. La semelle intérieure est amovible et peut être retirée pour être nettoyée si nécessaire.",
+            "Boîte à orteils large : La boîte à orteils spacieuse offre aux enfants une liberté de mouvement suffisante et une expérience de port confortable. La partie des orteils est épaissie, ce qui permet de résister efficacement aux collisions accidentelles.",
+            "Sensation de pieds nus : Chaussure barefoot hiver sont conçues pour bien s'adapter aux pieds des enfants lorsqu'ils marchent, afin qu'ils puissent mieux sentir le sol et améliorer leur équilibre, ce qui est important pour une croissance saine.",
+            "Ajustement rapide : Fusion innovante d'attaches rapides et de sangles élastiques, rapides à mettre et à enlever, assurant un ajustement parfait aux pieds de votre enfant, réduisant les contraintes et rendant chaque pas léger et confortable.",
+            "Semelle antidérapante : La semelle en caoutchouc TRP offre une excellente adhérence et est légère et flexible. Elle permet aux enfants de jouer, de courir et de sauter avec facilité."
+          ],
+          "other": [
+            "Plush Lining - Snow boots feature plush lining (including insole) that keeps feet warm and comfortable. The insole is removable and can be removed for cleaning if necessary.",
+            "WIDE TOE BOX - Spacious toe box provides children with sufficient freedom of movement and comfortable wearing experience. The toe part is thickened, which can effectively resist accidental collisions.",
+            "Barefoot Feel: Winter barefoot shoes are designed to fit children's feet well when walking, so that they can better feel the ground and improve their balance, which is important for healthy growth.",
+            "QUICK FIT - Innovative fusion of quick ties and elastic straps, quick to put on and take off, ensuring a perfect fit to your child's feet, reducing stress and making each step light and comfortable.",
+            "Non-slip sole: TRP rubber sole provides excellent grip and is lightweight and flexible. It allows children to play, run and jump with ease."
+          ]
+        }
+      }
+    },
+    {
+      "asin": "B0B8GL9B74",
+      "csi_title": "Buwege Claquette Enfant Chausson Antid&#233;rapant Piscine Fille Gar&#231;on Pantoufle Plage Bain Doux Plat Maison Sandales Rose 34 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_216::{",
+          "size_map": "34 EU",
+          "additional_sizes_detected": [
+            "numeric_34,",
+            "34 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_34",
+            "age_group": "big_kid",
+            "size_system": "eu_footwear_size_system",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 34
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_34",
+          "age_group": "big_kid",
+          "size_system": "eu_footwear_size_system",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 34
+        },
+        "age_range": {
+          "raw_values": [
+            "Enfant",
+            "Child"
+          ],
+          "normalized": "big_kid"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Chaussons d'intérieur pour enfants avec plateforme, classiques et simples, adaptés à toutes les saisons.",
+            "La semelle intérieure de la pantoufle a un grain finement soulevé pour un soutien confortable.",
+            "La semelle est conçue avec des rainures en zigzag pour éviter efficacement les glissades."
+          ],
+          "en": [
+            "The insole of the slipper has a finely raised grain for comfortable support."
+          ],
+          "other": [
+            "Kids indoor slippers with platform, classic and simple, suitable for all seasons.",
+            "The sole is designed with zigzag grooves to effectively prevent slipping."
+          ]
+        }
+      }
+    },
+    {
+      "asin": "B0B3LZDZ1V",
+      "csi_title": "Lanivic Requin Chaussons Fille Pantoufles Mignon Claquettes Gar&#231;on Chaussures pour Piscine et Plage Antid&#233;rapant Douche Chaussons Maison d&apos;&#233;t&#233;",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_164::{",
+          "size_map": "36/37 EU",
+          "additional_sizes_detected": [
+            "numeric_36,",
+            "36/37 EU"
+          ],
+          "structured_size": {
+            "gender": "men",
+            "size": "numeric_36",
+            "age_group": "big_kid",
+            "size_system": "eu_footwear_size_system",
+            "to_size": "numeric_37",
+            "width": "medium",
+            "size_class": "numeric_range",
+            "numeric_size": 36
+          }
+        },
+        "footwear_size": {
+          "gender": "men",
+          "size": "numeric_36",
+          "age_group": "big_kid",
+          "size_system": "eu_footwear_size_system",
+          "to_size": "numeric_37",
+          "width": "medium",
+          "size_class": "numeric_range",
+          "numeric_size": 36
+        },
+        "age_range": {
+          "raw_values": [
+            "Enfant",
+            "Child"
+          ],
+          "normalized": "big_kid"
+        },
+        "target_gender": "male",
+        "material": {
+          "raw": "not_applicable",
+          "normalized": "not_applicable"
+        },
+        "bullet_points": {
+          "fr": [
+            "Le motif de requin en trois dimensions est profondément aimé par le bébé, plein d'intérêt enfantin",
+            "La semelle épaisse protège les pieds de bébé de la poussière et de la saleté sur le sol, douce, légère et durable",
+            "La texture inégale de la semelle augmente la friction avec le sol et la concavité offre douceur et élasticité tout en offrant une bonne adhérence",
+            "Thick sole protects baby's feet from dust and dirt on the floor, soft, lightweight and durable"
+          ],
+          "other": [
+            "The three-dimensional shark pattern is deeply loved by the baby, full of childlike interest",
+            "The uneven texture of the sole increases friction with the ground and the concavity provides softness and elasticity while providing good grip"
+          ]
+        }
+      }
+    },
+    {
+      "asin": "B0DK6RNJX7",
+      "csi_title": "SAGUARO Enfants Chaussures de Trail Garcons Fille Minimaliste Barefoot Baskets Running Sneakers L&#233;ger Respirantes 26EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_215::{",
+          "size_map": "26 EU",
+          "additional_sizes_detected": [
+            "numeric_26,",
+            "26 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_26",
+            "age_group": "toddler",
+            "size_system": "eu_footwear_size_system",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 26
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_26",
+          "age_group": "toddler",
+          "size_system": "eu_footwear_size_system",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 26
+        },
+        "age_range": {
+          "raw_values": [
+            "Enfant",
+            "Kid"
+          ],
+          "normalized": "toddler"
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Orteil spacieux: Les orteils peuvent se déployer naturellement dans la chaussure et rester stables. Lors des jeux et de l'escalade, les orteils ont suffisamment de place pour s'agiter et s'accrocher au sol",
+            "Barefoot Sense: permet aux enfants de mieux percevoir le centre de gravité du corps et de mieux ressentir le contact entre le corps et le sol, tout en protégeant les pieds de l'enfant et en favorisant le développement naturel des pieds de l'enfant",
+            "Respirant: Matériau léger et respirant, avec des trous respirants à l'intérieur de la chaussure et des semelles intérieures amovibles, permettant la circulation de l'air à l'intérieur de la chaussure pour garder les pieds de l'enfant secs et respirants",
+            "Semelle souple et antidérapante: La semelle offre une bonne liberté de mouvement et une grande souplesse, et sa texture assure une bonne adhérence sur les surfaces glissantes",
+            "Léger et confortable: El diseño ligero hace que sea más fácil para su hijo caminar y cómodo de llevar durante mucho tiempo. Además, la correa elástica es fácil de poner y quitar"
+          ],
+          "other": [
+            "Spacious toe: The toes can unfold naturally in the shoe and remain stable. When playing and climbing, the toes have enough room to wiggle and cling to the ground",
+            "Barefoot Sense: allows children to better perceive the body's center of gravity and better feel the contact between the body and the ground, while protecting the child's feet and promoting the natural development of the child's feet",
+            "Breathable: Lightweight and breathable material, with breathable holes inside the shoe and removable insoles, allowing air circulation inside the shoe to keep the child's feet dry and breathable",
+            "Soft and non-slip sole: The sole offers good freedom of movement and flexibility, and its texture ensures a good grip on slippery surfaces",
+            "Lightweight and comfortable: El diseño ligero hace que sea más fácil para su hijo caminar y cómodo de llevar durante mucho tiempo. Además, la correa elástica es fácil de poner y quitar"
+          ]
+        }
+      }
+    },
+    {
+      "asin": "B09RSVCZ8C",
+      "csi_title": "Siegertreppchen&#174; Chaussures de Danse 25 Motif Jungle - Chaussures Ballerines Classiques pour Le Yoga, la Gymnastique, Le Jazz pour Enfants et Adultes",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_101::{",
+          "size_map": "25 EU",
+          "additional_sizes_detected": [
+            "numeric_25,",
+            "25 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_25",
+            "age_group": "toddler",
+            "size_system": "eu_footwear_size_system",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 25
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_25",
+          "age_group": "toddler",
+          "size_system": "eu_footwear_size_system",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 25
+        },
+        "age_range": {
+          "raw_values": [
+            "Enfant",
+            "Kid"
+          ],
+          "normalized": "toddler"
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": "Caoutchouc",
+          "normalized": "Rubber"
+        },
+        "bullet_points": {
+          "fr": [
+            "Chaussures de gymnastique pour filles et garçons, un compagnon idéal pour le sport et les loisirs. Chaussures de gymnastique de l'entreprise Siegertreppchen de Berlin qui procurent un plaisir durable.",
+            "Les chaussures de gymnastique peuvent être utilisées de manière polyvalente pour la gymnastique, le ballet, la danse jazz et le fitness. Ils sont également parfaits comme chaussons à la maison ou au jardin d'enfants.",
+            "Le matériau en coton s'adapte merveilleusement bien au pied et offre un chaussant optimal sans pression. Les pieds des enfants se sentent très bien grâce à la semelle respirante et à la voûte plantaire rembourrée.",
+            "La semelle en caoutchouc antidérapante permet une bonne adhérence sans laisser de traces sur les sols. La semelle respirante évite la transpiration des pieds et les odeurs désagréables.",
+            "En cas de salissures, il suffit de les essuyer avec un chiffon humide. Nous déconseillons formellement le nettoyage en machine afin de ne pas altérer la qualité du cuir."
+          ],
+          "other": [
+            "Gymnastics shoes for girls and boys, an ideal companion for sports and leisure. Gymnastics shoes from the Berlin company Siegertreppchen for long-lasting pleasure.",
+            "The gymnastics shoes can be used in many ways for gymnastics, ballet, jazz dance and fitness. They are also perfect as slippers at home or in the kindergarten.",
+            "The cotton material adapts wonderfully well to the foot and provides an optimal fit without pressure. Children's feet feel great thanks to the breathable sole and padded arch.",
+            "The non-slip rubber sole allows a good grip without leaving marks on floors. The breathable sole prevents foot sweating and unpleasant odours.",
+            "In case of soiling, simply wipe them with a damp cloth. We strongly advise against machine cleaning in order not to alter the quality of the leather."
+          ]
+        }
+      }
+    },
+    {
+      "asin": "B0CNKDHH6G",
+      "csi_title": "KOWAYI Chaussons pieds nus Enfants Gar&#231;ons, Filles Chaussons pieds nus souples, Chaussons de bain l&#233;gers, Chaussons d&apos;apprentissage doux pour b&#233;b&#233;s-JPC-BLAN-29",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_141::{",
+          "size_map": "29 EU",
+          "additional_sizes_detected": [
+            "numeric_29,",
+            "$additional_links_augmentor_164::{",
+            "29 EU"
+          ],
+          "structured_size": {
+            "gender": "women",
+            "size": "numeric_29",
+            "age_group": "toddler",
+            "size_system": "eu_footwear_size_system",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 29
+          }
+        },
+        "footwear_size": {
+          "gender": "women",
+          "size": "numeric_29",
+          "age_group": "toddler",
+          "size_system": "eu_footwear_size_system",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 29
+        },
+        "age_range": {
+          "raw_values": [
+            "Enfant",
+            "Kid"
+          ],
+          "normalized": "toddler"
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": "Caoutchouc synthétique",
+          "normalized": "Rubber"
+        },
+        "bullet_points": {
+          "fr": [
+            "🐻Tige de qualité supérieure : nous avons soigneusement sélectionné un matériau de qualité supérieure qui est doux et agréable pour la peau. Il offre aux petits pieds de votre enfant un confort digne d'une seconde peau.",
+            "🐨Des couleurs variées et des motifs d'animaux : nous savons que les enfants ont une préférence pour les couleurs vives et les motifs amusants. C'est pourquoi nous proposons une grande variété de couleurs et d'adorables motifs d'animaux au choix, afin que votre enfant puisse exprimer sa personnalité et s'amuser.",
+            "🐼Semelle antidérapante : nous attachons une importance particulière à la sécurité de votre enfant. C'est pourquoi nous avons développé une semelle antidérapante. Que ce soit sur des sols glissants à la maison ou lors d'activités en plein air, ces chaussures offrent à votre enfant un maintien sûr pour qu'il puisse courir et jouer en toute liberté, sans que vous ayez à vous en inquiéter.",
+            "🐏Un habillage et un déshabillage faciles : Nous comprenons que les enfants sont souvent curieux et pleins d'énergie et qu'ils n'aiment pas les processus d'habillage et de déshabillage compliqués. C'est pourquoi nous avons développé un design avec un enfilage très facile pour les enfants. Votre enfant peut enfiler et retirer ses chaussures sans effort et rapidement, sans aide extérieure, ce qui favorise son indépendance.",
+            "🐵Scénario de port polyvalent : nos pantoufles pour enfants conviennent à différentes occasions. Qu'il s'agisse de les porter de manière détendue à la maison, d'aller à l'école, de danser, de faire de la gymnastique, d'aller à la plage ou à la piscine, ces chaussons conviennent parfaitement. Votre enfant pourra les porter confortablement lors de toutes ses activités."
+          ],
+          "other": [
+            "High Quality Upper: We have carefully selected premium material that is soft and skin-friendly. It gives your child's little feet comfort like a second skin.",
+            "VARIOUS COLORS & ANIMAL DESIGNS - We know kids have a preference for bright colors and fun patterns. That's why we offer a wide variety of colors and adorable animal designs to choose from, so your child can express their personality and have fun.",
+            "Non-slip sole: We attach special importance to the safety of your child. That's why we developed a non-slip sole. Whether on slippery floors at home or during outdoor activities, these shoes offer your child a secure fit so they can run and play freely, without you having to worry about them.",
+            "Easy dressing and undressing: We understand that children are often curious and full of energy and do not like complicated dressing and undressing processes. That is why we have developed a design with a very easy slip on for children. Your child can put on and take off their shoes effortlessly and quickly, without outside help, which promotes their independence.",
+            "VERSATILE WEARING SCENARIO: Our kids slippers are suitable for different occasions. Whether you are wearing them relaxed at home, going to school, dancing, doing gymnastics, going to the beach or swimming pool, these slippers are the perfect fit. Your child can wear them comfortably during all activities."
+          ]
+        }
+      }
+    },
+    {
+      "asin": "B0F3XJCRJW",
+      "csi_title": "G&#233;n&#233;rique 2025 Sandales Orthop&#233;dique Femmes &#233;t&#233; Sandale De Marche Femme Orthop&#233;dique Confortables Plateforme Chaussures Antid&#233;rapantes Respirantes Boh&#234;me Bout Ouvert Sandales avec Talon Bloc",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_182::{",
+          "size_map": "38 EU",
+          "additional_sizes_detected": [
+            "numeric_38,",
+            "38 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_38",
+            "age_group": "adult",
+            "size_system": "eu_footwear_size_system",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 38
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_38",
+          "age_group": "adult",
+          "size_system": "eu_footwear_size_system",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 38
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "👡👡 PORTER RESISTANT MD SOLE conception de caoutchouc MD vous donne une forte abrasion et la résistance au glissement semelle élastique et robuste, pad profilé pied, et l'absorption des chocs pour protéger vos pieds et de garder vos chevilles plus confortable,protégeant vos pieds.",
+            "👡👡 SPLENDIDE CUT OUT CONCEPTION Fixation tactile avec boucle cheville pour un facile et sécurisé grand ajustement pour garder vos pieds au frais dans le temps chaud parfait Souliers simples de en vacances cet été ou tout simplement hors marche autour des magasins dans le style,Faux cuir. Femmes peep Toe Design sandales à la mode, élégant et élégant;",
+            "👡👡Le cuir pu et les perles, le strass brillant et le tissu satiné pour rendre les pieds encore plus mignons sont un must pour l'été. Crochet et Design Loop La façon fermée adopte la conception de crochet et cerceau, ce qui est pratique pour porter et de laisser au large, ce qui rend l'usure quotidienne devenir libre et facile",
+            "Synthétique; Cette sandale pour femmes dispose de la dernière mise à jour de la semelle intérieure avec une doublure en fibre de semelle respirante et ultra - douce qui ne frotte pas les pieds et les rend confortables. Sandales d'été pour femmes en similicuir synthétique de haute qualité, légères et confortables. élégant et chic pour ajouter de l'éclat à la tenue.",
+            "Doublure : Sandales d'été pour femmes en similicuir synthétique de haute qualité, légères et confortables.; Cette sandale pour femmes dispose de la dernière mise à jour de la semelle intérieure avec une doublure en fibre de semelle respirante et ultra - douce qui ne frotte pas les pieds et les rend confortables.",
+            "chaussons fond épais sandales épais femme sandales femmes pantoufles eté mode plateforme chaussons femme ete sandale femme 2023 nouveau chaussures sandales d'été pour femme sandales plates sandales de randonnée sandales décontractées élégantes sandales de plage sandale femme talon compensé pantoufles causal fashion flops sandales plates chaussures flip ladies for women women's slipper sandales femme été confortable plage été mules sandales tongs femme plates nu pieds",
+            "réglable fleur épissures croix glissière anti-dérapant orthopédique licou sandales pour chaussures 2023 sandales chic élégante vacances compensées bout ouvert mules chaussures de plage sandales femme été confortable élégantes pantoufles bohème ete pied large cuir tongs sandales compensées pour femmes sandales pour femmes chaussures compensées à plateforme sandales antidérapantes à bout ouvert sandale femme compensé sandales plates pour femmes été bohème chaussures",
+            "décontractées wedge élégance chic orthopédique sandales claquette chaussures mules 2023 sandale plateforme femme été confort compensé slip on sandales de plage semelle epaisse antidérapantes à femme chaussures compensées nu pied décontractée pantoufles chaussons sandales compensées espadrilles à bouche de poisson pour femmes sandales à plateforme slingback sandales à talons hauts à bride à la cheville chaussures de plage femmes sandales pantoufle décontracté confort",
+            "cristal mode sur wedge sandales pour femme sandales compensées pour femme sandale femme ete talon mode tête carrée tissé talons hauts femmes pantoufles mule chaussures été femme sandales hautes pour femmes sandales en cristal romain pour femmes elégant et chic plat décontracté intérieur et extérieur sandales de plage chaussons plats à plateforme sandales femme été gladiateur compensé nu-pieds femme pantoufles plage plateforme femme chaussures",
+            "2023 tong sandale arch support sandals semelle souple chaussures plate forme tongs pantoufles chaussures 2023 sandales semelle souple pantoufles mode tong claquettes sandales à semelle souple pour femmes sandale appartements sandales dames d'été élégant confortable plage femmes 2023 sandales femme mules femmes chaussons d'été tongs femme claquette à talon confortables plage sandales à semelles compensées pour femmes sandales à talons pour femme chaussons de plage",
+            "SPLENDIDE CUT OUT DESIGN Touch fastening with ankle buckle for an easy and secure great fit to keep your feet cool in the perfect warm weather. Simple shoes on holiday this summer or just off walking around shops in style, faux leather. Women's peep toe design sandals fashionable, elegant and elegant;"
+          ],
+          "en": [
+            "Synthetic; This women's sandal features the latest update of the insole with a breathable and ultra-soft sole fiber lining that does not rub the feet and makes them comfortable. Summer sandals for women made of high quality PU leather, lightweight and comfortable. Elegant and chic to add sparkle to the outfit.",
+            "Lining: Women's summer sandals made of high quality PU leather, lightweight and comfortable. ; This women's sandal features the latest update of the insole with a breathable and ultra-soft sole fiber lining that does not rub the feet and makes them comfortable."
+          ],
+          "other": [
+            "Wear resistant MD rubber sole design gives you a strong abrasion and slip resistance elastic and robust sole, contoured foot pad, and shock absorption to protect your feet and keep your ankles more comfortable, protecting your feet.",
+            "PU leather and pearls, shiny rhinestone and satin fabric to make feet even cuter are a must for summer. Hook and Loop Design The closed way adopts the hook and hoop design, which is convenient for wearing and leaving off, making daily wear become free and easy",
+            "slippers thick bottom thick sandals women sandals women slippers summer platform slippers woman summer sandal woman 2023 new shoes summer sandals for women flat sandals hiking sandals casual elegant sandals beach sandals women's wedge heel slippers causal fashion flops flat shoes flip ladies for women slipper sandals women summer comfortable beach summer mules sandals flip flops women flat bare feet",
+            "adjustable flower splices cross slide slip slip orthopedic halter sandals for shoes 2023 chic elegant holiday wedge open toe mules beach shoes women summer comfortable elegant slippers bohemian summer wide foot leather flip flops wedge sandals for women sandals platform wedge sandals non-slip open toe sandal women wedge sandals women flat sandals summer bohemian shoes",
+            "Casual Wedge Elegance Chic Orthopedic Sandals Slide Shoes Mules 2023 Sandal Platform Women Summer Comfort Wedge Slip On Beach Sandals Thick Sole Non-Slip Women Wedge Shoes Nude Foot Casual Slippers Slippers Wedge Sandals Fish Mouth Espadrilles Women's Platform Sandals Slingback Ankle Strap High Heel Sandals Beach Shoes Women Sandals Slipper Casual Comfort",
+            "crystal fashion on wedge sandals for women wedge sandals for women sandal women summer heel fashion square head woven high heels women slippers mule shoes summer women high sandals for women roman crystal sandals for women elegant and chic flat casual indoor and outdoor beach sandals flat platform slippers women summer gladiator wedge barefoot women slippers beach platform women shoes",
+            "2023 flip flop sandal arch support sandals soft sole shoes platform flip flops slippers shoes 2023 sandals soft sole slippers fashion flip flops sandals women sandal flats sandals ladies summer elegant comfortable beach women 2023 sandals women mules women slippers summer flip flops women flip flops women comfortable heel flip flops beach wedge sandals women heel sandals for women beach slippers"
+          ]
+        }
+      }
+    },
+    {
+      "asin": "B09PNF98RQ",
+      "csi_title": "Lanivic Pantoufles de Plage Filles Gar&#231;ons Claquette de Piscine Sangle &#233;lastique Chaussons de Douche Enfants Douces Antid&#233;rapant et Mignon &#233;t&#233; Bain Sandales",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_164::{",
+          "size_map": "26 EU",
+          "additional_sizes_detected": [
+            "numeric_26,",
+            "26 EU"
+          ],
+          "structured_size": {
+            "gender": "women",
+            "size": "numeric_26",
+            "age_group": "toddler",
+            "size_system": "eu_footwear_size_system",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 26
+          }
+        },
+        "footwear_size": {
+          "gender": "women",
+          "size": "numeric_26",
+          "age_group": "toddler",
+          "size_system": "eu_footwear_size_system",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 26
+        },
+        "age_range": {
+          "raw_values": [
+            "Enfant",
+            "Child"
+          ],
+          "normalized": "toddler"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": "EVA,la semelle a une conception de texture unique pour fournir une traction et une adhérence fortes pour garder les enfants en sécurité pendant l'exercice",
+          "normalized": "EVA,la semelle a une conception de texture unique pour fournir une traction et une adhérence fortes pour garder les enfants en sécurité pendant l'exercice"
+        },
+        "bullet_points": {
+          "fr": [
+            "Bande élastique : les sandales pour garçons sont équipées de bandes de caoutchouc élastiques et souples sur les chevilles, qui sont serrées et faciles à mettre et à enlever",
+            "Semelle antidérapante : la semelle a une conception de texture unique pour fournir une traction et une adhérence fortes pour garder les enfants en sécurité pendant l'exercice",
+            "Conception de motifs : motifs doux et intéressants avec des couleurs vives pour protéger le cœur de chaque enfant",
+            "Ultraléger: les sandales pour filles choisissent des matériaux légers et doux, non seulement peuvent sécher rapidement, mais aussi être douces",
+            "Occasion: les sandales pour enfants conviennent aux plages, aux vacances d'été, aux piscines, à l'extérieur, à la randonnée, au camping, aux fêtes, aux écoles, aux parcs et aux parcs d'attractions"
+          ],
+          "en": [
+            "Non-slip sole The sole has a unique texture design to provide strong traction and grip to keep children safe during exercise"
+          ],
+          "other": [
+            "Elastic band: the boys sandals are equipped with elastic and soft rubber bands on the ankles, which are tight and easy to put on and take off",
+            "Pattern design: soft and interesting patterns with bright colors to protect every child's heart",
+            "Ultralight: girls sandals choose lightweight and soft materials, not only can dry quickly, but also be soft",
+            "Occasion: children's sandals are suitable for beaches, summer holidays, swimming pools, outdoors, hiking, camping, parties, schools, parks and amusement parks"
+          ]
+        }
+      }
+    },
+    {
+      "asin": "B0F9DLR8Y6",
+      "csi_title": "Claquette Enfants Ajustables Chausson Gar&#231;ons Et Filles Sandales Doux Antid&#233;rapantes d&apos;&#201;t&#233; Piscine Chaussons Pantoufles De Bain Plates Bleu 37 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_105::{",
+          "size_map": "37 EU",
+          "additional_sizes_detected": [
+            "numeric_37,",
+            "37 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_37",
+            "age_group": "big_kid",
+            "size_system": "eu_footwear_size_system",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 37
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_37",
+          "age_group": "big_kid",
+          "size_system": "eu_footwear_size_system",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 37
+        },
+        "age_range": {
+          "raw_values": [
+            "Enfant"
+          ],
+          "normalized": "big_kid"
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": "EVA",
+          "normalized": "EVA"
+        },
+        "bullet_points": {
+          "fr": [
+            "【Style】La partie supérieure de ces sandales EVA pour enfants est équipée d'une boucle réglable, permettant un ajustement personnalisé de la hauteur du cou-de-pied pour un meilleur maintien.",
+            "【Détails】Une semelle intérieure texturée avec un effet granuleux et un motif ondulé antidérapant sur le dessous assurent une stabilité optimale pour les petits pieds.",
+            "【Qualité】Sandales nuage en EVA pour enfants : légères, élastiques, imperméables et à séchage rapide. Gardent leur forme intacte même après plusieurs jours.",
+            "【Attention】Évitez l'exposition prolongée au soleil intense : le matériau EVA peut se déformer sous haute température.",
+            "【Style】The upper of these EVA kids sandals is equipped with an adjustable buckle, allowing a customized instep height adjustment for better support."
+          ],
+          "other": [
+            "【Tailles】Consultez le tableau des tailles en bas de page. Service client disponible pour toute question.",
+            "【Details】A textured insole with a grainy effect and a non-slip wavy pattern on the bottom ensure optimal stability for little feet.",
+            "【Quality】EVA cloud sandals for children: lightweight, elastic, waterproof and quick drying. Keeps their shape intact even after several days.",
+            "【Attention】Avoid prolonged exposure to intense sunlight: EVA material may deform under high temperature.",
+            "【Size】Please refer to the size chart at the bottom of the page. Customer service available for any questions."
+          ]
+        }
+      }
+    },
+    {
+      "asin": "B0F25G1VQQ",
+      "csi_title": "SAMYS Sandales de Plage pour Enfants, Style Ferm&#233;, Boucle R&#233;glable (VERT FONC&#201;, Syst&#232;me Taille Chaussures EU, Enfant de 2 &#224; 5 ans, Num&#233;rique, Moyen, 28)",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_141::{",
+          "size_map": "28 EU",
+          "additional_sizes_detected": [
+            "numeric_28,",
+            "28 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_28",
+            "age_group": "little_kid",
+            "size_system": "eu_footwear_size_system",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 28
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_28",
+          "age_group": "little_kid",
+          "size_system": "eu_footwear_size_system",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 28
+        },
+        "age_range": {
+          "raw_values": [
+            "Enfants"
+          ],
+          "normalized": "little_kid"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "👶MATÉRIAU: Sandales en plastique souple et durable, idéales pour les activités aquatiques et estivales",
+            "🦄DESIGN SÉCURISÉ: Bout fermé protégeant les orteils des petits, parfait pour la plage et les jeux extérieurs",
+            "🐳AJUSTEMENT: Boucle latérale réglable permettant une adaptation optimale à la forme du pied de l'enfant",
+            "🐠CONFORT: Semelle intérieure texturée offrant un maintien confortable pour les activités quotidiennes",
+            "🐙STYLE: Design classique avec motif ajouré en vert menthe, parfait pour les tenues d'été",
+            "Material: Soft and durable plastic sandals, ideal for water and summer activities",
+            "STYLE: Classic design with openwork pattern in mint green, perfect for summer outfits"
+          ],
+          "other": [
+            "Safe design: closed toe protects the toes of little ones, perfect for the beach and outdoor games",
+            "Adjustment: Adjustable side buckle allows optimal adaptation to the shape of the child's foot",
+            "COMFORT: Textured insole provides comfortable support for everyday activities"
+          ]
+        }
+      }
+    },
+    {
+      "asin": "B073VR8KHW",
+      "csi_title": "Bruno Marc Mocassin Homme Classique Chaussures Bateau et Mocassins Hommes Confortable pour Marche Bureau Ext&#233;rieur,Size 46,Noir,CAMBRIDGE-05",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": null,
+          "additional_sizes_detected": [
+            "46 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"12\"",
+            "legacy_unit": "mens_us"
+          }
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Mocassins et chaussures à enfiler pour hommes conçus aux États-Unis",
+            "La tige en cuir synthétique doux présente un bout carré.",
+            "Style facile à enfiler avec des goussets latéraux doubles pour un ajustement confortable",
+            "Doublure en microfibre lisse et en polyuréthane, semelle en polyuréthane pour un port tout au long de la journée.",
+            "Des chaussures habillées avec une semelle extérieure en TPR durable offrant un amorti et une absorption des chocs. Hauteur du talon : 1 pouce (environ)",
+            "Easy slip-on style with double side gussets for a comfortable fit",
+            "Dress shoes with a durable TPR outsole providing cushioning and shock absorption. Heel height: 1 inch (approx.)"
+          ],
+          "other": [
+            "Men's Loafers & Slip-On Shoes Designed in USA",
+            "Soft synthetic leather upper features a square toe.",
+            "Smooth microfiber and PU lining, PU sole for all-day wear."
+          ]
+        }
+      }
+    },
+    {
+      "asin": "B0D324NHK2",
+      "csi_title": "Sabots unisexes pour enfants, sandales &#224; enfiler pour le jardin, la piscine, la plage, les loisirs pour enfants, blanc, 19 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_146::{",
+          "size_map": "19 EU",
+          "additional_sizes_detected": [
+            "numeric_19,",
+            "19 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_19",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "toddler",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 19
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_19",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "toddler",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 19
+        },
+        "age_range": {
+          "raw_values": [
+            "Enfant",
+            "Kid"
+          ],
+          "normalized": "toddler"
+        },
+        "target_gender": "male",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Sabots pour garçon - Disponible en plusieurs couleurs avec breloques gratuites",
+            "Un ajustement confortable avec des trous respirants et est également livré avec une sangle en option pour plus de polyvalence",
+            "Semelle antidérapante, résistante à l'usure et durable",
+            "Parfait pour un usage quotidien et toutes les saisons : plage, piscine, sandales, plein air, loisirs de rue, marche, intérieur, sabots de jardin, pantoufles de maison, travail, gym, sports nautiques, etc.",
+            "Fabriqué en EVA, ce qui les rend légers et très flexibles sur les pieds.",
+            "Non-slip sole, wear-resistant and durable"
+          ],
+          "other": [
+            "Boys Clogs - Available in Various Colours with Free Charms",
+            "A comfortable fit with breathable holes and also comes with an optional strap for versatility",
+            "Perfect for everyday wear and all seasons: beach, pool, sandals, outdoor, street leisure, walking, indoor, garden clogs, house slippers, work, gym, water sports, etc.",
+            "Made of EVA, making them lightweight and very flexible on the feet."
+          ]
+        }
+      }
+    }
+  ],
+  "stats": {
+    "asin_blocks_found": 48,
+    "records_extracted": 48,
+    "records_skipped_no_csi": 0
+  }
+}

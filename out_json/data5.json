@@ -1,0 +1,2323 @@
+{
+  "source_file": "data5.txt",
+  "records": [
+    {
+      "asin": "B0DXPZTY2T",
+      "csi_title": "Geox Baskets U Spherica Plus AS pour homme, gris fonc&#233;, 45 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": "45 EU",
+          "additional_sizes_detected": [
+            "$additional_links_augmentor_238::{",
+            "numeric_45,",
+            "45 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"12\"",
+            "legacy_unit": "mens_us"
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_45",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 45
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Respirantes, faciles à enfiler"
+          ],
+          "other": [
+            "Geox, The shoe that breathes",
+            "Flexible outsole with special membrane for better foot climate",
+            "Padded shank edge",
+            "Zero Shock system: sole with soft circular elements",
+            "Acts as a shock absorbing cushion",
+            "Heel padding",
+            "Fixed elastic bands",
+            "Sporty look"
+          ]
+        }
+      }
+    },
+    {
+      "asin": "B0D2KM2L25",
+      "csi_title": "Puma Puma Fun Racer 2 SLIPTECH INF, Basket Unisexe, Puma Black-for All Time Red,",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "23 EU",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Bébé",
+            "Baby"
+          ],
+          "normalized": "bébé"
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "other": [
+            "Puma Fun Racer 2 SLIPTECH Inf",
+            "Puma Fun Racer 2 SLIPTECH INF"
+          ]
+        }
+      }
+    },
+    {
+      "asin": "B0D2KTF2M3",
+      "csi_title": "Puma Flyer 3 AC+ INF, Basket Unisexe, Puma Black-Magic Rose-Puma White,",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_362::{",
+          "size_map": "25 EU",
+          "additional_sizes_detected": [
+            "numeric_25,",
+            "25 EU"
+          ],
+          "structured_size": {
+            "gender": "men",
+            "size": "numeric_25",
+            "age_group": "infant",
+            "size_system": "eu_footwear_size_system",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 25
+          }
+        },
+        "footwear_size": {
+          "gender": "men",
+          "size": "numeric_25",
+          "age_group": "infant",
+          "size_system": "eu_footwear_size_system",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 25
+        },
+        "age_range": {
+          "raw_values": [
+            "Bébé",
+            "Baby"
+          ],
+          "normalized": "infant"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Matériaux respirants",
+            "Léger et rembourré"
+          ],
+          "other": [
+            "Flyer 3 AC+ Inf",
+            "Breathable materials",
+            "Lightweight and padded"
+          ]
+        }
+      }
+    },
+    {
+      "asin": "B0CPPZ6Y81",
+      "csi_title": "Geox B RISHON Girl A, Basket,",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_294::{",
+          "size_map": "21 EU",
+          "additional_sizes_detected": [
+            "numeric_21,",
+            "21 EU"
+          ],
+          "structured_size": {
+            "gender": "women",
+            "size": "numeric_21",
+            "age_group": "infant",
+            "size_system": "eu_footwear_size_system",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 21
+          }
+        },
+        "footwear_size": {
+          "gender": "women",
+          "size": "numeric_21",
+          "age_group": "infant",
+          "size_system": "eu_footwear_size_system",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 21
+        },
+        "age_range": {
+          "raw_values": [
+            "Enfant"
+          ],
+          "normalized": "infant"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": "Polyuréthane thermoplastique",
+          "normalized": "Polyuréthane thermoplastique"
+        },
+        "bullet_points": {
+          "fr": [
+            "Chaussures faciles à enfiler",
+            "Fermeture Velcro simple et lacets élastiques , semelle intérieure amovible",
+            "Agréable à porter"
+          ],
+          "other": [
+            "Respirant",
+            "Breathable"
+          ]
+        }
+      }
+    },
+    {
+      "asin": "B0CPPY8FFB",
+      "csi_title": "Geox B GISLI Girl B, Basket,",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "22 EU",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Kid"
+          ],
+          "normalized": "kid"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Chaussures faciles à enfiler",
+            "Semelle intérieure amovible"
+          ],
+          "other": [
+            "Fermeture Velcro unique",
+            "Respirant",
+            "Slip-On Shoes",
+            "Unique Velcro closure",
+            "Removable insole",
+            "Breathable"
+          ]
+        }
+      }
+    },
+    {
+      "asin": "B0D4JLQWK2",
+      "csi_title": "Saucony Ride Millennium, Chaussures de Gymnastique Unisexe pour Adulte, 37.5 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": "37.5 EU",
+          "additional_sizes_detected": [
+            "$additional_links_augmentor_314::{",
+            "numeric_37_point_5,",
+            "37.5 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"5\"",
+            "legacy_unit": "mens_us"
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_37_point_5",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 37
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {}
+      }
+    },
+    {
+      "asin": "B0DTPMX1GN",
+      "csi_title": "Pepe Jeans Baskets Joe Basic pour Homme, Noir (Noir), 42 EU, Noir, 44 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": "44 EU",
+          "additional_sizes_detected": [
+            "$additional_links_augmentor_246::{",
+            "numeric_44,",
+            "44 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"11\"",
+            "legacy_unit": "mens_us"
+          }
+        },
+        "footwear_size": {
+          "gender": "men",
+          "size": "numeric_44",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 44
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Baskets basses Joe Basic sur semelle en caoutchouc, col rembourré",
+            "Languette de marque et logo classique sur le côté",
+            "100 % polyuréthane"
+          ],
+          "other": [
+            "Joe Basic low top sneakers on rubber sole, padded collar",
+            "Branded tongue and classic logo on the side",
+            "100% Polyurethane"
+          ]
+        }
+      }
+    },
+    {
+      "asin": "B0C69GTWMH",
+      "csi_title": "Geox Women&apos;s D Alleniee a Sneakers, Lt Sand, 35 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "35 EU",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "il s'agit d'un produit authentique et original Geox",
+            "Ce style a été produit de manière durable",
+            "il assure un ajustement optimal",
+            "Confortable à porter"
+          ],
+          "other": [
+            "Breathable"
+          ]
+        }
+      }
+    },
+    {
+      "asin": "B0BN6JHKBW",
+      "csi_title": "Geox B ELTHAN Boy B, Basket, Navy/Red,",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_320::{",
+          "size_map": "19 EU",
+          "additional_sizes_detected": [
+            "numeric_19,",
+            "19 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_19",
+            "age_group": "infant",
+            "size_system": "eu_footwear_size_system",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 19
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_19",
+          "age_group": "infant",
+          "size_system": "eu_footwear_size_system",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 19
+        },
+        "age_range": {
+          "raw_values": [
+            "Kid"
+          ],
+          "normalized": "infant"
+        },
+        "target_gender": "male",
+        "material": {
+          "raw": "not_applicable",
+          "normalized": "not_applicable"
+        },
+        "bullet_points": {
+          "fr": [
+            "Niveau de résistance à l'eau : non étanche"
+          ],
+          "other": [
+            "Forme du talon : plat",
+            "Largeur de la chaussure : moyenne",
+            "Fermeture : Velcro",
+            "Breathable"
+          ]
+        }
+      }
+    },
+    {
+      "asin": "B0D78NQ5L7",
+      "csi_title": "HIZYZ Anime Cosplay Chaussures en Toile Hautes Unisexe Baskets, f, 41 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_95::{",
+          "size_map": "41 EU",
+          "additional_sizes_detected": [
+            "numeric_41,",
+            "41 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_41",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "adult",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 41
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_41",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 41
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Matériau : toile de haute qualité + caoutchouc",
+            "Un style polyvalent que vous pouvez combiner comme vous le souhaitez.",
+            "A versatile style that you can combine as you like."
+          ],
+          "other": [
+            "Contenu du colis : 1 paire de chaussures",
+            "Attention : Largeur moyenne, si vous avez plus d’espace, veuillez choisir une taille plus grande.",
+            "Package: 1 pair of shoes",
+            "Material: high quality canvas + rubber",
+            "Attention: Medium width, if you have more space, please choose a larger size."
+          ]
+        }
+      }
+    },
+    {
+      "asin": "B0D78MWLJL",
+      "csi_title": "HIZYZ Anime Cosplay Chaussures en Toile Hautes Unisexe Baskets, f, 38 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_90::{",
+          "size_map": "38 EU",
+          "additional_sizes_detected": [
+            "numeric_38,",
+            "38 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_38",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "adult",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 38
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_38",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 38
+        },
+        "age_range": {
+          "raw_values": [
+            "Adult",
+            "Adulte"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": "Caoutchouc",
+          "normalized": "Rubber"
+        },
+        "bullet_points": {
+          "fr": [
+            "A versatile style that you can combine as you like.",
+            "Matériau : toile de haute qualité + caoutchouc",
+            "Un style polyvalent que vous pouvez combiner comme vous le souhaitez."
+          ],
+          "other": [
+            "Package: 1 pair of shoes",
+            "Material: high quality canvas + rubber",
+            "Attention: Medium width, if you have more space, please choose a larger size.",
+            "Contenu du colis : 1 paire de chaussures",
+            "Attention : Largeur moyenne, si vous avez plus d’espace, veuillez choisir une taille plus grande."
+          ]
+        }
+      }
+    },
+    {
+      "asin": "B0D78NXSH1",
+      "csi_title": "HIZYZ Anime Cosplay Chaussures en Toile Hautes Unisexe Baskets, a, 35 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_372::{",
+          "size_map": "35 EU",
+          "additional_sizes_detected": [
+            "numeric_35,",
+            "35 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_35",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "big_kid",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 35
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_35",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "big_kid",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 35
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte"
+          ],
+          "normalized": "big_kid"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": "nan",
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Matériau : toile de haute qualité + caoutchouc",
+            "Un style polyvalent que vous pouvez combiner comme vous le souhaitez."
+          ],
+          "other": [
+            "Contenu du colis : 1 paire de chaussures",
+            "Attention : Largeur moyenne, si vous avez plus d’espace, veuillez choisir une taille plus grande."
+          ]
+        }
+      }
+    },
+    {
+      "asin": "B0D78NZWDH",
+      "csi_title": "HIZYZ Anime Cosplay Chaussures en Toile Hautes Unisexe Baskets, g, 35 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_143::{",
+          "size_map": "35 EU",
+          "additional_sizes_detected": [
+            "numeric_35,",
+            "35 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_35",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "big_kid",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 35
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_35",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "big_kid",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 35
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte"
+          ],
+          "normalized": "big_kid"
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Matériau : toile de haute qualité + caoutchouc",
+            "Un style polyvalent que vous pouvez combiner comme vous le souhaitez."
+          ],
+          "other": [
+            "Paquet : 1 paire de chaussures",
+            "Attention : Largeur moyenne, si vous avez plus d’espace, veuillez choisir une taille plus grande."
+          ]
+        }
+      }
+    },
+    {
+      "asin": "B0CC2QZ1VJ",
+      "csi_title": "Skechers Baskets pour Homme, Maille synth&#233;tique Grise, 40 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": null,
+          "additional_sizes_detected": [
+            "40 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"7.5\"",
+            "legacy_unit": "mens_us"
+          }
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "male",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Matériau intérieur : Textile",
+            "Matériau extérieur : Éthylène-acétate de vinyle (EVA)",
+            "Matériau unique : Textile"
+          ],
+          "other": [
+            "Type de fermeture : Lacet",
+            "Type de talon : Plat",
+            "Closure type: lace",
+            "Heel type: flat",
+            "Inner material: textile",
+            "Outer material: EVA",
+            "Unique Material: Textile"
+          ]
+        }
+      }
+    },
+    {
+      "asin": "B0F42LK9SS",
+      "csi_title": "Sosenfer Chaussures unisexes larges pieds nus - Chaussures minimalistes pour hommes et femmes - Chaussures de randonn&#233;e pour l&apos;ext&#233;rieur - Baskets &#224; enfiler, 44 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": "44 EU",
+          "additional_sizes_detected": [
+            "$additional_links_augmentor_147::{",
+            "numeric_44,",
+            "44 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"10\"",
+            "legacy_unit": "mens_us"
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_44",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 44
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": "Caoutchouc",
+          "normalized": "Rubber"
+        },
+        "bullet_points": {
+          "fr": [
+            "Large boîte à orteils : profitez de l'espace généreux pour vos orteils, laissez vos pieds respirer librement et bouger naturellement, sans points de pression.",
+            "Simple et léger : Ressentez la légèreté comme une seconde peau, réduisez la charge sur vos pieds et adaptez-vous parfaitement au quotidien.",
+            "Confortable et mobile : chaque pas est léger et mobile, grâce à des matériaux confortables et à un design flexible qui vous offrent une liberté de mouvement à tout moment.",
+            "Matériau respirant : garde vos pieds au sec et ventilés pour vous garder à l'aise par tous les temps.",
+            "Design à enfilage rapide : le design pratique à enfilage rapide vous permet d'enfiler et de retirer rapidement les chaussures, idéal pour une vie rapide."
+          ],
+          "other": [
+            "Wide Toe Box Enjoy the generous space for your toes, let your feet breathe freely and move naturally, without pressure points.",
+            "SIMPLE AND LIGHTWEIGHT: Enjoy lightness like a second skin, reduce the burden on your feet and fit perfectly into daily life.",
+            "COMFORTABLE AND MOBILE - Each step is lightweight and mobile, thanks to comfortable materials and flexible design that give you freedom of movement at all times.",
+            "BREATHABLE MATERIAL - Keep your feet dry and ventilated to keep you comfortable in any weather.",
+            "QUICK ON DESIGN - Convenient quick slip on design allows you to quickly put on and take off shoes, ideal for a quick life."
+          ]
+        }
+      }
+    },
+    {
+      "asin": "B0D78N1CDX",
+      "csi_title": "HIZYZ Anime Cosplay Chaussures en Toile Hautes Unisexe Baskets, j, 40 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_118::{",
+          "size_map": "40 EU",
+          "additional_sizes_detected": [
+            "numeric_40,",
+            "40 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_40",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "adult",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 40
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_40",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 40
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": "Rubber",
+          "normalized": "Rubber"
+        },
+        "bullet_points": {
+          "fr": [
+            "Matériau : toile de haute qualité + caoutchouc",
+            "Un style polyvalent que vous pouvez combiner comme vous le souhaitez.",
+            "A versatile style that you can combine as you like."
+          ],
+          "other": [
+            "Contenu de l'emballage : 1 paire de chaussures",
+            "Attention : Largeur moyenne, si vous avez plus d’espace, veuillez choisir une taille plus grande.",
+            "Package: 1 pair of shoes",
+            "Material: high quality canvas + rubber",
+            "Attention: Medium width, if you have more space, please choose a larger size."
+          ]
+        }
+      }
+    },
+    {
+      "asin": "B0F4F15HL5",
+      "csi_title": "DC Shoes Baskets DC Coiler pour Homme, Noir/Gris/Rouge, 43 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": null,
+          "additional_sizes_detected": [
+            "43 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"10\"",
+            "legacy_unit": "mens_us"
+          }
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "male",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "__Matière :__ Empeigne en cuir, suede ou nubuck",
+            "Perforations pour une meilleure respirabilité",
+            "Languette et col matelassés pour plus de confort",
+            "__Semelle extérieure :__ semelle « Pill Pattern » de DC"
+          ],
+          "other": [
+            "Col en mesh",
+            "__Material:__ Upper in leather, suede or nubuck",
+            "Mesh collar",
+            "Perforations for breathability",
+            "Padded tongue and collar for comfort",
+            "__Outsole:__ DC Pill Pattern Sole"
+          ]
+        }
+      }
+    },
+    {
+      "asin": "B0BXFLQPHX",
+      "csi_title": "Lappade Chausson de Gymnastique Extra Larges et de Ballet",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_141::{",
+          "size_map": "39 EU Large",
+          "additional_sizes_detected": [
+            "numeric_39,",
+            "39 EU Large"
+          ],
+          "structured_size": {
+            "size": "numeric_39",
+            "age_group": "adult",
+            "size_system": "eu_footwear_size_system",
+            "width": "wide",
+            "size_class": "numeric",
+            "numeric_size": 39
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_39",
+          "age_group": "adult",
+          "size_system": "eu_footwear_size_system",
+          "width": "wide",
+          "size_class": "numeric",
+          "numeric_size": 39
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": "Caoutchouc",
+          "normalized": "Rubber"
+        },
+        "bullet_points": {
+          "fr": [
+            "Les chaussures de gymnastique Ballerina avec semelle en cuir noir et blanc offrent un confort optimal pour tous les âges. Que ce soit pour les femmes, les hommes, les enfants, les filles ou les garçons, ces chaussures de gymnastique s'adaptent parfaitement à toutes les formes de pied et assurent un confort optimal. Le cuir lisse doux de qualité supérieure épouse doucement le pied et permet une liberté de mouvement optimale, tandis que la semelle antidérapante en daim offre un maintien sûr sur différentes surfaces.",
+            "Les chaussures de gymnastique Ballerina avec semelle en caoutchouc noir et blanc offrent un maintien sûr à chaque mouvement grâce à leur coupe et à leur semelle en caoutchouc antidérapante. En particulier pour les activités sportives telles que le ballet, la gymnastique et la danse, un maintien stable est essentiel pour éviter les blessures et obtenir des performances optimales. La semelle en caoutchouc est non seulement résistante, mais aussi flexible, ce qui en fait le choix idéal pour les mouvements dynamiques.",
+            "Les chaussures de gymnastique Ballerina avec coussinets en caoutchouc noir et blanc sont spécialement conçues pour offrir une protection et un confort supplémentaires. Les coussinets en caoutchouc sur la semelle confèrent aux chaussures une meilleure adhérence et augmentent l'amortissement lors des mouvements intenses. Cela en fait le choix idéal pour les activités sportives telles que la gymnastique, l'aérobic et la danse où des changements de direction rapides et des sauts sont nécessaires.",
+            "Les chaussures de gymnastique Ballerina avec semelle en cuir, semelle en caoutchouc et coussinets en caoutchouc en noir et blanc se caractérisent par leur finition de qualité supérieure en 100 % cuir lisse véritable. Ce matériau est non seulement particulièrement doux et agréable à porter, mais aussi extrêmement résistant et durable. Le cuir lisse s'adapte parfaitement à la forme du pied et offre un soutien flexible mais stable à chaque mouvement.",
+            "Les chaussures de gymnastique Ballerina en noir et blanc sont disponibles dans une coupe spécialement conçue pour offrir un maximum de confort pour toutes les formes de pieds. Cette coupe large permet aux chaussures de s'adapter parfaitement au pied sans serrer ni causer de points de pression. Ceci est particulièrement important pour les activités sportives telles que le ballet, la gymnastique, l'aérobic et la danse, où le pied a besoin d'un soutien optimal."
+          ]
+        }
+      }
+    },
+    {
+      "asin": "B0DTPM6YJQ",
+      "csi_title": "Pepe Jeans Baskets Joe Basic pour Homme, Noir (Noir), 45 EU, Noir, 46 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_344::{",
+          "size_map": "46 EU",
+          "additional_sizes_detected": [
+            "numeric_46,",
+            "46 EU"
+          ],
+          "structured_size": {
+            "gender": "men",
+            "size": "numeric_46",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "adult",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 46
+          }
+        },
+        "footwear_size": {
+          "gender": "men",
+          "size": "numeric_46",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 46
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Baskets basses Joe Basic sur semelle en caoutchouc, col rembourré",
+            "Languette de marque et logo classique sur le côté",
+            "100 % polyuréthane"
+          ],
+          "other": [
+            "Joe Basic low top sneakers on rubber sole, padded collar",
+            "Branded tongue and classic logo on the side",
+            "100% Polyurethane"
+          ]
+        }
+      }
+    },
+    {
+      "asin": "B0FK4R5FVG",
+      "csi_title": "STQ Baskets Filles Gar&#231;ons Chaussures Pieds Nus Enfants Bout Large Baskets d&apos;&#201;cole Minimalistes Tennis Antid&#233;rapantes Premi&#232;re Marche L&#233;g&#232;res Respirantes Chaussure de Course avec Scratch, violet, 4 UK",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_118::{",
+          "size_map": "21 EU Large",
+          "additional_sizes_detected": [
+            "numeric_21,",
+            "21 EU Large"
+          ],
+          "structured_size": {
+            "size": "numeric_21",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "toddler",
+            "width": "wide",
+            "size_class": "numeric",
+            "numeric_size": 21
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_21",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "toddler",
+          "width": "wide",
+          "size_class": "numeric",
+          "numeric_size": 21
+        },
+        "age_range": {
+          "raw_values": [
+            "Bébé",
+            "Baby"
+          ],
+          "normalized": "toddler"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": "Polyéthylène thermoplastique (TPE)",
+          "normalized": "Polyéthylène thermoplastique (TPE)"
+        },
+        "bullet_points": {
+          "fr": [
+            "Large zone d'orteils : le design des chaussures pieds nus pour enfants offre suffisamment de place pour les petits orteils, soulageant l'inconfort causé par la pression et favorisant un développement sain du pied. Disponibles en différentes tailles, les chaussures pieds nus pour enfants garantissent le confort pendant le jeu",
+            "[ Pieds nus zéro dénivelé ] : Conception de semelle à dénivelé zéro simulant la marche pieds nus, sentir le sol, améliore le sens de l'équilibre et de la coordination d'un enfant, favorise le développement des pieds des tout-petits",
+            "Faciles à porter : chaussures pieds nus pour enfants avec scratch réglable, pratiques pour que les parents puissent aider les enfants à enfiler des chaussures à bout large, également faciles à enfiler et enlever par les enfants eux-mêmes. Languette fixe, ne se détache pas. Excellent choix pour les parents occupés à offrir aux enfants",
+            "Antidérapantes : ces chaussures pieds nus pour tout-petits disposent d'une semelle extérieure légère et durable qui empêche le glissement, augmente la traction avec le sol et améliore la sécurité des petits enfants lorsqu'ils marchent ou s'engagent dans des activités",
+            "Design élégant : ces baskets pour enfants sont respirantes et confortables, adaptées aux pieds larges garçons et filles. Parfaitement assorti à une tenue quotidienne. Ils sont un choix idéal pour l'école, les activités intérieures et extérieures, la garderie, le sport"
+          ],
+          "other": [
+            "[HEALTHY GROWTH]: Wide-toe shoes and barefoot design prevent finger compression. No heel to promote baby's natural foot development",
+            "MAXIMUM COMFORT - Interior made with soft and breathable fabrics, also suitable for underwear that protects your baby's delicate skin",
+            "[Anti-slip]: Lightweight, soft and highly flexible TPR material sole with profile that improves grip, preventing falls on slippery surfaces",
+            "[Convenient]: Adjustable resistant, for easy and quick adjustment for parents and children",
+            "[GROWING COMPANION]: Available in different sizes, from crawling shoes to those for first steps, ideal for both indoor and outdoor use"
+          ]
+        }
+      }
+    },
+    {
+      "asin": "B077FX3RCN",
+      "csi_title": "Solshine Chaussures pour femme en cuir su&#233;d&#233; avec plateforme, talon compens&#233;, l&#233;g&#232;res, &#224; enfiler, mocassins, baskets d&#233;contract&#233;es, Rouge, 38.5 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_286::{",
+          "size_map": "39 EU",
+          "additional_sizes_detected": [
+            "numeric_39,",
+            "39 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_39",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "adult",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 39
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_39",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 39
+        },
+        "age_range": {
+          "raw_values": [
+            "Adult",
+            "Adulte"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Veuillez choisir une taille au-dessus de votre taille habituelle !!! Semelle en polyuréthane légère, améliore la traction et l'adhérence, confortable pour la marche",
+            "Chaussures à enfiler, faciles à mettre et à enlever, pratiques pour le travail ou la marche",
+            "Hauteur du talon : 4,5 cm. Ces chaussures plates confortables conviennent parfaitement à la marche, au travail, aux voyages, aux sorties, aux rendez-vous, à la rue, au shopping, à la promenade à la campagne ou en ville, pour un look décontracté, à la mode et tendance"
+          ],
+          "other": [
+            "Please choose a larger size than usual. Lightweight PU sole, improve traction and grip, comfortable when walking",
+            "Slip-on shoes, easy to put on and take off, comfortable for work or walk",
+            "Heel height: 4.5 cm. These comfortable platform shoes are perfect for walks, work, travel, work, dating, street, shopping, country walks or city or city walks, casual, fashion and fashion"
+          ]
+        }
+      }
+    },
+    {
+      "asin": "B0BSFZTXQ7",
+      "csi_title": "BOSS Kai_Runn_nytx Chaussures de Course pour Homme, Gris Ouvert., 45 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_385::{",
+          "size_map": "45 EU",
+          "additional_sizes_detected": [
+            "numeric_45,",
+            "45 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_45",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "adult",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 45
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_45",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 45
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Fabrication de qualité supérieure"
+          ],
+          "other": [
+            "High-quality workmanship"
+          ]
+        }
+      }
+    },
+    {
+      "asin": "B0D78M7KYK",
+      "csi_title": "HIZYZ Anime Cosplay Chaussures en Toile Hautes Unisexe Baskets, f, 37 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_95::{",
+          "size_map": "37 EU",
+          "additional_sizes_detected": [
+            "numeric_37,",
+            "37 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_37",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "adult",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 37
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_37",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 37
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": "Caoutchouc",
+          "normalized": "Rubber"
+        },
+        "bullet_points": {
+          "fr": [
+            "Matériau : toile de haute qualité + caoutchouc",
+            "Un style polyvalent que vous pouvez combiner comme vous le souhaitez.",
+            "A versatile style that you can combine as you like."
+          ],
+          "other": [
+            "Paquet : 1 paire de chaussures",
+            "Attention : Largeur moyenne, si vous avez plus d’espace, veuillez choisir une taille plus grande.",
+            "Package: 1 pair of shoes",
+            "Material: high quality canvas + rubber",
+            "Attention: Medium width, if you have more space, please choose a larger size."
+          ]
+        }
+      }
+    },
+    {
+      "asin": "B0D78P58LW",
+      "csi_title": "HIZYZ Anime Cosplay Chaussures en Toile Hautes Unisexe Baskets, b, 42 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_402::{",
+          "size_map": "42 EU",
+          "additional_sizes_detected": [
+            "numeric_42,",
+            "42 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_42",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "adult",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 42
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_42",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 42
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Matériau : toile de haute qualité + caoutchouc",
+            "Un style polyvalent que vous pouvez combiner comme vous le souhaitez.",
+            "A versatile style that you can combine as you like."
+          ],
+          "other": [
+            "Contenu du colis : 1 paire de chaussures",
+            "Attention : Largeur moyenne, si vous avez plus d’espace, veuillez choisir une taille plus grande.",
+            "Package: 1 pair of shoes",
+            "Material: high quality canvas + rubber",
+            "Attention: Medium width, if you have more space, please choose a larger size."
+          ]
+        }
+      }
+    },
+    {
+      "asin": "B07H82QYB6",
+      "csi_title": "Solshine Chaussures pour femme en cuir su&#233;d&#233; avec plateforme, talon compens&#233;, l&#233;g&#232;res, &#224; enfiler, mocassins, baskets d&#233;contract&#233;es, 35.5 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_263::{",
+          "size_map": "35 EU",
+          "additional_sizes_detected": [
+            "numeric_35,",
+            "35 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_35",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "adult",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 35
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_35",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 35
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {}
+      }
+    },
+    {
+      "asin": "B0D78NHDGM",
+      "csi_title": "HIZYZ Anime Cosplay Chaussures en Toile Hautes Unisexe Baskets, h, 34 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_372::{",
+          "size_map": "34 EU",
+          "additional_sizes_detected": [
+            "numeric_34,",
+            "34 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_34",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "toddler",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 34
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_34",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "toddler",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 34
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte"
+          ],
+          "normalized": "toddler"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": "nan",
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Matériau : toile de haute qualité + caoutchouc",
+            "Un style polyvalent que vous pouvez combiner comme vous le souhaitez."
+          ],
+          "other": [
+            "Contenu du colis : 1 paire de chaussures",
+            "Attention : Largeur moyenne, si vous avez plus d’espace, veuillez choisir une taille plus grande."
+          ]
+        }
+      }
+    },
+    {
+      "asin": "B07H7ZMM53",
+      "csi_title": "Solshine Chaussures pour femme en cuir su&#233;d&#233; avec plateforme, talon compens&#233;, l&#233;g&#232;res, &#224; enfiler, mocassins, baskets d&#233;contract&#233;es, Noir 4, 35.5 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_263::{",
+          "size_map": "35 EU",
+          "additional_sizes_detected": [
+            "numeric_35,",
+            "35 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_35",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "adult",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 35
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_35",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 35
+        },
+        "age_range": {
+          "raw_values": [
+            "Adult",
+            "Adulte"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": "Rubber",
+          "normalized": "Rubber"
+        },
+        "bullet_points": {}
+      }
+    },
+    {
+      "asin": "B0D78NMFW1",
+      "csi_title": "HIZYZ Anime Cosplay Chaussures en Toile Hautes Unisexe Baskets, k, 34 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_396::{",
+          "size_map": "34 EU",
+          "additional_sizes_detected": [
+            "numeric_34,",
+            "34 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_34",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "toddler",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 34
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_34",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "toddler",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 34
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte"
+          ],
+          "normalized": "toddler"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": "Caoutchouc",
+          "normalized": "Rubber"
+        },
+        "bullet_points": {
+          "fr": [
+            "Matériau : toile de haute qualité + caoutchouc",
+            "Un style polyvalent que vous pouvez combiner comme vous le souhaitez."
+          ],
+          "other": [
+            "Contenu du colis : 1 paire de chaussures",
+            "Attention : Largeur moyenne, si vous avez plus d’espace, veuillez choisir une taille plus grande."
+          ]
+        }
+      }
+    },
+    {
+      "asin": "B0D2KW7R2Q",
+      "csi_title": "Puma Puma Fun Racer 2 SLIPTECH INF, Basket Unisexe, Magic Rose-Puma White,",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "24 EU",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Bébé",
+            "Baby"
+          ],
+          "normalized": "bébé"
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "other": [
+            "Puma Fun Racer 2 SLIPTECH Inf",
+            "Puma Fun Racer 2 SLIPTECH INF"
+          ]
+        }
+      }
+    },
+    {
+      "asin": "B0C69FQLNM",
+      "csi_title": "Geox Baskets D Ilde A pour Femme, Champagne Lt Sable, 37 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": null,
+          "additional_sizes_detected": [
+            "37 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"6.5\"",
+            "legacy_unit": "womens_us"
+          }
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Matériau intérieur : synthétique",
+            "Matériau extérieur : cuir",
+            "Forme du talon : talon compensé"
+          ],
+          "other": [
+            "Semelle : caoutchouc",
+            "Fermeture : lacets",
+            "Inner material: synthetic",
+            "Upper material: leather",
+            "Sole: Rubber",
+            "Heel shape: wedge heel",
+            "Closure: laces"
+          ]
+        }
+      }
+    },
+    {
+      "asin": "B0BXFJMWLN",
+      "csi_title": "Lappade Chausson de Gymnastique Extra Larges et de Ballet, Semelle en Cuir Noir Taille 32",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_141::{",
+          "size_map": "32 EU Large",
+          "additional_sizes_detected": [
+            "numeric_32,",
+            "32 EU Large"
+          ],
+          "structured_size": {
+            "size": "numeric_32",
+            "age_group": "little_kid",
+            "size_system": "eu_footwear_size_system",
+            "width": "wide",
+            "size_class": "numeric",
+            "numeric_size": 32
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_32",
+          "age_group": "little_kid",
+          "size_system": "eu_footwear_size_system",
+          "width": "wide",
+          "size_class": "numeric",
+          "numeric_size": 32
+        },
+        "age_range": {
+          "raw_values": [
+            "Kid",
+            "Enfant"
+          ],
+          "normalized": "little_kid"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Les chaussures de gymnastique Ballerina avec semelle en cuir noir et blanc offrent un confort optimal pour tous les âges. Que ce soit pour les femmes, les hommes, les enfants, les filles ou les garçons, ces chaussures de gymnastique extra larges s'adaptent parfaitement à toutes les formes de pied et assurent un confort optimal. Le cuir lisse doux de qualité supérieure épouse doucement le pied et permet une liberté de mouvement optimale, tandis que la semelle antidérapante en daim offre un maintien sûr sur différentes surfaces.",
+            "Les chaussures de gymnastique Ballerina avec semelle en caoutchouc noir et blanc offrent un maintien sûr à chaque mouvement grâce à leur coupe extra large et à leur semelle en caoutchouc antidérapante. En particulier pour les activités sportives telles que le ballet, la gymnastique et la danse, un maintien stable est essentiel pour éviter les blessures et obtenir des performances optimales. La semelle en caoutchouc est non seulement résistante, mais aussi flexible, ce qui en fait le choix idéal pour les mouvements dynamiques.",
+            "Les chaussures de gymnastique Ballerina avec coussinets en caoutchouc noir et blanc sont spécialement conçues pour offrir une protection et un confort supplémentaires. Les coussinets en caoutchouc extra larges sur la semelle confèrent aux chaussures une meilleure adhérence et augmentent l'amortissement lors des mouvements intenses. Cela en fait le choix idéal pour les activités sportives telles que la gymnastique, l'aérobic et la danse où des changements de direction rapides et des sauts sont nécessaires.",
+            "Les chaussures de gymnastique Ballerina avec semelle en cuir, semelle en caoutchouc et coussinets en caoutchouc en noir et blanc se caractérisent par leur finition de qualité supérieure en 100 % cuir lisse véritable. Ce matériau est non seulement particulièrement doux et agréable à porter, mais aussi extrêmement résistant et durable. Le cuir lisse s'adapte parfaitement à la forme du pied et offre un soutien flexible mais stable à chaque mouvement.",
+            "Les chaussures de gymnastique Ballerina en noir et blanc sont disponibles dans une coupe extra large, spécialement conçue pour offrir un maximum de confort pour toutes les formes de pieds. Cette coupe large permet aux chaussures de s'adapter parfaitement au pied sans serrer ni causer de points de pression. Ceci est particulièrement important pour les activités sportives telles que le ballet, la gymnastique, l'aérobic et la danse, où le pied a besoin d'un soutien optimal."
+          ],
+          "other": [
+            "Brand: Lappade",
+            "Lappade Gymnastics Ballet Gymnastics Dance Shoes Extra Wide Unisex Sole Black Leather Sole 13 UK",
+            "size : 13.5 uk - child",
+            "Colour: black leather sole"
+          ]
+        }
+      }
+    },
+    {
+      "asin": "B0DLLJW7SQ",
+      "csi_title": "Aeronautica Militare Chaussures Homme, Brown Blue, 43 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": "43 EU",
+          "additional_sizes_detected": [
+            "$additional_links_augmentor_123::{",
+            "numeric_43,",
+            "43 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"10\"",
+            "legacy_unit": "mens_us"
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_43",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 43
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "male",
+        "material": {
+          "raw": "Polyester",
+          "normalized": "Polyester"
+        },
+        "bullet_points": {
+          "fr": [
+            "Chaussures pour homme aéronautique militaire. Modèle : baskets. Matériau : cuir synthétique - textile. Couleur : marron"
+          ]
+        }
+      }
+    },
+    {
+      "asin": "B0DTPNMHTP",
+      "csi_title": "Pepe Jeans Baskets Joe Basic pour Homme, Noir (Noir), Pointure 42, Noir, 42 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_321::{",
+          "size_map": "42 EU",
+          "additional_sizes_detected": [
+            "numeric_42,",
+            "42 EU"
+          ],
+          "structured_size": {
+            "gender": "men",
+            "size": "numeric_42",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "adult",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 42
+          }
+        },
+        "footwear_size": {
+          "gender": "men",
+          "size": "numeric_42",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 42
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Baskets basses Joe Basic sur semelle en caoutchouc, col rembourré",
+            "Languette de marque et logo classique sur le côté",
+            "100 % polyuréthane"
+          ],
+          "other": [
+            "Joe Basic low top sneakers on rubber sole, padded collar",
+            "Branded tongue and classic logo on the side",
+            "100% Polyurethane"
+          ]
+        }
+      }
+    },
+    {
+      "asin": "B0CPPXFV3N",
+      "csi_title": "Geox B RISHON Boy A, Basket,",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "23 EU",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Kid"
+          ],
+          "normalized": "kid"
+        },
+        "target_gender": "male",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Systèmes brevetés Geox : respirabilité de la semelle et bien-être des pieds",
+            "Semelle de marche avec Flexy System intégré pour une souplesse optimale",
+            "Support à la cheville pour une mobilité optimale du pied",
+            "Semelle intérieure en cuir atoxique sans chrome",
+            "Semelle intérieure antibactérienne",
+            "Enfilage facile avec scratch unique et lacets élastiques"
+          ],
+          "other": [
+            "Patented Geox systems: breathability of the sole and well-being of the feet",
+            "Walking sole with integrated Flexy System for optimal flexibility",
+            "Ankle support for optimal foot mobility",
+            "Chromium-free non-toxic leather insole",
+            "Antibacterial insole",
+            "Easy to put on with unique Velcro and elastic laces"
+          ]
+        }
+      }
+    },
+    {
+      "asin": "B07H81XYTS",
+      "csi_title": "Solshine Chaussures pour femme en cuir su&#233;d&#233; avec plateforme, talon compens&#233;, l&#233;g&#232;res, &#224; enfiler, mocassins, baskets d&#233;contract&#233;es, 37 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_263::{",
+          "size_map": "37 EU",
+          "additional_sizes_detected": [
+            "numeric_37,",
+            "37 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_37",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "adult",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 37
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_37",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 37
+        },
+        "age_range": {
+          "raw_values": [
+            "Adult",
+            "Adulte"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {}
+      }
+    },
+    {
+      "asin": "B07H82CL23",
+      "csi_title": "Solshine Chaussures pour femme en cuir su&#233;d&#233; avec plateforme, talon compens&#233;, l&#233;g&#232;res, &#224; enfiler, mocassins, baskets d&#233;contract&#233;es, 36 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_263::{",
+          "size_map": "36 EU",
+          "additional_sizes_detected": [
+            "numeric_36,",
+            "36 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_36",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "adult",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 36
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_36",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 36
+        },
+        "age_range": {
+          "raw_values": [
+            "Adult",
+            "Adulte"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {}
+      }
+    },
+    {
+      "asin": "B0DTTPXYWH",
+      "csi_title": "ARISIC Chaussures de s&#233;curit&#233; avec embout en acier pour hommes et femmes - Baskets de travail indestructibles - Chaussures de travail l&#233;g&#232;res avec coussin en acier - Baskets de mode, Noir , 39 2/3 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_96::{",
+          "size_map": "39 2/3 EU",
+          "additional_sizes_detected": [
+            "fraction_39_and_2_thirds,",
+            "39 2/3 EU",
+            "Neutre"
+          ],
+          "structured_size": {
+            "size": "fraction_39_and_2_thirds",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "adult",
+            "width": "medium",
+            "size_class": "numeric"
+          }
+        },
+        "footwear_size": {
+          "size": "fraction_39_and_2_thirds",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric"
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "male",
+        "material": {
+          "raw": "Synthétique",
+          "normalized": "Synthétique"
+        },
+        "bullet_points": {
+          "fr": [
+            "Tige en maille : la respirabilité maximise la tige et permet à votre pied de rester au sec et au frais",
+            "Chaussures à bout en acier : l'embout en acier peut protéger vos pieds contre le roulement accidentel ou la chute d'objets pendant le travail",
+            "【Amortissement par air】 : La semelle à amorti d'air offrant un soutien stable et une absorption des chocs optimale pour le travail",
+            "Semelle en Kevlar anti-crevaison : baskets de sécurité avec semelle intermédiaire en Kevlar pour protéger vos pieds contre les perforations d'objets tranchants"
+          ],
+          "other": [
+            "【Baskets avec embout en acier pour homme et femme】"
+          ]
+        }
+      }
+    },
+    {
+      "asin": "B0FVLY339D",
+      "csi_title": "adidas Gazelle Indoor JI0324, Baskets Unisexe - 37 1/3 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_118::{",
+          "size_map": "37 1/3 EU",
+          "additional_sizes_detected": [
+            "fraction_37_and_1_third,",
+            "37 1/3 EU"
+          ],
+          "structured_size": {
+            "size": "fraction_37_and_1_third",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "adult",
+            "width": "medium",
+            "size_class": "numeric"
+          }
+        },
+        "footwear_size": {
+          "size": "fraction_37_and_1_third",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric"
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": "Caoutchouc",
+          "normalized": "Rubber"
+        },
+        "bullet_points": {
+          "fr": [
+            "Style intemporel idéal pour un usage quotidien",
+            "Confort durable grâce à la doublure textile douce",
+            "Semelle en caoutchouc offrant adhérence et résistance",
+            "Légèreté parfaite pour marcher toute la journée",
+            "Matières recyclées respectueuses de l'environnement"
+          ],
+          "other": [
+            "Classic shape",
+            "Lace-up closure",
+            "Leather and synthetic upper",
+            "Textile lining",
+            "Rubber sole"
+          ]
+        }
+      }
+    },
+    {
+      "asin": "B0D78PF4PB",
+      "csi_title": "HIZYZ Anime Cosplay Chaussures en Toile Hautes Unisexe Baskets, g, 34 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_143::{",
+          "size_map": "34 EU",
+          "additional_sizes_detected": [
+            "numeric_34,",
+            "34 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_34",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "toddler",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 34
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_34",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "toddler",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 34
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte"
+          ],
+          "normalized": "toddler"
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Matériau : toile de haute qualité + caoutchouc",
+            "Un style polyvalent que vous pouvez combiner comme vous le souhaitez."
+          ],
+          "other": [
+            "Contenu du colis : 1 paire de chaussures",
+            "Attention : Largeur moyenne, si vous avez plus d’espace, veuillez choisir une taille plus grande."
+          ]
+        }
+      }
+    },
+    {
+      "asin": "B07H81WC7W",
+      "csi_title": "Solshine Chaussures pour femme en cuir su&#233;d&#233; avec plateforme, talon compens&#233;, l&#233;g&#232;res, &#224; enfiler, mocassins, baskets d&#233;contract&#233;es, Noir 4, 38.5 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_263::{",
+          "size_map": "39 EU",
+          "additional_sizes_detected": [
+            "numeric_39,",
+            "39 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_39",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "adult",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 39
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_39",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 39
+        },
+        "age_range": {
+          "raw_values": [
+            "Adult",
+            "Adulte"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {}
+      }
+    },
+    {
+      "asin": "B0D78P6KYM",
+      "csi_title": "HIZYZ Anime Cosplay Chaussures en Toile Hautes Unisexe Baskets, g, 38 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_95::{",
+          "size_map": "38 EU",
+          "additional_sizes_detected": [
+            "numeric_38,",
+            "38 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_38",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "adult",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 38
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_38",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 38
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Matériau : toile de haute qualité + caoutchouc",
+            "Un style polyvalent que vous pouvez combiner comme vous le souhaitez.",
+            "A versatile style that you can combine as you like."
+          ],
+          "other": [
+            "Contenu du colis : 1 paire de chaussures",
+            "Attention : Largeur moyenne, si vous avez plus d’espace, veuillez choisir une taille plus grande.",
+            "Package: 1 pair of shoes",
+            "Material: high quality canvas + rubber",
+            "Attention: Medium width, if you have more space, please choose a larger size."
+          ]
+        }
+      }
+    },
+    {
+      "asin": "B0FC31WQB1",
+      "csi_title": "Saucony Ride 18 Chaussures de course EU 42, 42.5 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": "42.5 EU",
+          "additional_sizes_detected": [
+            "$additional_links_augmentor_124::{",
+            "numeric_42_point_5,",
+            "42.5 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"9\"",
+            "legacy_unit": "mens_us"
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_42_point_5",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 42
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "male",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "La nouvelle tige en maille ingéniée offre une plus grande respirabilité et élasticité pour un meilleur ajustement",
+            "Amortissement amélioré du col du",
+            "La mousse PWRRUN+ mise à jour est désormais plus légère, plus douce et plus réactive, donc vous expérimenterez encore plus de retour d'énergie à chaque pas, grâce à l'augmentation de la teneur en mousse et au faible poids de la chaussure",
+            "Semelle en caoutchouc soufflée pour une plus longue durée dans les zones à haute usure avec rainures flexibles, assurant un mouvement fluide et stable"
+          ],
+          "other": [
+            "8 mm goutte"
+          ]
+        }
+      }
+    },
+    {
+      "asin": "B0D78MZY78",
+      "csi_title": "HIZYZ Anime Cosplay Chaussures en Toile Hautes Unisexe Baskets, k, 38 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_396::{",
+          "size_map": "38 EU",
+          "additional_sizes_detected": [
+            "numeric_38,",
+            "38 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_38",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "adult",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 38
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_38",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 38
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Matériau : toile de haute qualité + caoutchouc",
+            "Un style polyvalent que vous pouvez combiner comme vous le souhaitez.",
+            "A versatile style that you can combine as you like."
+          ],
+          "other": [
+            "Contenu de l'emballage : 1 paire de chaussures",
+            "Attention : Largeur moyenne, si vous avez plus d’espace, veuillez choisir une taille plus grande.",
+            "Package: 1 pair of shoes",
+            "Material: high quality canvas + rubber",
+            "Attention: Medium width, if you have more space, please choose a larger size."
+          ]
+        }
+      }
+    },
+    {
+      "asin": "B0D78Q2Z4R",
+      "csi_title": "HIZYZ Anime Cosplay Chaussures en Toile Hautes Unisexe Baskets, b, 41 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_95::{",
+          "size_map": "41 EU",
+          "additional_sizes_detected": [
+            "numeric_41,",
+            "41 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_41",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "adult",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 41
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_41",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 41
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Matériau : toile de haute qualité + caoutchouc",
+            "Un style polyvalent que vous pouvez combiner comme vous le souhaitez.",
+            "A versatile style that you can combine as you like."
+          ],
+          "other": [
+            "Contenu du colis : 1 paire de chaussures",
+            "Attention : Largeur moyenne, si vous avez plus d’espace, veuillez choisir une taille plus grande.",
+            "Package: 1 pair of shoes",
+            "Material: high quality canvas + rubber",
+            "Attention: Medium width, if you have more space, please choose a larger size."
+          ]
+        }
+      }
+    },
+    {
+      "asin": "B0D78L62YR",
+      "csi_title": "HIZYZ Anime Cosplay Chaussures en Toile Hautes Unisexe Baskets, e, 34 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_143::{",
+          "size_map": "34 EU",
+          "additional_sizes_detected": [
+            "numeric_34,",
+            "34 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_34",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "toddler",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 34
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_34",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "toddler",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 34
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte"
+          ],
+          "normalized": "toddler"
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Matériau : toile de haute qualité + caoutchouc",
+            "Un style polyvalent que vous pouvez combiner comme vous le souhaitez."
+          ],
+          "other": [
+            "Contenu du colis : 1 paire de chaussures",
+            "Attention : Largeur moyenne, si vous avez plus d’espace, veuillez choisir une taille plus grande."
+          ]
+        }
+      }
+    },
+    {
+      "asin": "B0BLST5ZFF",
+      "csi_title": "Mizuno Chaussures de Course Wave Ultima 14 pour Homme, Bdepths Harmist Hocean, 43 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "43 EU",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "male",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Confort rembourré",
+            "Mizuno Wave offre amorti et stabilité",
+            "La plaque ondulée aide à propulser vers l'avant"
+          ],
+          "other": [
+            "MIZUNO La mousse ENERZY offre un amorti doux",
+            "Cushioned Comfort",
+            "MIZUNO ENERZY foam provides soft cushioning",
+            "Mizuno Wave provides cushioning and stability",
+            "Corrugated plate helps propel forward"
+          ]
+        }
+      }
+    }
+  ],
+  "stats": {
+    "asin_blocks_found": 46,
+    "records_extracted": 46,
+    "records_skipped_no_csi": 0
+  }
+}
