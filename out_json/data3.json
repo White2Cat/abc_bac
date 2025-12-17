@@ -1,0 +1,5079 @@
+{
+  "source_file": "data3.txt",
+  "records": [
+    {
+      "asin": "B0D2KP71J6",
+      "csi_title": "Puma Flyer 3 AC+ INF, Basket Unisexe, Puma Black-Puma White,",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_388::{",
+          "size_map": "26 EU",
+          "additional_sizes_detected": [
+            "numeric_26,",
+            "26 EU"
+          ],
+          "structured_size": {
+            "gender": "men",
+            "size": "numeric_26",
+            "age_group": "infant",
+            "size_system": "eu_footwear_size_system",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 26
+          }
+        },
+        "footwear_size": {
+          "gender": "men",
+          "size": "numeric_26",
+          "age_group": "infant",
+          "size_system": "eu_footwear_size_system",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 26
+        },
+        "age_range": {
+          "raw_values": [
+            "Bébé",
+            "Baby"
+          ],
+          "normalized": "infant"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Matériaux respirants",
+            "Léger et rembourré"
+          ],
+          "other": [
+            "Flyer 3 AC+ Inf",
+            "Breathable materials",
+            "Lightweight and padded"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61qC2T5wvLL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0D2KP71J6"
+      }
+    },
+    {
+      "asin": "B0CPPX76WL",
+      "csi_title": "Geox B MACCHIA Boy A, Basket,",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "21 EU",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Enfant",
+            "Kid"
+          ],
+          "normalized": "kid"
+        },
+        "target_gender": "male",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Chaussures développées en partenariat avec l'Association italienne des podologues",
+            "Bout renforcé et support de cheville",
+            "Semelle intérieure amovible , Assise plantaire antibactérienne",
+            "Semelle intérieure doublée en cuir non toxique sans chrome"
+          ],
+          "other": [
+            "Shoes developed in partnership with the Italian Association of Podiatrists",
+            "Reinforced toe and ankle support",
+            "Removable insole, antibacterial footbed",
+            "Non-toxic chrome free leather lined insole"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/41MzBWZbRfL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0CPPX76WL"
+      }
+    },
+    {
+      "asin": "B0CPPWGRNS",
+      "csi_title": "Geox B ELTHAN Boy A, Basket,",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "21 EU",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Kid"
+          ],
+          "normalized": "kid"
+        },
+        "target_gender": "male",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Les systèmes brevetés Geox offrent la respirabilité de la semelle et le bien-être des pieds",
+            "La semelle de marche avec Flexy System intégré offerts une souplesse optimale",
+            "Modèle qui assure au pied la mobilité idéale grâce au support à la cheville",
+            "Enfilage immédiat grâce à la fermeture à scratch",
+            "Semelle intérieure amovible",
+            "Doublure intérieure chaude en laine véritable"
+          ],
+          "other": [
+            "Des chaussures qui offrent un niveau d’isolation thermique optimal",
+            "Patented Geox systems provide breathability of the sole and well-being of the feet",
+            "The walking sole with integrated Flexy System offers optimal flexibility",
+            "Shoes that offer an optimal level of thermal insulation",
+            "Model that ensures the foot ideal mobility thanks to the ankle support",
+            "Easy to put on thanks to Velcro fastener",
+            "Removable insole",
+            "Warm inner lining made of real wool"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/51Z4nPguvVL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0CPPWGRNS"
+      }
+    },
+    {
+      "asin": "B0CPPY1X3X",
+      "csi_title": "Geox B MACCHIA Girl A, Basket,",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "24 EU",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Kid"
+          ],
+          "normalized": "kid"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Type de produit: SHOES"
+          ],
+          "other": [
+            "Respirant",
+            "Marque: Geox",
+            "COULEUR: Brun",
+            "TAILLE: 5 enfants du Royaume-Uni",
+            "Breathable",
+            "Product type: SHOES",
+            "Brand: Geox",
+            "COLOR: Brown",
+            "SIZE: 5 children from the UK"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61mEjliHBgL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0CPPY1X3X"
+      }
+    },
+    {
+      "asin": "B0D2KTTW1Q",
+      "csi_title": "Puma Puma Fun Racer 2 AC+ INF, Basket Unisexe, Puma Black-Puma White,",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "24 EU",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Bébé",
+            "Baby"
+          ],
+          "normalized": "bébé"
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Semelle intérieure confortable conçue pour fournir un amorti doux grâce à son talon extra épais",
+            "Mousse souple conçue pour un amorti et un confort tout au long de la",
+            "Tige légère en maille aérée"
+          ],
+          "other": [
+            "Comfortable insole designed to provide soft cushioning thanks to its extra thick heel",
+            "Soft foam designed for cushioning and comfort throughout the",
+            "Lightweight air mesh upper"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61c8vrKHXGL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0D2KTTW1Q"
+      }
+    },
+    {
+      "asin": "B0CPPY7LQW",
+      "csi_title": "Geox B RISHON Boy A, Basket,",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_312::{",
+          "size_map": "20 EU",
+          "additional_sizes_detected": [
+            "numeric_20,",
+            "20 EU"
+          ],
+          "structured_size": {
+            "gender": "men",
+            "size": "numeric_20",
+            "age_group": "infant",
+            "size_system": "eu_footwear_size_system",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 20
+          }
+        },
+        "footwear_size": {
+          "gender": "men",
+          "size": "numeric_20",
+          "age_group": "infant",
+          "size_system": "eu_footwear_size_system",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 20
+        },
+        "age_range": {
+          "raw_values": [
+            "Enfant"
+          ],
+          "normalized": "infant"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Systèmes brevetés Geox : respirabilité de la semelle et bien-être des pieds",
+            "Semelle de marche avec Flexy System intégré : souplesse optimale",
+            "Support à la cheville : mobilité optimale du pied",
+            "Semelle intérieure en cuir atoxique sans chrome",
+            "Semelle intérieure antibactérienne",
+            "Enfilage facile : scratch unique et lacets élastiques",
+            "Usage spécifique : sport"
+          ],
+          "other": [
+            "Couleur : bleu",
+            "Type de fermeture : scratch",
+            "Type de chaussure : baskets",
+            "Breathable"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/71afso-QmIL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0CPPY7LQW"
+      }
+    },
+    {
+      "asin": "B0CPPXTXD1",
+      "csi_title": "Geox B MACCHIA Girl A, Basket,",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "22 EU",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Kid"
+          ],
+          "normalized": "kid"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Chaussures faciles à porter",
+            "Renfort sur le bout et support à la cheville",
+            "Semelle intérieure revêtue de cuir atoxique sans chrome"
+          ],
+          "other": [
+            "Easy to Wear Shoes",
+            "Toe reinforcement and ankle support",
+            "Chrome free non-toxic leather covered insole"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/51dpVYdEccL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0CPPXTXD1"
+      }
+    },
+    {
+      "asin": "B0CPPWHTG8",
+      "csi_title": "Geox B ELTHAN Girl B, Basket,",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "22 EU",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Kid"
+          ],
+          "normalized": "kid"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Résistance à l'eau : non étanche"
+          ],
+          "other": [
+            "Forme du talon : plat",
+            "Largeur de la chaussure : moyenne",
+            "Breathable"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/51HXCdTPdbL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0CPPWHTG8"
+      }
+    },
+    {
+      "asin": "B0CB1SHCBG",
+      "csi_title": "Skechers Baskets Ultra Flex 3.0 Cozy Streak pour Femme, Ardoise Textile Bleu Marine, 37.5 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": null,
+          "additional_sizes_detected": [
+            "37.5 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"7.5\"",
+            "legacy_unit": "womens_us"
+          }
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Matériau extérieur:Textile",
+            "Matériau intérieur:Textile",
+            "Matériau de la semelle:Éthylène-acétate de vinyle"
+          ],
+          "other": [
+            "Type de talon:Sans talon",
+            "Outer material: textile",
+            "Inner material: textile",
+            "Sole material: Ethylene Vinyl Acetate",
+            "Heel type: without heel"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/71SuS8aYOeL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0CB1SHCBG"
+      }
+    },
+    {
+      "asin": "B0D7J5446J",
+      "csi_title": "Tommy Hilfiger Core Chambray Baskets Basses vulcanis&#233;es pour Homme, Blanc &#233;cru, 48 EU",
+      "csi_status": "Not Discoverable",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_228::{",
+          "size_map": "48 EU",
+          "additional_sizes_detected": [
+            "numeric_48,",
+            "48 EU"
+          ],
+          "structured_size": {
+            "gender": "men",
+            "size": "numeric_48",
+            "age_group": "adult",
+            "size_system": "eu_footwear_size_system",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 48
+          }
+        },
+        "footwear_size": {
+          "gender": "men",
+          "size": "numeric_48",
+          "age_group": "adult",
+          "size_system": "eu_footwear_size_system",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 48
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "male",
+        "material": {
+          "raw": "85 % caoutchouc, 15 % caoutchouc (naturel)",
+          "normalized": "Rubber"
+        },
+        "bullet_points": {
+          "fr": [
+            "Il s'agit d'un produit authentique et original Tommy Hilfiger"
+          ],
+          "en": [
+            "This is a genuine and original product. Tommy Hilfiger"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/31jxLoaG35L.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0D7J5446J"
+      }
+    },
+    {
+      "asin": "B0CPPXTY7P",
+      "csi_title": "Geox B MACCHIA Boy A, Basket,",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "23 EU",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Enfant",
+            "Kid"
+          ],
+          "normalized": "kid"
+        },
+        "target_gender": "male",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Chaussures développées en partenariat avec l'Association italienne des podologues",
+            "Bout renforcé et support de cheville",
+            "Semelle intérieure amovible , Assise plantaire antibactérienne",
+            "Semelle intérieure doublée en cuir non toxique sans chrome"
+          ],
+          "other": [
+            "Shoes developed in partnership with the Italian Association of Podiatrists",
+            "Reinforced toe and ankle support",
+            "Removable insole, antibacterial footbed",
+            "Non-toxic chrome free leather lined insole"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/41MzBWZbRfL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0CPPXTY7P"
+      }
+    },
+    {
+      "asin": "B0CPPX9F3Y",
+      "csi_title": "Geox B BIGLIA Boy D, Basket,",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "22 EU",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Bébé",
+            "Baby"
+          ],
+          "normalized": "bébé"
+        },
+        "target_gender": "male",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Les systèmes brevetés Geox offrent la respirabilité de la semelle et le bien-être des pieds",
+            "La semelle de marche avec Flexy System intégré offre une souplesse optimale",
+            "Modèle qui assure au pied la mobilité optimal grâce au support à la cheville",
+            "Semelle intérieure en cuir atoxique sans chrome",
+            "Semelle intérieure antibactérienne",
+            "Enfilage immédiat grâce à la fermeture à scratch"
+          ],
+          "other": [
+            "Patented Geox systems provide breathability of the sole and well-being of the feet",
+            "The walking sole with integrated Flexy System provides optimal flexibility",
+            "Model that ensures optimal mobility for the foot thanks to the ankle support",
+            "Chromium-free non-toxic leather insole",
+            "Antibacterial insole",
+            "Easy to put on thanks to Velcro fastener"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/71bHbJm9FjL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0CPPX9F3Y"
+      }
+    },
+    {
+      "asin": "B0C5RXC6TY",
+      "csi_title": "Mizuno Wave Rider 27 Running Homme, Surf The Web White Neon Flame, 46 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": null,
+          "additional_sizes_detected": [
+            "46 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"12\"",
+            "legacy_unit": "mens_us"
+          }
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "male",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "other": [
+            "Chaussures de running pour adulte Mizuno Wave Rider 27 Bleu Homme",
+            "Neutral running shoe",
+            "Upper Material: Mesh",
+            "Inner Material: Textile",
+            "Sole material: rubber"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/41SO5GKqxTL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0C5RXC6TY"
+      }
+    },
+    {
+      "asin": "B0DTTRG5FV",
+      "csi_title": "ARISIC Chaussures de s&#233;curit&#233; avec embout en acier pour hommes et femmes - Baskets de travail indestructibles - Chaussures de travail l&#233;g&#232;res avec coussin en acier - Baskets de mode, Noir , 43 1/3 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_165::{",
+          "size_map": "43 1/3 EU",
+          "additional_sizes_detected": [
+            "fraction_43_and_1_third,",
+            "43 1/3 EU",
+            "Ne convient pas",
+            "Not suitable"
+          ],
+          "structured_size": {
+            "size": "fraction_43_and_1_third",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "adult",
+            "width": "medium",
+            "size_class": "numeric"
+          }
+        },
+        "footwear_size": {
+          "size": "fraction_43_and_1_third",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric"
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "male",
+        "material": {
+          "raw": "Caoutchouc",
+          "normalized": "Rubber"
+        },
+        "bullet_points": {
+          "fr": [
+            "Tige en maille : la respirabilité maximise la tige et permet à votre pied de rester au sec et au frais",
+            "Chaussures à bout en acier : l'embout en acier peut protéger vos pieds contre le roulement accidentel ou la chute d'objets pendant le travail",
+            "【Amortissement par air】: La semelle à amorti d'air offrant un soutien stable et une absorption des chocs optimale pour le travail",
+            "Semelle en Kevlar anti-crevaison : baskets de sécurité avec semelle intermédiaire en Kevlar pour protéger vos pieds contre les perforations d'objets tranchants"
+          ],
+          "other": [
+            "【Chaussures avec embout en acier pour homme et femme】"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/71bS0+5oTvL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0DTTRG5FV"
+      }
+    },
+    {
+      "asin": "B0CPPYBQ1L",
+      "csi_title": "Geox B BIGLIA Boy D, Basket,",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "24 EU",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Kid"
+          ],
+          "normalized": "kid"
+        },
+        "target_gender": "male",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Les systèmes brevetés Geox offrent la respirabilité de la semelle et le bien-être des pieds",
+            "La semelle de marche avec Flexy System intégré offre une souplesse optimale",
+            "Modèle qui assure au pied la mobilité optimal grâce au support à la cheville",
+            "Semelle intérieure en cuir atoxique sans chrome",
+            "Semelle intérieure antibactérienne",
+            "Enfilage immédiat grâce à la fermeture à scratch"
+          ],
+          "other": [
+            "Patented Geox systems provide breathability of the sole and well-being of the feet",
+            "The walking sole with integrated Flexy System provides optimal flexibility",
+            "Model that ensures optimal mobility for the foot thanks to the ankle support",
+            "Chromium-free non-toxic leather insole",
+            "Antibacterial insole",
+            "Easy to put on thanks to Velcro fastener"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/71bHbJm9FjL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0CPPYBQ1L"
+      }
+    },
+    {
+      "asin": "B0939MRG75",
+      "csi_title": "Remonte remonteTEX D0770 Baskets hautes pour femme avec semelle l&#226;che et imperm&#233;ables, Noccia Beige Marron 22, 38 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": null,
+          "additional_sizes_detected": [
+            "38 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"7\"",
+            "legacy_unit": "womens_us"
+          }
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Semelle intérieure douce et interchangeable",
+            "Semelle extérieure antidérapante en TR",
+            "Dessus en cuir véritable de qualité supérieure",
+            "Imperméable grâce à la membrane TEX"
+          ],
+          "other": [
+            "Doublure chaude avec membrane",
+            "Soft, interchangeable insole",
+            "Non-slip TR outsole",
+            "Premium Genuine Leather Upper",
+            "Warm lining with membrane",
+            "Waterproof thanks to the TEX membrane"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61JsSuCr+gL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0939MRG75"
+      }
+    },
+    {
+      "asin": "B0CPPX8V57",
+      "csi_title": "Geox B RISHON Boy A, Basket,",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_312::{",
+          "size_map": "20 EU",
+          "additional_sizes_detected": [
+            "numeric_20,",
+            "20 EU"
+          ],
+          "structured_size": {
+            "gender": "men",
+            "size": "numeric_20",
+            "age_group": "infant",
+            "size_system": "eu_footwear_size_system",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 20
+          }
+        },
+        "footwear_size": {
+          "gender": "men",
+          "size": "numeric_20",
+          "age_group": "infant",
+          "size_system": "eu_footwear_size_system",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 20
+        },
+        "age_range": {
+          "raw_values": [
+            "Enfant"
+          ],
+          "normalized": "infant"
+        },
+        "target_gender": "male",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Les systèmes brevetés Geox offrent la respirabilité de la semelle et le bien-être des pieds",
+            "La semelle de marche avec Flexy System intégré offre une souplesse optimale",
+            "Modèle qui assure au pied la mobilité optimale grâce au support à la cheville",
+            "Semelle intérieure en cuir atoxique sans chrome",
+            "Semelle intérieure antibactérienne",
+            "Enfilage facile et chaussant réglable avec scratch unique et lacets élastiques"
+          ],
+          "other": [
+            "Breathable"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/71hJBrK7ZIL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0CPPX8V57"
+      }
+    },
+    {
+      "asin": "B0D78MFRHP",
+      "csi_title": "HIZYZ Anime Cosplay Chaussures en Toile Hautes Unisexe Baskets, d, 34 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_311::{",
+          "size_map": "34 EU",
+          "additional_sizes_detected": [
+            "numeric_34,",
+            "34 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_34",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "toddler",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 34
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_34",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "toddler",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 34
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte"
+          ],
+          "normalized": "toddler"
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Matériau : toile de haute qualité + caoutchouc",
+            "Un style polyvalent que vous pouvez combiner comme vous le souhaitez."
+          ],
+          "other": [
+            "Contenu du colis : 1 paire de chaussures",
+            "Attention : Largeur moyenne, si vous avez plus d’espace, veuillez choisir une taille plus grande."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61wHTgwwZxL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0D78MFRHP"
+      }
+    },
+    {
+      "asin": "B0C69J8R52",
+      "csi_title": "Geox Baskets D Zosma A pour Femme, White Lt Grey, 37 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_367::{",
+          "size_map": "37 EU",
+          "additional_sizes_detected": [
+            "numeric_37,",
+            "37 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_37",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "adult",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 37
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_37",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 37
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Matériau intérieur : Synthétique",
+            "Matériau extérieur : Cuir",
+            "Matériau unique : Caoutchouc"
+          ],
+          "other": [
+            "Type de fermeture : Lacet",
+            "Type de talon : Talon plateforme",
+            "Closure type: lace",
+            "Heel Type: Platform Heel",
+            "Inner material: synthetic",
+            "Upper material: leather",
+            "Unique Material: Rubber"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61fA4h3rGYL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0C69J8R52"
+      }
+    },
+    {
+      "asin": "B0BLZNM38R",
+      "csi_title": "British Knights Baskets Kaya Flow Mid pour Femme, Beige, 39 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": null,
+          "additional_sizes_detected": [
+            "39 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"8\"",
+            "legacy_unit": "womens_us"
+          }
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Matériau de l'isolant : 100 % coton",
+            "Matériau extérieur : 60 % EVA/40 % caoutchouc",
+            "Matériau de doublure : 100 % coton",
+            "Matériau supérieur : 100 % coton"
+          ],
+          "other": [
+            "Insulation material: 100% cotton",
+            "Outer Material: 60% EVA/40% Rubber",
+            "Lining Material: 100% Cotton",
+            "Upper Material: 100% Cotton"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/71g4ZMxw4aL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0BLZNM38R"
+      }
+    },
+    {
+      "asin": "B0D2KT8YQS",
+      "csi_title": "Puma FLEXFOCUS Modern AC+ INF, Basket Unisexe, Wild Berry-Puma White,",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_362::{",
+          "size_map": "24 EU",
+          "additional_sizes_detected": [
+            "numeric_24,",
+            "24 EU"
+          ],
+          "structured_size": {
+            "gender": "men",
+            "size": "numeric_24",
+            "age_group": "infant",
+            "size_system": "eu_footwear_size_system",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 24
+          }
+        },
+        "footwear_size": {
+          "gender": "men",
+          "size": "numeric_24",
+          "age_group": "infant",
+          "size_system": "eu_footwear_size_system",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 24
+        },
+        "age_range": {
+          "raw_values": [
+            "Bébé",
+            "Baby"
+          ],
+          "normalized": "infant"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Œillets synthétiques",
+            "Chaussures légères et confortables",
+            "Bande de forme PUMA synthétique"
+          ],
+          "other": [
+            "Tige en maille respirante",
+            "Logo chat en TPU",
+            "Synthetic eyelets",
+            "Lightweight and comfortable shoes",
+            "Breathable mesh upper",
+            "Synthetic PUMA Shape Tape",
+            "TPU cat logo"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/51xO-jGNtjL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0D2KT8YQS"
+      }
+    },
+    {
+      "asin": "B0D2KJML4Z",
+      "csi_title": "Puma Puma Smash 3.0 Badges V INF, Basket Femelle, Puma White-Magic Rose-Lilac Frost,",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "23 EU",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Bébé",
+            "Baby"
+          ],
+          "normalized": "bébé"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "semelle intérieure KinderFit pour garantir un bon ajustement",
+            "marque PUMA imprimée sur le quart et le talon",
+            "PUMA Kids : recommandée pour les enfants de 4 à 8 ans"
+          ],
+          "other": [
+            "Paillettes sur la fermeture auto-agrippante",
+            "marque PUMA sur la languette",
+            "Glitter on hook and loop closure",
+            "KinderFit insole to ensure a good fit",
+            "PUMA branding printed on quarter and heel",
+            "PUMA branding on tongue",
+            "PUMA Kids: recommended for children from 4 to 8 years old"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61zoKK5X50L.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0D2KJML4Z"
+      }
+    },
+    {
+      "asin": "B0CB1Q8VRN",
+      "csi_title": "Skechers Chaussures de Sport GO Walk Flex Caley pour Femme, Bordure Rose synth&#233;tique Taupe, 41 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": null,
+          "additional_sizes_detected": [
+            "41 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"11\"",
+            "legacy_unit": "womens_us"
+          }
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Légères",
+            "À enfiler"
+          ],
+          "other": [
+            "Dessus en maille",
+            "Skechers Logo",
+            "Lightweight",
+            "Slip On",
+            "Mesh upper"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61f62GA9j+L.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0CB1Q8VRN"
+      }
+    },
+    {
+      "asin": "B0CPQ2F5Y2",
+      "csi_title": "Geox B TUTIM B, Basket,",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_294::{",
+          "size_map": "18 EU",
+          "additional_sizes_detected": [
+            "numeric_18,",
+            "18 EU"
+          ],
+          "structured_size": {
+            "gender": "women",
+            "size": "numeric_18",
+            "age_group": "infant",
+            "size_system": "eu_footwear_size_system",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 18
+          }
+        },
+        "footwear_size": {
+          "gender": "women",
+          "size": "numeric_18",
+          "age_group": "infant",
+          "size_system": "eu_footwear_size_system",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 18
+        },
+        "age_range": {
+          "raw_values": [
+            "Kid"
+          ],
+          "normalized": "infant"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Chaussures développées en partenariat avec l'Association italienne des podologues",
+            "Rapide et facile à mettre en place",
+            "Bout et talon renforcés"
+          ],
+          "other": [
+            "Shoes developed in partnership with the Italian Association of Podiatrists",
+            "Quick and easy to set up",
+            "Reinforced toe and heel"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61V6R6hpjTL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0CPQ2F5Y2"
+      }
+    },
+    {
+      "asin": "B0D2KRXBSG",
+      "csi_title": "Puma Puma Fun Racer 2 AC+ INF, Basket Unisexe, Rose Quartz-Port-Island Pink,",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "23 EU",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Bébé",
+            "Baby"
+          ],
+          "normalized": "bébé"
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Semelle intérieure confortable conçue pour fournir un amorti doux grâce à son talon extra épais",
+            "Mousse souple conçue pour un amorti et un confort tout au long de la",
+            "Tige légère en maille aérée"
+          ],
+          "other": [
+            "Comfortable insole designed to provide soft cushioning thanks to its extra thick heel",
+            "Soft foam designed for cushioning and comfort throughout the",
+            "Lightweight air mesh upper"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/619mnH4MAcL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0D2KRXBSG"
+      }
+    },
+    {
+      "asin": "B0D78MBZVZ",
+      "csi_title": "HIZYZ Anime Cosplay Chaussures en Toile Hautes Unisexe Baskets, h, 35 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_372::{",
+          "size_map": "35 EU",
+          "additional_sizes_detected": [
+            "numeric_35,",
+            "35 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_35",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "big_kid",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 35
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_35",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "big_kid",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 35
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte"
+          ],
+          "normalized": "big_kid"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": "Caoutchouc",
+          "normalized": "Rubber"
+        },
+        "bullet_points": {
+          "fr": [
+            "Matériau : toile de haute qualité + caoutchouc",
+            "Un style polyvalent que vous pouvez combiner comme vous le souhaitez."
+          ],
+          "other": [
+            "Contenu du colis : 1 paire de chaussures",
+            "Attention : Largeur moyenne, si vous avez plus d’espace, veuillez choisir une taille plus grande."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61mFjiTADkL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0D78MBZVZ"
+      }
+    },
+    {
+      "asin": "B0CPPXJGB4",
+      "csi_title": "Geox B RISHON Boy A, Basket,",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "23 EU",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Enfant",
+            "Kid"
+          ],
+          "normalized": "kid"
+        },
+        "target_gender": "male",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Systèmes brevetés Geox : respirabilité de la semelle et bien-être des pieds",
+            "Semelle de marche avec Flexy System intégré : souplesse optimale",
+            "Support à la cheville : mobilité optimale du pied",
+            "Semelle intérieure en cuir atoxique sans chrome",
+            "Semelle intérieure antibactérienne",
+            "Enfilage facile : scratch unique et lacets élastiques",
+            "Style : basket",
+            "Matériau extérieur : synthétique",
+            "Style: Sneaker"
+          ],
+          "other": [
+            "Couleur : bleu",
+            "Usage : multi-occasion",
+            "Patented Geox systems: breathability of the sole and well-being of the feet",
+            "Walking sole with integrated Flexy System: optimal flexibility",
+            "Ankle support: optimal foot mobility",
+            "Chromium-free non-toxic leather insole",
+            "Antibacterial insole",
+            "Easy to put on - unique Velcro and elastic laces",
+            "Colour: blue",
+            "Upper material: synthetic",
+            "Use: Multi-occasion"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/81hWoeb1XNL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0CPPXJGB4"
+      }
+    },
+    {
+      "asin": "B0939H67ZR",
+      "csi_title": "Remonte remonteTEX D0770 Baskets hautes pour femme avec semelle l&#226;che et imperm&#233;ables, Noccia Beige Marron 22, 44 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": null,
+          "additional_sizes_detected": [
+            "44 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"12\"",
+            "legacy_unit": "womens_us"
+          }
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Semelle intérieure douce et interchangeable",
+            "Semelle extérieure antidérapante en TR",
+            "Dessus en cuir véritable de qualité supérieure",
+            "Imperméable grâce à la membrane TEX"
+          ],
+          "other": [
+            "Doublure chaude avec membrane",
+            "Soft, interchangeable insole",
+            "Non-slip TR outsole",
+            "Premium Genuine Leather Upper",
+            "Warm lining with membrane",
+            "Waterproof thanks to the TEX membrane"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61JsSuCr+gL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0939H67ZR"
+      }
+    },
+    {
+      "asin": "B0D79DYXNP",
+      "csi_title": "Camper Nina K201365 Mary Jane 027 Baskets Right pour Femme Couleur Chair Taille 35 EU, Nude 027, 35 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": null,
+          "additional_sizes_detected": [
+            "35 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"5\"",
+            "legacy_unit": "womens_us"
+          }
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Matériau extérieur : 100 % cuir de vachette",
+            "Doublure : 52 % cuir de vachette - 48 % tissu (100 % PET recyclé)",
+            "Semelle extérieure : 92 % caoutchouc vulcanisé - 8 % caoutchouc vulcanisé recyclé"
+          ],
+          "other": [
+            "Couleur : chair",
+            "Colour: Flesh",
+            "Outer material: 100% cowhide leather",
+            "Lining: 52% Cowhide Leather, 48% Fabric (100% Recycled PET)",
+            "Outsole: 92% vulcanized rubber - 8% recycled vulcanized rubber"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/717YwlfNuBL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0D79DYXNP"
+      }
+    },
+    {
+      "asin": "B0DTJLTF5F",
+      "csi_title": "Pepe Jeans Baskets Rusper Glam W pour Femme, Marron Bronze Beige, 6 UK",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": "39 EU",
+          "additional_sizes_detected": [
+            "$additional_links_augmentor_433::{",
+            "numeric_39,",
+            "39 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"8\"",
+            "legacy_unit": "womens_us"
+          }
+        },
+        "footwear_size": {
+          "gender": "women",
+          "size": "numeric_39",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 39
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Baskets tendance Rusper Glam W avec combinaisons de matériaux avec dessus en cuir, concept monochrome",
+            "Stabilisateur TPU coloré et personnalisé, semelle intermédiaire en EVA colorée partiellement avec semelle pailletée et caoutchouc, logo classique sur le quart",
+            "40 % daim de vache, 35 % polyester, 25 % polyuréthane"
+          ],
+          "other": [
+            "Rusper Glam W fashion sneaker with material combinations with leather upper, monochrome concept",
+            "Colorful and custom TPU stabilizer, partially colored EVA midsole with glitter sole and rubber, classic logo on quarter",
+            "40% Cow Suede, 35% Polyester, 25% Polyurethane"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/71K+pzZTwSL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0DTJLTF5F"
+      }
+    },
+    {
+      "asin": "B0D8VC4ZZ5",
+      "csi_title": "Br&#252;tting Chaussures de trekking et de randonn&#233;e Mount Bona High Kids unisexes pour enfant, Violet/rose., 39 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_360::{",
+          "size_map": "39 EU",
+          "additional_sizes_detected": [
+            "numeric_39,",
+            "39 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_39",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "big_kid",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 39
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_39",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "big_kid",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 39
+        },
+        "age_range": {
+          "raw_values": [
+            "Enfant"
+          ],
+          "normalized": "big_kid"
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Matériau extérieur : daim avec inserts en nylon",
+            "Semelle extérieure : semelle extérieure Vibram stable et antidérapante"
+          ],
+          "other": [
+            "Fermeture : lacets",
+            "Doublure : doublure textile"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/81GtRq9tEjL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0D8VC4ZZ5"
+      }
+    },
+    {
+      "asin": "B0CPPY8T3K",
+      "csi_title": "Geox B STEPPIEUP Girl A, Basket,",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "22 EU",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Bébé",
+            "Baby"
+          ],
+          "normalized": "bébé"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Chaussures développées en partenariat avec l'Association italienne des podologues",
+            "Rapide et facile à mettre en place",
+            "Bout renforcé",
+            "Semelle intérieure doublée en cuir non toxique sans chrome"
+          ],
+          "other": [
+            "Shoes developed in partnership with the Italian Association of Podiatrists",
+            "Quick and easy to set up",
+            "Reinforced toe",
+            "Non-toxic chrome free leather lined insole"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/41GRbs-jOoL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0CPPY8T3K"
+      }
+    },
+    {
+      "asin": "B0DTJMPBQM",
+      "csi_title": "Pepe Jeans Baskets RUSPER Glam W pour Femme, Noir (Noir), 36 EU, Noir, 3 UK",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": "36 EU",
+          "additional_sizes_detected": [
+            "$additional_links_augmentor_344::{",
+            "numeric_36,",
+            "36 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"5.5\"",
+            "legacy_unit": "womens_us"
+          }
+        },
+        "footwear_size": {
+          "gender": "women",
+          "size": "numeric_36",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 36
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Baskets tendance Rusper Glam W avec combinaisons de matériaux avec dessus en cuir, concept monochrome",
+            "Stabilisateur TPU coloré et personnalisé, semelle intermédiaire en EVA colorée partiellement avec semelle pailletée et caoutchouc, logo classique sur le quart",
+            "40 % daim de vache, 35 % polyester, 25 % polyuréthane"
+          ],
+          "other": [
+            "Rusper Glam W fashion sneaker with material combinations with leather upper, monochrome concept",
+            "Colorful and custom TPU stabilizer, partially colored EVA midsole with glitter sole and rubber, classic logo on quarter",
+            "40% Cow Suede, 35% Polyester, 25% Polyurethane"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/519g1iN1bPL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0DTJMPBQM"
+      }
+    },
+    {
+      "asin": "B0CPPXSGXS",
+      "csi_title": "Geox B RISHON Girl A, Basket,",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_312::{",
+          "size_map": "21 EU",
+          "additional_sizes_detected": [
+            "numeric_21,",
+            "21 EU"
+          ],
+          "structured_size": {
+            "gender": "women",
+            "size": "numeric_21",
+            "age_group": "infant",
+            "size_system": "eu_footwear_size_system",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 21
+          }
+        },
+        "footwear_size": {
+          "gender": "women",
+          "size": "numeric_21",
+          "age_group": "infant",
+          "size_system": "eu_footwear_size_system",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 21
+        },
+        "age_range": {
+          "raw_values": [
+            "Enfant"
+          ],
+          "normalized": "infant"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": "Polyuréthanes thermoplastiques",
+          "normalized": "Polyuréthanes thermoplastiques"
+        },
+        "bullet_points": {
+          "fr": [
+            "Chaussures faciles à enfiler",
+            "Fermeture Velcro simple et lacets élastiques , semelle intérieure amovible",
+            "Agréable à porter"
+          ],
+          "other": [
+            "Respirant",
+            "Breathable"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/81ORSP4MO-L.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0CPPXSGXS"
+      }
+    },
+    {
+      "asin": "B0D2KGQM5K",
+      "csi_title": "Puma Flyer 3 AC+ INF, Basket Unisexe, Puma Black-Magic Rose-Puma White,",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_339::{",
+          "size_map": "21 EU",
+          "additional_sizes_detected": [
+            "numeric_21,",
+            "21 EU"
+          ],
+          "structured_size": {
+            "gender": "men",
+            "size": "numeric_21",
+            "age_group": "infant",
+            "size_system": "eu_footwear_size_system",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 21
+          }
+        },
+        "footwear_size": {
+          "gender": "men",
+          "size": "numeric_21",
+          "age_group": "infant",
+          "size_system": "eu_footwear_size_system",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 21
+        },
+        "age_range": {
+          "raw_values": [
+            "Bébé",
+            "Baby"
+          ],
+          "normalized": "infant"
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Matériaux respirants",
+            "Léger et rembourré"
+          ],
+          "other": [
+            "Flyer 3 AC+ Inf"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/51DccOOsxHL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0D2KGQM5K"
+      }
+    },
+    {
+      "asin": "B0CC2QP1M3",
+      "csi_title": "Skechers Baskets Arch Fit 2.0 pour Homme, Maille synth&#233;tique Grise, 44 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": null,
+          "additional_sizes_detected": [
+            "44 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"10.5\"",
+            "legacy_unit": "mens_us"
+          }
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Matériau intérieur : Textile",
+            "Matériau extérieur : Éthylène-acétate de vinyle (EVA)",
+            "Matériau unique : Textile"
+          ],
+          "other": [
+            "Type de fermeture : Lacet",
+            "Type de talon : Plat",
+            "Closure type: lace",
+            "Heel type: flat",
+            "Inner material: textile",
+            "Outer material: EVA",
+            "Unique Material: Textile"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/71b0HmTJAfL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0CC2QP1M3"
+      }
+    },
+    {
+      "asin": "B0BSG25MD9",
+      "csi_title": "BOSS Kai Runn Baskets Basses &#224; Lacets pour Homme, Open Green, 44 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "44 EU",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "male",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Fabrication de qualité supérieure"
+          ],
+          "other": [
+            "High-quality workmanship"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/81HB5EP4fNL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0BSG25MD9"
+      }
+    },
+    {
+      "asin": "B0CB1SXNF3",
+      "csi_title": "Skechers Chaussures de Sport GO Walk Flex Caley pour Femme, Bordure Rose synth&#233;tique Taupe, 40 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": null,
+          "additional_sizes_detected": [
+            "40 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"10\"",
+            "legacy_unit": "womens_us"
+          }
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Logo détaillé",
+            "Légères",
+            "Mousse viscoélastique"
+          ],
+          "other": [
+            "Detailed logo",
+            "Lightweight",
+            "Memory Foam"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61f62GA9j+L.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0CB1SXNF3"
+      }
+    },
+    {
+      "asin": "B0D2KXW7TM",
+      "csi_title": "Puma FLEXFOCUS Modern AC+ INF, Basket Unisexe, Wild Berry-Puma White,",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "21 EU",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Bébé",
+            "Baby"
+          ],
+          "normalized": "bébé"
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Œillets synthétiques",
+            "Chaussures légères et confortables",
+            "Bande de forme PUMA synthétique"
+          ],
+          "other": [
+            "Tige en maille respirante",
+            "Logo chat en TPU",
+            "Synthetic eyelets",
+            "Lightweight and comfortable shoes",
+            "Breathable mesh upper",
+            "Synthetic PUMA Shape Tape",
+            "TPU cat logo"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/51xO-jGNtjL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0D2KXW7TM"
+      }
+    },
+    {
+      "asin": "B0D2KQ75G7",
+      "csi_title": "Puma Puma Fun Racer 2 AC+ INF, Basket Unisexe, Rose Quartz-Port-Island Pink,",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "25 EU",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Bébé",
+            "Baby"
+          ],
+          "normalized": "bébé"
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Semelle intérieure confortable conçue pour fournir un amorti doux grâce à son talon extra épais",
+            "Mousse souple conçue pour un amorti et un confort tout au long de la",
+            "Tige légère en maille aérée"
+          ],
+          "other": [
+            "Comfortable insole designed to provide soft cushioning thanks to its extra thick heel",
+            "Soft foam designed for cushioning and comfort throughout the",
+            "Lightweight air mesh upper"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/619mnH4MAcL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0D2KQ75G7"
+      }
+    },
+    {
+      "asin": "B0CC2P2WCR",
+      "csi_title": "Skechers Baskets pour Homme, Maille synth&#233;tique Grise, 45 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": null,
+          "additional_sizes_detected": [
+            "45 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"11\"",
+            "legacy_unit": "mens_us"
+          }
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Matériau intérieur : Textile",
+            "Matériau extérieur : Éthylène-acétate de vinyle (EVA)",
+            "Matériau unique : Textile"
+          ],
+          "other": [
+            "Type de fermeture : Lacet",
+            "Type de talon : Plat",
+            "Closure type: lace",
+            "Heel type: flat",
+            "Inner material: textile",
+            "Outer material: EVA",
+            "Unique Material: Textile"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/71b0HmTJAfL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0CC2P2WCR"
+      }
+    },
+    {
+      "asin": "B0CPPY69KT",
+      "csi_title": "Geox B ELTHAN Girl B, Basket,",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_312::{",
+          "size_map": "19 EU",
+          "additional_sizes_detected": [
+            "numeric_19,",
+            "19 EU"
+          ],
+          "structured_size": {
+            "gender": "women",
+            "size": "numeric_19",
+            "age_group": "infant",
+            "size_system": "eu_footwear_size_system",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 19
+          }
+        },
+        "footwear_size": {
+          "gender": "women",
+          "size": "numeric_19",
+          "age_group": "infant",
+          "size_system": "eu_footwear_size_system",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 19
+        },
+        "age_range": {
+          "raw_values": [
+            "Kid"
+          ],
+          "normalized": "infant"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Résistance à l'eau : non étanche"
+          ],
+          "other": [
+            "Forme du talon : plat",
+            "Largeur de la chaussure : moyenne",
+            "Breathable"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/51xp1nFIY0L.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0CPPY69KT"
+      }
+    },
+    {
+      "asin": "B0F4RFWJMG",
+      "csi_title": "Calvin Klein Baskets Basses pour Homme Retro Runner ESS Mix Mat YM0YM01361, Blanc (Triple Blanc Brillant), Pointure 40, Blanc Triple Blanc Brillant, 40 2/3 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_272::{",
+          "size_map": "41 EU",
+          "additional_sizes_detected": [
+            "numeric_41,",
+            "41 EU"
+          ],
+          "structured_size": {
+            "gender": "men",
+            "size": "numeric_41",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "adult",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 41
+          }
+        },
+        "footwear_size": {
+          "gender": "men",
+          "size": "numeric_41",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 41
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Il s'agit d'un produit Calvin Klein authentique et original",
+            "Ce style a été produit de manière durable",
+            "This style has been produced sustainably"
+          ],
+          "en": [
+            "This is a genuine and original Calvin Klein product"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61Iy+VfODdL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0F4RFWJMG"
+      }
+    },
+    {
+      "asin": "B0C69LPWWZ",
+      "csi_title": "Geox Baskets D Alleniee A pour Femme, Dor&#233;, 38 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_349::{",
+          "size_map": "38 EU",
+          "additional_sizes_detected": [
+            "numeric_38,",
+            "38 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_38",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "adult",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 38
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_38",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 38
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "il s'agit d'un produit authentique et original Geox",
+            "Ce style a été produit de manière durable",
+            "il assure un ajustement optimal",
+            "Confortable à porter",
+            "This style has been produced sustainably"
+          ],
+          "en": [
+            "This is a genuine and original product. Geox"
+          ],
+          "other": [
+            "It ensures an optimal fit",
+            "Comfortable to wear"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/511bGje7J-L.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0C69LPWWZ"
+      }
+    },
+    {
+      "asin": "B0D2KSBJSK",
+      "csi_title": "Puma FLEXFOCUS Modern AC+ INF, Basket Unisexe, Puma Black-Puma White,",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_347::{",
+          "size_map": "22 EU",
+          "additional_sizes_detected": [
+            "numeric_22,",
+            "22 EU"
+          ],
+          "structured_size": {
+            "gender": "men",
+            "size": "numeric_22",
+            "age_group": "infant",
+            "size_system": "eu_footwear_size_system",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 22
+          }
+        },
+        "footwear_size": {
+          "gender": "men",
+          "size": "numeric_22",
+          "age_group": "infant",
+          "size_system": "eu_footwear_size_system",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 22
+        },
+        "age_range": {
+          "raw_values": [
+            "Baby",
+            "Bébé"
+          ],
+          "normalized": "infant"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Œillets synthétiques",
+            "Chaussures légères et confortables",
+            "Bande de forme PUMA synthétique"
+          ],
+          "other": [
+            "Tige en maille respirante",
+            "Logo chat en TPU",
+            "Synthetic eyelets",
+            "Lightweight and comfortable shoes",
+            "Breathable mesh upper",
+            "Synthetic PUMA Shape Tape",
+            "TPU cat logo"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/71Yl+HgqpzL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0D2KSBJSK"
+      }
+    },
+    {
+      "asin": "B0D2KRF65S",
+      "csi_title": "Puma Puma Fun Racer 2 AC+ INF, Basket Unisexe, Puma Black-Puma White,",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "20 EU",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Bébé",
+            "Baby"
+          ],
+          "normalized": "bébé"
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Semelle intérieure confortable conçue pour fournir un amorti doux grâce à son talon extra épais",
+            "Mousse souple conçue pour un amorti et un confort tout au long de la",
+            "Tige légère en maille aérée"
+          ],
+          "other": [
+            "Comfortable insole designed to provide soft cushioning thanks to its extra thick heel",
+            "Soft foam designed for cushioning and comfort throughout the",
+            "Lightweight air mesh upper"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61c8vrKHXGL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0D2KRF65S"
+      }
+    },
+    {
+      "asin": "B0939ZK7QY",
+      "csi_title": "Remonte remonteTEX D0770 Baskets hautes pour femme avec semelle l&#226;che et imperm&#233;ables, Noccia Beige Marron 22, 37 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": null,
+          "additional_sizes_detected": [
+            "37 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"6\"",
+            "legacy_unit": "womens_us"
+          }
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Semelle intérieure douce et interchangeable",
+            "Semelle extérieure antidérapante en TR",
+            "Dessus en cuir véritable de qualité supérieure",
+            "Imperméable grâce à la membrane TEX"
+          ],
+          "other": [
+            "Doublure chaude avec membrane",
+            "Soft, interchangeable insole",
+            "Non-slip TR outsole",
+            "Premium Genuine Leather Upper",
+            "Warm lining with membrane",
+            "Waterproof thanks to the TEX membrane"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61JsSuCr+gL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0939ZK7QY"
+      }
+    },
+    {
+      "asin": "B0D2KRLH95",
+      "csi_title": "Puma Puma Fun Racer 2 AC+ INF, Basket Unisexe, Puma Black-Puma White,",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "26 EU",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Bébé",
+            "Baby"
+          ],
+          "normalized": "bébé"
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Semelle intérieure confortable conçue pour fournir un amorti doux grâce à son talon extra épais",
+            "Mousse souple conçue pour un amorti et un confort tout au long de la",
+            "Tige légère en maille aérée"
+          ],
+          "other": [
+            "Comfortable insole designed to provide soft cushioning thanks to its extra thick heel",
+            "Soft foam designed for cushioning and comfort throughout the",
+            "Lightweight air mesh upper"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61c8vrKHXGL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0D2KRLH95"
+      }
+    },
+    {
+      "asin": "B0CPPWY3PB",
+      "csi_title": "Geox B RISHON Boy A, Basket,",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_337::{",
+          "size_map": "20 EU",
+          "additional_sizes_detected": [
+            "numeric_20,",
+            "20 EU"
+          ],
+          "structured_size": {
+            "gender": "men",
+            "size": "numeric_20",
+            "age_group": "infant",
+            "size_system": "eu_footwear_size_system",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 20
+          }
+        },
+        "footwear_size": {
+          "gender": "men",
+          "size": "numeric_20",
+          "age_group": "infant",
+          "size_system": "eu_footwear_size_system",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 20
+        },
+        "age_range": {
+          "raw_values": [
+            "Kid"
+          ],
+          "normalized": "infant"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Systèmes brevetés Geox : respirabilité de la semelle et bien-être des pieds",
+            "Semelle de marche avec Flexy System intégré pour une souplesse optimale",
+            "Support à la cheville pour une mobilité optimale du pied",
+            "Semelle intérieure en cuir atoxique sans chrome",
+            "Semelle intérieure antibactérienne",
+            "Enfilage facile avec scratch unique et lacets élastiques"
+          ],
+          "other": [
+            "Patented Geox systems: breathability of the sole and well-being of the feet",
+            "Walking sole with integrated Flexy System for optimal flexibility",
+            "Ankle support for optimal foot mobility",
+            "Chromium-free non-toxic leather insole",
+            "Antibacterial insole",
+            "Easy to put on with unique Velcro and elastic laces"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/51Qgo3ZBZtL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0CPPWY3PB"
+      }
+    },
+    {
+      "asin": "B0CPPXDY9V",
+      "csi_title": "Geox B ECLYPER Girl A, Basket,",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "21 EU",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Kid"
+          ],
+          "normalized": "kid"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Fermeture à un scratch et lacets élastiques",
+            "Semelle intérieure amovible"
+          ],
+          "other": [
+            "Enfilage facile et rapide",
+            "Velcro closure and elastic laces",
+            "Removable insole",
+            "Quick and easy to put on"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61tmMTl9mmL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0CPPXDY9V"
+      }
+    },
+    {
+      "asin": "B0CPPWNJL9",
+      "csi_title": "Geox B ELTHAN Boy A, Basket,",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "22 EU",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Kid"
+          ],
+          "normalized": "kid"
+        },
+        "target_gender": "male",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Les systèmes brevetés Geox offrent la respirabilité de la semelle et le bien-être des pieds",
+            "La semelle de marche avec Flexy System intégré offerts une souplesse optimale",
+            "Modèle qui assure au pied la mobilité idéale grâce au support à la cheville",
+            "Enfilage immédiat grâce à la fermeture à scratch",
+            "Semelle intérieure amovible",
+            "Doublure intérieure chaude en laine véritable"
+          ],
+          "other": [
+            "Des chaussures qui offrent un niveau d’isolation thermique optimal",
+            "Patented Geox systems provide breathability of the sole and well-being of the feet",
+            "The walking sole with integrated Flexy System offers optimal flexibility",
+            "Shoes that offer an optimal level of thermal insulation",
+            "Model that ensures the foot ideal mobility thanks to the ankle support",
+            "Easy to put on thanks to fastener",
+            "Removable insole",
+            "Warm inner lining made of real wool"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/51Z4nPguvVL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0CPPWNJL9"
+      }
+    },
+    {
+      "asin": "B0CPPYQLML",
+      "csi_title": "Geox B ECLYPER Girl A, Basket,",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "21 EU",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Baby",
+            "Bébé"
+          ],
+          "normalized": "baby"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Fermeture à un scratch et lacets élastiques",
+            "Semelle intérieure amovible"
+          ],
+          "other": [
+            "Enfilage facile et rapide",
+            "Breathable"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/51LptBMsV6L.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0CPPYQLML"
+      }
+    },
+    {
+      "asin": "B0D2KRB38P",
+      "csi_title": "Puma FLEXFOCUS Modern AC+ INF, Basket Unisexe, Puma Black-Puma Pink-Puma White,",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "23 EU",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Bébé",
+            "Baby"
+          ],
+          "normalized": "bébé"
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Œillets synthétiques",
+            "Chaussures légères et confortables",
+            "Bande de forme PUMA synthétique"
+          ],
+          "other": [
+            "Tige en maille respirante",
+            "Logo chat en TPU",
+            "Synthetic eyelets",
+            "Lightweight and comfortable shoes",
+            "Breathable mesh upper",
+            "Synthetic PUMA Shape Tape",
+            "TPU cat logo"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/513MYeHWpvL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0D2KRB38P"
+      }
+    },
+    {
+      "asin": "B0D7HZDM8S",
+      "csi_title": "Calvin Klein ESS Vulc MG Canvas Ym0ym01209 Baskets Basses pour Homme, White Triple Bright White, 44 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "44 EU",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "male",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Il s'agit d'un produit authentique et original calvin klein jeans",
+            "Ce style a été produit de manière durable",
+            "This style has been produced sustainably"
+          ],
+          "en": [
+            "This is an authentic and original Calvin Klein jeans product"
+          ],
+          "other": [
+            "Assise plantaire pour un confort optimal au camp de base",
+            "Footbed for optimal comfort at base camp"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61lDd8Z9KwL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0D7HZDM8S"
+      }
+    },
+    {
+      "asin": "B0D2KPBH1Q",
+      "csi_title": "Puma Puma Fun Racer 2 AC+ INF, Basket Unisexe, Rose Quartz-Port-Island Pink,",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "24 EU",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Bébé",
+            "Baby"
+          ],
+          "normalized": "bébé"
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Semelle intérieure confortable conçue pour fournir un amorti doux grâce à son talon extra épais",
+            "Mousse souple conçue pour un amorti et un confort tout au long de la",
+            "Tige légère en maille aérée"
+          ],
+          "other": [
+            "Comfortable insole designed to provide soft cushioning thanks to its extra thick heel",
+            "Soft foam designed for cushioning and comfort throughout the",
+            "Lightweight air mesh upper"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/619mnH4MAcL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0D2KPBH1Q"
+      }
+    },
+    {
+      "asin": "B0CPPXRYRS",
+      "csi_title": "Geox B&#233;b&#233; Gar&#231;on B Elthan Boy A, Marron, 23 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "23 EU",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Bébé",
+            "Baby"
+          ],
+          "normalized": "bébé"
+        },
+        "target_gender": "male",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Les systèmes brevetés Geox offrent la respirabilité de la semelle et le bien-être des pieds",
+            "La semelle de marche avec Flexy System intégré offerts une souplesse optimale",
+            "Modèle qui assure au pied la mobilité idéale grâce au support à la cheville",
+            "Enfilage immédiat grâce à la fermeture à scratch",
+            "Semelle intérieure amovible",
+            "Doublure intérieure chaude en laine véritable"
+          ],
+          "other": [
+            "Des chaussures qui offrent un niveau d’isolation thermique optimal",
+            "Patented Geox systems provide breathability of the sole and well-being of the feet",
+            "The walking sole with integrated Flexy System offers optimal flexibility",
+            "Shoes that offer an optimal level of thermal insulation",
+            "Model that ensures the foot ideal mobility thanks to the ankle support",
+            "Easy to put on thanks to Velcro fastener",
+            "Removable insole",
+            "Warm inner lining made of real wool"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/51Z4nPguvVL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0CPPXRYRS"
+      }
+    },
+    {
+      "asin": "B0D7D2MBHJ",
+      "csi_title": "Tamaris Baskets Basses pour Femme, Semelle int&#233;rieure Amovible, Rose, 37 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": null,
+          "additional_sizes_detected": [
+            "37 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"6.5\"",
+            "legacy_unit": "womens_us"
+          }
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "La fonction Touch-IT permet un confort optimal grâce à une semelle souple et adaptable.",
+            "Ces chaussures avec semelle intérieure confortable et douce assurent une sensation de marche agréable et font de chaque pas un plaisir.",
+            "Nos semelles de marche offrent un confort qui procure une agréable sensation de port au quotidien.",
+            "Les chaussures avec un talon aiguille élégant ajoutent une touche de glamour et de confiance à n'importe quelle tenue.",
+            "La fermeture à boucle assure un maintien sûr et un enfilage et un retrait faciles."
+          ],
+          "other": [
+            "Touch-It Sole",
+            "Comfortable Shoes",
+            "Fashion Shoes"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/6193oq3pLcL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0D7D2MBHJ"
+      }
+    },
+    {
+      "asin": "B0BLZN33M9",
+      "csi_title": "British Knights Baskets Kaya Flow Mid pour Femme, Beige, 40 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": null,
+          "additional_sizes_detected": [
+            "40 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"8.5\"",
+            "legacy_unit": "womens_us"
+          }
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Matériau de l'isolant : 100 % coton",
+            "Matériau extérieur : 60 % EVA/40 % caoutchouc",
+            "Matériau de doublure : 100 % coton",
+            "Matériau supérieur : 100 % coton"
+          ],
+          "other": [
+            "Insulation material: 100% cotton",
+            "Outer Material: 60% EVA/40% Rubber",
+            "Lining Material: 100% Cotton",
+            "Upper Material: 100% Cotton"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/71g4ZMxw4aL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0BLZN33M9"
+      }
+    },
+    {
+      "asin": "B0CPPYW2M5",
+      "csi_title": "Geox B RISHON Boy A, Basket,",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_289::{",
+          "size_map": "23 EU",
+          "additional_sizes_detected": [
+            "numeric_23,",
+            "23 EU"
+          ],
+          "structured_size": {
+            "gender": "men",
+            "size": "numeric_23",
+            "age_group": "infant",
+            "size_system": "eu_footwear_size_system",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 23
+          }
+        },
+        "footwear_size": {
+          "gender": "men",
+          "size": "numeric_23",
+          "age_group": "infant",
+          "size_system": "eu_footwear_size_system",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 23
+        },
+        "age_range": {
+          "raw_values": [
+            "Kid"
+          ],
+          "normalized": "infant"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Systèmes brevetés Geox : respirabilité de la semelle et bien-être des pieds",
+            "Semelle de marche avec Flexy System intégré pour une souplesse optimale",
+            "Support à la cheville pour une mobilité optimale du pied",
+            "Semelle intérieure en cuir atoxique sans chrome",
+            "Semelle intérieure antibactérienne",
+            "Enfilage facile avec scratch unique et lacets élastiques"
+          ],
+          "other": [
+            "Patented Geox systems: breathability of the sole and well-being of the feet",
+            "Walking sole with integrated Flexy System for optimal flexibility",
+            "Ankle support for optimal foot mobility",
+            "Chromium-free non-toxic leather insole",
+            "Antibacterial insole",
+            "Easy to put on with unique Velcro and elastic laces"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/71afso-QmIL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0CPPYW2M5"
+      }
+    },
+    {
+      "asin": "B0CPPXW32X",
+      "csi_title": "Geox B STEPPIEUP Boy A, Basket,",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_344::{",
+          "size_map": "22 EU",
+          "additional_sizes_detected": [
+            "numeric_22,",
+            "22 EU"
+          ],
+          "structured_size": {
+            "gender": "men",
+            "size": "numeric_22",
+            "age_group": "infant",
+            "size_system": "eu_footwear_size_system",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 22
+          }
+        },
+        "footwear_size": {
+          "gender": "men",
+          "size": "numeric_22",
+          "age_group": "infant",
+          "size_system": "eu_footwear_size_system",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 22
+        },
+        "age_range": {
+          "raw_values": [
+            "Toddler"
+          ],
+          "normalized": "infant"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "il s'agit d'un produit authentique et original Geox",
+            "Ce style a été produit de manière durable",
+            "il assure un ajustement optimal",
+            "Confortable à porter",
+            "This style has been produced sustainably"
+          ],
+          "en": [
+            "This is a genuine and original product. Geox"
+          ],
+          "other": [
+            "It ensures an optimal fit",
+            "Comfortable to wear"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/41e7O-eMRxL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0CPPXW32X"
+      }
+    },
+    {
+      "asin": "B0CPPXSJ5Q",
+      "csi_title": "Geox B STEPPIEUP Girl A, Basket,",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_312::{",
+          "size_map": "21 EU",
+          "additional_sizes_detected": [
+            "numeric_21,",
+            "21 EU"
+          ],
+          "structured_size": {
+            "gender": "women",
+            "size": "numeric_21",
+            "age_group": "infant",
+            "size_system": "eu_footwear_size_system",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 21
+          }
+        },
+        "footwear_size": {
+          "gender": "women",
+          "size": "numeric_21",
+          "age_group": "infant",
+          "size_system": "eu_footwear_size_system",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 21
+        },
+        "age_range": {
+          "raw_values": [
+            "Enfant"
+          ],
+          "normalized": "infant"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Fermeture à scratch"
+          ],
+          "other": [
+            "Enfilage facile et rapide",
+            "Renfort sur le bout"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/51td-uqMngL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0CPPXSJ5Q"
+      }
+    },
+    {
+      "asin": "B0D2KG1FWK",
+      "csi_title": "Puma Puma Smash 3.0 Badges V INF, Basket Femelle, Puma White-Safe Lake-Red Fire,",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "26 EU",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Bébé",
+            "Baby"
+          ],
+          "normalized": "bébé"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "semelle intérieure KinderFit pour garantir un bon ajustement",
+            "marque PUMA imprimée sur le quart et le talon",
+            "PUMA Kids : recommandée pour les enfants de 4 à 8 ans"
+          ],
+          "other": [
+            "Paillettes sur la fermeture auto-agrippante",
+            "marque PUMA sur la languette",
+            "Glitter on hook and loop closure",
+            "KinderFit insole to ensure a good fit",
+            "PUMA branding printed on quarter and heel",
+            "PUMA branding on tongue",
+            "PUMA Kids: recommended for children from 4 to 8 years old"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61p0fqbVCLL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0D2KG1FWK"
+      }
+    },
+    {
+      "asin": "B0D78LK8P7",
+      "csi_title": "HIZYZ Anime Cosplay Chaussures en Toile Hautes Unisexe Baskets, a, 36 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_372::{",
+          "size_map": "36 EU",
+          "additional_sizes_detected": [
+            "numeric_36,",
+            "36 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_36",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "adult",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 36
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_36",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 36
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Matériau : toile de haute qualité + caoutchouc",
+            "Un style polyvalent que vous pouvez combiner comme vous le souhaitez.",
+            "A versatile style that you can combine as you like."
+          ],
+          "other": [
+            "Contenu du colis : 1 paire de chaussures",
+            "Attention : Largeur moyenne, si vous avez plus d’espace, veuillez choisir une taille plus grande.",
+            "Package: 1 pair of shoes",
+            "Material: high quality canvas + rubber",
+            "Attention: Medium width, if you have more space, please choose a larger size."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61hdR8G-7HL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0D78LK8P7"
+      }
+    },
+    {
+      "asin": "B0CPPYM911",
+      "csi_title": "Geox B ELTHAN Boy A, Basket,",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "24 EU",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Kid"
+          ],
+          "normalized": "kid"
+        },
+        "target_gender": "male",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Les systèmes brevetés Geox offrent la respirabilité de la semelle et le bien-être des pieds",
+            "La semelle de marche avec Flexy System intégré offerts une souplesse optimale",
+            "Modèle qui assure au pied la mobilité idéale grâce au support à la cheville",
+            "Enfilage immédiat grâce à la fermeture à scratch",
+            "Semelle intérieure amovible",
+            "Doublure intérieure chaude en laine véritable"
+          ],
+          "other": [
+            "Des chaussures qui offrent un niveau d’isolation thermique optimal",
+            "Patented Geox systems provide breathability of the sole and well-being of the feet",
+            "The walking sole with integrated Flexy System offers optimal flexibility",
+            "Shoes that offer an optimal level of thermal insulation",
+            "Model that ensures the foot ideal mobility thanks to the ankle support",
+            "Easy to put on thanks to Velcro fastener",
+            "Removable insole",
+            "Warm inner lining made of real wool"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/5104HgbSlzL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0CPPYM911"
+      }
+    },
+    {
+      "asin": "B0D2KRGN33",
+      "csi_title": "Puma FLEXFOCUS Modern AC+ INF, Basket Unisexe, Puma Black-Puma Pink-Puma White,",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "21 EU",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Bébé",
+            "Baby"
+          ],
+          "normalized": "bébé"
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "other": [
+            "FlexFocus Modern AC+ Inf"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/513MYeHWpvL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0D2KRGN33"
+      }
+    },
+    {
+      "asin": "B0939VQB6Y",
+      "csi_title": "Remonte remonteTEX D0770 Baskets hautes pour femme avec semelle l&#226;che et imperm&#233;ables, Noccia Beige Marron 22, 39 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": null,
+          "additional_sizes_detected": [
+            "39 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"8\"",
+            "legacy_unit": "womens_us"
+          }
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Semelle intérieure douce et interchangeable",
+            "Semelle extérieure antidérapante en TR",
+            "Dessus en cuir véritable de qualité supérieure",
+            "Imperméable grâce à la membrane TEX"
+          ],
+          "other": [
+            "Doublure chaude avec membrane",
+            "Soft, interchangeable insole",
+            "Non-slip TR outsole",
+            "Premium Genuine Leather Upper",
+            "Warm lining with membrane",
+            "Waterproof thanks to the TEX membrane"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61JsSuCr+gL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0939VQB6Y"
+      }
+    },
+    {
+      "asin": "B0D2KPYC9J",
+      "csi_title": "Puma Flyer 3 AC+ INF, Basket Unisexe, for All Time Red-Puma Black-Puma White,",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_339::{",
+          "size_map": "24 EU",
+          "additional_sizes_detected": [
+            "numeric_24,",
+            "24 EU"
+          ],
+          "structured_size": {
+            "gender": "men",
+            "size": "numeric_24",
+            "age_group": "infant",
+            "size_system": "eu_footwear_size_system",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 24
+          }
+        },
+        "footwear_size": {
+          "gender": "men",
+          "size": "numeric_24",
+          "age_group": "infant",
+          "size_system": "eu_footwear_size_system",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 24
+        },
+        "age_range": {
+          "raw_values": [
+            "Bébé",
+            "Baby"
+          ],
+          "normalized": "infant"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Matériaux respirants",
+            "Léger et rembourré"
+          ],
+          "other": [
+            "Flyer 3 AC+ Inf",
+            "Breathable materials",
+            "Lightweight and padded"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61-82xc4dVL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0D2KPYC9J"
+      }
+    },
+    {
+      "asin": "B0CPPWX6JC",
+      "csi_title": "Geox B RISHON Girl A, Basket,",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_312::{",
+          "size_map": "18 EU",
+          "additional_sizes_detected": [
+            "numeric_18,",
+            "18 EU"
+          ],
+          "structured_size": {
+            "gender": "women",
+            "size": "numeric_18",
+            "age_group": "infant",
+            "size_system": "eu_footwear_size_system",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 18
+          }
+        },
+        "footwear_size": {
+          "gender": "women",
+          "size": "numeric_18",
+          "age_group": "infant",
+          "size_system": "eu_footwear_size_system",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 18
+        },
+        "age_range": {
+          "raw_values": [
+            "Bébé"
+          ],
+          "normalized": "infant"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Chaussures faciles à enfiler",
+            "Fermeture Velcro simple et lacets élastiques , semelle intérieure amovible",
+            "Agréable à porter"
+          ],
+          "other": [
+            "Respirant",
+            "Breathable"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/71TXE5gbOXL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0CPPWX6JC"
+      }
+    },
+    {
+      "asin": "B0CPPXDS4G",
+      "csi_title": "Geox B MACCHIA Boy A, Basket,",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "19 EU",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Kid"
+          ],
+          "normalized": "kid"
+        },
+        "target_gender": "male",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Chaussures développées en partenariat avec l'Association italienne des podologues",
+            "Bout renforcé et support de cheville",
+            "Semelle intérieure amovible , Assise plantaire antibactérienne",
+            "Semelle intérieure doublée en cuir non toxique sans chrome"
+          ],
+          "other": [
+            "Shoes developed in partnership with the Italian Association of Podiatrists",
+            "Reinforced toe and ankle support",
+            "Removable insole, antibacterial footbed",
+            "Non-toxic chrome free leather lined insole"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/71Ah7xRgwML.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0CPPXDS4G"
+      }
+    },
+    {
+      "asin": "B07H7ZYV93",
+      "csi_title": "Solshine Chaussures pour femme en cuir su&#233;d&#233; avec plateforme, talon compens&#233;, l&#233;g&#232;res, &#224; enfiler, mocassins, baskets d&#233;contract&#233;es, 38 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_263::{",
+          "size_map": "38 EU",
+          "additional_sizes_detected": [
+            "numeric_38,",
+            "38 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_38",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "adult",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 38
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_38",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 38
+        },
+        "age_range": {
+          "raw_values": [
+            "Adult",
+            "Adulte"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {}
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/612nMHIwasL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B07H7ZYV93"
+      }
+    },
+    {
+      "asin": "B0CPPXMNV9",
+      "csi_title": "Geox B MACCHIA Boy B, Basket,",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "22 EU",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Enfant",
+            "Kid"
+          ],
+          "normalized": "kid"
+        },
+        "target_gender": "male",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Facile et rapide à enfiler",
+            "Bout de chaussure renforcé et soutien de la cheville",
+            "Flexibilité optimale grâce à la semelle extérieure avec système Flexy intégré"
+          ],
+          "other": [
+            "Quick and easy to put on",
+            "Reinforced shoe toe and ankle support",
+            "Optimal flexibility thanks to outsole with integrated Flexy system"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/81iEm5SaFQL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0CPPXMNV9"
+      }
+    },
+    {
+      "asin": "B0CPPYZR9L",
+      "csi_title": "Geox B GISLI Boy B, Basket,",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "21 EU",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Kid"
+          ],
+          "normalized": "kid"
+        },
+        "target_gender": "male",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Les systèmes brevetés Geox offrent la respirabilité de la semelle et le bien-être des pieds",
+            "Chaussures dotées d’une semelle extérieure antimarque",
+            "Enfilage facile et chaussant réglable avec scratch unique et lacets élastiques",
+            "Semelle intérieure amovible",
+            "Doublure intérieure chaude"
+          ],
+          "other": [
+            "Souplesse optimale",
+            "Des chaussures qui offrent un niveau d’isolation thermique optimal",
+            "Patented Geox systems provide breathability of the sole and well-being of the feet",
+            "Optimal flexibility",
+            "Shoes that offer an optimal level of thermal insulation",
+            "Shoes with an anti-brand outsole",
+            "Easy fit and adjustable fit with unique Velcro and elastic laces",
+            "Removable insole",
+            "Warm inner lining"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/51ecIGVWfHL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0CPPYZR9L"
+      }
+    },
+    {
+      "asin": "B0CPPYZCNJ",
+      "csi_title": "Geox B GISLI Boy B, Basket,",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "22 EU",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Kid"
+          ],
+          "normalized": "kid"
+        },
+        "target_gender": "male",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Les systèmes brevetés Geox offrent la respirabilité de la semelle et le bien-être des pieds",
+            "Chaussures dotées d’une semelle extérieure antimarque",
+            "Enfilage facile et chaussant réglable avec scratch unique et lacets élastiques",
+            "Semelle intérieure amovible",
+            "Doublure intérieure chaude"
+          ],
+          "other": [
+            "Souplesse optimale",
+            "Des chaussures qui offrent un niveau d’isolation thermique optimal",
+            "Patented Geox systems provide breathability of the sole and well-being of the feet",
+            "Optimal flexibility",
+            "Shoes that offer an optimal level of thermal insulation",
+            "Shoes with an anti-brand outsole",
+            "Easy fit and adjustable fit with unique Velcro and elastic laces",
+            "Removable insole",
+            "Warm inner lining"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/51ecIGVWfHL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0CPPYZCNJ"
+      }
+    },
+    {
+      "asin": "B0CPPY32RQ",
+      "csi_title": "Geox B MACCHIA Boy C, Basket,",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "19 EU",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Kid"
+          ],
+          "normalized": "kid"
+        },
+        "target_gender": "male",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Les systèmes brevetés Geox offrent la respirabilité de la semelle et le bien-être des pieds",
+            "La semelle de marche avec Flexy System intégré offre une souplesse optimale",
+            "Modèle qui assure au pied la mobilité optimale grâce au support à la cheville",
+            "Semelle intérieure en cuir atoxique sans chrome",
+            "Semelle intérieure antibactérienne"
+          ],
+          "other": [
+            "Patented Geox systems provide breathability of the sole and well-being of the feet",
+            "The walking sole with integrated Flexy System provides optimal flexibility",
+            "Model that ensures optimal mobility for the foot thanks to the ankle support",
+            "Chromium-free non-toxic leather insole",
+            "Antibacterial insole"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61gmJp1zKTL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0CPPY32RQ"
+      }
+    },
+    {
+      "asin": "B0CB1TXVKS",
+      "csi_title": "Skechers Baskets Bobs Geo New Aesthetics pour Femme, Bordure synth&#233;tique en Tricot Blanc cass&#233;, 35 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": null,
+          "additional_sizes_detected": [
+            "35 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"5\"",
+            "legacy_unit": "womens_us"
+          }
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Matériau intérieur : Synthétique",
+            "Matériau extérieur :Textile",
+            "Matériau unique : Caoutchouc"
+          ],
+          "other": [
+            "Type de fermeture : Pas de fermeture",
+            "Type de talon : Sans talon",
+            "Closure type: no closure",
+            "Heel type: without heel",
+            "Inner material: synthetic",
+            "Outer material: textile",
+            "Unique Material: Rubber"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/71Z2aIF2faL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0CB1TXVKS"
+      }
+    },
+    {
+      "asin": "B0CPPXMC2H",
+      "csi_title": "Geox B RISHON Boy A, Basket,",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_312::{",
+          "size_map": "20 EU",
+          "additional_sizes_detected": [
+            "numeric_20,",
+            "20 EU"
+          ],
+          "structured_size": {
+            "gender": "men",
+            "size": "numeric_20",
+            "age_group": "infant",
+            "size_system": "eu_footwear_size_system",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 20
+          }
+        },
+        "footwear_size": {
+          "gender": "men",
+          "size": "numeric_20",
+          "age_group": "infant",
+          "size_system": "eu_footwear_size_system",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 20
+        },
+        "age_range": {
+          "raw_values": [
+            "Enfant"
+          ],
+          "normalized": "infant"
+        },
+        "target_gender": "male",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Systèmes brevetés Geox : respirabilité de la semelle et bien-être des pieds",
+            "Semelle de marche avec Flexy System intégré pour une souplesse optimale",
+            "Support à la cheville pour une mobilité optimale du pied",
+            "Semelle intérieure en cuir atoxique sans chrome",
+            "Semelle intérieure antibactérienne",
+            "Enfilage facile avec scratch unique et lacets élastiques"
+          ],
+          "other": [
+            "Breathable"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/81hWoeb1XNL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0CPPXMC2H"
+      }
+    },
+    {
+      "asin": "B0D78MTW28",
+      "csi_title": "HIZYZ Anime Cosplay Chaussures en Toile Hautes Unisexe Baskets, g, 41 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_95::{",
+          "size_map": "41 EU",
+          "additional_sizes_detected": [
+            "numeric_41,",
+            "41 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_41",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "adult",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 41
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_41",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 41
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Matériau : toile de haute qualité + caoutchouc",
+            "Un style polyvalent que vous pouvez combiner comme vous le souhaitez.",
+            "A versatile style that you can combine as you like."
+          ],
+          "other": [
+            "Contenu du colis : 1 paire de chaussures",
+            "Attention : Largeur moyenne, si vous avez plus d’espace, veuillez choisir une taille plus grande.",
+            "Package: 1 pair of shoes",
+            "Material: high quality canvas + rubber",
+            "Attention: Medium width, if you have more space, please choose a larger size."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61rG9TVxlxL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0D78MTW28"
+      }
+    },
+    {
+      "asin": "B0CPPX32VV",
+      "csi_title": "Geox B MACCHIA Boy B, Basket,",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "23 EU",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Kid"
+          ],
+          "normalized": "kid"
+        },
+        "target_gender": "male",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Respirabilité : Le produit est conçu pour offrir une respirabilité optimale",
+            "Matériau extérieur : La tige est fabriquée en cuir de haute qualité",
+            "Type de fermeture : La chaussure dispose d'un système de fermeture par scratch",
+            "Type de semelle : La semelle est en caoutchouc, offrant une bonne adhérence"
+          ],
+          "en": [
+            "Closure type: The shoe has a Velcro closure system"
+          ],
+          "other": [
+            "Couleur : Disponible en bleu uni",
+            "Breathability: The product is designed to offer optimal breathability",
+            "Outer material: the upper is made of high quality leather",
+            "Sole type: The sole is made of rubber, providing good grip",
+            "Color: Available in plain blue"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/71EZUjtniUL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0CPPX32VV"
+      }
+    },
+    {
+      "asin": "B0CB1STJQL",
+      "csi_title": "Skechers Chaussures de Sport GO Walk Flex Caley pour Femme, Bordure Corail synth&#233;tique Bleu Marine, 36 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": null,
+          "additional_sizes_detected": [
+            "36 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"6\"",
+            "legacy_unit": "womens_us"
+          }
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Rembourrage léger",
+            "Dessus synthétique"
+          ],
+          "other": [
+            "Traction flexible",
+            "Lightweight padding",
+            "Flexible traction",
+            "Synthetic upper"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/51GLc-egWOL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0CB1STJQL"
+      }
+    },
+    {
+      "asin": "B0DDCB528Y",
+      "csi_title": "Naturino Naturino Cocoon, Chausson pour Nourrisson Filles et gar&#231;ons, Bianco,",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "24 EU",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Enfant",
+            "Kid"
+          ],
+          "normalized": "kid"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Ce style a été produit de manière durable",
+            "Il s'agit d'un produit authentique et original",
+            "This style has been produced sustainably"
+          ],
+          "en": [
+            "This is a genuine and original product"
+          ],
+          "other": [
+            "Baskets pour fille, baskets naturino, chaussures pour fille, chaussures premiers pas fille",
+            "Girls' trainers, naturino trainers, girl's shoes, girl's first step shoes"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61t3wj0ctnL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0DDCB528Y"
+      }
+    },
+    {
+      "asin": "B0939VRS4Z",
+      "csi_title": "Remonte remonteTEX D0770 Baskets hautes pour femme avec semelle l&#226;che et imperm&#233;ables, Beige fum&#233;, marron 45, 37 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": null,
+          "additional_sizes_detected": [
+            "37 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"6\"",
+            "legacy_unit": "womens_us"
+          }
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Semelle intérieure douce et interchangeable",
+            "Semelle extérieure antidérapante en TR",
+            "Dessus en cuir véritable de qualité supérieure",
+            "Imperméable grâce à la membrane TEX"
+          ],
+          "other": [
+            "Doublure chaude avec membrane",
+            "Soft, interchangeable insole",
+            "Non-slip TR outsole",
+            "Premium Genuine Leather Upper",
+            "Warm lining with membrane",
+            "Waterproof thanks to the TEX membrane"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/51myCEH+M4L.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0939VRS4Z"
+      }
+    },
+    {
+      "asin": "B0C69LRMWW",
+      "csi_title": "Geox Baskets D Zosma a pour Femme, Blanc., 39 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": null,
+          "additional_sizes_detected": [
+            "39 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"9\"",
+            "legacy_unit": "womens_us"
+          }
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Matériau intérieur : Synthétique",
+            "Matériau extérieur : Cuir",
+            "Matériau unique : Caoutchouc"
+          ],
+          "other": [
+            "Type de fermeture : Lacet",
+            "Type de talon : Talon plateforme",
+            "Closure type: lace",
+            "Heel Type: Platform Heel",
+            "Inner material: synthetic",
+            "Upper material: leather",
+            "Unique Material: Rubber"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/41Koj5zDLfL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0C69LRMWW"
+      }
+    },
+    {
+      "asin": "B0CPPXB98N",
+      "csi_title": "Geox B MACCHIA Boy C, Basket,",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "20 EU",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Kid"
+          ],
+          "normalized": "kid"
+        },
+        "target_gender": "male",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Les systèmes brevetés Geox offrent la respirabilité de la semelle et le bien-être des pieds",
+            "La semelle de marche avec Flexy System intégré offre une souplesse optimale",
+            "Modèle qui assure au pied la mobilité optimale grâce au support à la cheville",
+            "Semelle intérieure en cuir atoxique sans chrome",
+            "Semelle intérieure antibactérienne"
+          ],
+          "other": [
+            "Patented Geox systems provide breathability of the sole and well-being of the feet",
+            "The walking sole with integrated Flexy System provides optimal flexibility",
+            "Model that ensures optimal mobility for the foot thanks to the ankle support",
+            "Chromium-free non-toxic leather insole",
+            "Antibacterial insole"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61gmJp1zKTL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0CPPXB98N"
+      }
+    },
+    {
+      "asin": "B0D8TF4FPB",
+      "csi_title": "Mustang Baskets pour Homme 4154-317, Bleu fonc&#233;, 40 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": "40 EU",
+          "additional_sizes_detected": [
+            "$additional_links_augmentor_289::{",
+            "numeric_40,",
+            "40 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"7.5\"",
+            "legacy_unit": "mens_us"
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_40",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 40
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "male",
+        "material": {
+          "raw": "Synthétique",
+          "normalized": "Synthétique"
+        },
+        "bullet_points": {
+          "other": [
+            "Lacets pour un maintien optimal",
+            "Laces for optimal support"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/71z8pDyufbL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0D8TF4FPB"
+      }
+    },
+    {
+      "asin": "B0D79FQS39",
+      "csi_title": "Camper Nina K201365 Mary Jane 027 Baskets Right pour Femme Couleur Nude Taille 42 EU, Nude 027, 42 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": "42 EU",
+          "additional_sizes_detected": [
+            "$additional_links_augmentor_413::{",
+            "numeric_42,",
+            "42 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"11\"",
+            "legacy_unit": "womens_us"
+          }
+        },
+        "footwear_size": {
+          "gender": "women",
+          "size": "numeric_42",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 42
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Matériau extérieur : 100 % cuir de vachette",
+            "Doublure : 52 % cuir de vachette - 48 % tissu (100 % PET recyclé)",
+            "Semelle extérieure : 92 % caoutchouc vulcanisé - 8 % caoutchouc vulcanisé recyclé"
+          ],
+          "other": [
+            "Couleur : chair",
+            "Colour: Flesh",
+            "Outer material: 100% cowhide leather",
+            "Lining: 52% Cowhide Leather, 48% Fabric (100% Recycled PET)",
+            "Outsole: 92% vulcanized rubber - 8% recycled vulcanized rubber"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/717YwlfNuBL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0D79FQS39"
+      }
+    },
+    {
+      "asin": "B0CPQ16KXW",
+      "csi_title": "Geox B ELTHAN Girl B, Basket,",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_361::{",
+          "size_map": "20 EU",
+          "additional_sizes_detected": [
+            "numeric_20,",
+            "20 EU"
+          ],
+          "structured_size": {
+            "gender": "women",
+            "size": "numeric_20",
+            "age_group": "infant",
+            "size_system": "eu_footwear_size_system",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 20
+          }
+        },
+        "footwear_size": {
+          "gender": "women",
+          "size": "numeric_20",
+          "age_group": "infant",
+          "size_system": "eu_footwear_size_system",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 20
+        },
+        "age_range": {
+          "raw_values": [
+            "Kid"
+          ],
+          "normalized": "infant"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Résistance à l'eau : non étanche"
+          ],
+          "other": [
+            "Forme du talon : plat",
+            "Largeur de la chaussure : moyenne",
+            "Heel shape: flat",
+            "Shoe width: medium",
+            "Water resistance: not waterproof"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/51HXCdTPdbL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0CPQ16KXW"
+      }
+    },
+    {
+      "asin": "B0CPPWLZQG",
+      "csi_title": "Geox B ECLYPER Girl A, Basket,",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "20 EU",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Bébé",
+            "Baby"
+          ],
+          "normalized": "bébé"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Fermeture à un scratch et lacets élastiques",
+            "Semelle intérieure amovible"
+          ],
+          "other": [
+            "Enfilage facile et rapide",
+            "Velcro closure and elastic laces",
+            "Removable insole",
+            "Quick and easy to put on"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/51LptBMsV6L.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0CPPWLZQG"
+      }
+    },
+    {
+      "asin": "B0C69LR3KL",
+      "csi_title": "Geox Women&apos;s D Zosma a Sneakers, Beige Lt Taupe, 40 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": null,
+          "additional_sizes_detected": [
+            "40 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"8.5\"",
+            "legacy_unit": "womens_us"
+          }
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Matériau intérieur:Synthétique",
+            "Matériau extérieur:Cuir",
+            "Matériau de la semelle:Caoutchouc"
+          ],
+          "other": [
+            "Type de talon:Talon plateforme",
+            "Heel type: platform heel",
+            "Inner material: synthetic",
+            "Outer material: leather",
+            "Sole material: rubber"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61pT-wWsgQL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0C69LR3KL"
+      }
+    },
+    {
+      "asin": "B0CPPXJ5VR",
+      "csi_title": "Geox B RISHON Boy A, Basket,",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_312::{",
+          "size_map": "19 EU",
+          "additional_sizes_detected": [
+            "numeric_19,",
+            "19 EU"
+          ],
+          "structured_size": {
+            "gender": "men",
+            "size": "numeric_19",
+            "age_group": "infant",
+            "size_system": "eu_footwear_size_system",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 19
+          }
+        },
+        "footwear_size": {
+          "gender": "men",
+          "size": "numeric_19",
+          "age_group": "infant",
+          "size_system": "eu_footwear_size_system",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 19
+        },
+        "age_range": {
+          "raw_values": [
+            "Enfant"
+          ],
+          "normalized": "infant"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Les systèmes brevetés Geox offrent la respirabilité de la semelle et le bien-être des pieds",
+            "La semelle de marche avec Flexy System intégré offre une souplesse optimale",
+            "Modèle qui assure au pied la mobilité optimale grâce au support à la cheville",
+            "Semelle intérieure en cuir atoxique sans chrome",
+            "Semelle intérieure antibactérienne",
+            "Enfilage facile et chaussant réglable avec scratch unique et lacets élastiques"
+          ],
+          "other": [
+            "Breathable"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/71hJBrK7ZIL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0CPPXJ5VR"
+      }
+    },
+    {
+      "asin": "B0BLCN34XP",
+      "csi_title": "PUMA PUMA Evolve Boot AC+ INF, Basket, PUMA Black-Strong Gray-PUMA White,",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "24 EU",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Bébé",
+            "Baby"
+          ],
+          "normalized": "bébé"
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Matériau intérieur:Textile"
+          ],
+          "other": [
+            "Type de talon:Plat",
+            "Heel type: flat",
+            "Inner material: textile"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/71g56rzanyL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0BLCN34XP"
+      }
+    },
+    {
+      "asin": "B0D2KQWY4F",
+      "csi_title": "Puma Flyer 3 AC+ INF, Basket Unisexe, for All Time Red-Puma Black-Puma White,",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_362::{",
+          "size_map": "25 EU",
+          "additional_sizes_detected": [
+            "numeric_25,",
+            "25 EU"
+          ],
+          "structured_size": {
+            "gender": "men",
+            "size": "numeric_25",
+            "age_group": "infant",
+            "size_system": "eu_footwear_size_system",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 25
+          }
+        },
+        "footwear_size": {
+          "gender": "men",
+          "size": "numeric_25",
+          "age_group": "infant",
+          "size_system": "eu_footwear_size_system",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 25
+        },
+        "age_range": {
+          "raw_values": [
+            "Bébé",
+            "Baby"
+          ],
+          "normalized": "infant"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Matériaux respirants",
+            "Léger et rembourré"
+          ],
+          "other": [
+            "Flyer 3 AC+ Inf",
+            "Breathable materials",
+            "Lightweight and padded"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61-82xc4dVL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0D2KQWY4F"
+      }
+    },
+    {
+      "asin": "B0CB1SX8ZK",
+      "csi_title": "Skechers Chaussures de Sport GO Walk Flex Caley pour Femme, Bordure Rose synth&#233;tique Taupe, 40.5 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": null,
+          "additional_sizes_detected": [
+            "40.5 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"10.5\"",
+            "legacy_unit": "womens_us"
+          }
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Logo détaillé",
+            "Légères",
+            "Mousse viscoélastique"
+          ],
+          "other": [
+            "Detailed logo",
+            "Lightweight",
+            "Memory Foam"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61f62GA9j+L.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0CB1SX8ZK"
+      }
+    },
+    {
+      "asin": "B0CQMKZVS5",
+      "csi_title": "Rieker Baskets B3360 pour Homme, Vert, 46 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": null,
+          "additional_sizes_detected": [
+            "46 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"12\"",
+            "legacy_unit": "mens_us"
+          }
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "male",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Cuir véritable",
+            "Semelle intérieure amovible"
+          ],
+          "other": [
+            "Extra large",
+            "Extra Wide",
+            "Genuine Leather",
+            "Removable insole"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/71vMCucfEoL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0CQMKZVS5"
+      }
+    },
+    {
+      "asin": "B0DQPWVWZW",
+      "csi_title": "Sosenfer Chaussures unisexes larges pieds nus - Chaussures minimalistes pour hommes et femmes - Chaussures de randonn&#233;e pour l&apos;ext&#233;rieur - Baskets &#224; enfiler, 37 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": "37 EU",
+          "additional_sizes_detected": [
+            "$additional_links_augmentor_124::{",
+            "numeric_37,",
+            "37 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"5.5\"",
+            "legacy_unit": "mens_us"
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_37",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 37
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": "Caoutchouc",
+          "normalized": "Rubber"
+        },
+        "bullet_points": {
+          "fr": [
+            "Large boîte à orteils : profitez de l'espace généreux pour vos orteils, laissez vos pieds respirer librement et bouger naturellement, sans points de pression.",
+            "Simple et léger : Ressentez la légèreté comme une seconde peau, réduisez la charge sur vos pieds et adaptez-vous parfaitement au quotidien.",
+            "Confortable et mobile : chaque pas est léger et mobile, grâce à des matériaux confortables et à un design flexible qui vous offrent une liberté de mouvement à tout moment.",
+            "Matériau respirant : garde vos pieds au sec et ventilés pour vous garder à l'aise par tous les temps.",
+            "Design à enfilage rapide : le design pratique à enfilage rapide vous permet d'enfiler et de retirer rapidement les chaussures, idéal pour une vie rapide."
+          ],
+          "other": [
+            "Wide Toe Box Enjoy the generous space for your toes, let your feet breathe freely and move naturally, without pressure points.",
+            "SIMPLE AND LIGHTWEIGHT: Enjoy lightness like a second skin, reduce the burden on your feet and fit perfectly into daily life.",
+            "COMFORTABLE AND MOBILE - Each step is lightweight and mobile, thanks to comfortable materials and flexible design that give you freedom of movement at all times.",
+            "BREATHABLE MATERIAL - Keep your feet dry and ventilated to keep you comfortable in any weather.",
+            "QUICK ON DESIGN - Convenient quick slip on design allows you to quickly put on and take off shoes, ideal for a quick life."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/81gjeiA-ffL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0DQPWVWZW"
+      }
+    },
+    {
+      "asin": "B0CPPYXSJK",
+      "csi_title": "Geox B MACCHIA Boy A, Basket,",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "18 EU",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Kid"
+          ],
+          "normalized": "kid"
+        },
+        "target_gender": "male",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Chaussures développées en partenariat avec l'Association italienne des podologues",
+            "Bout renforcé et support de cheville",
+            "Semelle intérieure amovible , Assise plantaire antibactérienne",
+            "Semelle intérieure doublée en cuir non toxique sans chrome"
+          ],
+          "other": [
+            "Shoes developed in partnership with the Italian Association of Podiatrists",
+            "Reinforced toe and ankle support",
+            "Removable insole, antibacterial footbed",
+            "Non-toxic chrome free leather lined insole"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/41MzBWZbRfL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0CPPYXSJK"
+      }
+    },
+    {
+      "asin": "B0CPPYKBV1",
+      "csi_title": "Geox B ELTHAN Girl A, Basket,",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "19 EU",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Kid"
+          ],
+          "normalized": "kid"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Les systèmes brevetés Geox offrent la respirabilité de la semelle et le bien-être des pieds",
+            "La semelle de marche avec Flexy System intégré offre une souplesse optimale",
+            "Modèle qui assure au pied la mobilité optimale grâce au support à la cheville",
+            "Enfilage immédiat grâce à la fermeture à scratch",
+            "Semelle intérieure amovible"
+          ],
+          "other": [
+            "Des chaussures qui offrent un niveau d’isolation thermique optimal",
+            "Patented Geox systems provide breathability of the sole and well-being of the feet",
+            "The walking sole with integrated Flexy System provides optimal flexibility",
+            "Shoes that offer an optimal level of thermal insulation",
+            "Model that ensures optimal mobility for the foot thanks to the ankle support",
+            "Easy to put on thanks to Velcro fastener",
+            "Removable insole"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/5135T1db0zL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0CPPYKBV1"
+      }
+    },
+    {
+      "asin": "B0F44C2FH8",
+      "csi_title": "Sparco - Traction Suzuka ESD S1PS SR FO HRO - Chaussures de s&#233;curit&#233; pour Hommes et Femmes - Chaussures de Travail antid&#233;rapantes et r&#233;sistantes - Baskets de s&#233;curit&#233; de Style Sportif - EU 45",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_365::{",
+          "size_map": "45 EU",
+          "additional_sizes_detected": [
+            "numeric_45,",
+            "45 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_45",
+            "age_group": "adult",
+            "size_system": "eu_footwear_size_system",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 45
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_45",
+          "age_group": "adult",
+          "size_system": "eu_footwear_size_system",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 45
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Look sportif, âme protectrice : chaussures de sécurité au design inspiré des baskets de sport, parfaites pour ceux qui veulent allier confort, légèreté et sécurité maximale au travail. Certifiées selon la nouvelle norme EN ISO 20345:2022+A1:2024.",
+            "Tige réfléchissante anti-abrasion avec détails 3D : La tige est composée d'un tissu technique réfléchissant et respirant, avec des renforts TPU anti-abrasion et des détails 3D, pour un mélange idéal de résistance, de visibilité et de style moderne.",
+            "Fraîcheur et respirabilité constantes : doublure en tissu microperforé 3D, conçue pour garder le pied au frais et au sec même pendant de longues heures d'utilisation, améliorant ainsi le confort quotidien.",
+            "Protection maximale et légèreté : semelle ultra-légère en fibre textile à perforation zéro et embout en fibre de verre amagnétique résistant à 200J : une sécurité invisible sans poids supplémentaire.",
+            "Amortissement réactif et adhérence supérieure : semelle intermédiaire en EVA super confortable combinée à des bandes de roulement en caoutchouc nitrile FO+HRO : absorption optimale des chocs, propriétés antistatiques et adhérence maximale, même sur les surfaces difficiles.",
+            "Anti-abrasion reflective upper with 3D inserts: the upper is made of reflective and breathable technical fabric, with anti-abrasion TPU reinforcements and 3D detailing, for an ideal mix of strength, visibility and modern style."
+          ],
+          "other": [
+            "Sporty look, protective soul: ESD safety shoes S1PS SR FO HRO in a sneaker inspired design, perfect for those who want to combine comfort, lightness and maximum safety at work. Certified according to the new EN ISO 20345:2022+A1:2024 standard.",
+            "Constant freshness and breathability: 3D micro-perforated fabric inner lining, designed to keep your foot cool and dry even during long hours of use, improving daily well-being.",
+            "Maximum protection with lightness: Perforation-zero sole made of ultra-light textile fibre and non-magnetic fiberglass tip resistant to 200J: invisible safety and weightless.",
+            "REACTIVE CUSHIONING & SUPERIOR GRIP: Super comfortable EVA midsole combined with FO+HRO nitrile rubber tread for optimal shock absorption, anti-static properties and maximum traction even on difficult surfaces."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/812Vf3ZAHwL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0F44C2FH8"
+      }
+    },
+    {
+      "asin": "B0BSG1YLSJ",
+      "csi_title": "Boss Kai Runn Baskets Basses &#224; Lacets pour Homme, 121 Open White, 44 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_346::{",
+          "size_map": "44 EU",
+          "additional_sizes_detected": [
+            "numeric_44,",
+            "44 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_44",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "adult",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 44
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_44",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 44
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Fabrication de qualité supérieure"
+          ],
+          "other": [
+            "High-quality workmanship"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/51r++MsC9RL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0BSG1YLSJ"
+      }
+    },
+    {
+      "asin": "B0CPQ4B4JV",
+      "csi_title": "Geox B TUTIM B, Basket,",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_319::{",
+          "size_map": "19 EU",
+          "additional_sizes_detected": [
+            "numeric_19,",
+            "19 EU"
+          ],
+          "structured_size": {
+            "gender": "women",
+            "size": "numeric_19",
+            "age_group": "infant",
+            "size_system": "eu_footwear_size_system",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 19
+          }
+        },
+        "footwear_size": {
+          "gender": "women",
+          "size": "numeric_19",
+          "age_group": "infant",
+          "size_system": "eu_footwear_size_system",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 19
+        },
+        "age_range": {
+          "raw_values": [
+            "Enfant"
+          ],
+          "normalized": "infant"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": "Caoutchouc",
+          "normalized": "Rubber"
+        },
+        "bullet_points": {
+          "fr": [
+            "Chaussures développées en partenariat avec l'Association italienne des podologues",
+            "Rapide et facile à mettre en place",
+            "Bout et talon renforcés"
+          ],
+          "other": [
+            "Breathable"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61V6R6hpjTL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0CPQ4B4JV"
+      }
+    }
+  ],
+  "stats": {
+    "asin_blocks_found": 100,
+    "records_extracted": 99,
+    "records_skipped_no_csi": 1
+  }
+}
