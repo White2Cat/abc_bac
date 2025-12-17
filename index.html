@@ -12,10 +12,11 @@
     input, button { padding: 10px; font-size: 14px; }
     input { min-width: 260px; }
     button { cursor: pointer; }
+    button[disabled]{ opacity:.55; cursor:not-allowed; }
     .card { border: 1px solid #ddd; border-radius: 10px; padding: 12px; margin-top: 12px; }
     .muted { opacity: .7; font-size: 13px; }
     .list { max-height: 260px; overflow: auto; border: 1px solid #eee; border-radius: 10px; padding: 8px; }
-    .asin-item { padding: 8px; border-radius: 8px; display: flex; justify-content: space-between; gap: 10px; }
+    .asin-item { padding: 8px; border-radius: 8px; display: flex; justify-content: space-between; gap: 10px; align-items:center; }
     .asin-item:hover { background: #f6f6f6; }
     .asin-item.active { background: #e9f3ff; border: 1px solid #b8d7ff; }
     pre { background: #0b1020; color: #dce7ff; padding: 12px; border-radius: 10px; overflow: auto; }
@@ -29,15 +30,21 @@
       margin:4px 6px 0 0; font-size:12px; background:#fff;
     }
     .kv { display:grid; grid-template-columns: 160px 1fr; gap: 6px 10px; margin-top: 8px; }
-    .kv b { font-weight: 650; }
     .dpimg { max-width:160px; border-radius:10px; border:1px solid #eee; }
     .two-col { display:flex; gap: 12px; flex-wrap: wrap; }
     .col { flex: 1; min-width: 320px; }
+    .badge {
+      font-size:12px; padding:2px 8px; border-radius:999px; border:1px solid #eee; background:#fff;
+      min-width: 40px; text-align:center;
+    }
+    .badge.tp { border-color:#9ad5ae; background:#eaf7ef; }
+    .badge.fp { border-color:#ffb7b7; background:#ffecec; }
+    .btn-mini { padding: 8px 10px; font-size: 13px; }
   </style>
 </head>
 <body>
   <h2>CSI JSON Prompt Builder</h2>
-  <div class="muted">Load a data*.json, search an ASIN, then copy a ready-to-use prompt.</div>
+  <div class="muted">Load a data*.json, search an ASIN, then copy a ready-to-use prompt. Mark TP/FP and export CSV before leaving.</div>
 
   <div class="card">
     <div class="row">
@@ -74,7 +81,19 @@
         <button id="btnConfirm">Confirm</button>
         <button id="btnPrev" class="navbtn" disabled>Prev</button>
         <button id="btnNext" class="navbtn" disabled>Next</button>
+
         <button id="btnCopy" disabled>Copy Prompt</button>
+
+        <span style="width:1px;height:26px;background:#ddd;display:inline-block;margin:0 2px;"></span>
+
+        <button id="btnTP" class="btn-mini" disabled>TP</button>
+        <button id="btnFP" class="btn-mini" disabled>FP</button>
+        <button id="btnClear" class="btn-mini" disabled>Clear</button>
+        <span id="decisionText" class="small muted">Decision: -</span>
+
+        <span style="width:1px;height:26px;background:#ddd;display:inline-block;margin:0 2px;"></span>
+
+        <button id="btnExport" class="btn-mini" disabled>Export CSV</button>
       </div>
     </div>
 
@@ -99,6 +118,18 @@
   const LS_PRIMARY = "csi_ui_primary_rule";
   const LS_DATA    = "csi_ui_data_name";
 
+  // Decisions storage:
+  // LS_DECISIONS = { [dataName]: { [asin]: "TP" | "FP" } }
+  const LS_DECISIONS = "csi_ui_decisions_map_v1";
+
+  // Export markers:
+  // LS_LAST_EXPORT = { [dataName]: timestamp_ms }
+  const LS_LAST_EXPORT = "csi_ui_last_export_v1";
+
+  // Dirty markers:
+  // LS_DIRTY = { [dataName]: true/false }
+  const LS_DIRTY = "csi_ui_dirty_v1";
+
   const $primary = document.getElementById("primaryRule");
   const $dataName = document.getElementById("dataName");
   const $btnLoad = document.getElementById("btnLoad");
@@ -110,6 +141,14 @@
   const $btnPrev = document.getElementById("btnPrev");
   const $btnNext = document.getElementById("btnNext");
   const $btnCopy = document.getElementById("btnCopy");
+
+  const $btnTP = document.getElementById("btnTP");
+  const $btnFP = document.getElementById("btnFP");
+  const $btnClear = document.getElementById("btnClear");
+  const $decisionText = document.getElementById("decisionText");
+
+  const $btnExport = document.getElementById("btnExport");
+
   const $asinList = document.getElementById("asinList");
   const $jsonView = document.getElementById("jsonView");
   const $humanView = document.getElementById("humanView");
@@ -118,12 +157,61 @@
   let currentRecords = [];
   let selectedRecord = null;
   let selectedIndex = -1;
+  let currentDataKey = ""; // data name used for saving decisions
 
+  // ---------- localStorage helpers ----------
+  function loadJsonLS(key, fallback) {
+    try {
+      const raw = localStorage.getItem(key);
+      return raw ? JSON.parse(raw) : fallback;
+    } catch {
+      return fallback;
+    }
+  }
+  function saveJsonLS(key, val) {
+    localStorage.setItem(key, JSON.stringify(val));
+  }
+
+  function getDecisionsMap() {
+    return loadJsonLS(LS_DECISIONS, {});
+  }
+  function setDecision(dataKey, asin, decisionOrNull) {
+    if (!dataKey || !asin) return;
+
+    const map = getDecisionsMap();
+    map[dataKey] = map[dataKey] || {};
+
+    if (!decisionOrNull) {
+      delete map[dataKey][asin];
+    } else {
+      map[dataKey][asin] = decisionOrNull;
+    }
+    saveJsonLS(LS_DECISIONS, map);
+
+    // mark dirty
+    const dirty = loadJsonLS(LS_DIRTY, {});
+    dirty[dataKey] = true;
+    saveJsonLS(LS_DIRTY, dirty);
+  }
+  function getDecision(dataKey, asin) {
+    const map = getDecisionsMap();
+    return (map[dataKey] && map[dataKey][asin]) ? map[dataKey][asin] : "";
+  }
+  function isDirty(dataKey) {
+    const dirty = loadJsonLS(LS_DIRTY, {});
+    return !!dirty[dataKey];
+  }
+  function clearDirty(dataKey) {
+    const dirty = loadJsonLS(LS_DIRTY, {});
+    dirty[dataKey] = false;
+    saveJsonLS(LS_DIRTY, dirty);
+  }
+
+  // ---------- UI helpers ----------
   // Restore saved inputs
   $primary.value = localStorage.getItem(LS_PRIMARY) || "";
   $dataName.value = localStorage.getItem(LS_DATA) || "";
 
-  // Persist on change
   $primary.addEventListener("input", () => localStorage.setItem(LS_PRIMARY, $primary.value));
   $dataName.addEventListener("input", () => localStorage.setItem(LS_DATA, $dataName.value));
 
@@ -142,6 +230,30 @@
     $btnNext.disabled = !(hasSel && selectedIndex < currentRecords.length - 1);
   }
 
+  function updateDecisionUI() {
+    const hasSel = !!selectedRecord && !!currentDataKey;
+    const asin = hasSel ? (selectedRecord.asin || "") : "";
+    const d = hasSel ? getDecision(currentDataKey, asin) : "";
+
+    $btnTP.disabled = !hasSel;
+    $btnFP.disabled = !hasSel;
+    $btnClear.disabled = !hasSel;
+    $btnExport.disabled = !currentDataKey || !currentRecords.length;
+
+    $decisionText.textContent = `Decision: ${d || "-"}`;
+
+    // optional: visually indicate active
+    $btnTP.style.outline = (d === "TP") ? "2px solid #2e7d32" : "none";
+    $btnFP.style.outline = (d === "FP") ? "2px solid #b00020" : "none";
+  }
+
+  function renderBadge(decision) {
+    if (!decision) return `<span class="badge muted">-</span>`;
+    if (decision === "TP") return `<span class="badge tp">TP</span>`;
+    if (decision === "FP") return `<span class="badge fp">FP</span>`;
+    return `<span class="badge">${decision}</span>`;
+  }
+
   function renderAsinList() {
     $asinList.innerHTML = "";
     if (!currentRecords.length) {
@@ -151,8 +263,20 @@
     currentRecords.forEach((r, idx) => {
       const div = document.createElement("div");
       const active = (idx === selectedIndex);
+      const asin = r.asin || "";
+      const decision = currentDataKey ? getDecision(currentDataKey, asin) : "";
+
       div.className = "asin-item" + (active ? " active" : "");
-      div.innerHTML = `<div><b>${idx + 1}.</b> ${r.asin || ""}</div><div class="small muted">${(r.csi_status || "")}</div>`;
+      div.innerHTML = `
+        <div style="display:flex;gap:10px;align-items:center;">
+          <div><b>${idx + 1}.</b></div>
+          <div>${asin}</div>
+        </div>
+        <div style="display:flex;gap:10px;align-items:center;">
+          ${renderBadge(decision)}
+          <div class="small muted">${(r.csi_status || "")}</div>
+        </div>
+      `;
       div.addEventListener("click", () => selectByIndex(idx, true));
       $asinList.appendChild(div);
     });
@@ -178,9 +302,7 @@
   }
 
   function renderHuman(record) {
-    if (!record) {
-      return `<div class="muted">No record selected.</div>`;
-    }
+    if (!record) return `<div class="muted">No record selected.</div>`;
 
     const dp = record.dp || {};
     const attrs = record.attributes || {};
@@ -212,7 +334,6 @@
       chip(material.normalized ? `material: ${material.normalized}` : (material.raw ? `material: ${material.raw}` : ""));
 
     const addSizes = (sizeInfo.additional_sizes_detected || []).join(", ");
-
     const structuredFacts = [
       ssz.size_system ? `system=${ssz.size_system}` : "",
       ssz.size_class ? `class=${ssz.size_class}` : "",
@@ -267,6 +388,7 @@
     `;
   }
 
+  // ---------- selection ----------
   function selectByIndex(idx, scrollIntoView=false) {
     if (idx < 0 || idx >= currentRecords.length) return;
 
@@ -280,6 +402,7 @@
     $btnCopy.disabled = false;
     updateNavButtons();
     renderAsinList();
+    updateDecisionUI();
 
     if (scrollIntoView) {
       const nodes = $asinList.querySelectorAll(".asin-item");
@@ -298,41 +421,106 @@
     return true;
   }
 
+  // ---------- export ----------
+  function exportCsvForCurrentData() {
+    if (!currentDataKey || !currentRecords.length) return;
+
+    // CSV header
+    const rows = [["data_name", "asin", "decision"]];
+
+    for (const r of currentRecords) {
+      const asin = r.asin || "";
+      const decision = getDecision(currentDataKey, asin) || "";
+      rows.push([currentDataKey, asin, decision]);
+    }
+
+    const csv = rows.map(cols => cols.map(v => {
+      const s = String(v ?? "");
+      // escape quotes
+      const escaped = s.replace(/"/g, '""');
+      // quote if needed
+      return /[",\n]/.test(escaped) ? `"${escaped}"` : escaped;
+    }).join(",")).join("\n");
+
+    const blob = new Blob([csv], { type: "text/csv;charset=utf-8" });
+    const url = URL.createObjectURL(blob);
+
+    const ts = new Date().toISOString().replace(/[:.]/g, "-");
+    const filename = `${currentDataKey}_tp_fp_${ts}.csv`;
+
+    const a = document.createElement("a");
+    a.href = url;
+    a.download = filename;
+    document.body.appendChild(a);
+    a.click();
+    document.body.removeChild(a);
+    URL.revokeObjectURL(url);
+
+    // mark exported (clear dirty)
+    clearDirty(currentDataKey);
+
+    const last = loadJsonLS(LS_LAST_EXPORT, {});
+    last[currentDataKey] = Date.now();
+    saveJsonLS(LS_LAST_EXPORT, last);
+
+    setStatus(`Exported CSV: ${filename} ✅`, "ok");
+    renderAsinList();
+    updateDecisionUI();
+  }
+
+  // ---------- load/apply ----------
   function applyLoadedJson(json, filenameHint="") {
     currentData = json;
 
-    if (Array.isArray(json)) {
-      currentRecords = json;
-    } else if (json && Array.isArray(json.records)) {
-      currentRecords = json.records;
-    } else {
-      currentRecords = [];
-    }
+    if (Array.isArray(json)) currentRecords = json;
+    else if (json && Array.isArray(json.records)) currentRecords = json.records;
+    else currentRecords = [];
+
+    // Determine dataKey:
+    // Prefer the input dataName; fallback to file stem (filename without .json)
+    let dk = ($dataName.value || "").trim();
+    if (!dk && filenameHint) dk = filenameHint.replace(/\.json$/i, "");
+    currentDataKey = dk || "data";
 
     // reset selection
     selectedRecord = null;
     selectedIndex = -1;
+
     $btnCopy.disabled = true;
     $jsonView.textContent = "{}";
     $humanView.innerHTML = renderHuman(null);
 
     updateNavButtons();
     renderAsinList();
+    updateDecisionUI();
 
     const sf = (json && json.source_file) ? json.source_file : filenameHint;
-    setStatus(`Loaded source: ${sf}. records=${currentRecords.length}`, "ok");
+    setStatus(`Loaded source: ${sf}. dataKey=${currentDataKey}. records=${currentRecords.length}`, "ok");
+
+    // enable export even before selecting
+    $btnExport.disabled = !currentDataKey || !currentRecords.length;
+  }
+
+  function maybeWarnDirtyBeforeSwitch() {
+    if (!currentDataKey) return true;
+    if (!isDirty(currentDataKey)) return true;
+
+    // Offer export now
+    const ok = confirm(`You have un-exported TP/FP decisions for "${currentDataKey}".\n\nPress OK to Export CSV now, or Cancel to continue without exporting.`);
+    if (ok) exportCsvForCurrentData();
+    // allow switching regardless (user chose)
+    return true;
   }
 
   async function loadByDataName() {
+    maybeWarnDirtyBeforeSwitch();
+
     const name = ($dataName.value || "").trim();
     if (!name) {
       setStatus("Please input a data name, e.g. data1", "err");
       return;
     }
 
-    // ✅ GitHub Pages recommended structure:
-    // index.html at repo root
-    // JSON files under ./out_json/
     const url = `./out_json/${name}.json`;
 
     try {
@@ -341,32 +529,36 @@
       if (!res.ok) throw new Error(`HTTP ${res.status} ${res.statusText}`);
       const json = await res.json();
       applyLoadedJson(json, `${name}.json`);
-      setStatus(`Loaded ${name}.json successfully. records=${currentRecords.length}`, "ok");
     } catch (e) {
       setStatus(`Failed to load by name. (${e.message}) Try "Choose JSON file".`, "err");
       currentData = null;
       currentRecords = [];
       selectedRecord = null;
       selectedIndex = -1;
+      currentDataKey = "";
+
       renderAsinList();
       $jsonView.textContent = "{}";
       $humanView.innerHTML = renderHuman(null);
+
       $btnCopy.disabled = true;
       updateNavButtons();
+      updateDecisionUI();
+      $btnExport.disabled = true;
     }
   }
 
-  // Load button
+  // ---------- events ----------
   $btnLoad.addEventListener("click", loadByDataName);
 
-  // File input loader
   $fileInput.addEventListener("change", async (ev) => {
+    maybeWarnDirtyBeforeSwitch();
+
     const f = ev.target.files && ev.target.files[0];
     if (!f) return;
     try {
       const text = await f.text();
       const json = JSON.parse(text);
-      applyLoadedJson(json, f.name);
 
       // If user picked data1.json, auto-fill dataName = data1
       const base = f.name.replace(/\.json$/i, "");
@@ -374,7 +566,8 @@
         $dataName.value = base;
         localStorage.setItem(LS_DATA, base);
       }
-      setStatus(`Loaded file: ${f.name}. records=${currentRecords.length}`, "ok");
+
+      applyLoadedJson(json, f.name);
     } catch (e) {
       setStatus(`Failed to parse JSON file: ${e.message}`, "err");
     } finally {
@@ -382,7 +575,6 @@
     }
   });
 
-  // Confirm search
   $btnConfirm.addEventListener("click", () => {
     if (!currentRecords.length) {
       setStatus("No data loaded yet. Load by data name or choose a JSON file first.", "err");
@@ -403,10 +595,10 @@
       $humanView.innerHTML = renderHuman(null);
       updateNavButtons();
       renderAsinList();
+      updateDecisionUI();
     }
   });
 
-  // Prev/Next
   $btnPrev.addEventListener("click", () => {
     if (selectedIndex > 0) selectByIndex(selectedIndex - 1, true);
   });
@@ -417,7 +609,6 @@
     }
   });
 
-  // Copy prompt (Prompt + JSON)
   $btnCopy.addEventListener("click", async () => {
     if (!selectedRecord) return;
     const rule = ($primary.value || "").trim() || "{primary rule}";
@@ -430,7 +621,6 @@ ${JSON.stringify(selectedRecord, null, 2)}`;
       await navigator.clipboard.writeText(prompt);
       setStatus("Prompt copied to clipboard ✅", "ok");
     } catch (e) {
-      // fallback
       const ta = document.createElement("textarea");
       ta.value = prompt;
       document.body.appendChild(ta);
@@ -441,10 +631,48 @@ ${JSON.stringify(selectedRecord, null, 2)}`;
     }
   });
 
+  // TP/FP/Clear
+  $btnTP.addEventListener("click", () => {
+    if (!selectedRecord || !currentDataKey) return;
+    setDecision(currentDataKey, selectedRecord.asin, "TP");
+    setStatus(`Saved decision TP for ${selectedRecord.asin}`, "ok");
+    renderAsinList();
+    updateDecisionUI();
+  });
+
+  $btnFP.addEventListener("click", () => {
+    if (!selectedRecord || !currentDataKey) return;
+    setDecision(currentDataKey, selectedRecord.asin, "FP");
+    setStatus(`Saved decision FP for ${selectedRecord.asin}`, "ok");
+    renderAsinList();
+    updateDecisionUI();
+  });
+
+  $btnClear.addEventListener("click", () => {
+    if (!selectedRecord || !currentDataKey) return;
+    setDecision(currentDataKey, selectedRecord.asin, null);
+    setStatus(`Cleared decision for ${selectedRecord.asin}`, "ok");
+    renderAsinList();
+    updateDecisionUI();
+  });
+
+  // Export
+  $btnExport.addEventListener("click", exportCsvForCurrentData);
+
+  // Warn before close/refresh if dirty
+  window.addEventListener("beforeunload", (e) => {
+    if (currentDataKey && isDirty(currentDataKey)) {
+      e.preventDefault();
+      e.returnValue = ""; // required for most browsers
+      return "";
+    }
+  });
+
   // Initial render
+  $humanView.innerHTML = renderHuman(null);
   renderAsinList();
   updateNavButtons();
-  $humanView.innerHTML = renderHuman(null);
+  updateDecisionUI();
 })();
 </script>
 </body>
