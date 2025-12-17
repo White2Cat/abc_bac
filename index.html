@@ -9,12 +9,12 @@
     .row { display: flex; gap: 12px; flex-wrap: wrap; align-items: end; }
     .field { display: flex; flex-direction: column; gap: 6px; }
     label { font-size: 12px; opacity: .8; }
-    input, button, select, textarea { padding: 10px; font-size: 14px; }
+    input, button { padding: 10px; font-size: 14px; }
     input { min-width: 260px; }
     button { cursor: pointer; }
     .card { border: 1px solid #ddd; border-radius: 10px; padding: 12px; margin-top: 12px; }
     .muted { opacity: .7; font-size: 13px; }
-    .list { max-height: 240px; overflow: auto; border: 1px solid #eee; border-radius: 10px; padding: 8px; }
+    .list { max-height: 260px; overflow: auto; border: 1px solid #eee; border-radius: 10px; padding: 8px; }
     .asin-item { padding: 8px; border-radius: 8px; display: flex; justify-content: space-between; gap: 10px; }
     .asin-item:hover { background: #f6f6f6; }
     .asin-item.active { background: #e9f3ff; border: 1px solid #b8d7ff; }
@@ -24,6 +24,15 @@
     .err { color: #b00020; }
     .small { font-size: 12px; opacity: .8; }
     .navbtn { min-width: 92px; }
+    .chip {
+      display:inline-block; padding:4px 8px; border:1px solid #eee; border-radius:999px;
+      margin:4px 6px 0 0; font-size:12px; background:#fff;
+    }
+    .kv { display:grid; grid-template-columns: 160px 1fr; gap: 6px 10px; margin-top: 8px; }
+    .kv b { font-weight: 650; }
+    .dpimg { max-width:160px; border-radius:10px; border:1px solid #eee; }
+    .two-col { display:flex; gap: 12px; flex-wrap: wrap; }
+    .col { flex: 1; min-width: 320px; }
   </style>
 </head>
 <body>
@@ -63,21 +72,23 @@
 
       <div class="actions">
         <button id="btnConfirm">Confirm</button>
-
         <button id="btnPrev" class="navbtn" disabled>Prev</button>
         <button id="btnNext" class="navbtn" disabled>Next</button>
-
         <button id="btnCopy" disabled>Copy Prompt</button>
       </div>
     </div>
 
-    <div class="row" style="margin-top:12px;">
-      <div style="flex:1; min-width: 320px;">
+    <div class="two-col" style="margin-top:12px;">
+      <div class="col">
         <div class="muted">ASIN list (in file order)</div>
         <div class="list" id="asinList"></div>
       </div>
-      <div style="flex:2; min-width: 360px;">
-        <div class="muted">Selected record JSON</div>
+
+      <div class="col" style="flex:2; min-width: 360px;">
+        <div class="muted">Human-readable (for quick decision)</div>
+        <div id="humanView" class="card" style="margin-top:8px;"></div>
+
+        <div class="muted" style="margin-top:12px;">Selected record JSON (for copy/trace)</div>
         <pre id="jsonView">{}</pre>
       </div>
     </div>
@@ -101,9 +112,10 @@
   const $btnCopy = document.getElementById("btnCopy");
   const $asinList = document.getElementById("asinList");
   const $jsonView = document.getElementById("jsonView");
+  const $humanView = document.getElementById("humanView");
 
-  let currentData = null;       // whole file JSON
-  let currentRecords = [];      // records array (in order)
+  let currentData = null;
+  let currentRecords = [];
   let selectedRecord = null;
   let selectedIndex = -1;
 
@@ -118,6 +130,10 @@
   function setStatus(msg, kind="") {
     $loadStatus.className = "small " + (kind === "ok" ? "ok" : kind === "err" ? "err" : "");
     $loadStatus.textContent = msg;
+  }
+
+  function pretty(obj) {
+    return JSON.stringify(obj, null, 2);
   }
 
   function updateNavButtons() {
@@ -136,32 +152,136 @@
       const div = document.createElement("div");
       const active = (idx === selectedIndex);
       div.className = "asin-item" + (active ? " active" : "");
-      div.innerHTML = `<div><b>${idx + 1}.</b> ${r.asin}</div><div class="small muted">${(r.csi_status || "")}</div>`;
-      div.addEventListener("click", () => {
-        selectByIndex(idx, true);
-      });
+      div.innerHTML = `<div><b>${idx + 1}.</b> ${r.asin || ""}</div><div class="small muted">${(r.csi_status || "")}</div>`;
+      div.addEventListener("click", () => selectByIndex(idx, true));
       $asinList.appendChild(div);
     });
   }
 
-  function pretty(obj) {
-    return JSON.stringify(obj, null, 2);
+  function esc(s) {
+    return String(s ?? "").replace(/[&<>"']/g, m => ({
+      "&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;","'":"&#039;"
+    }[m]));
+  }
+
+  function bulletList(arr) {
+    if (!arr || !arr.length) return `<div class="muted">None</div>`;
+    const top = arr.slice(0, 6);
+    return `<ul style="margin:6px 0 0 18px;">
+      ${top.map(b => `<li>${esc(b)}</li>`).join("")}
+    </ul>`;
+  }
+
+  function chip(text) {
+    if (!text) return "";
+    return `<span class="chip">${esc(text)}</span>`;
+  }
+
+  function renderHuman(record) {
+    if (!record) {
+      return `<div class="muted">No record selected.</div>`;
+    }
+
+    const dp = record.dp || {};
+    const attrs = record.attributes || {};
+    const sizeInfo = attrs.size_info || {};
+    const ssz = sizeInfo.structured_size || {};
+    const fw = attrs.footwear_size || {};
+    const age = attrs.age_range || {};
+    const material = attrs.material || {};
+    const bullets = attrs.bullet_points || {};
+
+    const frBullets = Array.isArray(bullets.fr) ? bullets.fr : [];
+    const enBullets = Array.isArray(bullets.en) ? bullets.en : [];
+    const otherBullets = Array.isArray(bullets.other) ? bullets.other : [];
+
+    const imgHtml = dp.image
+      ? `<img class="dpimg" src="${esc(dp.image)}" alt="DP image" />`
+      : `<div class="muted">No DP image</div>`;
+
+    const linkHtml = dp.fr_dp_url
+      ? `<a href="${esc(dp.fr_dp_url)}" target="_blank" rel="noopener">Open FR DP ↗</a>`
+      : `<span class="muted">No DP link</span>`;
+
+    const tags =
+      chip(age.normalized ? `age: ${age.normalized}` : "") +
+      chip(attrs.target_gender ? `target_gender: ${attrs.target_gender}` : "") +
+      chip(ssz.gender ? `csi_gender: ${ssz.gender}` : "") +
+      chip(ssz.numeric_size ? `EU: ${ssz.numeric_size}` : (sizeInfo.size ? `size: ${sizeInfo.size}` : "")) +
+      chip((ssz.width || fw.width) ? `width: ${ssz.width || fw.width}` : "") +
+      chip(material.normalized ? `material: ${material.normalized}` : (material.raw ? `material: ${material.raw}` : ""));
+
+    const addSizes = (sizeInfo.additional_sizes_detected || []).join(", ");
+
+    const structuredFacts = [
+      ssz.size_system ? `system=${ssz.size_system}` : "",
+      ssz.size_class ? `class=${ssz.size_class}` : "",
+      ssz.age_group ? `age_group=${ssz.age_group}` : ""
+    ].filter(Boolean).join(", ");
+
+    return `
+      <div style="display:flex;gap:14px;flex-wrap:wrap;">
+        <div style="min-width:180px;">
+          ${imgHtml}
+          <div style="margin-top:8px;">${linkHtml}</div>
+          <div class="small muted" style="margin-top:6px;">ASIN: <b>${esc(record.asin)}</b></div>
+        </div>
+
+        <div style="flex:1;min-width:260px;">
+          <div style="font-size:16px;font-weight:750;line-height:1.3;">
+            ${esc(record.csi_title || "(No CSI title)")}
+          </div>
+          <div class="small muted" style="margin-top:6px;">
+            CSI status: <b>${esc(record.csi_status || "")}</b>
+          </div>
+
+          <div style="margin-top:10px;">${tags || `<span class="muted">No key tags</span>`}</div>
+
+          <div style="margin-top:12px;">
+            <div class="muted">Quick facts</div>
+            <div class="kv small">
+              <div><b>Size (display)</b></div><div>${esc(sizeInfo.size || "")}</div>
+              <div><b>Size map</b></div><div>${esc(sizeInfo.size_map || "")}</div>
+              <div><b>Additional sizes</b></div><div>${esc(addSizes || "")}</div>
+              <div><b>Structured size</b></div><div>${esc(structuredFacts || "")}</div>
+            </div>
+          </div>
+
+          <div style="margin-top:12px;">
+            <div class="muted">Bullet points (FR)</div>
+            ${bulletList(frBullets)}
+          </div>
+
+          <div style="margin-top:12px;">
+            <div class="muted">Bullet points (EN)</div>
+            ${bulletList(enBullets)}
+          </div>
+
+          ${otherBullets.length ? `
+          <div style="margin-top:12px;">
+            <div class="muted">Bullet points (Other)</div>
+            ${bulletList(otherBullets)}
+          </div>` : ""}
+        </div>
+      </div>
+    `;
   }
 
   function selectByIndex(idx, scrollIntoView=false) {
     if (idx < 0 || idx >= currentRecords.length) return;
+
     selectedIndex = idx;
     selectedRecord = currentRecords[idx];
 
     $asinInput.value = selectedRecord.asin || "";
     $jsonView.textContent = pretty(selectedRecord);
-    $btnCopy.disabled = false;
+    $humanView.innerHTML = renderHuman(selectedRecord);
 
+    $btnCopy.disabled = false;
     updateNavButtons();
     renderAsinList();
 
     if (scrollIntoView) {
-      // best-effort scroll: find active element
       const nodes = $asinList.querySelectorAll(".asin-item");
       const el = nodes[idx];
       if (el) el.scrollIntoView({ block: "nearest" });
@@ -176,39 +296,6 @@
     if (idx === -1) return false;
     selectByIndex(idx, true);
     return true;
-  }
-
-  async function loadByDataName() {
-    const name = ($dataName.value || "").trim();
-    if (!name) {
-      setStatus("Please input a data name, e.g. data1", "err");
-      return;
-    }
-
-    // Default: data1 -> ./data1.json
-    // If your JSONs are in a folder, change to: `./out_json/${name}.json`
-    // ✅ 正确：指向 out_json 目录
-const url = `./out_json/${name}.json`;
-
-
-    try {
-      setStatus(`Loading: ${url} ...`);
-      const res = await fetch(url, { cache: "no-store" });
-      if (!res.ok) throw new Error(`HTTP ${res.status} ${res.statusText}`);
-      const json = await res.json();
-      applyLoadedJson(json, `${name}.json`);
-      setStatus(`Loaded ${name}.json successfully. records=${currentRecords.length}`, "ok");
-    } catch (e) {
-      setStatus(`Failed to load by name. (${e.message}) Try "Choose JSON file" or run a local server.`, "err");
-      currentData = null;
-      currentRecords = [];
-      selectedRecord = null;
-      selectedIndex = -1;
-      renderAsinList();
-      $jsonView.textContent = "{}";
-      $btnCopy.disabled = true;
-      updateNavButtons();
-    }
   }
 
   function applyLoadedJson(json, filenameHint="") {
@@ -227,12 +314,46 @@ const url = `./out_json/${name}.json`;
     selectedIndex = -1;
     $btnCopy.disabled = true;
     $jsonView.textContent = "{}";
+    $humanView.innerHTML = renderHuman(null);
+
     updateNavButtons();
+    renderAsinList();
 
     const sf = (json && json.source_file) ? json.source_file : filenameHint;
     setStatus(`Loaded source: ${sf}. records=${currentRecords.length}`, "ok");
+  }
 
-    renderAsinList();
+  async function loadByDataName() {
+    const name = ($dataName.value || "").trim();
+    if (!name) {
+      setStatus("Please input a data name, e.g. data1", "err");
+      return;
+    }
+
+    // ✅ GitHub Pages recommended structure:
+    // index.html at repo root
+    // JSON files under ./out_json/
+    const url = `./out_json/${name}.json`;
+
+    try {
+      setStatus(`Loading: ${url} ...`);
+      const res = await fetch(url, { cache: "no-store" });
+      if (!res.ok) throw new Error(`HTTP ${res.status} ${res.statusText}`);
+      const json = await res.json();
+      applyLoadedJson(json, `${name}.json`);
+      setStatus(`Loaded ${name}.json successfully. records=${currentRecords.length}`, "ok");
+    } catch (e) {
+      setStatus(`Failed to load by name. (${e.message}) Try "Choose JSON file".`, "err");
+      currentData = null;
+      currentRecords = [];
+      selectedRecord = null;
+      selectedIndex = -1;
+      renderAsinList();
+      $jsonView.textContent = "{}";
+      $humanView.innerHTML = renderHuman(null);
+      $btnCopy.disabled = true;
+      updateNavButtons();
+    }
   }
 
   // Load button
@@ -279,6 +400,7 @@ const url = `./out_json/${name}.json`;
       selectedIndex = -1;
       $btnCopy.disabled = true;
       $jsonView.textContent = "{}";
+      $humanView.innerHTML = renderHuman(null);
       updateNavButtons();
       renderAsinList();
     }
@@ -295,7 +417,7 @@ const url = `./out_json/${name}.json`;
     }
   });
 
-  // Copy prompt
+  // Copy prompt (Prompt + JSON)
   $btnCopy.addEventListener("click", async () => {
     if (!selectedRecord) return;
     const rule = ($primary.value || "").trim() || "{primary rule}";
@@ -308,6 +430,7 @@ ${JSON.stringify(selectedRecord, null, 2)}`;
       await navigator.clipboard.writeText(prompt);
       setStatus("Prompt copied to clipboard ✅", "ok");
     } catch (e) {
+      // fallback
       const ta = document.createElement("textarea");
       ta.value = prompt;
       document.body.appendChild(ta);
@@ -321,10 +444,8 @@ ${JSON.stringify(selectedRecord, null, 2)}`;
   // Initial render
   renderAsinList();
   updateNavButtons();
+  $humanView.innerHTML = renderHuman(null);
 })();
 </script>
 </body>
 </html>
-
-
-
