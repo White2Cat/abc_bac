@@ -1,0 +1,3132 @@
+{
+  "source_file": "datattp.txt",
+  "records": [
+    {
+      "asin": "B08X3R81C8",
+      "csi_title": "Smith and Jones Lot de 5 t-shirts pour homme &#224; col rond uni 100 % coton de qualit&#233; sup&#233;rieure, M&#233;lange de couleurs., S",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "XX-Large",
+          "size_map": "Large",
+          "additional_sizes_detected": [
+            "X-Large",
+            "Small",
+            "Medium",
+            "Large",
+            "$additional_links_augmentor_1141::{",
+            "s,"
+          ],
+          "structured_size": {
+            "size": "s",
+            "size_system": "as4",
+            "body_type": "regular",
+            "height_type": "regular",
+            "size_class": "alpha"
+          }
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Doux et confortable : les t-shirts KANDOR sont fabriqués en 100 % coton respirant de haute qualité qui est doux et doux contre votre peau. Parfait pour un confort tout au long de la journée. Disponibles en tailles S à XXL, ces t-shirts s'adaptent à tous les types de corps.",
+            "Durable et durable : nos t-shirts pour homme sont conçus pour résister à l'épreuve du temps. Ils sont faits pour conserver leur forme et leur couleur, lavage après lavage. Chaque lot contient des t-shirts dans un mélange de couleurs attrayantes, vous êtes sûr de trouver le lot de t-shirts parfait pour vous",
+            "Excellent rapport qualité/prix – Les t-shirts Multipack offrent l'équilibre parfait entre qualité et excellent rapport qualité/prix. Ayez une garde-robe pleine de hauts élégants et confortables sans vous ruiner",
+            "Polyvalent et facile à porter : vous faites des courses ou vous déguisez pour une soirée ? Les t-shirts KANDOR Basic Collection sont un choix parfait. Parfait pour la superposition, les t-shirts Kandor en coton uni avec col rond classique peuvent être portés de manière habillée ou décontractée pour s'adapter à toutes les occasions. Ils sont polyvalents et faciles à porter, ce qui en fait un incontournable dans n'importe quelle garde-robe.",
+            "Garantie sans risque : il y a une politique de retour de 30 jours sans risque pour tous nos clients. Ajoutez au panier maintenant avant qu'ils ne soient épuisés",
+            "DURABLE & DURABLE - Our men's t-shirts are designed to stand the test of time. They are made to retain their shape and color, wash after wash. Each pack contains t-shirts in an attractive colour mix, you're sure to find the perfect tee pack for you!"
+          ],
+          "other": [
+            "SOFT & COMFORTABLE - KANDOR t-shirts are made of high quality 100% breathable cotton that feels soft and soft against your skin. Perfect for all day comfort. Available in sizes S to XXL, these shirts fit all body types.",
+            "GREAT VALUE - Multipack t-shirts strike the perfect balance between quality and great value. Have a wardrobe full of stylish and comfortable tops without breaking the bank!",
+            "VERSATILE AND EASY TO WEAR - Do you run errands or dress up for a party? KANDOR Basic Collection T-shirts are a perfect choice. Perfect for layering, Kandor plain cotton t-shirts with classic crew neck can be worn dressy or casual to suit any occasion. They are versatile and easy to wear, making them a must-have in any wardrobe.",
+            "RISK FREE GUARANTEE There is a 30 day risk free return policy for all our customers. ADD TO CART NOW BEFORE THESE ARE OUT OF"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/71lv7oaW9GL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B08X3R81C8"
+      }
+    },
+    {
+      "asin": "B083FHHZ9D",
+      "csi_title": "Lacoste Sport T-shirt Gar&#231;on Rouge/Blanc 12 ans",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "12 ans",
+          "size_map": "12 ans",
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Enfant",
+            "Kid"
+          ],
+          "normalized": "kid"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": "not_applicable",
+          "normalized": "not_applicable"
+        },
+        "bullet_points": {
+          "fr": [
+            "Jersey technique de coton mélangé",
+            "Crocodile oversize imprimé"
+          ],
+          "other": [
+            "Col rond",
+            "Cotton blend technical jersey",
+            "Crew Neck",
+            "Oversized crocodile print"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/71SxSvpckDL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B083FHHZ9D"
+      }
+    },
+    {
+      "asin": "B00EUAXUBC",
+      "csi_title": "LED-Fashion T-Shirt lumineux &#224; LED Mod&#232;le Equalizer DJ - xl",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "X-Large",
+          "size_map": "X-Large",
+          "additional_sizes_detected": [
+            "XL"
+          ],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Ce T-Shirt DJ Equalizer branch&eacute; est sensible aux sons et r&eacute;agit &agrave; la musique et aux bruits ambiants. Le T-Shirt Equalizer est lavable en machine &agrave; 30&deg;C. Le panneau lumineux est amovible."
+          ],
+          "other": [
+            "T-Shirt DJ sensible aux sons.",
+            "Lavable en machine. Les &eacute;l&eacute;ments &eacute;lectroniques sont enti&egrave;rement amovibles.",
+            "N&eacute;cessite 4 piles AAA (fournies gratuitement).",
+            "Une molette permet d'ajuster la sensibilit&eacute; en entr&eacute;e au volume sonore ambiant."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/71ZOqLr8XgL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B00EUAXUBC"
+      }
+    },
+    {
+      "asin": "B07K1XFTNW",
+      "csi_title": "CMP Short-Sleeved Piquet T-Shirt Garcon, Sapphire, 116",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "S",
+          "size_map": "S",
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Enfant"
+          ],
+          "normalized": "kid"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Séchage rapide et antibactérien",
+            "Matériau anti-odeurs.",
+            "Évacuation optimale de la transpiration."
+          ],
+          "other": [
+            "Protection solaire UPF 40.",
+            "Col rond."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/91cBqfkgukL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B07K1XFTNW"
+      }
+    },
+    {
+      "asin": "B00BOXQ7VI",
+      "csi_title": "Fj&#228;llr&#228;ven Crowley Pique Shirt M T-Shirt Homme Dark Olive FR: XL (Taille Fabricant: XL)",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": null,
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Coupe régulière"
+          ],
+          "other": [
+            "Lavage en machine",
+            "Enfiler",
+            "100% Polyester",
+            "Machine washable",
+            "Slip on",
+            "Regular fit",
+            "100 % Polyester"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61xwn-+xwjL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B00BOXQ7VI"
+      }
+    },
+    {
+      "asin": "B07T2Y723Z",
+      "csi_title": "Polo Homme &#224; Manche Courte Polo T Shirts Coton Casual Classique (as4, Alpha, XX_l, 3X_l, Regular, Regular, Blanc)",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_836::{",
+          "size_map": null,
+          "additional_sizes_detected": [
+            "xx_l,",
+            "XXL-3XL"
+          ],
+          "structured_size": {
+            "size": "xx_l",
+            "size_system": "as4",
+            "body_type": "regular",
+            "size_to": "'3x_l'",
+            "height_type": "regular",
+            "size_class": "alpha"
+          }
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": "not_applicable",
+          "normalized": "not_applicable"
+        },
+        "bullet_points": {
+          "fr": [
+            "Polo homme manche courte en 65% coton + 35% polyester simple et casual, adapté à la vie quotidienne, les loisirs, le voyage ou le sport.Les manches courtes sont pour le printemps, été et automne.",
+            "notre polo t shirt peut être lavé à la machine et à la main. Ne laissez pas dans l'eau trop longtemps et lavez séparément des autres vêtements. la couture de ce polo t-shirt est claire et solide, pas facile de sortir de la ligne, portant confortable.",
+            "Taille normale: S, M, L, XL, 2XL XXL, notre taille est la taille EU, referez aux détails de l'information de taille avant d'acheter,"
+          ],
+          "en": [
+            "Our polo shirt can be machine washed and hand washed. Do not leave in water for too long and wash separately from other clothes. The stitching of this polo shirt is clear and solid, not easy to go out of the line, wearing comfortable."
+          ],
+          "other": [
+            "Col polo classique: simple, casual. Couture exquise, pas facile de sortir de la ligne",
+            "Men's short-sleeved polo shirt made of 65% cotton + 35% polyester, simple and casual, suitable for everyday life, leisure, travel or sports. The short sleeves are for spring, summer and autumn.",
+            "Classic polo collar: simple, casual. Exquisite sewing, not easy to get out of the line",
+            "Normal size: S, M, L, XL, 2XL XXL, our size is EU size, please refer to the size details before buying"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/51zr187uRSL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B07T2Y723Z"
+      }
+    },
+    {
+      "asin": "B06XWJ27QM",
+      "csi_title": "Amazon Essentials Polo de Golf &#224; S&#233;chage Rapide Coupe R&#233;guli&#232;re - couleurs abandonn&#233;es Homme, Noir, XS",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "XS",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "COUPE STANDARD : Confortable et facile à porter au niveau des épaules, du buste et de la taille",
+            "TISSU PERFORMANT : Ce polyester performant, léger et respirant, est spécialement tricoté pour vous garder au sec grâce à ses propriétés d'évacuation de la transpiration, qui éloignent l'humidité de la peau vers la surface du tissu et permettent un séchage rapide. En plus de vous garder au frais, au sec et à l'aise",
+            "DÉTAILS : Bordure en tricot plat au col, bande contrastée au dos du col, patte de boutonnage à trois boutons et ourlet droit au bas du vêtement avec fentes latérales pour un mouvement confortable."
+          ],
+          "en": [
+            "PERFORMING FABRIC: This lightweight, breathable performance polyester is specially knitted to keep you dry with its sweat-wicking properties, which draw moisture away from the skin to the surface of the fabric and allow for quick drying. In addition to keeping you cool, dry and comfortable"
+          ],
+          "other": [
+            "STANDARD FIT: Comfortable and easy to wear on shoulders, bust and waist",
+            "DETAILS: Flat knit trim at collar, contrast band at back collar, three-button placket and straight hem at bottom of garment with side slits for comfortable movement."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/810aqxcVXeL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B06XWJ27QM"
+      }
+    },
+    {
+      "asin": "B07VPVK8YM",
+      "csi_title": "GHYUGR Polo Homme Manche Longue Contrast&#233; Plaid &#233;pissure T-Shirt S-2XL,Vert,L",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "L",
+          "size_map": "L",
+          "additional_sizes_detected": [
+            "$additional_links_augmentor_853::{",
+            "l,"
+          ],
+          "structured_size": {
+            "size": "l",
+            "size_system": "as4",
+            "body_type": "regular",
+            "height_type": "regular",
+            "size_class": "alpha"
+          }
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": "not_applicable",
+          "normalized": "not_applicable"
+        },
+        "bullet_points": {
+          "fr": [
+            "Caractéristiques : style décontracté, col à carreaux, fausse poche, simple et tendance.",
+            "Le tissu est extrêmement confortable et doux.",
+            "La poitrine est très confortable et permet une liberté de mouvement et de fluidité.",
+            "Ce polo classique est adapté pour le sport décontracté, le travail d'affaires, les fêtes, les soirées, les soirées et d'autres occasions importantes.",
+            "Entretien : lavage à la main recommandé, lavage en machine à froid, ne pas utiliser d'eau de Javel, suspendre ou sécher à l'air libre"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/717cLKTSGUL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B07VPVK8YM"
+      }
+    },
+    {
+      "asin": "B094R952LB",
+      "csi_title": "Calvin Klein Hommes Manches Longues Central Light Polo de Golf - Charcoal - L",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "L",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "other": [
+            "COOL- respirabilitŽ extr me, humiditŽ M ches Dry- de votre corps",
+            "SmartTec - tissu de performance avec un handfeel soyeux",
+            "Non-Fer / technologie facile d'entretien, anti-bactŽrienne - amŽliore la gestion des odeurs",
+            "SPF Protection UV 29",
+            "100% Polyester",
+            "COOL - extreme breathability, dry moisture of your body",
+            "SmartTec - performance fabric with a silky handfeel",
+            "Non-iron / easy-care, anti-bacterial technology - improves odour management",
+            "SPF UV Protection 29",
+            "100 % Polyester"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/51AMCjWVV2S.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B094R952LB"
+      }
+    },
+    {
+      "asin": "B07BCMCL1K",
+      "csi_title": "Stade Fran&#231;ais Paris - SFP-ZA-3424 - Polo Manches Longues - Mixte Adulte - Multicolore (Rose/Bleu) - Taille: L",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "L",
+          "size_map": "L",
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adult",
+            "Adulte"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Ideal for sports: an official 100% cotton polo shirt, soft and comfortable, with logo, colour and 100% Stade Français Paris design to support your favourite team.",
+            "AMAZON SATISFACTION GUARANTEE 30 DAYS - You get a 100% money-back guarantee that allows you to easily return or exchange your Stade Français Paris item if you change your mind.",
+            "AUTHENTICITÉ CERTIFIÉE : un polo rugby à manches longues en tissu qui est doté d’un hologramme situé sur l'étiquette qui vous garantit l'authenticité de votre article.",
+            "Idéal pour le sport: un polo officiel 100% coton doux et confortable, avec logo, couleur et design 100% Stade Français Paris pour soutenir votre équipe préférée.",
+            "CLUB OFFICIEL : un polo sous licence officielle inspiré de la collection du prestigieux club de rugby à XV français, basé à Paris qui porte comme célèbres emblèmes, les lys roses et trois éclairs.",
+            "FABRIQUÉ PAR HOLIPROM : un polo supporter distribué par la société HOLIPROM, spécialiste des textiles et accessoires sportifs sous licence (clubs, fédérations…)",
+            "GARANTIE AMAZON SATISFACTION 30 JOURS : vous bénéficiez d’une garantie 100% satisfait ou remboursé qui vous permet de retourner ou échanger facilement votre article Stade Français Paris si vous changez d’avis."
+          ],
+          "en": [
+            "CERTIFIED AUTHENTICY: A long sleeve rugby polo shirt in fabric that has a hologram on the label that guarantees the authenticity of your item."
+          ],
+          "other": [
+            "OFFICIAL CLUB: an officially licensed polo shirt inspired by the collection of the prestigious French rugby union club, based in Paris, which bears as famous emblems, pink lilies and three lightning bolts.",
+            "MADE BY HOLIPROM: a supporter polo shirt distributed by the company HOLIPROM, specialist in textiles and sports accessories under license (clubs, federations…)"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/71d4auqBt-L.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B07BCMCL1K"
+      }
+    },
+    {
+      "asin": "B07NWWVKN8",
+      "csi_title": "Ruckfield - Polo Homme Rugby Bleu Marine - 018",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "X-Large",
+          "size_map": "X-Large",
+          "additional_sizes_detected": [
+            "XL"
+          ],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "male",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Polo manches courtes en piqué de coton bleu marine. Disponible du S au 5XL"
+          ],
+          "other": [
+            "Marque : Ruckfield",
+            "Polo MC",
+            "018"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/516sjnFZqPL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B07NWWVKN8"
+      }
+    },
+    {
+      "asin": "B01GLD8P7E",
+      "csi_title": "Merish Modell 23 Polo, Noir (Schwarz Schwarz-Rot), XL Homme",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "X-Large",
+          "size_map": "X-Large",
+          "additional_sizes_detected": [
+            "XL"
+          ],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "male",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {}
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/41LysJ-PAGL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B01GLD8P7E"
+      }
+    },
+    {
+      "asin": "B0153YMJDS",
+      "csi_title": "Miss Rouge T-Shirt, sous Pull Femme &#224; Manches Longues, col roul&#233; (Blanc)",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "One Size",
+          "size_map": null,
+          "additional_sizes_detected": [
+            "Taille unique"
+          ],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adult",
+            "Adulte"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": "95% Viscose, 5% Elastane",
+          "normalized": "95% Viscose, 5% Elastane"
+        },
+        "bullet_points": {}
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/71jqzuVIIyL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0153YMJDS"
+      }
+    },
+    {
+      "asin": "B006WMURLC",
+      "csi_title": "Ragman Pull &#224; manches longues pour homme - Gris - M",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "M",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "male",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "T-shirt à manches longues Ragman.",
+            "Col roulé",
+            "Poignets renforcés"
+          ],
+          "other": [
+            "Pur coton",
+            "Coupe droite.",
+            "Long Sleeve T-Shirt Ragman.",
+            "Pure Cotton",
+            "Regular fit.",
+            "Turtleneck",
+            "Reinforced cuffs"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/612ONrPyNvL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B006WMURLC"
+      }
+    },
+    {
+      "asin": "B0935HZGYL",
+      "csi_title": "SPORTSBIBS Chasuble r&#233;versible de Football - L&apos;ensemble de 6 Gilets Double Face, Maille Scrimmage Training, Juniors et Adultes, M&#234;l&#233;e de Bavoirs de Sports, t-Shirt de Course Unisex S M L XL",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": null,
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [],
+          "normalized": null
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Sans l'apposition du logo - endroit pour impression : nos gilets réversible d’entraînement sont un excellent support d'information pour les entreprises de publicité, les clubs sportifs, les écoles, les équipes et les compétitions. Vous achetez les chemises sans impression, des inscriptions ou des logos. Cela signifie que vous pouvez le faire personnellement à une entreprise spécialisée qui fait l'impression : numéro de joueur, crête de l'équipe, logo de la société (de sponsor), etc.",
+            "Idéal pour les sports d'équipe : les bavoirs d'entraînement sont parfaits pour le football, le basket-ball, base-ball, handball, volley-ball, le rugby, le hockey, le cricket. Les maillots de sport fonctionnent bien pendant les jeux, les compétitions sportives, les événements, les pique-niques familiaux, les déplacements et la formation des équipes, les sports d’équipe, les sports scolaires et les jeux universitaires.",
+            "Respitant: ces bavoirs d'entraînement respirent et permettent à votre peau de respirer librement. Le tissu n’absorbe pas l'eau ou toute autre humidité, et leur structure particulière de la boucle dissipe efficacement la chaleur et l'eau. Dossard hommes et femmes garantissent un maximum de confort pour les athlètes.",
+            "La plus haute qualité: vous achetez en directe du producteur européen. Les chemises de sport sont de la plus haute qualité européenne (cousus dans l'UE). Grâce aux deux couches de matériau, les étiquettes sportives sont extrêmement résistantes à la déchirure et à la traction. Elles sont solidement cousues et ont l’air attrayant quelles que soient les conditions météorologiques et la situation sur le terrain. Parfait pour les équipes, les joueurs, les athlètes, les entraîneurs, les événements.",
+            "Souhaitez-vous créer une image positive de votre entreprise aux yeux de vos clients ? Voulez-vous que votre marque gagne la confiance d'un nombre croissant de consommateurs et qu'elle soit perçue comme responsable et respectueuse de l'environnement ? Voulez-vous conserver le nom, le logo et le message de votre marque dans l'esprit des consommateurs ? Vous êtes bien tombé! Je vous invite à acheter mon gilet."
+          ],
+          "en": [
+            "Without the logo - place for printing: our reversible training vests are an excellent information carrier for advertising companies, sports clubs, schools, teams and competitions. You buy the shirts without printing, inscriptions or logos. This means that you can do it personally to a specialized company that makes the print: player number, team ridge, company (sponsor) logo, etc."
+          ],
+          "other": [
+            "IDEAL FOR TEAM SPORTS - Training bibs are perfect for football, basketball, baseball, handball, volleyball, rugby, hockey, cricket. Sports jerseys work well during games, sports competitions, events, family picnics, travel and team training, team sports, school sports and college games.",
+            "BREATHABLE: These training bibs breathe and allow your skin to breathe freely. The fabric does not absorb water or any other moisture, and their special buckle structure effectively dissipates heat and water. Bibs for men and women guarantee maximum comfort for athletes.",
+            "Highest quality: you buy directly from the European manufacturer. The sports shirts are of the highest European quality (sewn in the EU). Thanks to the two layers of material, the sports labels are extremely tear-resistant and tear-resistant. They are securely sewn and look attractive regardless of weather conditions and the situation on the ground. Perfect for teams, players, athletes, coaches, events.",
+            "Do you want to create a positive image of your business in the eyes of your customers? Do you want your brand to win the trust of an increasing number of consumers and to be seen as responsible and environmentally friendly? Do you want to keep your brand name, logo and message in the minds of consumers? You fell well! I invite you to buy my vest."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/71ldfG-udrL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0935HZGYL"
+      }
+    },
+    {
+      "asin": "B00HLZPW32",
+      "csi_title": "adidas Training 14 Chasuble d&apos;entra&#238;nement Homme, Glow Orange, FR : S (Taille Fabricant : S)",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "S",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "male",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Encolure dégagée.",
+            "Grand logo Adidas imprimé sur la poitrine."
+          ],
+          "other": [
+            "Emmanchures larges.",
+            "Maille 100 % polyester.",
+            "Scoop Neck",
+            "Wide armholes.",
+            "Large adidas logo print on the chest.",
+            "100% Polyester Mesh"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/81k1k9UNrzL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B00HLZPW32"
+      }
+    },
+    {
+      "asin": "B007JUPFWM",
+      "csi_title": "Erima Chasuble L Vert - Vert",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "L",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Extras : par défaut",
+            "Doublure : par défaut",
+            "Équipe : par défaut"
+          ],
+          "other": [
+            "Marque : Erima",
+            "Genre : accessoires",
+            "Material: 100% Polyester",
+            "Model Number: 308203",
+            "Closure: without closure"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/71Qmx5NWLpL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B007JUPFWM"
+      }
+    },
+    {
+      "asin": "B00G1LA66U",
+      "csi_title": "Puma Bib Chasuble Sport Homme Fluo Bleu FR : XL (Taille Fabricant : XL)",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "XL",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "male",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Matière mesh respirante",
+            "Forme légère idéale pour le passer par-dessus",
+            "Pattern : Imprimé",
+            "Matériel : Polyester"
+          ],
+          "other": [
+            "Breathable mesh material",
+            "Lightweight shape ideal for passing over",
+            "Pattern: Printed",
+            "Material: polyester"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/81WeYMubGyL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B00G1LA66U"
+      }
+    },
+    {
+      "asin": "B01BYZC0OS",
+      "csi_title": "TCA Haut Running Homme Hiver - Vetement Sport Homme Manches Longues - Quickdry Fusion Pro avec Fermeture &#201;clair &#224; Mi-Poitrine - Tenue pour Course &#224; Pied et Jogging - Gris Fonc&#233;/Jaune, M",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "M",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Vêtement polyvalent : ce haut de running homme toutes saisons fabriqué dans un tissu doux et extensible pour une liberté de mouvement. Idéal pour la course, la musculation ou le cardio. Approuvé par les athlètes professionnels.",
+            "Poche frontale : la poche frontale zippée soudée par fusion avec cordon caché de la tenue running homme assure un rangement sécurisé de vos affaires comme votre téléphone, vos cartes, vos clés. Assez grande pour tous les modèles de smartphone.",
+            "Technologie TCA D.R.Y. : la technologie TCA D.R.Y. du vetement running homme hiver évacue la transpiration, pour vous permettre de rester au sec et à l’aise en toute légèreté lors de vos entrainements.",
+            "Dites adieu au froid : les trous élastiqués pour les pouces et la fermeture Éclair mi-poitrine du haut de sport homme offrent une protection supplémentaire contre le froid lorsque vous en avez besoin.",
+            "Excellence approuvée par les athlètes : chez TCA, nous concevons nos vêtements de sport avec la contribution des meilleurs athlètes et entraîneurs, garantissant performance et durabilité."
+          ],
+          "en": [
+            "VERSATILE CLOTHING - This all-season men's running top made from soft, stretchy fabric for freedom of movement. Ideal for running, strength training or cardio Approved by professional athletes."
+          ],
+          "other": [
+            "Front pocket: The fused welded front zip pocket with hidden cord of the men's running outfit ensures secure storage of your belongings such as your phone, cards, keys. Large enough for all smartphone models.",
+            "TCA D.R.Y. : TCA D.R.Y. The men's winter running garment wicks sweat away from your body to help you stay dry and comfortable in a lightweight way during your workouts.",
+            "SAY GOODBYE TO THE COLD - The elasticated thumb holes and mid-chest zip of the men's sports top provide extra protection from the cold when you need it.",
+            "ATHLETE APPROVED EXCELLENCE - At TCA, we design our sportswear with the contribution of top athletes and coaches, ensuring performance and durability."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61T9UQ2m8PL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B01BYZC0OS"
+      }
+    },
+    {
+      "asin": "B0795BQC4J",
+      "csi_title": "PUMA Homme Liga Jersey Core Maillot, Bleu marine (bleu /Puma Blanc), M EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "M",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Logos Puma appliqués par procédé d'impression thermique sur la poitrine droite et sur les manches",
+            "Bande adhésive dans l'ourlet du cou"
+          ],
+          "other": [
+            "Couture unique sans gousset sous les bras",
+            "Col en V",
+            "Coupe droite",
+            "Thermal printed PUMA logos on right chest and sleeves",
+            "Unique seam without gusset under arms",
+            "Adhesive tape in neck hem",
+            "V-neck",
+            "Regular fit"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/51-NEnSMaiL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0795BQC4J"
+      }
+    },
+    {
+      "asin": "B079JS8C7C",
+      "csi_title": "Nike Park Derby II LS, Maillot Enfant, Bleu (midnight navy/university gold/White), XS",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "XS",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Enfant",
+            "Kid"
+          ],
+          "normalized": "kid"
+        },
+        "target_gender": "male",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Tissu Nike dry pour rester au sec et bénéficier d'un maximum de confort.",
+            "Col en v doublé pour une sensation de douceur sur la peau.",
+            "Manches montées pour une tenue classique et confortable.",
+            "Empiècements aux épaules aux couleurs contrastées pour un style Nike Football emblématique.",
+            "Logo swoosh brodé sur le côté droit de la poitrine.",
+            "Contrasting shoulder panels for iconic Nike football style."
+          ],
+          "other": [
+            "Nike dry fabric to keep you dry and comfortable",
+            "Lined v neck for a soft feel against the skin.",
+            "Set-in sleeves for a classic and comfortable fit.",
+            "Embroidered swoosh logo on right chest."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/416nj736mZL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B079JS8C7C"
+      }
+    },
+    {
+      "asin": "B08QZF5GJC",
+      "csi_title": "Nike Dri-FIT Academy 21 Maillot manches courtes Femme, Noir/Blanc/Anthracite/Blanc, XS",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "XS",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Le tissu lisse et extensible évacue la transpiration de votre peau",
+            "Ce produit est fabriqué avec des fibres de polyester 100 % recyclées",
+            "Coupe régulière"
+          ],
+          "en": [
+            "This product is made with 100% recycled polyester fibres"
+          ],
+          "other": [
+            "Les panneaux en maille vous gardent au frais afin que vous puissiez vous concentrer sur votre meilleur jeu",
+            "Age range description: Adult",
+            "Smooth, stretchy fabric wicks sweat away from your skin",
+            "Mesh panels keep you cool so you can focus on your best game",
+            "Regular fit"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/41WF74ISCDL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B08QZF5GJC"
+      }
+    },
+    {
+      "asin": "B08VWYGWDN",
+      "csi_title": "T-shirt col V iconique en coton ray&#233; Femme",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "Medium",
+          "size_map": "Medium",
+          "additional_sizes_detected": [
+            "$additional_links_augmentor_709::{",
+            "m,",
+            "M"
+          ],
+          "structured_size": {
+            "size": "m",
+            "size_system": "as4",
+            "body_type": "regular",
+            "height_type": "regular",
+            "size_class": "alpha"
+          }
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": "not_applicable",
+          "normalized": "not_applicable"
+        },
+        "bullet_points": {
+          "fr": [
+            "Décontracté"
+          ],
+          "other": [
+            "100% Coton",
+            "Lavage en machine",
+            "Manche courte"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/81CsFKTJKiL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B08VWYGWDN"
+      }
+    },
+    {
+      "asin": "B07KXB4XTD",
+      "csi_title": "Armor Lux, Marini&#232;re &quot;Theviec&quot; Homme, Blanc, X-Large (Taille Fabricant: 5)",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "XL",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "male",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "La marque de qualité"
+          ],
+          "other": [
+            "Depuis 1938",
+            "Since 1938",
+            "The brand of quality"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61kji5VIQaS.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B07KXB4XTD"
+      }
+    },
+    {
+      "asin": "B07SVYJK8R",
+      "csi_title": "FALARY D&#233;bardeur Homme Lot de 5 Maillot de Corps 100% Coton Toutes Les Tailles et Les Couleurs Blanc 3XL",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "3XL",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "male",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Fabriqué à partir de coton de haute qualité, la texture est douce et résistante, bonne en absorption de l'humidité, respirante et agréable à porter.",
+            "La version est généreuse, très élastique et douce, confortable et durable, difficile à déformer et à rétrécir.",
+            "Les fils sont fermes et solides, la finition est bonne et fiable, ferme et durable.",
+            "Débardeur Homme Lot de 5 ou 3.Style classique, la taille S-5XL, belle combinaison de couleurs.",
+            "Made from high quality cotton, the texture is soft and durable, good in moisture absorption, breathable and comfortable to wear.",
+            "The version is generous, highly elastic and soft, comfortable and durable, not easy to deform and shrink.",
+            "The wires are firm and strong, the workmanship is good and reliable, firm and durable.",
+            "Men's tank top set of 5 or 3. Classic style, size S-5XL, beautiful colour combination."
+          ],
+          "other": [
+            "Sans manches",
+            "Sleeveless"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61jewWP89ML.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B07SVYJK8R"
+      }
+    },
+    {
+      "asin": "B0833NMFRD",
+      "csi_title": "Iris &amp; Lilly D&#233;bardeur en Coton Femme, Lot de 2, Gris Chin&#233;/Noir, 42",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "42",
+          "size_map": "42",
+          "additional_sizes_detected": [
+            "$additional_links_augmentor_1118::{"
+          ],
+          "structured_size": {
+            "subtype": "retail",
+            "rating": "61.0",
+            "customer_id": "11",
+            "type": "merchant",
+            "version": "72",
+            "match_strength": "strong"
+          }
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Mélange de coton doux et résistant, légèrement extensible"
+          ],
+          "other": [
+            "Une marque Amazon"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/81+21dLuCzL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0833NMFRD"
+      }
+    },
+    {
+      "asin": "B00C77HICC",
+      "csi_title": "Eminence - D&#233;bardeur Homme Maille a&#233;r&#233;e Coton - Taille : 7 - Couleur : Blanc",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "3XL",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "DÉBARDEUR AÉRÉ : Eminence a créé les tout premiers sous-vêtements aérés, il y a près de 80 ans. Ce débardeur à maille aérée est encore aujourd'hui un sous-vêtement incontournable, grâce à la légèreté et la fraîcheur de sa maille.",
+            "IDÉAL EN ÉTÉ : Le tissu est confectionné en maille ajourée ou \"point tamisé\". L'air circule librement, pour une climatisation naturelle extrêmement agréable pendant la saison chaude.",
+            "GRAND CONFORT : Le tissu 100% coton peigné premium est très agréable à porter. La coupe longue permet au vêtement de rester parfaitement en place. Matière hypoallergénique, coutures en coton de qualité supérieure.",
+            "Le sous-vêtement haut de gamme et respirant, indispensable en été !"
+          ],
+          "en": [
+            "AIRED TANK TOP - Eminence created the very first airy underwear almost 80 years ago. This airy mesh tank top is still an essential underwear today, thanks to the lightness and freshness of its mesh."
+          ],
+          "other": [
+            "IDEAL IN SUMMER: The fabric is made of openwork mesh or \"sifted stitch\". The air circulates freely, for extremely pleasant natural air conditioning in the warm season.",
+            "High comfort: The 100% premium combed cotton fabric is very comfortable to wear. The long cut allows the garment to stay perfectly in place. Hypoallergenic material, high-quality cotton stitching.",
+            "The top of the range and breathable underwear essential in summer!"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/51SFzujdikL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B00C77HICC"
+      }
+    },
+    {
+      "asin": "B07GZNTYQP",
+      "csi_title": "NAVISKIN Protection Le Soleil Anti- UV T-Shirt &#224; Manches Longues pour Homme Blanc Taille L",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "L",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "male",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Protège du soleil et anti-UV",
+            "Les manches raglan offrent grande liberté de mouvement et éliminent le frottement des épaules.",
+            "Idéal pour les activités de plein air comme le golf, la pêche, la randonnée, les voyages, la navigation de plaisance, l'escalade, la course, l'entraînement, etc."
+          ],
+          "other": [
+            "100% polyester",
+            "Couleur: Blanc/Bleu/Noir",
+            "100% Polyester",
+            "Color: White/Blue/Black",
+            "Sun protection and UV protection",
+            "The raglan sleeves offer plenty of freedom of movement and eliminate shoulder chafing.",
+            "Ideal for outdoor activities like golf, fishing, hiking, traveling, boating, climbing, running, training, etc."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61aLmjKXqoL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B07GZNTYQP"
+      }
+    },
+    {
+      "asin": "B01KZIY9I0",
+      "csi_title": "ONeill Basic Skins Tee-Shirt Manches Courtes avec &#233;ruption cutan&#233;e Tee-Shirt Top Blanc Slim Fit - Protection Contre Les Rayons UV et propri&#233;t&#233;s SPF",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": null,
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "other": [
+            "Fit: Regular Fit",
+            "Material: 100% Nylon",
+            "Rash Vests: Short Sleeve Rash Vests",
+            "Rash Vests: Surf Tees",
+            "Fit: regular fit",
+            "Material: 100% nylon",
+            "Rash Jackets: Short Sleeve Rash Vests",
+            "Rash Jackets: Surf Tees"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/51hkZGTDgwL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B01KZIY9I0"
+      }
+    },
+    {
+      "asin": "B089PDZ15F",
+      "csi_title": "BEUCHAT - Rashguard Atoll Homme - T-Shirt Zipp&#233; Anti-UV - Slim Fit - Coupe Anatomique - &#201;lasthanne - Homme, Bleu, XS XXL",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "XXL",
+          "size_map": "XXL",
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Elasthanne, grande facilité d'habillage et de déshabillage.",
+            "Patronage exclusif Beuchat pour un habillage facilité et un grand confort.",
+            "15% plus élastique qu'une matière standard."
+          ],
+          "other": [
+            "Rashguard Atoll pour Homme",
+            "Atoll Rashguard for Men",
+            "Elastane, easy to put on and take off.",
+            "Exclusive Beuchat pattern for easy dressing and comfort.",
+            "15% more elastic than standard material."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/31BZ4jrN8HL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B089PDZ15F"
+      }
+    },
+    {
+      "asin": "B07RV5SYQZ",
+      "csi_title": "Arcweg Rashguard Homme Manches Courts M-3XL T-Shirt Anti-UV UPF 50+ Sechage Rapide L&#233;ger pour Surf Natation Plong&#233;e Plage Paon M[EU] Tour de Poitrine: 86-91cm",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "M",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "male",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "[Pas de coups de soleil] - UPF 50+, excellente fonction anti-UV, réduit la plupart des rayons nocifs du soleil, profitez de vos vacances ou activités sportives sans souci",
+            "[Couleur résistante] - Résistance des couleurs niveau 4, après plusieurs lavages, que ce soit à la main ou en machine, le Rashguard a l'air comme neuf",
+            "[Respirant et doux] - Grâce à sa matière de qualité supérieure (88 % polyester, 12 % élasthanne), le t-shirt à manches longues est léger, sèche rapidement et évacue l'humidité, évacue activement l'humidité de la peau et vous garde au sec, au frais et confortable",
+            "[Design lâche] - Ventilation et bonne silhouette, même si vous avez un ventre de bière, vous pouvez également porter sans souci, mais si vous voulez la mode slim fit, vous pouvez simplement commander une petite taille",
+            "[Multifonction] - Durable et extrêmement confortable pour un usage quotidien et exceptionnellement confortable pour le cyclisme, le surf, la plongée, l'aviron ou les activités sur la plage",
+            "[Multifunctional] - Durable and extremely comfortable for everyday use and exceptionally comfortable for cycling, surfing, diving, rowing or beach activities"
+          ],
+          "other": [
+            "[NO SUNBURN] - UPF 50+, excellent anti-UV function, reduce most of the sun's harmful rays, enjoy your holiday or sports activities worry-free",
+            "[Color Resistant] - Level 4 color fastness, after multiple washes, whether by hand or machine, the Rash Guard looks like new",
+            "[Breathable and soft] - Thanks to the high-quality material (88% polyester, 12% elastane), the long-sleeved shirt is lightweight, dries quickly and wicks moisture, actively wicks moisture away from the skin and keeps you dry, cool and comfortable",
+            "[Loose Design] - Ventilation and good figure, even if you have a beer belly, you can also wear without worry, but if you want slim fit fashion, you can just order a small size"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/71+YAE-Wm4L.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B07RV5SYQZ"
+      }
+    },
+    {
+      "asin": "B01LYD30UW",
+      "csi_title": "Heatwave&#174; Lot de 2 t-shirts thermiques pour homme Tailles S M L XL XXL, Noir , S",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "S",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "male",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Indice TOG 0,45 : retient plus d'air chaud près de la peau",
+            "Coupe confortable, la construction côtelée épouse les contours du corps"
+          ],
+          "other": [
+            "Lot de 2 t-shirts thermiques pour homme",
+            "Heatwave Thermalwear",
+            "Couleur : blanc, bleu, anthracite et noir",
+            "Men's Thermal T-Shirt Pack of 2",
+            "0.45 TOG Rating - Holds more warm air close to the skin",
+            "Comfortable fit, ribbed construction hugs the contours of the body",
+            "Colour: white, blue, anthracite and black"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/71R043jqubL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B01LYD30UW"
+      }
+    },
+    {
+      "asin": "B0038JKJ2E",
+      "csi_title": "Floso - T-Shirt Thermique &#224; Manches Longues - Homme (L) (Gris fonc&#233;)",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "Large",
+          "size_map": "Large",
+          "additional_sizes_detected": [
+            "$additional_links_augmentor_1023::{",
+            "l,"
+          ],
+          "structured_size": {
+            "size": "l",
+            "size_system": "as4",
+            "body_type": "regular",
+            "height_type": "regular",
+            "size_class": "alpha"
+          }
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "T-shirt thermique à manches longues.",
+            "Brossé et sans coutures latérales."
+          ],
+          "other": [
+            "Composition: 50% polyester et 50% coton.",
+            "Tour de poitrine (cm): S (81-86), M (91-97), L (102-107), XL (112-117), 2XL (122-127).",
+            "Long sleeve thermal t-shirt.",
+            "Brushed and without side seams.",
+            "Composition: 50% polyester and 50% cotton.",
+            "Chest (cm): S (81-86), M (91-97), L (102-107), XL (112-117), 2XL (122-127)."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/91+ZpTwlaoL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0038JKJ2E"
+      }
+    },
+    {
+      "asin": "B009B6YR2Q",
+      "csi_title": "Portwest Homme Short Sleeve Thermal T shirt, Blanc - Blanc, XL EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": null,
+          "additional_sizes_detected": [
+            "x_l,"
+          ],
+          "structured_size": {
+            "size": "x_l",
+            "size_system": "as4",
+            "body_type": "regular",
+            "height_type": "regular",
+            "size_class": "alpha"
+          }
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "CONCEPTION ET FONTIONNALITÉ: Conçu avec un ajustement confortable; Disponible dans un excellent choix de couleurs.",
+            "MATÉRIAUX, TAILLE ET COULEUR: Matériaux: Tissu Extérieur: 50% Polyester, 50% Coton; Composition du Tissu: 50% Polyester, 50% Coton; Tailles: L, M, S, XL, XS, XXL, XXXL; Couleurs Disponibles: Noir, Marine, Blanche.",
+            "INSTRUCTIONS D'ENTRETIEN: Lavage température 40°c max, processus doux; Ne pas blanchir; Ne pas sécher en machine; Séchage suspendu; Repassage max 150°c; Ne pas nettoyer à sec."
+          ],
+          "other": [
+            "DESIGN AND FUNTIONALITY: Designed with a comfortable fit; Available in an excellent choice of colors.",
+            "MATERIALS, SIZE AND COLOR: Materials: Outer Fabric: 50% Polyester, 50% Cotton; Fabric Composition: 50% Polyester, 50% Cotton; Sizes: L, M, S, XL, XS, XXL, XXXL; Available Colors: Black, Navy, White.",
+            "CARE INSTRUCTIONS: Wash max temperature 40°C, gentle process; Do not bleach; Do not tumble dry; Hang dry; Iron max 150°C; Do not dry clean."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/41YOLtJ+SDL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B009B6YR2Q"
+      }
+    },
+    {
+      "asin": "B0721KZLRB",
+      "csi_title": "Damart Tee-shirt manches longues Thermolactyl Bioactif Haut thermique Homme Gris (Anthracite) Small (Taille fabricant: S)",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "Small",
+          "size_map": "Small",
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "un t-shirt à manches longues pour vous tenir au chaud : ce t-shirt à manches longues pour homme bénéficie de la technologie exclusive thermolactyl bioactif de damart. cela signifie qu’il interagit avec le corps pour générer une chaleur agréable. le froid ne sera plus qu’un mauvais souvenir ! quelle que soit votre activité, ce sous-vêtement thermique vous apportera chaleur et confort.",
+            "un degré de chaleur 3 : les sous-vêtements damart utilisant la matière intelligente thermolactyl bioactif sont répartis en 5 niveaux de chaleur, adaptés aux températures extérieures. ce t-shirt pour homme est de degré 3 : il se porte idéalement quand les températures ambiantes vont de -5° à 5°.",
+            "un t-shirt pour homme confortable : ce sous-vêtement chaud pour homme est constitué d’une maille moelleuse, fine et légère, au toucher très doux. son col v vous permet de le porter sous une chemise en toute discrétion. biais rapporté à l'encolure. coutures plates décalées pour éviter les frottements.",
+            "composition et entretien : ce t-shirt thermolactyl est lavable en machine à 40° et passe au sèche-linge à température modérée et en cycle normal. ne pas blanchir, ni utiliser de fer à vapeur. repassage à température faible (110°c). composition : 67% acrylique, 25% polyester, 8% autres fibres.",
+            "damart, innovation et protection : créée en 1953, damart conçoit les solutions de demain pour fournir des vêtements de qualité, dans le respect de l’être humain et de la planète. nos ingénieurs mettent au point des labels exclusifs, révolutionnaires, pour vous apporter toujours plus de confort, de chaleur quand il fait froid, de fraîcheur quand il fait chaud, de liberté de mouvement, toujours plus d'astuces pour vous simplifier la vie."
+          ],
+          "en": [
+            "A LONG SLEEVE T-SHIRT TO KEEP YOU WARM - This men's long sleeve t-shirt features damart's exclusive thermolactyl bioactive technology. This means that it interacts with the body to generate pleasant warmth. The cold will only be a bad memory! Whatever your activity, this thermal underwear will bring you warmth and comfort.",
+            "3 degree of warmth: Damart underwear using the intelligent thermolactyl bioactive material is divided into 5 heat levels, suitable for outdoor temperatures. This men's t-shirt is 3 degree: it is ideal to wear when ambient temperatures range from -5° to 5°.",
+            "Comfortable men's T-shirt: this warm men's underwear is made of a fluffy, thin and lightweight mesh with a very soft touch. The V-neck allows you to wear it under a shirt discreetly. bias attached to the neckline. Offset flat seams to prevent chafing.",
+            "Material and care: this thermolactyl shirt is machine washable at 40 °C and can be tumble dried on a moderate heat setting and on a normal cycle. Do not bleach or steam iron. Iron at a low temperature (110°C). Composition: 67% Acrylic, 25% Polyester, 8% Other Fibres"
+          ],
+          "other": [
+            "damart, Innovation and protection: Founded in 1953, Damart designs tomorrow's solutions to provide quality clothing, with respect for people and the planet. Our engineers develop exclusive, revolutionary labels to bring you even more comfort, warmth when it is cold, cool when it is hot, freedom of movement, always more tips to simplify your life."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/81jeDvXupZL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0721KZLRB"
+      }
+    },
+    {
+      "asin": "B00NKOAMHE",
+      "csi_title": "Sleex T-Shirt Gainant, Blanc, Taille M/L (44036) - Gaine Sculptante et Gainante Ventre Plat",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "42",
+          "size_map": "42",
+          "additional_sizes_detected": [
+            "M-L"
+          ],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "T-shirt gainant idéal pour obtenir une silhouette plus élancée et harmonieuse.",
+            "Des zones de compression façonnent la taille, le ventre et le bra.",
+            "Moyen compression. Fabriqué en Italie.",
+            "Autres mots utilisés par les clients pour trouver ce produit: gaine amincissante, corset minceur femme, gaine amincissante ventre plat, body shaper, gaine, corset."
+          ],
+          "other": [
+            "Le tissue doux et luxueux offre un confort exceptionnel et un look impeccable."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/81XjPTRa9EL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B00NKOAMHE"
+      }
+    },
+    {
+      "asin": "B082N9NW1Q",
+      "csi_title": "SLIMBELLE&#174; D&#233;bardeur Gainant T-Shirt Amincissant pour Hommes Minceur Body Shaper sous-V&#234;tements - Maillot de Corps Compression pour Perdre du Poids Ventre Plat,Blanc,M (Taille 66-80CM)",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "M",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "male",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "T-shirt de compression : ce t-shirt est fabriqué en 80 % nylon et 20 % élasthanne spécialement conçu pour les formes masculines. Utilisez un design haut de gamme et des matériaux hautement élastiques pour resserrer la poitrine et l'abdomen, cacher la graisse et créer une silhouette sportive plate et saine.",
+            "Design ergonomique : ce t-shirt amincissant a une zone spécifique de confort et de raffermissement qui resserre la poitrine et l'abdomen tout en assurant un corps confortable et respirant. Le dos est conçu avec une sangle en forme de X qui resserre les épaules et fournit un soutien pour une meilleure posture et un soulagement des douleurs aux épaules et au dos.",
+            "Matériau de haute qualité : fabriqué avec un matériau de haute qualité, doux et étroit. Le tissu extensible assure la compression de l'abdomen tout en maintenant le confort, resserre efficacement l'excès de graisse dans l'abdomen et la taille, réduit le tour de taille et réduit la graisse.",
+            "Utilisations multiples : il peut être porté sous les vêtements de tous les jours, tels que des chemises, des costumes, des pulls, etc. Le vêtement gainant invisible crée une silhouette mince et sportive et renforce la confiance. Il est élastique, absorbe la transpiration et peut également être utilisé comme maillot d'entraînement pour aider à brûler les graisses et à perdre du poids.",
+            "Attention : veuillez sélectionner la taille appropriée selon notre tableau des tailles avant l'achat. Si vous recevez des produits défectueux ou une taille incorrecte, n'hésitez pas à nous contacter. La satisfaction de nos clients est notre priorité."
+          ],
+          "en": [
+            "COMPRESSION T-SHIRT - This t-shirt is made of 80% nylon and 20% spandex specially designed for male shapes. Use premium design and highly elastic materials to tighten the chest and abdomen, hide fat and create a flat and healthy sporty figure.",
+            "ERGONOMIC DESIGN - This slimming t-shirt has a specific comfort and firming zone that tightens the chest and abdomen while ensuring a comfortable and breathable body. The back is designed with an X-shaped strap that tightens the shoulders and provides support for better posture and relief from shoulder and back pain."
+          ],
+          "other": [
+            "HIGH QUALITY MATERIAL - Made of high quality material, soft and narrow. Stretchy fabric ensures compression of the abdomen while maintaining comfort, effectively tightens excess fat in the abdomen and waist, reduces waist circumference and reduces fat.",
+            "MULTIPLE USES It can be worn under everyday clothes, such as shirts, suits, sweaters, etc. The invisible shapewear creates a slim, sporty figure and builds confidence. It is elastic, absorbs sweat and can also be used as a workout shirt to help burn fat and lose weight.",
+            "Attention: Please select the appropriate size according to our size chart before purchasing. If you receive defective products or incorrect size, please feel free to contact us. Customer satisfaction is our top priority."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/51-Pr1Cu17L.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B082N9NW1Q"
+      }
+    },
+    {
+      "asin": "B08SHWKJWF",
+      "csi_title": "Junlan Homme D&#233;bardeur Ventre Plat Minceur Gilet Amincissant Invisible Compression Forte Posture sous-v&#234;tements (Noir, Medium-Large)",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "Medium-Large",
+          "size_map": "Medium-Large",
+          "additional_sizes_detected": [
+            "$additional_links_augmentor_831::{",
+            "m,"
+          ],
+          "structured_size": {
+            "size": "m",
+            "size_system": "as4",
+            "body_type": "regular",
+            "size_to": "l",
+            "height_type": "regular",
+            "size_class": "alpha"
+          }
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": "not_applicable",
+          "normalized": "not_applicable"
+        },
+        "bullet_points": {
+          "fr": [
+            "Homme Débardeur Ventre Plat"
+          ],
+          "other": [
+            "Men's Flat Stomach Tank Top"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/71nkdXYQQ7L.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B08SHWKJWF"
+      }
+    },
+    {
+      "asin": "B082DY86T4",
+      "csi_title": "MISS MOLY Femme D&#233;bardeur Gainant Sculptante Sexy Col U Tops Shirt avec Soutien-Gorge Cami Tank Top Elastic Lingerie Minceur Yoga Fitness Beige Taille L",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "Large",
+          "size_map": "Large",
+          "additional_sizes_detected": [
+            "$additional_links_augmentor_558::{",
+            "l,",
+            "L"
+          ],
+          "structured_size": {
+            "size": "l",
+            "size_system": "as4",
+            "body_type": "regular",
+            "height_type": "regular",
+            "size_class": "alpha"
+          }
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Erwachsener"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": "85% Polyamides, 15% Élasthanne",
+          "normalized": "85% Polyamides, 15% Élasthanne"
+        },
+        "bullet_points": {
+          "fr": [
+            "✔【Silhouette fascinante】-- Le haut moulé en tissu hautement élastique épouse doucement le corps et lisse quelques irrégularités du haut du corps grâce à l'effet gainant pour créer une belle silhouette et obtenir un léger effet gainant.",
+            "✔【Sexy BH Hemd】-- Das Formhemdchen mit breitem U Ausschnitt betont die sexy Brust und das ärmellose Unterhemd mit abnehmembarer Einlagen kann den Büstenhalter sparen. Sa zone de poitrine est élastique pour l'ajustement des bonnets et une pression réduite sur la poitrine. Il est recommandé d'exclure les semelles lors du lavage.",
+            "✔【Dos supérieur】-- Le haut à bretelles à dos plus haut offre un soutien sur le dos et éloigne les rouleaux de dos disgracieux. Les bretelles larges réduisent la charge sur les épaules et il étire le dos droit à travers les bandes croisées.",
+            "✔【Style de loisir】-- Le débardeur est invisible sous des vêtements serrés et parfait pour les chemisiers ou les pulls plus serrés, ou comme haut avec des jeans, des jupes. Le tissu doux est également idéal pour le sport, le yoga, etc.",
+            "✔【Remarques】-- Trois couleurs (noir, blanc, beige)sont disponibles pour votre choix. La taille de ce maillot de corps est un peu plus petite. Veuillez choisir la bonne taille en fonction de votre tour de taille."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61W0c-MTCyL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B082DY86T4"
+      }
+    },
+    {
+      "asin": "B007G8VJ6S",
+      "csi_title": "PowerLayer T-Shirt de Compression Manches Longues pour Football/Running - Tee-Shirt de Sport Col Rond pour Homme - Noir, S",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "S",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "La marque de vêtements de compression n°1 au Royaume-Uni. Restez au sec et améliorez votre performance en toute légèreté. Couche de base compressive fabriquée à partir de notre tissu caractéristique. Sports de plein air, course, foot. Approuvé par les athlètes professionnels.",
+            "Restez au chaud : le tissu technique performant agit comme une seconde peau pour vous garder au chaud et au sec même dans des conditions glaciales.",
+            "Coupe de compression légère et serrée. Extensible dans 4 directions, le tissu de compression offre une liberté de mouvement totale. Pour des informations détaillées sur les tailles, consultez le guide des tailles à la fin de la galerie d’images.",
+            "La technologie QuickDry évacue la transpiration de la peau, lui permettant de s’évaporer rapidement à la surface du tissu, pour vous permettre de rester au sec et à l’aise en toute légèreté.",
+            "L'excellence approuvée par les athlètes – Chez TCA, nous concevons nos vêtements de sport avec la contribution des meilleurs athlètes et entraîneurs, garantissant performance et durabilité. Des entraînements quotidiens aux tenues de tous les jours, notre équipement sportif vous accompagne dans toutes vos activités. Dépassez vos limites avec TCA, conçu pour les athlètes, fait pour tous."
+          ],
+          "other": [
+            "The UK's No.1 Compression Clothing Brand. Stay dry and improve your performance lightly. Compression base layer made from our signature fabric. Outdoor sports, running, football. Approved by professional athletes.",
+            "STAY WARM - Performance technical fabric acts like a second skin to keep you warm and dry even in icy conditions.",
+            "Lightweight and tight compression fit. 4-way stretch, compression fabric provides full range of motion. For detailed size information, see the size guide at the end of the image gallery.",
+            "QuickDry technology wicks sweat away from the skin, allowing it to evaporate quickly to the surface of the fabric, helping you stay dry and comfortable in a lightweight way.",
+            "Athlete Trusted Excellence – At TCA, we design our sportswear with the contribution of top athletes and coaches, ensuring performance and durability. From daily workouts to everyday outfits, our sports equipment accompanies you in all your activities. Go beyond your limits with TCA, built for athletes, made for everyone."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/612Ncplyi8L.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B007G8VJ6S"
+      }
+    },
+    {
+      "asin": "B095JXZ3VF",
+      "csi_title": "Niksa 3 Pack Tee Shirt Compression Homme Manches Courtes Vetement de Fitness Gym Compression Baselayer pour Running Sports Jogging Musculation, Noir+Gris+Marine, Taille L",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "L",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "【Tissu de Haute qualité】Tee shirt compression homme sont composés à 88 % de polyester et à 12 % d'élasthanne pour offrir un excellent confort et étirer vos muscles de toute la plage de mouvement.Le haut de compression en tissu anti-humidité avancé absorbe la transpiration en quelques secondes et vous garde rapidement au frais et au sec.",
+            "【Conception de Maillage】Tshirt running homme adoptent une conception en maille spéciale sous les aisselles pour augmenter la respirabilité des aisselles et peuvent absorber instantanément la transpiration pour garder la peau sèche.Tissu mesh respirant, aération de la transpiration et tiré résistant à l'humidité. Vous apporter une meilleure expérience sportive.",
+            "【Modelage du Corps】Tee shirt sport homme a une conception de ligne lisse adaptée à l'ergonomie et est parfait pour envelopper la peau, protéger votre peau pendant l'exercice et montrer votre corps parfait.",
+            "【Excellent Détail】Les coutures sont cousues avec des coutures plates pour augmenter la durabilité et réduire la friction sur le corps.La conception du col rond s'adapte plus étroitement à votre peau, vous permettant d'avoir plus de confort pendant l'exercice.",
+            "【Tee Shirt Compression Homme】Le haut de compression à manches courtes pour hommes est idéal pour les activités de fitness et d'entraînement.Tels que l'entraînement, la gym, le yoga, la course, le cyclisme, le basket-ball, le football, l'escalade, la randonnée, les voyages, le vélo, la musculation. Si vous avez des questions, veuillez nous contacter immédiatement, nous vous répondrons dans les 24 heures."
+          ],
+          "en": [
+            "Body shaping: men's sports t-shirt has a smooth line design suitable for ergonomics and is perfect for wrapping the skin, protecting your skin during exercise and showing your perfect body."
+          ],
+          "other": [
+            "【High quality fabric】Men's compression t-shirt are made of 88% polyester and 12% elastane to provide excellent comfort and stretch your muscles throughout the range of motion. The compression top made of advanced moisture wicking fabric absorbs sweat in seconds and keeps you quickly cool and dry.",
+            "Mesh design: men's running shirt adopt a special mesh design under the armpits to increase the breathability of the armpits and can instantly absorb sweat to keep the skin dry. Breathable mesh fabric, sweat ventilation and moisture resistant. Bring you a better sports experience.",
+            "Excellent detail: The seams are sewn with flat seams to increase durability and reduce friction on the body. The round neck design fits your skin more tightly, allowing you to have more comfort during exercise.",
+            "Men's compression t-shirt: The men's short sleeve compression top is ideal for fitness and training activities.Such as training, gym, yoga, running, cycling, basketball, football, climbing, hiking, traveling, cycling, cycling, basketball, football, climbing, hiking, travelling, cycling, strength training. If you have any questions, please contact us immediately, we will reply you within 24 hours."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/71ETU7jkB6L.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B095JXZ3VF"
+      }
+    },
+    {
+      "asin": "B07T44X5T1",
+      "csi_title": "MEETWEE T-Shirt Compression Homme Maillot, Baselayer Sport S&#233;chage Rapide Manches Longues Vetement de Fitness Football Jogging Cyclisme,L,Noir-b",
+      "csi_status": "Not Discoverable",
+      "attributes": {
+        "size_info": {
+          "size": "L",
+          "size_map": "L",
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Réduit la rigidité musculaire et la fatigue - Notre t-shirt de compression pour homme à manches longues a une excellente élasticité et durabilité, offre un soutien musculaire pour les biceps, les triceps brachii et les muscles du thorax. Le t-shirt fonctionnel pour homme à manches longues vous aide à réduire la fatigue musculaire et les douleurs musculaires et ne se déchire pas en raison d'un exercice sportif intense.",
+            "Séchage rapide et humidité Wicking - Le t-shirt de sport pour homme à manches longues est fabriqué en tissu évacuant l'humidité et respirant qui absorbe rapidement la transpiration et sèche rapidement, maintient les sentiments désagréables à l'écart et régule la température du corps pendant l'entraînement",
+            "Tissus super extensibles - Le t-shirt de fitness pour homme est conçu avec un matériau extensible quatre voies pour votre liberté de mouvement. Elle est mince et légère et ne se sent pas attachée pour que vous puissiez vous pencher, étirer, sauter et courir librement",
+            "Doux pour la peau - T-shirt de course respirant pour homme à manches longues, non allergène, mince et serré qui met parfaitement en valeur les muscles et le corps. Il est idéal pour l'extérieur, la randonnée, le vélo, le marathon, le yoga, le basket-ball",
+            "Satisfaction garantie à 100 % - Si vous avez un problème avec le t-shirt d'entraînement pour homme, veuillez nous contacter. Nous ferons de notre mieux pour vous aider. Vous recevrez 30 jours de garantie et 100 % de remboursement"
+          ],
+          "en": [
+            "REDUCE MUSCLE STIFFINESS & Fatigue - Our compression shirt for men long sleeve has excellent elasticity and durability, provides muscle support for biceps, triceps brachii and chest muscles. Men's functional long sleeve t-shirt helps you reduce muscle fatigue and muscle soreness and won't tear due to intense sports exercise."
+          ],
+          "other": [
+            "QUICK DRYING & MOISTURE Wicking - The men's sports shirt long sleeve is made of moisture-wicking and breathable fabric that quickly absorbs sweat and dries quickly, keeps unpleasant feelings out of the way and regulates body temperature during workout",
+            "SUPER STRETCH FABRICS - The fitness shirt for men is designed with four-way stretch material for your freedom of movement. It is slim and lightweight and doesn't feel attached so you can bend, stretch, jump and run freely",
+            "Skin-friendly - Breathable running shirt for men with long sleeves, non-allergenic, slim and tight that perfectly emphasizes muscles and body. It is ideal for outdoor, hiking, cycling, marathon, yoga, basketball",
+            "100% SATISFACTION GUARANTEED - If you have any problem with the men's training shirt, please contact us. We will try our best to help you. You will receive 30 days warranty and 100% money back"
+          ]
+        }
+      },
+      "dp": {
+        "image": null,
+        "fr_dp_url": "https://www.amazon.fr/dp/B07T44X5T1"
+      }
+    },
+    {
+      "asin": "B081T2XD32",
+      "csi_title": "T-DROIT, T-shirt correcteur de posture pour Hommes et Femmes - Pr&#233;vention contre le mal de dos (T4, Blanc)",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "T4",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": "Coton",
+          "normalized": "Coton"
+        },
+        "bullet_points": {
+          "fr": [
+            "{ APAISER VOS DOULEURS } Souffrez-vous de douleurs quotidiennes au dos ? Une mauvaise posture peut en être la cause.",
+            "T-DROIT est un tee-shirt spécialement conçu et fabriqué pour stimuler des points de pression stratégiques dans le dos et amener la personne à se redresser. Son système innovant et breveté a pour but d’agir sur des points spécifiques afin d’aider à rééquilibrer votre posture. Grâce à ce T-shirt, le sujet est alerté quand sa position est mauvaise, au fur et à mesure il se redressera de manière naturelle et durable.",
+            "{ REDRESSER VOTRE POSTURE } Système permettant de réduire au maximum les tensions provoquées par des mauvais positionnements. Ce système s'adresse à toutes les personnes travaillant en position assise et plus particulièrement celles dont l'outil utilisé entraîne un arrondissement du dos (exemple : ordinateur).",
+            "{ DISPOSITIF MEDICAL } T-shirt recommandé par des pharmaciens",
+            "REMBOURSEMENT PAR CERTAINES MUTUELLES. DEMANDER CONSEIL À VOTRE PHARMACIEN"
+          ],
+          "en": [
+            "T-DROIT is a t-shirt specially designed and manufactured to stimulate strategic pressure points in the back and get the person to straighten up. Its innovative and patented system aims to act on specific points to help rebalance your posture. Thanks to this T-shirt, the subject is alerted when his position is wrong, as he will straighten in a natural and sustainable way.",
+            "{ STRAIGHT YOUR POSTURE } System to minimize tension caused by mispositioning This system is intended for all people working in a sitting position, especially those whose tool used causes a rounding of the back (example: computer)."
+          ],
+          "other": [
+            "{ SOLE YOUR PAIN} Do you suffer from daily back pain? Poor posture can be the cause.",
+            "{ MEDICAL DEVICE } Pharmacist Recommended T-Shirt",
+            "REFUND BY SOME MUTUALS. ASK YOUR PHARMACIAN FOR ADVICE"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/31+IL9uWNgL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B081T2XD32"
+      }
+    },
+    {
+      "asin": "B07FDCQ877",
+      "csi_title": "Anodyne&#174; Posture Shirt - Femmes | Correcteur De Posture Du Dos &amp; &#201;paules | Posture Corrector Tee Shirt | R&#233;duit la douleur et la tension | Test&#233; et approuv&#233; m&#233;dicalement | Medium - Noir",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "M",
+          "size_map": "M",
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "CORRECTION DE LA POSTURE ET ACTIVATION DES MUSCLES : La technologie brevetée Neuroband active les muscles du dos et des épaules, rappelant à votre corps d'aligner le dos et les épaules tout en offrant confort et liberté de mouvement.",
+            "RÉDUCTION DE LA DOULEUR ET DES TENSIONS : Soutient et stabilise les muscles tendus du cou, du dos et des épaules en aidant à soulager la douleur et les tensions sans restreindre les muscles.",
+            "PRÉVENTION DES BLESSURES : Aide à prévenir les problèmes d'épaules et de dos en apportant un soutien et en empêchant les mouvements nuisibles. Recommandé pour les situations de tous les jours, y compris le travail sédentaire ou physique, les activités sportives, les travaux ménagers, etc. Le produit favorise les positions de travail bénéfiques en stabilisant les muscles faibles et en aidant à l'alignement, en neutralisant l'espace entre les articulations.",
+            "TESTS ET VALIDATION : Les enquêtes auprès des utilisateurs et les études montrent que les utilisateurs de Posture Shirt 2.0 ressentent moins de douleur et de tension au niveau du dos, du cou et des épaules. Ce produit est le seul du genre à avoir été testé cliniquement et développé en collaboration avec des médecins, des chercheurs, des physiothérapeutes et à avoir été enregistré comme vêtement médical (CE 93/42/EEC) pour sa haute efficacité.",
+            "QUALITÉ PREMIUM : La matières souple et flexible offre un confort et une respirabilité élevée. Afin de bénéficier de tous les avantages, le produit doit être porté très près du corps. Grâce à la souplesse et à la qualité du tissu, le produit est confortable et pratique à porter seul ou sous des vêtements normaux. La taille correcte est essentielle pour un effet optimal, c'est pourquoi vous devez suivre le guide des tailles consciencieusement.",
+            "TESTS AND VALIDATION: User surveys and studies show that Posture Shirt 2.0 users experience less pain and tension in their back, neck and shoulders. This product is the only product of its kind to have been clinically tested and developed in collaboration with doctors, researchers, physiotherapists and has been registered as a medical garment (CE 93/42/EEC) for its high efficacy."
+          ],
+          "other": [
+            "POSTURE CORRECTION AND MUSCLE ACTIVATION: Patented Neuroband technology activates back and shoulder muscles, reminding your body to align back and shoulders while providing comfort and freedom of movement.",
+            "REDUCED PAIN AND TENSION - Supports and stabilizes tight neck, back and shoulder muscles helping relieve pain and tension without restricting muscles.",
+            "INJURY PREVENTION: Helps prevent shoulder and back problems by providing support and preventing harmful movement. Recommended for everyday situations including sedentary or physical work, sports activities, housework, etc. The product promotes beneficial working positions by stabilizing weak muscles and aiding in alignment, neutralizing the space between the joints.",
+            "PREMIUM QUALITY: The soft and flexible material provides high comfort and breathability. In order to enjoy all the benefits, the product should be worn very close to the body. Thanks to the flexibility and quality of the fabric, the product is comfortable and convenient to wear alone or under normal clothing. The correct size is essential for optimal effect, which is why you should follow the size guide conscientiously."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/51Qm-4GUBtL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B07FDCQ877"
+      }
+    },
+    {
+      "asin": "B09789Q6P5",
+      "csi_title": "NIKE Chelsea, saison 2021/22, kit de jeu, maillot domicile maillot enfant",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": null,
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Enfant",
+            "Kid"
+          ],
+          "normalized": "kid"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Produit neuf avec étiquettes",
+            "Utilisé pendant la saison 2021-2022",
+            "Il n'est pas recommandé de laver à plus de 30 °C"
+          ],
+          "other": [
+            "Convient pour les enfants, disponible en plusieurs tailles",
+            "Taille: SB 25-27 pouces poitrine (66/69cm)",
+            "Brand new with tags",
+            "Used during the 2021-2022 season",
+            "It is not recommended to wash above 30°C",
+            "Suitable for children, available in various sizes",
+            "Size: SB 25-27 inches chest (66/69 cm)"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61xxraeVb4S.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B09789Q6P5"
+      }
+    },
+    {
+      "asin": "B07RZLTB79",
+      "csi_title": "Mitchell &amp; Ness Seattle Supersonics Gary Payton Maillot r&#233;versible en maille &#8211; NBA Jersey - Vert - Large",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "Large",
+          "size_map": "Large",
+          "additional_sizes_detected": [
+            "L"
+          ],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "male",
+        "material": {
+          "raw": "100% Polyester",
+          "normalized": "100% Polyester"
+        },
+        "bullet_points": {
+          "fr": [
+            "Produit original sous licence Mitchell & Ness",
+            "Maille légère en polyester.",
+            "Débardeur réversible",
+            "Coupe décontractée - Taille légèrement plus grande."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/81-RrKKakjL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B07RZLTB79"
+      }
+    },
+    {
+      "asin": "B08CBK6WZX",
+      "csi_title": "Morgan T-shirt manches courtes imprim&#233; v&#233;g&#233;tal M",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_698::{",
+          "size_map": null,
+          "additional_sizes_detected": [
+            "m,",
+            "M Taille Tall"
+          ],
+          "structured_size": {
+            "size": "m",
+            "size_system": "as4",
+            "body_type": "regular",
+            "height_type": "tall",
+            "size_class": "alpha"
+          }
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": "not_applicable",
+          "normalized": "not_applicable"
+        },
+        "bullet_points": {
+          "fr": [
+            "T-shirt manches courtes imprimé végétal",
+            "Col cache-cœur"
+          ],
+          "other": [
+            "Tshirt",
+            "Coupe droite",
+            "Manches courtes"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/81K+5MYpJAL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B08CBK6WZX"
+      }
+    },
+    {
+      "asin": "B01BMAXHSI",
+      "csi_title": "WINSHAPE Damen 3/4-arm Shirt Ws3 in Wickeloptik Manches 3/4 Femmes, Blanc, m",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "M",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "T-shirt à manches 3/4 aspect enveloppant",
+            "Col en V généreux",
+            "Matière légère et douce",
+            "Idéal pour le Pilates, le yoga et les loisirs",
+            "Fabriqué en Union européenne"
+          ],
+          "other": [
+            "3/4 sleeves in crisscross front",
+            "Wide V-neckline",
+            "Soft and lightweight material",
+            "Super suitable for Pilates, Yoga and free time",
+            "No need for Y-adaptor or more-"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61axJBF25wL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B01BMAXHSI"
+      }
+    },
+    {
+      "asin": "B07RYRSJCM",
+      "csi_title": "Bestgift Tops T-Shirt Cache-Coeur Nombril Expos&#233; Amincissant Femme S Manches Courtes Blanc",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "36",
+          "size_map": "36",
+          "additional_sizes_detected": [
+            "EU S(Asian M)"
+          ],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": "Modal(95%Cotton)",
+          "normalized": "Modal(95%Cotton)"
+        },
+        "bullet_points": {
+          "fr": [
+            "Tous les articles au Royaume-Uni seront envoyés par Royal Mail avec colis.",
+            "Matière douce et respirante.",
+            "M (asiatique) UK S : longueur (cm) : 40 cm, tour de poitrine (cm) : 74 à 85 cm. Poids : 42,5 à 55 kg. <br>Taille L (asiatique) UK M : longueur (cm) : 42 cm, tour de poitrine (cm) : 84 à 94 cm. Qui peut porter les vêtements : poids 55–65 kg. <br>(XL asiatique) UK L : longueur (cm) : 44,32 ; tour de poitrine (cm) : 89,43-101,34 ; qui peut porter les vêtements : poids 61,5-72,5 kg.",
+            "Matériau : modal (95 % coton) ; contenu de l'emballage : 1 haut court"
+          ],
+          "other": [
+            "Fonctionne bien avec un certain nombre de pantalons de danse, jupes pour faire le parfait ensemble de danse du ventre."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61c0qKGANUL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B07RYRSJCM"
+      }
+    },
+    {
+      "asin": "B08XPFQD9T",
+      "csi_title": "Fhuuly Femme Fille Camisole Court Casual en Tricote, D&#233;bardeur sans Manches Camisole &#224; Bretelles Tank Top Unicolore Chic pour Et&#233; (Blanc, XS)",
+      "csi_status": "Not Discoverable",
+      "attributes": {
+        "size_info": {
+          "size": "x-large",
+          "size_map": "large",
+          "additional_sizes_detected": [
+            "small",
+            "medium",
+            "x-small",
+            "large",
+            "$additional_links_augmentor_881::{",
+            "x_s,",
+            "XS"
+          ],
+          "structured_size": {
+            "size": "x_s",
+            "size_system": "as4",
+            "body_type": "regular",
+            "height_type": "regular",
+            "size_class": "alpha"
+          }
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Made of high-quality materials, durable enough for daily wear.",
+            "MULTI-PURPOSE - This summer style camisole is very suitable for wearing on the beach in summer. You can also participate in evenings with friends or holiday fashion collocations. You can go out with a thin knitted lace jacket in spring.",
+            "Caractéristique - Col en V, sans manches, mince courte, fine bretelles, en couleur pure, mode et mignon. Un haut basique avec un peu d'évasement, simple mais mode. Coupe ample, décontractée et fluide.",
+            "Matériau confortable - Il est fait de matériaux de haute qualité, suffisamment durables pour votre port quotidien.",
+            "Remarque sur le Nettoyage - Lavage à la main à l'eau froide, ne pas utiliser d'agent de blanchiment, suspendre à sec, repasser à basse température si nécessaire.",
+            "Multi Usages - Cette camisole de style estival est très adaptée pour être portée sur la plage en été. Vous pouvez également participer à des soirées entre amis ou à des collocations mode de vacances. Vous pouvez sortir avec une fine veste en dentelle tricotée au printemps.",
+            "Attention - Nos vêtements sont tous conçus pour les silhouettes asiatiques, ce qui signifie qu'ils sont plus petits que les tailles européennes normales. Veuillez vous référer à notre propre tableau des tailles, que vous trouverez sur nos photos ou dans la description."
+          ],
+          "other": [
+            "Feature: V-neck, sleeveless, slim short, thin straps, pure color, fashion and cute. A basic top with a little flare, simple but fashionable. Loose fit, casual and flowy.",
+            "Cleaning note: Hand wash in cold water, do not bleach, hang dry, low iron if necessary.",
+            "Attention: Our clothing is all designed for Asian silhouettes, which means they are smaller than normal European sizes. Please refer to our own size chart, which can be found in our photos or description."
+          ]
+        }
+      },
+      "dp": {
+        "image": null,
+        "fr_dp_url": "https://www.amazon.fr/dp/B08XPFQD9T"
+      }
+    },
+    {
+      "asin": "B08C824MF2",
+      "csi_title": "Morgan Femme Top Boutonn&#233; Fines Bretelles Otel Blouse, Ciel, 42 Taille Tall EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "Large",
+          "size_map": "Large",
+          "additional_sizes_detected": [
+            "$additional_links_augmentor_802::{",
+            "numeric_42,",
+            "42 Taille Tall"
+          ],
+          "structured_size": {
+            "size": "numeric_42",
+            "size_system": "as4",
+            "body_type": "regular",
+            "height_type": "tall",
+            "size_class": "numeric",
+            "numeric_size": 42
+          }
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": "not_applicable",
+          "normalized": "not_applicable"
+        },
+        "bullet_points": {
+          "fr": [
+            "Care instructions: PAS DE CARACTÉRISTIQUE"
+          ],
+          "other": [
+            "Top boutonne fines bretelles",
+            "Fit type: Regular",
+            "Type de tissu: 100% Coton",
+            "Special size type: Standard",
+            "Dimensions de l'emballage de l'article: 2.3 L x 35.9 H x 28.8 W (centimeters)"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/815J0ZZmrgL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B08C824MF2"
+      }
+    },
+    {
+      "asin": "B08Q8K8MMC",
+      "csi_title": "Morgan D&#233;bardeur bretelles fines &#224; ornements Noir M-L",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "Large",
+          "size_map": "Large",
+          "additional_sizes_detected": [
+            "$additional_links_augmentor_778::{",
+            "m,",
+            "M"
+          ],
+          "structured_size": {
+            "size": "m",
+            "size_system": "as4",
+            "body_type": "regular",
+            "height_type": "regular",
+            "size_class": "alpha"
+          }
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": "not_applicable",
+          "normalized": "not_applicable"
+        },
+        "bullet_points": {
+          "fr": [
+            "Care instructions: LAVAGE À 30°C, ACTION RÉDUITE"
+          ],
+          "other": [
+            "T-SHIRT",
+            "Fit type: Classique",
+            "Special size type: Standard",
+            "Type de tissu: 92% POLYAMIDE / 8% ELASTHANNE",
+            "Dimensions de l'emballage de l'article: 2.1 L x 39.79 H x 31.9 W (centimeters)"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/81ErjTTwDoS.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B08Q8K8MMC"
+      }
+    },
+    {
+      "asin": "B091GTR5VT",
+      "csi_title": "LaiYuTing Chemise De Base Nouveau T-Shirt sans Manches Pull Couleur Unie Femmes Drap&#233; Dos Nu Sexy Gilet T-Shirt",
+      "csi_status": "Not Discoverable",
+      "attributes": {
+        "size_info": {
+          "size": "S",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": "Less than 10% Spandex",
+          "normalized": "Less than 10% Spandex"
+        },
+        "bullet_points": {
+          "fr": [
+            "√ Women's blouse has sexy v neck, solid color, sleeveless, pleats, irregular, topstitching, draping. The open back style gives you a fashionable and unique look, and the hem can perfectly hide your abdomen."
+          ],
+          "en": [
+            "There are many high quality and cheap products in our shop. If you don't like this dress, you can enter our store and choose other styles."
+          ],
+          "other": [
+            "√Skin-friendly fabric is super soft, smooth, extremely lightweight and very comfortable",
+            "√ Perfect vest suitable for yoga, sports, fitness, gym, any type of exercise or everyday use",
+            "**IMPORTANT NOTE *** Please do not use Amazon's size chart as it does not reflect our sizing specifications. Please use the size chart we provide in our description.We only provide high quality clothing, no matter what reason you are not 100% satisfied, contact us first and our professional customer service team will help you manage it for you!"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61tEIRnBuHS.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B091GTR5VT"
+      }
+    },
+    {
+      "asin": "B012GX6SCM",
+      "csi_title": "Femmes Tops T-Shirts &#224; sans Manches Ruched Dos Nu Occasionnels Open Back Top Tank Tee Shirt",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "S",
+          "size_map": "S",
+          "additional_sizes_detected": [
+            "$additional_links_augmentor_611::{",
+            "s,"
+          ],
+          "structured_size": {
+            "size": "s",
+            "size_system": "as4",
+            "body_type": "regular",
+            "height_type": "regular",
+            "size_class": "alpha"
+          }
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Femme Dos Ouvert Débardeur - sans Manches - Open Back Tank Top ,Shirt Femme Fille Dos Nu Tops à Uni Chemisiers Blouses Chic T-Shirts Original Rétro Élégant Haut",
+            "Style---Sexy Ouvert en Arrière, Manches Longues et dos, baggy en avant, Twist noeud décor, confortable et aéré, casual sport t-shirt",
+            "La conception ouverte de dos---sexy v de la conception sans dos avec un noeud de torsion, unique et à la mode, amusement à porter toute la journée ou l'habiller avec une veste Moro pour la date de nuit!",
+            "Occasions préférées---soirée, séance d'entraînement, yoga, Club, bar ou vie quotidienne occasionnelle"
+          ],
+          "other": [
+            "Match Facile---Match parfait avec vos jeans, leggings, shorts ou jupes"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61uzbAuVfwL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B012GX6SCM"
+      }
+    },
+    {
+      "asin": "B07F1PXCF6",
+      "csi_title": "FITTOO D&#233;bardeur Femme Yoga Gilet Sport T-Shirt Extensible sans Manches Dos Nu Top Sexy pour Sport Fitness Gym Running Veste",
+      "csi_status": "Not Discoverable",
+      "attributes": {
+        "size_info": {
+          "size": "small",
+          "size_map": "small",
+          "additional_sizes_detected": [
+            "S"
+          ],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {}
+      },
+      "dp": {
+        "image": null,
+        "fr_dp_url": "https://www.amazon.fr/dp/B07F1PXCF6"
+      }
+    },
+    {
+      "asin": "B012GX6SCM",
+      "csi_title": "Femmes Tops T-Shirts &#224; sans Manches Ruched Dos Nu Occasionnels Open Back Top Tank Tee Shirt",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "S",
+          "size_map": "S",
+          "additional_sizes_detected": [
+            "$additional_links_augmentor_611::{",
+            "s,"
+          ],
+          "structured_size": {
+            "size": "s",
+            "size_system": "as4",
+            "body_type": "regular",
+            "height_type": "regular",
+            "size_class": "alpha"
+          }
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Femme Dos Ouvert Débardeur - sans Manches - Open Back Tank Top ,Shirt Femme Fille Dos Nu Tops à Uni Chemisiers Blouses Chic T-Shirts Original Rétro Élégant Haut",
+            "Style---Sexy Ouvert en Arrière, Manches Longues et dos, baggy en avant, Twist noeud décor, confortable et aéré, casual sport t-shirt",
+            "La conception ouverte de dos---sexy v de la conception sans dos avec un noeud de torsion, unique et à la mode, amusement à porter toute la journée ou l'habiller avec une veste Moro pour la date de nuit!",
+            "Occasions préférées---soirée, séance d'entraînement, yoga, Club, bar ou vie quotidienne occasionnelle"
+          ],
+          "other": [
+            "Match Facile---Match parfait avec vos jeans, leggings, shorts ou jupes"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61uzbAuVfwL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B012GX6SCM"
+      }
+    },
+    {
+      "asin": "B06XWM4PWG",
+      "csi_title": "Amazon Essentials Maillot de Corps avec Encolure en V, Respirant, Coton Homme, Lot de 6, Blanc, L",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": null,
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "COUPE SLIM : Coupe ajustée au niveau des épaules, des manches, de la poitrine et de la taille",
+            "LONGUEUR DU VÊTEMENT : 73,7cm à partir du col pour la taille française M",
+            "JERSEY DE COTON : Mélange de coton doux et lisse. Ce tissu léger et respirant est doux au toucher, tandis que l’élasthanne offre une souplesse qui accompagne vos mouvements",
+            "MAILLOT DE CORPS À COL EN V : Un maillot de corps décontracté, alliant confort et fonctionnalité pour un usage quotidien.",
+            "DÉTAILS : Conçu avec des manches courtes et un ourlet droit, agrémenté de coutures ultra-douces et flexibles. Le col en V est bordé pour plus de durabilité et comporte une étiquette imprimée à l’arrière du col.",
+            "Certifié STANDARD 100 par OEKO-TEX, ce qui implique que les produits textiles sont testés contre une liste de plus de 1 000 substances chimiques, afin de limiter celles pouvant être nocives pour la santé humaine"
+          ],
+          "en": [
+            "COTTON JERSEY: Soft and smooth cotton blend. This lightweight, breathable fabric feels soft to the touch, while spandex provides flexibility that moves with you"
+          ],
+          "other": [
+            "SLIM FIT: Slim fit through shoulders, sleeves, chest and waist",
+            "CLOTHING LENGTH: 29\" from collar for French size M",
+            "V-NECK BODYSHIRT: A casual undershirt, combining comfort and functionality for everyday wear.",
+            "DETAILS: Designed with short sleeves and a straight hem, embellished with ultra-soft, flexible seams. The V-neck is trimmed for durability and features a printed label on the back of the collar.",
+            "Certified STANDARD 100 by OEKO-TEX, which means that textile products are tested against a list of more than 1,000 chemicals to limit those that may be harmful to human health"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61AkemxkSJL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B06XWM4PWG"
+      }
+    },
+    {
+      "asin": "B07KCS1DVF",
+      "csi_title": "BOSS T-shirt Vn, Homme, Bleu (Open Blue 497), Large",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "L",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Emballage: Boîte"
+          ],
+          "other": [
+            "Regular fit",
+            "Encolure: Col V",
+            "regular fit",
+            "Neckline: V-neck",
+            "Packaging: Box"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/71XrEy6BcIL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B07KCS1DVF"
+      }
+    },
+    {
+      "asin": "B08T5LVDSS",
+      "csi_title": "Yazubi 5-Pack Mythic Basic Tee V-Neck Tee Shirt Homme Col en V sans, 5 x Vert (Kalamata 190510), L, 11000207",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "2 mois",
+          "size_map": "2 mois",
+          "additional_sizes_detected": [
+            "$additional_links_augmentor_665::{",
+            "l,",
+            "L"
+          ],
+          "structured_size": {
+            "size": "l",
+            "size_system": "as4",
+            "body_type": "regular",
+            "height_type": "regular",
+            "size_class": "alpha"
+          }
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "male",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Coupe : le t-shirt en V à manches courtes super doux a une coupe normale, ce qui rend chaque type de silhouette heureux",
+            "Matériau : le mélange de matériaux perméables à l'air est composé de 95 % de coton et 5 % d'élasthanne pour l'élasticité nécessaire",
+            "Points forts : plus jamais d'étiquettes gênantes et rayantes lorsque vous portez le t-shirt Mythic pour homme. Ceux-ci ont été remplacés par une impression à l'intérieur",
+            "Conseils d'entretien : lavage en machine à 40 °C (lavage délicat), passe au sèche-linge à basse température. Repassage à température moyenne"
+          ],
+          "other": [
+            "Mythic Lot de 5 t-shirts Yazubi pour homme avec col en V"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/81Skj5TlaIL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B08T5LVDSS"
+      }
+    },
+    {
+      "asin": "B08N6HBDTT",
+      "csi_title": "Femofit D&#233;bardeur Femme Bambou Rayonne Caraco Longue Superposition Classique &#224; Large Bretelles col Rond Maillot de Corps Camisoles 3 Pack",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "Large",
+          "size_map": "Large",
+          "additional_sizes_detected": [
+            "$additional_links_augmentor_773::{",
+            "s,",
+            "S"
+          ],
+          "structured_size": {
+            "size": "s",
+            "size_system": "as4",
+            "body_type": "regular",
+            "height_type": "regular",
+            "size_class": "alpha"
+          }
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Camisoles en bambou : ce débardeur pour femme en rayonne de bambou est soyeux et naturellement respirant, extensible et évacue l'humidité. Élasthanne au niveau du corps pour un ajustement confortable",
+            "Design à col rond : le débardeur est basique et décontracté. Convient à tous les types de vêtements, un basique indispensable et un vêtement indispensable dans votre garde-robe.",
+            "Design bandoulière confortable : le design confortable de la bandoulière ne laisse aucune trace sur votre peau et vous offre un confort absolu. L'étiquette sans étiquette délicate réduit les frottements de la peau et vous offre un confort absolu.",
+            "Convient pour différentes occasions : le matériau est si doux qu'il peut être parfaitement porté comme un haut de pyjama et un maillot de corps; Le design délicat du décolleté le rend bon pour un port extérieur comme le sport, le yoga et la vie quotidienne.",
+            "Nous avons des débardeurs blancs, des débardeurs noirs et des débardeurs gris clair, qui sont les options de couleur les plus simples."
+          ],
+          "en": [
+            "Made of bamboo rayon, this tank top for women is silky and breathable, giving a second skin feeling when you wear it. Spandex added on camisoles for a comfortable fit.",
+            "The bamboo tank top dries quickly, which is great for travel or backpacking trips. With good elasticity and durability, this camisole pack for women can be perfect for layering a tank top or wearing it alone."
+          ],
+          "other": [
+            "The wider design of the shoulder strap leaves no marks on your skin, providing you with absolute comfort. Tag-free for itch-free",
+            "The length of these layered tank tops for women is between 24 inches and 26 inches, depending on the size.",
+            "We have white tank tops, black tank tops, light grey mottled tank tops and brick red tank tops, which are the easiest color options to match."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/81+wDCMZmnL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B08N6HBDTT"
+      }
+    },
+    {
+      "asin": "B08XQ68BXQ",
+      "csi_title": "Joyshaper D&#233;bardeur &#224; Bretelle Femme Camisole Top sans Manches Hauts Sculptants Ventre Plat, Beige, M",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "Moyen",
+          "size_map": "Moyen",
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Shaping camisole cami tops à col en forme de U peut mettre en valeur votre clavicule, et en faire un vêtement de lingerie parfaitement dissimulé sous vos tenues quotidiennes préférées. Les bretelles réglables permettent un ajustement personnalisé.",
+            "La camisole de compression pour femmes est fabriquée en tissu élastique de qualité. Il est agréable pour la peau, doux et respirant pour s'adapter parfaitement à votre corps. La couche intérieure est respirante, flexible et légère, de sorte que notre gilet amincissant est très confortable et attrayant à porter toute la journée.",
+            "Haut sculptant ventre plat Femme vous apporte le soutien nécessaire pour un contrôle ciblé et ferme du ventre afin de lisser vos courbes. cacher les poignées d'amour et réduire la taille, soutenir le dos pour améliorer la posture correcte, cacher vos bosses ou bourrelets, vous façonner une belle silhouette en sablier.",
+            "Conçu sans couture, ce débardeur amincissant vous permet de lisser votre ventre de manière ciblée pour un ajustement flatteur sous n'importe quelle tenue. Cette camisole shapewear secrètement lissante est un élément essentiel de la garde-robe et un must pour les tenues décontractées et les tenues de travail. Le niveau de confort incroyable qu'il procure vous permet de vous sentir bien et d'avoir l'air bien toute la journée.",
+            "Débardeur gainant femme sans couture peut être porté directement à l'extérieur, parfaitement assorti à un jean, un pantalon, un short, une robe, une jupe, etc... Parfait pour le bureau, le sommeil, la fête, le mariage, les tenues décontractées quotidiennes, etc."
+          ],
+          "en": [
+            "Seamless design, this slimming tank top allows you to targeted tummy smoothing for a flattering fit under any outfit. This secretly smoothing shapewear camisole is a wardrobe staple and a must for casual outfits and work outfits. The incredible level of comfort it provides makes you feel good and look good all day."
+          ],
+          "other": [
+            "Shaping camisole cami tops with U-shape neck can highlight your collarbone, and make it a lingerie garment perfectly concealed under your favorite daily outfits. Adjustable shoulder straps allow for a custom fit.",
+            "The women's compression tank top is made of quality elastic fabric. It is skin-friendly, soft and breathable to fit your body perfectly. The inner layer is breathable, flexible and lightweight, so our slimming vest is very comfortable and attractive to wear all day.",
+            "Women's flat tummy shaping top gives you the necessary support for targeted and firm tummy control to smooth your curves. Hide the love handles and reduce the waist, support the back to improve the correct posture, hide your bumps or bulges, shape you a beautiful hourglass figure.",
+            "Seamless women's tummy control tank top can be worn directly outside, perfectly matched with jeans, trousers, shorts, dress, skirt, etc. Perfect for office, sleep, party, wedding, daily casual wear, etc."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61fVnVfsppL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B08XQ68BXQ"
+      }
+    },
+    {
+      "asin": "B0821Z3HX3",
+      "csi_title": "Damart - D&#233;bardeur Fine c&#244;te Thermolactyl Femme Blanc Taille 38-40 (S)",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "S",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Label : Ce sous-vêtement Thermolactyl degré 3 apporte une chaleur agréable au cœur de l’hiver.",
+            "Tailles : Ce produit existe de la taille 34-36 (XS) à la taille 54-56 (XXL).",
+            "Couleurs : Ce produit existe en Blanc, Gris, Noir, Rose, Vert.",
+            "Composition : Ce produit contient 50% de Acrylique, 50% de Polyester.",
+            "Conseil d'entretien : Il est conseillé de laver votre linge à 30°C."
+          ],
+          "en": [
+            "Label: This Thermolactyl grade 3 underwear brings pleasant warmth to the heart of winter.",
+            "Sizes: This product is available from size 6-8 (XS) to size 26-28 (XXL).",
+            "Colours: This product is available in white, grey, black, pink, green.",
+            "Composition: This product contains 50% acrylic, 50% polyester."
+          ],
+          "other": [
+            "Care instructions: It is advisable to wash your laundry at 30 °C."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61q0eyRzkML.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0821Z3HX3"
+      }
+    },
+    {
+      "asin": "B07R664VJT",
+      "csi_title": "HOTCAT Canotte Uomo Canotterie Sportivo Palestra Muscolo Gilet Lettera Stampata Veste Casual Tank Top Senza Manica Estate T-Shirt",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "L",
+          "size_map": "L",
+          "additional_sizes_detected": [
+            "$additional_links_augmentor_1022::{",
+            "l,"
+          ],
+          "structured_size": {
+            "size": "l",
+            "size_system": "as4",
+            "body_type": "regular",
+            "height_type": "regular",
+            "size_class": "alpha"
+          }
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Tissu de haute qualité: fabriqué en tissu de coton extensible, respirant, doux, léger et confortable à porter, vous garde au frais, au sec et en mouvement confortablement pendant votre entraînement.Le t-shirt ne se déformera pas et ne rétrécira pas après des lavages répétés.",
+            "Vêtements de sport idéaux: les débardeurs à Muscle conviennent à toutes les saisons, vous pouvez le porter pour les loisirs, la gym, le fitness, l'entraînement, la musculation, la course, le basket-ball et d'autres activités de plein air.",
+            "Design unique de hauts pour homme pour l'été : la coupe ajustée et épurée permet une plus grande mobilité dans toutes les directions.",
+            "Le gilet de survêtement vous offre beaucoup de confort pendant votre entraînement/sport, s'adapte parfaitement",
+            "Le meilleur cadeau： Une chemise de gym musculaire pour homme peut être le cadeau parfait pour l'anniversaire ou la Saint-Valentin pour lui, votre père, votre mari, vos frères, votre petit ami ou vos amis. les hauts sont le meilleur choix"
+          ],
+          "other": [
+            "High quality fabric: made of stretch cotton fabric, breathable, soft, lightweight and comfortable to wear, keep you cool, dry and moving comfortably during your workout.The t-shirt will not deform or shrink after repeated washing.",
+            "Ideal sportswear: Muscle tank tops are suitable for all seasons, you can wear it for leisure, gym, fitness, training, strength training, running, basketball and other outdoor activities.",
+            "UNIQUE DESIGN OF MEN'S TOP FOR SUMMER: Slim and streamlined fit allows greater mobility in all directions.",
+            "The tracksuit vest gives you a lot of comfort during your workout/sport, fits perfectly",
+            "The best gift: A muscle gym shirt for men can be the perfect birthday or Valentine's Day gift for him, your father, husband, brothers, boyfriend or friends. tops are the best choice"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/71lkXJcsC0L.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B07R664VJT"
+      }
+    },
+    {
+      "asin": "B086QTY52C",
+      "csi_title": "IFLOVE D&#233;bardeur de Sudation pour Homme Gilet de Minceur Fitness T-Shirt Effet Sauna Sport Body Shaper",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "S-M",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "male",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Transpirer Et Brûler Plus De Calories - Fabriqué avec un polymère chauffant sans latex intelligent qui augmente la température corporelle partout où il entre en contact avec la peau, stimule la transpiration jusqu'à 3 fois avec l'activité physique pour aider à accélérer le processus de combustion des calories, éliminer les toxines, transpirer excès d'eau et graisses nocives.",
+            "Tissu Confort Stretchy - Ce shapewear technologiquement avancé combine un matériau ultra-doux, léger et extensible qui se moule et se déplace avec votre corps tout en effectuant vos activités quotidiennes. Il s'assortit avec n'importe quelle combinaison de pantalons d'entraînement ou peut même être porté sous des vêtements de tous les jours. Parfait pour la gym, la course, le cyclisme, etc.",
+            "Design Haute Performance - Formez votre silhouette avec une compression confortable qui vous garde complètement libre de mouvement! La conception flexible et sans couture vous permet de vous déplacer librement tout au long de l'exercice tout en façonnant votre abdomen. Ce gilet en polymère haute performance n'est pas encombrant comme les gilets en néoprène, il n'a pas de mauvaise odeur et sèche rapidement",
+            "Maximise Les Routines De Fitness - Le matériau évacue la transpiration, fait circuler l'air dans votre corps pour rester au sec à l'extérieur, la conception de l'entrejambe de ventilation vous garde frais et frais tout en conservant la chaleur du corps pour fonctionner plus longtemps et vous ne vous sentirez pas trop épuisé. Atteignez vos objectifs de fitness plus rapidement avec beaucoup moins d'efforts!",
+            "Ideal Vest Shaper- Fournit un soutien lombaire et dorsal, une correction de la posture et une perte de poids du ventre. Il a des propriétés antimicrobiennes qui empêchent l'accumulation de bactéries et les mauvaises odeurs."
+          ],
+          "en": [
+            "COMFORT STRETCH FABRIC - This technologically advanced shapewear combines ultra-soft, lightweight and stretchy material that molds and moves with your body while performing your daily activities. It matches with any combination of workout pants or can even be worn under everyday clothes. Perfect for gym, running, cycling, etc.",
+            "High Performance Design - Shape your figure with comfortable compression that keeps you completely free of movement! The flexible and seamless design allows you to move freely throughout the exercise while shaping your abdomen. This high-performance polymer vest is not bulky like neoprene vests, it has no bad smell and dries quickly",
+            "Ideal Vest Shaper- Provides lumbar and back support, posture correction and belly weight loss. It has antimicrobial properties that prevent the accumulation of bacteria and unpleasant odours."
+          ],
+          "other": [
+            "SWEAT AND BURN MORE CALORIES - Made with a smart latex-free heating polymer that increases body temperature wherever it comes into contact with skin, stimulates sweating up to 3 times with physical activity to help speed up the calorie burning process, eliminate toxins, sweat excess water and harmful fats.",
+            "MAXIMIZES FITNESS Routines - The sweat-wicking material, circulates air through your body to stay dry on the outside, the ventilation crotch design keeps you cool and cool while retaining body heat to function longer and you won't feel too exhausted. Achieve your fitness goals faster with much less effort!"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/71tpvYrF09L.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B086QTY52C"
+      }
+    },
+    {
+      "asin": "B07587JTQR",
+      "csi_title": "Martiount Fitness T-Shirt pour Homme Sport D&#233;bardeur Minceur pour Homme Debardeur Sudation Homme Body Shaper pour la Musculation, Le Cardio, l&apos;endurance",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "XXL",
+          "size_map": "XXL",
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [],
+          "normalized": null
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Matériau : 70% néoprène, 15% polyester et 15% nylon. Fournit une compression abdominale et un support lombaire instantanés, vous permettant d'obtenir le soutien approprié sans aucun inconfort. Favorise la combustion des calories en préservant la chaleur corporelle et en stimulant la perte d'eau durant l'effort.",
+            "Transpirer et brûler plus de calories, aidez votre corps à éliminer les graisses nocives, optimisez l'efficacité de votre entraînement et accélérez la combustion des calories. Chauffez votre ceinture abdominale et brûlez l'excès de calories en retenant la chaleur du corps.",
+            "Le gilet minceur fitness shaper tonifiera les abdos. Les coupes du Martiount débardeur sudation homme sont parfaitement ajustées au corps. Ce débardeur amincissant innovant vous fait transpirer et réchauffe votre ceinture abdominale pour amincir et réduire la taille de votre ventre, vous donnant une allure ferme et sportive instantanément. Fournit un soutien lombaire et dorsal et une correction de la posture. Ce t-shirt amincissant aplanit également votre dos pour une apparence plus mince.",
+            "Matériau en néoprène qui non seulement augmente la température du corps mais absorbe également la transpiration et vous laisse toujours au sec à l'extérieur. L'odeur du néoprène est normale et disparaîtra après quelques lavages. Conseils : accrochez dans un endroit aéré sec pour le sécher.",
+            "Obtenez un ventre plat et des abdos sculptés. Martiount Tee Shirt Amincissant Homme aplatit votre ventre, confortable et efficace. Il soutient le bas du dos, améliore votre posture et garde votre dos au chaud pendant votre entraînement ou à la maison pendant vos activités quotidiennes (course à pied, vélo, musculation, yoga, etc.). Entraînez-vous avec style tout en optimisant vos résultats avec le débardeur sweat homme Martiount!",
+            "Get a flat stomach and sculpted abs. Martiount men's slimming t-shirt flattens your stomach, comfortable and effective. It supports the lower back, improves your posture and keeps your back warm during your workout or at home during your daily activities (running, cycling, strength training, yoga, etc.). Train in style while maximizing your results with the men's sweat tank top. Martiount!"
+          ],
+          "en": [
+            "The fitness shaper slimming vest will tone the abs. The Martiount men's sweat tank top fits perfectly to the body. This innovative slimming tank top makes you sweat and warms your core to slim and reduce the size of your tummy, giving you a firm and sporty look instantly. Provides lumbar and back support and posture correction. This slimming t-shirt also smooths your back for a slimmer look."
+          ],
+          "other": [
+            "Material: 70% Neoprene, 15% Polyester and 15% Nylon Provides instant abdominal compression and lumbar support, allowing you to get the proper support without any discomfort. Promotes calorie burning by preserving body heat and stimulating water loss during exercise.",
+            "Sweating and burning more calories, help your body eliminate harmful fats, maximize your workout efficiency and speed up calorie burning. Heat your core and burn excess calories by retaining body heat.",
+            "Neoprene material not only increases body temperature but also absorbs sweat and always leaves you dry outside. The smell of neoprene is normal and will disappear after a few washes. Tips: Hang in a dry ventilated place to dry."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61uG+-Flz3S.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B07587JTQR"
+      }
+    },
+    {
+      "asin": "B08867MFBY",
+      "csi_title": "Tia Femme 5 Pi&#232;ces Yoga Ensembles Sportswear Costumes De Sport Course Gym Jogging Athletisme Fitness Surv&#234;tement",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "L",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": "Élasthanne",
+          "normalized": "Élasthanne"
+        },
+        "bullet_points": {
+          "fr": [
+            "★ T-SHIRT: excellente qualité et coupe confortable, a gagné l'amour fou des clients",
+            "★ SPORTS BRA: Confortable sans jantes, bonnet 3D, tissu élastique, soutien-gorge amovible",
+            "★ PANTALON DE RUNNING: Avec un faux deux pièces, un look élégant et amincissant.",
+            "★ SHORT DE SPORT: Contraste des couleurs et conception courte; La ceinture à haute élasticité permet un meilleur ajustement et ajustement.",
+            "★ VESTE À CAPUCHE: Tissu anti-humidité, construction à couture plate et veste à capuche avec poche avant, plus vigoureuse et sûre pour tous les entraînements"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/618AoUaeNlL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B08867MFBY"
+      }
+    },
+    {
+      "asin": "B07P7JJLCH",
+      "csi_title": "BOTRE Femme 5 Pi&#232;ces Yoga Ensembles Sportswear Costumes de Sport Course Gym Athletisme Fitness Jogging Surv&#234;tement (X-Large, Rose)",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "XL",
+          "size_map": "XL",
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Erwachsene"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": "90% Polyester, 10% Élasthanne",
+          "normalized": "90% Polyester, 10% Élasthanne"
+        },
+        "bullet_points": {
+          "fr": [
+            "Composition : 90 % polyester + 10 % élasthanne. Respirant, séchage rapide, élastique. Le tissu élastique est soigneusement choisi pour garantir un maximum de confort.",
+            "Design professionnel : T-shirt : tissu à séchage rapide de haute qualité ; pantalon : ceinture haute élasticité pour un meilleur ajustement et ajustement, parfait pour la course, les squats, etc. Soutien-gorge : verres amovibles, confort et résistance aux chocs.",
+            "Lot de 5 ensembles de sport pour femme comprenant : 1 t-shirt, 1 pantalon de yoga, 1 soutien-gorge de sport, 1 sweat à capuche, 1 short de sport. Conseils de lavage : lavage en machine à froid avec un détergent doux. Ne pas utiliser de javel. Ne pas repasser. Sécher sous ou suspendre pour sécher.",
+            "Occasions : convient pour le sport, le yoga, le tennis, l'entraînement, la course, l'exercice, le jogging, les activités quotidiennes décontractées et autres. Non seulement il convient pour différentes occasions sportives, mais il répond également aux besoins des gens en différentes saisons.",
+            "Service : contactez-nous 7 x 24 heures pour toute demande. Les produits BOTRE sont vendus avec une garantie de remboursement de 30 jours et peuvent être renvoyés sans question."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/710GIISlGZL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B07P7JJLCH"
+      }
+    },
+    {
+      "asin": "B088639W8G",
+      "csi_title": "Tia Femme 5 Pi&#232;ces Yoga Ensembles Sportswear Costumes De Sport Course Gym Jogging Athletisme Fitness Surv&#234;tement",
+      "csi_status": "Not Discoverable",
+      "attributes": {
+        "size_info": {
+          "size": "M",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [],
+          "normalized": null
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "★ T-SHIRT: excellente qualité et coupe confortable, a gagné l'amour fou des clients",
+            "★ SPORTS BRA: Confortable sans jantes, bonnet 3D, tissu élastique, soutien-gorge amovible",
+            "★ PANTALON DE RUNNING: Avec un faux deux pièces, un look élégant et amincissant.",
+            "★ SHORT DE SPORT: Contraste des couleurs et conception courte; La ceinture à haute élasticité permet un meilleur ajustement et ajustement.",
+            "★ VESTE À CAPUCHE: Tissu anti-humidité, construction à couture plate et veste à capuche avec poche avant, plus vigoureuse et sûre pour tous les entraînements"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61SK-3sPVDL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B088639W8G"
+      }
+    }
+  ],
+  "stats": {
+    "asin_blocks_found": 69,
+    "records_extracted": 68,
+    "records_skipped_no_csi": 1
+  }
+}
