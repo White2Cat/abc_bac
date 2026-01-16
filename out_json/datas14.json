@@ -1,0 +1,3610 @@
+{
+  "source_file": "datas14.txt",
+  "records": [
+    {
+      "asin": "B0C2QT29C8",
+      "csi_title": "UGG Bottes Neumel X Fashion pour femme, Temp&#234;te de pluie, 40 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_288::{",
+          "size_map": "40 EU",
+          "additional_sizes_detected": [
+            "numeric_40,",
+            "40 EU"
+          ],
+          "structured_size": {
+            "gender": "women",
+            "size": "numeric_40",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "adult",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 40
+          }
+        },
+        "footwear_size": {
+          "gender": "women",
+          "size": "numeric_40",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 40
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Type de fermeture : À enfiler",
+            "Matériau intérieur : Synthétique",
+            "Matériau extérieur : Synthétique",
+            "Matériau unique :Éthylène-acétate de vinyle"
+          ],
+          "other": [
+            "Type de talon : Plat",
+            "Closure Type: Slip-on",
+            "Heel type: flat",
+            "Inner material: synthetic",
+            "Upper material: synthetic",
+            "Unique Material:Ethylene Vinyl Acetate"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/71eEjVFL2DL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0C2QT29C8"
+      }
+    },
+    {
+      "asin": "B08JV1F8MJ",
+      "csi_title": "TMEOG Bottines B&#233;b&#233; Gar&#231;on Fille, Hiver Chaud Semelle Douce Bottes de Neige Berceau Chaussures Tout-Petits Premiers Pas Enfant Bottines Chaussures Boots(Kaki,6-12 Mois)",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_282::{",
+          "size_map": "6-12 mois",
+          "additional_sizes_detected": [
+            "'6_months',",
+            "$additional_links_augmentor_305::{",
+            "6-12 mois"
+          ],
+          "structured_size": {
+            "gender": "women",
+            "size": "'6_months'",
+            "age_group": "infant",
+            "size_system": "eu_footwear_size_system",
+            "to_size": "'12_months'",
+            "width": "medium",
+            "size_class": "age_range"
+          }
+        },
+        "footwear_size": {
+          "gender": "women",
+          "size": "'6_months'",
+          "age_group": "infant",
+          "size_system": "eu_footwear_size_system",
+          "to_size": "'12_months'",
+          "width": "medium",
+          "size_class": "age_range"
+        },
+        "age_range": {
+          "raw_values": [
+            "Bébé",
+            "Baby"
+          ],
+          "normalized": "infant"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Chaleureux et confortable : Le matériau mélangé de coton et la doublure en polaire rendent ces bottines pour bébé suffisamment chaudes, douces au toucher, offrant un ajustement confortable aux bébés les jours froids.",
+            "Bottes polyvalentes pour bébé : Dotées d'un fond en tissu antidérapant, ces bottes pour bébé peuvent être portées comme des chaussettes ou des bottes, idéales pour les nouveau-nés qui commencent à ramper à la maison, mais aussi pour les premiers pas.",
+            "Restent toute la journée : Les crochets réglables et la boucle sont faciles pour les bébés à mettre et à enlever, la cheville scellée avec un élastique permet à ces chaussons pour bébé de rester toute la journée et d'éviter d'être ôtés ou de tomber.",
+            "Jolis cadeaux : Plusieurs couleurs au choix. Ces chaussons pour nouveau-né peuvent aller bien avec différentes tenues, apporter à bébé un look mignon, de jolis cadeaux pour votre chéri.",
+            "Quelle taille devrions-nous choisir : Ces chaussures d'hiver pour bébé conviennent aux bébés de 0 à 18 mois, la plage d'âge est donnée uniquement à titre de référence, nous recommandons de mesurer les pieds du bébé et de consulter le tableau des tailles pour un ajustement parfait possible."
+          ],
+          "other": [
+            "WARM & COMFORTABLE: Cotton blend material and fleece lining make these baby ankle boots warm enough, soft to the touch, providing a comfortable fit for babies on cold days.",
+            "VERSATILE BABY BOOTS - Featuring a non-slip fabric bottom, these baby boots can be worn as socks or boots, ideal for newborns starting to crawl at home, but also for first steps.",
+            "STAY ALL DAY: Adjustable hooks and buckle are easy for babies to put on and take off, the ankle sealed with elastic allows these baby booties to stay all day and avoid being taken off or falling off.",
+            "Nice gifts: various colors for you to choose. These newborn slippers can go well with different outfits, bring baby a cute look, cute gifts for your darling.",
+            "What Size Should We Choose: These baby winter shoes are suitable for 0-18 months baby, the age range is given only for reference, we recommend measuring the baby's feet and checking the size chart for a perfect fit possible."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61VZD6Qp0GL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B08JV1F8MJ"
+      }
+    },
+    {
+      "asin": "B0BKZ3Q632",
+      "csi_title": "Columbia Newton Ridge BcMid Rise Bottes de trekking et de randonn&#233;e pour femme, C&#232;dre sable humide, 38 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": {
+            "fit_size": "\"7\"",
+            "legacy_unit": "womens_us"
+          }
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "OMNI-SHIELD: Chaussures conçues pour une pluie légère et une protection quotidienne contre la saleté et les taches.",
+            "TECHLITE: Pour une absorption légère des chocs sur diverses surfaces. Amortissement durable avec retour d'énergie élevé.",
+            "OMNI-GRIP : Pour une traction multi-terrains sur roche, saleté et gravier, dans des conditions humides et sèches. Composés spécialement formulés et conception de bande de roulement pour la stabilité et l'adhérence sur tout terrain avec des motifs de crampons stratégiquement mélangés.",
+            "Style polyvalent : une silhouette classique, du daim texturé et des lacets larges vous permettent d'incarner le look extérieur sur les sentiers et hors tension.",
+            "Conçues pour durer : l'attention portée aux détails par Columbia est ce qui distingue nos chaussures. Spécifie uniquement les matériaux de la plus haute qualité, les coutures expertes et l'artisanat. Il s'agit de chaussures durables que vous apprécierez pour les saisons à venir."
+          ],
+          "other": [
+            "OMNI-SHIELD: Shoes designed for light rain and everyday protection against dirt and stains."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/71WsdQsEL1L.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0BKZ3Q632"
+      }
+    },
+    {
+      "asin": "B08TPBN8F5",
+      "csi_title": "Skechers Bottes d&apos;hiver confortables Keepsakes Wedge Fashion pour femme, Microcuir noir imitation sapin, 39 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": null,
+          "additional_sizes_detected": [
+            "39 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"8\"",
+            "legacy_unit": "womens_us"
+          }
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Produit végétalien"
+          ],
+          "other": [
+            "Doublure en fausse fourrure",
+            "Warm Tech MF",
+            "Scotchguard 3M",
+            "Faux Fur Lining",
+            "3M Scotchguard",
+            "Vegan"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/51wcAru0eqL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B08TPBN8F5"
+      }
+    },
+    {
+      "asin": "B0F9K5ZCC7",
+      "csi_title": "VTASQ Bottes de Neige pour Femmes Plates Snow Boots Chaudes Chaussures Montantes a Lacet Antid&#233;rapant Pied Minimaliste Confortables 37-42EU Gris 40EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": "40 EU",
+          "additional_sizes_detected": [
+            "$additional_links_augmentor_213::{",
+            "numeric_40,",
+            "40 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"9\"",
+            "legacy_unit": "womens_us"
+          }
+        },
+        "footwear_size": {
+          "gender": "women",
+          "size": "numeric_40",
+          "age_group": "adult",
+          "size_system": "eu_footwear_size_system",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 40
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Design classique : cuir synthétique de qualité supérieure avec motif de grille élégant, pointe bicolore classique avec œillet en métal couleur bronze et col rembourré pour ne jamais rendre les bottes obsolètes.",
+            "Design de soutien de la cheville : les bottes de voyage pour sac à dos pour femme offrent une languette rembourrée et un collier rembourré pour augmenter le confort autour de la cheville. Les semelles ultra douces évitent les douleurs aux pieds.",
+            "Confort parfait : les tapis amortisseurs amovibles offrent une sensation de confort unique et des serviettes respirantes avec doublure en coton gardent vos pieds au chaud. La semelle extérieure en caoutchouc offre une adhérence élevée et une protection antidérapante sur les sols rugueux. ﻿",
+            "Imperméable et antidérapant : le cuir synthétique de qualité supérieure empêche l'eau de pénétrer dans les chaussures. Semelle extérieure en caoutchouc améliorée, protection antidérapante, soutien durable, bonne adhérence et stabilité lors de la marche.",
+            "Nombreuses utilisations : ski, randonnée, alpinisme, camping, loisirs, travail, shopping, conduite, vacances, trafic de chiens. Ces bottes de montagne sont également le cadeau idéal pour vous-même et vos amis.",
+            "Waterproof & Non Slip - Premium PU leather prevents water from entering the shoes. Upgraded rubber outsole, non-slip protection, durable support, good grip and stability when walking."
+          ],
+          "other": [
+            "CLASSIC DESIGN - Premium PU leather with stylish grid pattern, classic two-tone toe with bronze color metal eyelet and padded collar never make boots obsolete.",
+            "Ankle Support Design The travel boots for women backpack offer a padded tongue and padded collar to increase comfort around the ankle. Ultra soft insoles prevent foot pain.",
+            "PERFECT COMFORT - Removable shock pads provide a unique comfort feel and breathable towels with cotton lining keep your feet warm. The rubber outsole provides high grip and non-slip protection on rough floors",
+            "Wide applications: skiing, hiking, mountaineering, camping, leisure, work, shopping, driving, vacation, dog trafficking. These mountain boots are also the ideal gift for yourself and your friends."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/81M2MqsACdL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0F9K5ZCC7"
+      }
+    },
+    {
+      "asin": "B0B6GDQCCZ",
+      "csi_title": "Nike DQ5601-710 Classic City Boot Sneaker Adult Wheat/SAIL-Black-Gum Light Brown 38",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": null,
+          "additional_sizes_detected": [
+            "38 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"7\"",
+            "legacy_unit": "womens_us"
+          }
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Clôture: à cordes"
+          ],
+          "other": [
+            "Marque: Nike",
+            "Code: DQ5601",
+            "Fencing: roped",
+            "Brand: Nike"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61sXtnI4LxL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0B6GDQCCZ"
+      }
+    },
+    {
+      "asin": "B0CP48KVHR",
+      "csi_title": "Puma Turino II Sneaker Unisexe, Puma Gomme &#224; Neige Alpine Bleu Marine, 47 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "47 EU",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "STYLÉES ET RÉSISTANTES : les PUMA Turino II sont des sneakers basiques pour adultes avec une tige en cuir synthétique qui compléteront à la perfection tes looks casual du quotidien.",
+            "CONFORT RESPIRANT : la doublure en mesh assure une bonne aération, pour garder les pieds au frais et bénéficier d'un maximum de confort toute la journée, quand tu te promènes en ville ou que tu travailles.",
+            "MATÉRIAUX RECYCLÉS : la tige de ces chaussures de loisir pour adultes est conçue avec au moins 20 % de matériaux recyclés.",
+            "ADHÉRENCE ET STABILITɠ: la semelle extérieure en caoutchouc procure une adhérence optimale sur diverses surfaces. Un détail parfait pour les activités de loisirs.",
+            "DÉTAILS ICONIQUES : avec leur logo imprimé sur le côté leur insufflant une touche de style PUMA authentique, ces sneakers à coupe régulière apporteront la touche finale parfaite à toutes tes tenues décontractées.",
+            "STYLISH AND DURABLE: The PUMA Turino II are basic sneakers for adults with a synthetic leather upper that will perfectly complement your everyday casual looks.",
+            "ICONIC DETAILS: With a logo print on the side giving them a touch of authentic PUMA style, these regular fit sneakers will add the perfect finishing touch to any casual outfit."
+          ],
+          "other": [
+            "BREATHABLE COMFORT: The mesh lining ensures good ventilation, keeping feet cool and maximum comfort all day long when you're walking around town or working.",
+            "RECYCLED MATERIALS - The upper of these adult leisure shoes is designed with at least 20% recycled materials.",
+            "GRIP AND STABILITY: The rubber outsole provides optimal grip on various surfaces. A perfect detail for leisure activities."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61m5UxKfkpL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0CP48KVHR"
+      }
+    },
+    {
+      "asin": "B0C2HW12HM",
+      "csi_title": "Tommy Hilfiger Bottes de Pluie Essential Corporate pour Femme, Bleu sid&#233;ral, Pointure 39",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_240::{",
+          "size_map": "40 EU",
+          "additional_sizes_detected": [
+            "numeric_40,",
+            "40 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_40",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "adult",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 40
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_40",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 40
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Ce style a été produit de manière durable",
+            "Il s'agit d'un produit Tommy Hilfiger authentique et original",
+            "confortable à porter",
+            "This style has been produced sustainably"
+          ],
+          "en": [
+            "This is a genuine and original Tommy Hilfiger product"
+          ],
+          "other": [
+            "Comfortable to wear"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/8108UArMGgL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0C2HW12HM"
+      }
+    },
+    {
+      "asin": "B0BQYJ9K31",
+      "csi_title": "QUEEN HELENA Bottes de Cowboy Femme X28-110 cuir, 39 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_118::{",
+          "size_map": "39 EU",
+          "additional_sizes_detected": [
+            "numeric_39,",
+            "39 EU",
+            "36.",
+            "37.",
+            "38.",
+            "39.",
+            "40.",
+            "41."
+          ],
+          "structured_size": {
+            "size": "numeric_39",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "adult",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 39
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_39",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 39
+        },
+        "age_range": {
+          "raw_values": [
+            "Adult",
+            "Adulte"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Matériau et caractéristiques : bottes camperos pour femme avec tige en similicuir, doublure en similicuir, fermeture éclair latérale, semelle confortable en caoutchouc",
+            "Chaussure : elles s'adaptent régulièrement, pour des doutes sur la taille, nous vous recommandons de nous contacter",
+            "Ajoutez une touche de style à votre tenue avec nos bottes camperos : au design minimaliste et élégant, vous pouvez enfin expérimenter de nouveaux styles et mettre en valeur votre garde-robe avec une touche d'élégance intemporelle",
+            "Il est important de noter que la couleur du produit affiché peut sembler légèrement différente en fonction de l'écran, de l'écran ou de l'appareil utilisé pour la visualisation",
+            "Design: this model has a classic style but lends itself perfectly to make your looks glamorous, fashionable and comfortable to the shoe, a must have in the wardrobe",
+            "Use: ideal for autumn/winter season, comfortable and practical to wear with any type of outfit, wear it with your favorite clothes, perfect to create your style in an original way and for an exuberant and feminine look"
+          ],
+          "other": [
+            "Hauteur du talon : 5 cm",
+            "Material:Camperos boots for women with faux leather upper, 5cm heel height, no closure, comfortable rubber sole",
+            "Sock: they fit regularly, if in doubt about the size, we recommend contacting us, if you would not, return and change are free",
+            "SUPPORT: Customer satisfaction is our top priority, we are always at your disposal, please feel free to contact us"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61CemZtaaIL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0BQYJ9K31"
+      }
+    },
+    {
+      "asin": "B08TP4RQJF",
+      "csi_title": "Skechers Bottes d&apos;hiver confortables Keepsakes Wedge Fashion pour femme, Microcuir noir imitation sapin, 38 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": null,
+          "additional_sizes_detected": [
+            "38 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"7\"",
+            "legacy_unit": "womens_us"
+          }
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Produit végétalien"
+          ],
+          "other": [
+            "Doublure en fausse fourrure",
+            "Warm Tech MF",
+            "Scotchguard 3M",
+            "Faux Fur Lining",
+            "3M Scotchguard",
+            "Vegan"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/51wcAru0eqL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B08TP4RQJF"
+      }
+    },
+    {
+      "asin": "B0CDZMGK7L",
+      "csi_title": "Jomos Adultes Autres, Noir , 47 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": "47 EU",
+          "additional_sizes_detected": [
+            "$additional_links_augmentor_123::{",
+            "numeric_47,",
+            "47 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"10\"",
+            "legacy_unit": "mens_us"
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_47",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 47
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Cuir véritable durable"
+          ],
+          "other": [
+            "Noires",
+            "Doublure chaude en peau d'agneau",
+            "Fermeture confortable",
+            "Black",
+            "Synthetic",
+            "Flat",
+            "Warm lining",
+            "Velcro fastening"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61knrTRhCqL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0CDZMGK7L"
+      }
+    },
+    {
+      "asin": "B0BWZ1PL21",
+      "csi_title": "Gabor Femme Bottines, Dame Bottines &#224; Lacets,Semelle int&#233;rieure Amovible,Botte d&apos;hiver,Demi-Bottes,Noir (Schwarz) / 27,39 EU / 6 UK",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": "39 EU",
+          "additional_sizes_detected": [
+            "$additional_links_augmentor_212::{",
+            "numeric_39,",
+            "39 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"8\"",
+            "legacy_unit": "womens_us"
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_39",
+          "age_group": "adult",
+          "size_system": "eu_footwear_size_system",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 39
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Type de produit: Bottines,Bottines à lacets,botte d'hiver,demi-bottes,botte à lacets",
+            "Matière supérieure: Cuir Souple, Matière intérieure: textile, Semelle extérieure: Caoutchouc thermoplastique, Semelle de recouvrement: semelle intérieure amovible, semelle intérieure interchangeable",
+            "semelle interchangeable, semelle intérieure amovible, semelle intérieure libre"
+          ],
+          "other": [
+            "Type de talon: Bloc, Hauteur de talon: 4 cm, Type d'arbre: mi-mollet, Hauteur de l'arbre: 17 cm",
+            "Largeur: normale, Fermeture: fermeture eclair",
+            "Product Type: Ankle Boots,Lace Up Boots,Winter Boot,Half Boots,Lace Up Boot",
+            "Upper material: Soft leather, Inner material: Textile, Outsole: Thermoplastic rubber, Cover sole: removable insole, interchangeable insole",
+            "Heel type: Block, Heel height: 4 cm, Shaft type: Mid-calf, Shaft height: 17 cm",
+            "Width: normal, Closure: zip",
+            "Interchangeable footbed, removable insole, loose insole"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61nNbjNNHpL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0BWZ1PL21"
+      }
+    },
+    {
+      "asin": "B0DQHT9L47",
+      "csi_title": "Ecco Bottes d&apos;hiver souples 7 Tred Gore-Tex imperm&#233;ables pour homme, Noir, 44 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_313::{",
+          "size_map": "44 EU",
+          "additional_sizes_detected": [
+            "numeric_44,",
+            "44 EU"
+          ],
+          "structured_size": {
+            "gender": "men",
+            "size": "numeric_44",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "adult",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 44
+          }
+        },
+        "footwear_size": {
+          "gender": "men",
+          "size": "numeric_44",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 44
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Fabriqué en cuir nubuck, fabriqué dans nos propres tanneries",
+            "Doublure chaude et semelle intérieure en feutre pour garder les pieds confortables pendant les mois les plus froids",
+            "Fermeture éclair intérieure pour un enfilage et un retrait faciles",
+            "La technologie imperméable Gore-Tex aide à garder les pieds au sec",
+            "La semelle extérieure Fluidform en polyuréthane et caoutchouc à deux composants est très confortable, résistante, légère et flexible, tout en offrant une bonne adhérence",
+            "Fluidform two-component polyurethane and rubber outsole is very comfortable, durable, lightweight and flexible, while providing good grip"
+          ],
+          "other": [
+            "Made of nubuck leather, made in our own tanneries",
+            "Warm lining and felt insole keep feet comfortable during the colder months",
+            "Inner zipper for easy on and off",
+            "GORE-TEX waterproof technology helps keep feet dry"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/615MPbqRg9L.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0DQHT9L47"
+      }
+    },
+    {
+      "asin": "B0FPR4RJY2",
+      "csi_title": "Bottes montantes &#224; enfiler pour hommes et femmes, fabriqu&#233;es en Italie, chaussures Beck, antid&#233;rapantes, l&#233;g&#232;res et respirantes, baskets d&#233;contract&#233;es pieds nus(Noir,45 EU)",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_100::{",
+          "size_map": "45 EU",
+          "additional_sizes_detected": [
+            "numeric_45,",
+            "45 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_45",
+            "age_group": "adult",
+            "size_system": "eu_footwear_size_system",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 45
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_45",
+          "age_group": "adult",
+          "size_system": "eu_footwear_size_system",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 45
+        },
+        "age_range": {
+          "raw_values": [
+            "Adult",
+            "Adulte"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "male",
+        "material": {
+          "raw": "Acrylonitrile Butadiene Styrene (ABS)",
+          "normalized": "Acrylonitrile Butadiene Styrene (ABS)"
+        },
+        "bullet_points": {
+          "fr": [
+            "Handmade high boots: simple and elegant outdoor shoes, classic style. The upper and sole are sewn by hand. Each pair is carefully crafted, the seams are strong and durable, and the shoe and foot match perfectly for total freedom.",
+            "Bottes montantes faites main : chaussures d'extérieur simples et élégantes, au style classique. La tige et la semelle sont cousues à la main. Chaque paire est soigneusement confectionnée, les coutures sont solides et résistantes, et la chaussure et le pied s'harmonisent parfaitement, for une liberté totale.",
+            "Tailles : Veuillez consulter notre guide des tailles; cette pointure Beck Shoes correspond à une pointure normale. Exemple de pied standard: longueur du pied: 25cm = 39EU. Veuillez noter qu'il s'agit de la longueur du pied et non de la chaussure.",
+            "Confort et maintien tout au long de la journée : les chaussures orthopédiques pieds nus offrent un confort et un maintien ultimes, parfaites for ceux qui restent debout toute la journée. Leur conception ergonomique garantit un port sans douleur, ce qui les rend idéales for de nombreuses activités.",
+            "【Semelle en caoutchouc antidérapante】 Les bottes en daim for hommes utilisent une semelle extérieure en caoutchouc renforcée, se plient ou se courbent à volonté, avec des performances exceptionnelles, le corps de la chaussure est plus flexible, dur et en sueur, et les coutures supérieures sont uniformes et denses, ce qui renforce efficacement le corps de la chaussure, motif antidérapant, semelle en caoutchouc élastique avec texture bosselée for une traction stable.",
+            "【Occasion idéale】Chaussures décontractées for tous les jours qui apportent une touche de fun à votre quotidien. Parfaites for les voyages, la marche, la course, l'exercice, le jogging, le vélo, la randonnée, la gym, les fêtes, le sport et toutes les occasions. Les chaussures Beck for homme offrent la sensation de marcher pieds nus, quelles que soient les conditions de route."
+          ],
+          "en": [
+            "SIZING: Please refer to our size guide, this Beck Shoes is a normal size. Standard foot example: foot length: 25 cm = 39 EU. Please note that this is the length of the foot, not the shoe."
+          ],
+          "other": [
+            "ALL DAY COMFORT & SUPPORT - Barefoot orthopedic shoes provide ultimate comfort and support, perfect for those who stay on their feet all day. Their ergonomic design ensures a pain-free wear, making them ideal for many activities.",
+            "【Non-slip Rubber Sole】 The suede boots for men use a reinforced rubber outsole, bend or bend at will, with outstanding performance, the shoe body is more flexible, hard and sweaty, and the upper seams are even and dense, which effectively strengthens the shoe body, non-slip pattern, elastic rubber sole with bumpy texture for stable traction.",
+            "【Perfect Occasion】Casual shoes for every day that brings a touch of fun to your daily life. Perfect for travel, walking, running, exercise, jogging, cycling, hiking, gym, party, sports and all occasions. Beck men's shoes offer the feeling of walking barefoot, no matter the road conditions."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/71bEr4LW99L.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0FPR4RJY2"
+      }
+    },
+    {
+      "asin": "B0CCJ5F76V",
+      "csi_title": "LOWA Bottes ZEPHYR MK2 GTX MID W professionnelles mi-hautes, Noir , 48.5 EU Weit",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_136::{",
+          "size_map": "48.5 EU Large",
+          "additional_sizes_detected": [
+            "numeric_48_point_5,",
+            "48.5 EU Large"
+          ],
+          "structured_size": {
+            "size": "numeric_48_point_5",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "adult",
+            "width": "wide",
+            "size_class": "numeric",
+            "numeric_size": 48
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_48_point_5",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "wide",
+          "size_class": "numeric",
+          "numeric_size": 48
+        },
+        "age_range": {
+          "raw_values": [
+            "Adult",
+            "Adulte"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Very lightweight for an extremely durable and robust intervention boot",
+            "Bottes d'intervention éprouvées avec tige moyenne dans une nouvelle tenue.",
+            "Protection contre les intempéries garantie : imperméable, coupe-vent et respirante grâce à la membrane GORE-TEX",
+            "Légères, flexibles et multifonctionnelles : la combinaison parfaite entre la dernière technologie et l'artisanat traditionnel"
+          ],
+          "other": [
+            "Perfectly connected upper with PU foam and sole for maximum cushioning",
+            "GORE-TEX Extended Comfort Footwear membrane waterproof and breathable",
+            "Lightweight Monovrap LOWA frame-shaped midsole for added support",
+            "Individually adjustable two-zone lacing for forefoot and shaft",
+            "LOWA - simplement plus...",
+            "Excellent ajustement pour les pieds larges ou l'hallux valgus : nos formes sont le secret pour un confort de port optimal"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/71ftBuZcIoL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0CCJ5F76V"
+      }
+    },
+    {
+      "asin": "B09PZ256KQ",
+      "csi_title": "Skechers Bottes d&apos;hiver Unisexes pour Enfants, Bordure synth&#233;tique en Maille Violette, 30 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_223::{",
+          "size_map": "30 EU",
+          "additional_sizes_detected": [
+            "numeric_30,",
+            "30 EU"
+          ],
+          "structured_size": {
+            "gender": "women",
+            "size": "numeric_30",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "big_kid",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 30
+          }
+        },
+        "footwear_size": {
+          "gender": "women",
+          "size": "numeric_30",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "big_kid",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 30
+        },
+        "age_range": {
+          "raw_values": [
+            "big_kid"
+          ],
+          "normalized": "big_kid"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Semelle extérieure Gore & Strap en maille colorée"
+          ],
+          "other": [
+            "Gore & Strap colored mesh outsole"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61hX0+Ro3BL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B09PZ256KQ"
+      }
+    },
+    {
+      "asin": "B0DK34FZR9",
+      "csi_title": "Dinghaole Chausse Pied Long Metal&#65292;Telescopique 31-65 cm&#65292;Chausse Pieds Long Manche en M&#233;tal&#65292;Chausse-pieds en Alliage D&apos;aluminium&#65292;Chauss&#233; Pied Manche Long&#65292;tire bottes",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": null,
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [],
+          "normalized": null
+        },
+        "target_gender": null,
+        "material": {
+          "raw": "Acier inoxydable",
+          "normalized": "Acier inoxydable"
+        },
+        "bullet_points": {
+          "fr": [
+            "Design extra long, facile à mettre et à enlever : cet extracteur de chaussures extra long en acier inoxydable (rétractable de 31 à 65 cm) est spécialement conçu pour résoudre le problème des bottes hautes difficiles à mettre et à enlever, chaussures serrées, etc. Sa poignée extra longue vous permet de glisser vos chaussures sur vos pieds facilement sans vous pencher, ce qui facilite grandement le processus de port quotidien des chaussures.",
+            "Fabriqué en acier inoxydable de haute qualité : fabriqué en acier inoxydable de haute qualité avec une surface lisse et sans bavure, il est durable et ne rouille pas facilement, ce qui garantit la sécurité et l'hygiène d'une utilisation à long terme, et c'est le choix préféré dans l'extracteur de chaussures.",
+            "Un bouton télescopique, flexible et adaptable : design rétractable unique, la longueur peut être ajustée en fonction des besoins individuels, que ce soit pour les adultes ou les enfants pour porter des chaussures, vous pouvez trouver la longueur la plus adaptée pour répondre aux besoins de différents scénarios et types de chaussures, plus humain.",
+            "Application multifonctionnelle, convient pour les hommes et les femmes : qu'il soit utilisé comme extracteur de chaussures, enfile-chaussures ou rehausseur de chaussures, il peut être facilement traité, adapté pour les hommes, les femmes et les enfants, en particulier pour les employés de bureau qui ont besoin de porter fréquemment des talons hauts ou des chaussures formelles, c'est un outil indispensable.",
+            "Compact et portable, rangement sans souci : bien qu'il ait une poignée extra longue, grâce à son design télescopique astucieux, il peut être facilement raccourci à une taille compacte après utilisation, ce qui le rend facile à transporter et à ranger sans prendre trop de place, ce qui en fait un compagnon idéal pour la maison, le bureau, le magasin de chaussures et lors de vos déplacements.",
+            "Made of high-quality stainless steel - Made of high-quality stainless steel with smooth surface and no burr, it is durable and not easy to rust, which ensures the safety and hygiene of long-term use, and it is the preferred choice in shoe extractor."
+          ],
+          "en": [
+            "Extra long, easy to put on and take off: This extra long stainless steel shoe puller (31-65 cm retractable) is specially designed to solve the problem of high boots, narrow shoes, etc. Its extra long handle allows you to slide your shoes on your feet easily without bending over, which greatly facilitates the process of daily wearing shoes.",
+            "Multifunctional application, suitable for men and women: Whether used as a shoe puller, shoe threader or shoe lifter, it can be easily used. It is suitable for men, women and children, especially office workers who frequently have to wear high heels or ceremony shoes, this is an indispensable tool.",
+            "Compact and portable, worry-free storage: Although it has an extra-long handle, thanks to its intelligent telescopic design, it can be easily shortened to a compact size after use, making it easy to carry and store without taking up too much space, making it an ideal companion for home, office, shoe shop and when travelling."
+          ],
+          "other": [
+            "One-button telescopic, flexible and adaptable: Unique retractable design, the length can be adjusted according to individual needs, whether for adults or children who wear shoes, you can find the most suitable length to meet the needs of different scenarios and types of shoes, more human."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61lJ0MWABZL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0DK34FZR9"
+      }
+    },
+    {
+      "asin": "B09QBV24K1",
+      "csi_title": "Tommy Hilfiger Fw0fw06658 Bottes Basses en Cuir pour Femme, Marron Cognac d&apos;hiver, 42 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_223::{",
+          "size_map": "42 EU",
+          "additional_sizes_detected": [
+            "numeric_42,",
+            "42 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_42",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "adult",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 42
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_42",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 42
+        },
+        "age_range": {
+          "raw_values": [
+            "Adult",
+            "Adulte"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Fermeture Éclair sur le côté"
+          ],
+          "other": [
+            "Leather upper",
+            "Organic cotton lining",
+            "Side zip",
+            "Tige en cuir",
+            "Doublure en coton bio"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61RPDHEcC8L.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B09QBV24K1"
+      }
+    },
+    {
+      "asin": "B07PFWVPCS",
+      "csi_title": "Remonte Femme Bottes R8471, Dame Bottes Classiques,Semelle int&#233;rieure Amovible,Bottes &#224; Tige Longue,Bottes Slip-on,Schwarz,42 EU / 8 UK",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": {
+            "fit_size": "\"10\"",
+            "legacy_unit": "womens_us"
+          }
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Type de produit: Bottes,Bottes classiques,bottes à tige longue,bottes slip-on",
+            "Matière supérieure: Smooth Leather, Matière intérieure: shearling, Semelle extérieure: Synthétique, Semelle de recouvrement: textile",
+            "Type de talon: Compensé, Hauteur de talon: 5 cm, Type d'arbre: mi-mollet",
+            "semelle interchangeable, semelle intérieure amovible, semelle intérieure libre"
+          ],
+          "other": [
+            "Largeur: normale (G), Closure type: fermeture eclair",
+            "Flexible outsole",
+            "Soft walking comfort",
+            "Genuine Leather"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/51Qno6JYjaL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B07PFWVPCS"
+      }
+    },
+    {
+      "asin": "B0FDBKWZSC",
+      "csi_title": "Skechers Bottes de pluie JDM Respected SwamperRain pour homme, Cuir chocolat Duraleather Bordure noire, 42.5 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": "42.5 EU",
+          "additional_sizes_detected": [
+            "$additional_links_augmentor_370::{",
+            "numeric_42_point_5,",
+            "42.5 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"9.5\"",
+            "legacy_unit": "mens_us"
+          }
+        },
+        "footwear_size": {
+          "gender": "men",
+          "size": "numeric_42_point_5",
+          "age_group": "adult",
+          "size_system": "eu_footwear_size_system",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 42
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Coupe décontractée pour un ajustement confortable au niveau des orteils et de l'avant-pied",
+            "La semelle extérieure en caoutchouc Goodyear offre une meilleure traction, stabilité et durabilité"
+          ],
+          "other": [
+            "De la collection Skechers x John Deere",
+            "Skechers Chaussures mains libres pour un ajustement facile",
+            "Le coussin de talon exclusif maintient votre pied bien en place",
+            "From the Skechers x John Deere Collection",
+            "Skechers Hands free shoes for easy fit",
+            "Exclusive heel cushion keeps your foot securely in place",
+            "Relaxed fit for a comfortable fit in the toe and forefoot",
+            "Goodyear rubber outsole provides enhanced traction, stability and durability"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/71s+c+SuujL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0FDBKWZSC"
+      }
+    },
+    {
+      "asin": "B0BKZ3L32M",
+      "csi_title": "Columbia Newton Ridge BcMid Rise Bottes de trekking et de randonn&#233;e pour femme, C&#232;dre sable humide, 38.5 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": {
+            "fit_size": "\"7.5\"",
+            "legacy_unit": "womens_us"
+          }
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "OMNI-SHIELD: Chaussures conçues pour une pluie légère et une protection quotidienne contre la saleté et les taches.",
+            "TECHLITE: Pour une absorption légère des chocs sur diverses surfaces. Amortissement durable avec retour d'énergie élevé.",
+            "OMNI-GRIP : Pour une traction multi-terrains sur roche, saleté et gravier, dans des conditions humides et sèches. Composés spécialement formulés et conception de bande de roulement pour la stabilité et l'adhérence sur tout terrain avec des motifs de crampons stratégiquement mélangés.",
+            "Style polyvalent : une silhouette classique, du daim texturé et des lacets larges vous permettent d'incarner le look extérieur sur les sentiers et hors tension.",
+            "Conçues pour durer : l'attention portée aux détails par Columbia est ce qui distingue nos chaussures. Spécifie uniquement les matériaux de la plus haute qualité, les coutures expertes et l'artisanat. Il s'agit de chaussures durables que vous apprécierez pour les saisons à venir.",
+            "TECHLITE: For light shock absorption on various surfaces. Durable cushioning with high energy return.",
+            "VERSATILE STYLE - A classic silhouette, textured suede and wide laces let you embody the outdoor look on the trail and off the line.",
+            "BUILT TO LAST - Columbia attention to detail is what sets our shoes apart. Specifies only the highest quality materials, expert stitching and craftsmanship. These are durable shoes that you will enjoy for seasons to come."
+          ],
+          "other": [
+            "OMNI-SHIELD: Shoes designed for light rain and everyday protection against dirt and stains.",
+            "OMNI-GRIP: For multi-terrain traction on rock, dirt and gravel, in wet and dry conditions. Specially formulated compounds and tread design for stability and grip on any terrain with strategically blended lug patterns."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/71WsdQsEL1L.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0BKZ3L32M"
+      }
+    },
+    {
+      "asin": "B0CB3WWK3V",
+      "csi_title": "Bearpaw Femme Shorty Bottine, Graphite 060, 39 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": null,
+          "additional_sizes_detected": [
+            "8.",
+            "39 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"8\"",
+            "legacy_unit": "womens_us"
+          }
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Matériau de haute qualité et confortable : lorsque vous vous blottissez pour la saison, vous pouvez être sûr que ce short de tous les jours vous gardera au chaud et au sec pendant les jours de pluie brumeux et la neige fondue grâce à la technologie BearCoat",
+            "Doublure confortable en laine Bearpaw Woolblend : la botte Shorty Bearpaw pour femme dispose d'une doublure en mélange de laine qui régule la température du corps pour garder vos pieds au chaud. La semelle intérieure moelleuse confortable offre une douceur supplémentaire et réduit la fatigue du pied.",
+            "Semelle extérieure durable : la semelle extérieure Bearpaw Shorty en caoutchouc TPR durable et légère fait de ces bottes pour femmes un choix idéal pour la saison froide",
+            "Technologie BearCoat : traitement avec imprégnation BearCoat sans PFAS. Résistant à l'eau et à la saleté. Cette caractéristique supplémentaire est parfaite pour les jours de pluie ou de neige",
+            "DURABLE OUTSOLE - Bearpaw Shorty outsole made of durable and lightweight TPR rubber makes these boots for women an ideal choice for the cold season"
+          ],
+          "en": [
+            "BearCoat technology: treatment with BearCoat impregnation without PFAS. Water and dirt resistant. This extra feature is perfect for rainy or snowy days"
+          ],
+          "other": [
+            "HIGH QUALITY & COMFORTABLE MATERIAL - When you snuggle up for the season, you can be sure these everyday shorts will keep you warm and dry during foggy rainy days and slush thanks to BearCoat technology",
+            "BEARPAW WOOLEBLEND COMFORT LINING - The Bearpaw Women's Shorty Boot features a wool blend lining that regulates body temperature to keep your feet warm. The comfortable fluffy insole provides extra softness and reduces foot fatigue."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61uY5QoGhyL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0CB3WWK3V"
+      }
+    },
+    {
+      "asin": "B0C2HZKK4S",
+      "csi_title": "Tommy Hilfiger Bottes de Pluie Essential Corporate pour Femme, Bleu sid&#233;ral, Pointure 4",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_241::{",
+          "size_map": "37 EU",
+          "additional_sizes_detected": [
+            "numeric_37,",
+            "37 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_37",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "adult",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 37
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_37",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 37
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Ce style a été produit de manière durable",
+            "Il s'agit d'un produit Tommy Hilfiger authentique et original",
+            "confortable à porter",
+            "This style has been produced sustainably"
+          ],
+          "en": [
+            "This is a genuine and original Tommy Hilfiger product"
+          ],
+          "other": [
+            "Comfortable to wear"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/8108UArMGgL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0C2HZKK4S"
+      }
+    },
+    {
+      "asin": "B0C9QZGZMM",
+      "csi_title": "Timberland Bottes &#224; Lacets Mi-Hauteur Killington pour Homme, Noir , 47.5 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": "47.5 EU",
+          "additional_sizes_detected": [
+            "$additional_links_augmentor_258::{",
+            "numeric_47_point_5,",
+            "47.5 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"13\"",
+            "legacy_unit": "mens_us"
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_47_point_5",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 47
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Pièce d'origine avec garantie du fabricant"
+          ],
+          "other": [
+            "Timberland",
+            "Baskets pour homme",
+            "Upper material: textile, synthetic",
+            "It is both a fashionable highlight and a great technically excellent shoe",
+            "Occasion: Leisure"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/6159vOAuoBL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0C9QZGZMM"
+      }
+    },
+    {
+      "asin": "B0DP9WTZN2",
+      "csi_title": "Geox J Trekkyup Boy B ABX Bottines &#224; la Cheville, Lt Brown Black, 27 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_293::{",
+          "size_map": "27 EU",
+          "additional_sizes_detected": [
+            "numeric_27,",
+            "27 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_27",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "little_kid",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 27
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_27",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "little_kid",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 27
+        },
+        "age_range": {
+          "raw_values": [
+            "Enfant",
+            "Kid"
+          ],
+          "normalized": "little_kid"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Imperméabilité maximale et respiration pour une protection optimale, même en cas de forte pluie",
+            "Protection contre le froid grâce à un niveau optimal d’isolation thermique"
+          ],
+          "other": [
+            "Enfilage facile et rapide",
+            "Maximum water resistance and breathability for optimal protection, even in heavy rain",
+            "Protection against cold thanks to optimal level of thermal insulation",
+            "Quick and easy to put on"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/716uL7uwaaL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0DP9WTZN2"
+      }
+    },
+    {
+      "asin": "B0987GKMYW",
+      "csi_title": "TARELO Bottes Hiver Femme Antid&#233;rapant Bottines Bleu 40",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": "40 EU",
+          "additional_sizes_detected": [
+            "$additional_links_augmentor_164::{",
+            "numeric_40,",
+            "40 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"10\"",
+            "legacy_unit": "womens_us"
+          }
+        },
+        "footwear_size": {
+          "gender": "women",
+          "size": "numeric_40",
+          "age_group": "adult",
+          "size_system": "eu_footwear_size_system",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 40
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Intérieur confortable - Enveloppe en peluche pour plus de confort.",
+            "Semelle Chaude - Bonne résistance à l'abrasion, pas facile à glisser.",
+            "Embout anti-collision - protégez vos orteils et voyagez en toute sécurité.",
+            "Lieux applicables - Randonnée en plein air.",
+            "Service produit - Retours gratuits."
+          ],
+          "other": [
+            "Comfortable interior, plush shell for extra comfort.",
+            "Warm sole - good abrasion resistance, not easy to slip.",
+            "Anti-collision toe cap - protect your toes and travel safely.",
+            "Applicable Places - Outdoor Hiking",
+            "Product Service - Free Returns."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/71EkvPtlfmL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0987GKMYW"
+      }
+    },
+    {
+      "asin": "B0D5HYPQP9",
+      "csi_title": "ZAMBERLAN 3032 Ull Goretex RR Boa Primaloft Boots EU 43",
+      "csi_status": "Not Discoverable",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_302::{",
+          "size_map": "43 EU",
+          "additional_sizes_detected": [
+            "numeric_43,",
+            "43 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_43",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "adult",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 43
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_43",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 43
+        },
+        "age_range": {
+          "raw_values": [
+            "Adult",
+            "Adulte"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "other": [
+            "Black / Grey",
+            "Black / grey"
+          ]
+        }
+      },
+      "dp": {
+        "image": null,
+        "fr_dp_url": "https://www.amazon.fr/dp/B0D5HYPQP9"
+      }
+    },
+    {
+      "asin": "B0CLTWHXQL",
+      "csi_title": "Boots en su&#233;dine fourr&#233;es &#224; ruban nou&#233;",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": "40 EU",
+          "additional_sizes_detected": [
+            "$additional_links_augmentor_148::{",
+            "numeric_40,",
+            "40 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"8.5\"",
+            "legacy_unit": "womens_us"
+          }
+        },
+        "footwear_size": {
+          "gender": "women",
+          "size": "numeric_40",
+          "age_group": "adult",
+          "size_system": "eu_footwear_size_system",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 40
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "1 à 3 cm | Petit"
+          ],
+          "other": [
+            "Bottines",
+            "Bottines de neige",
+            "Bout rond",
+            "Plateforme",
+            "Ankle Boots",
+            "Snow Boots",
+            "Round Toe",
+            "Platform",
+            "1 to 3 cm | Small"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/41C6nVGqmmL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0CLTWHXQL"
+      }
+    },
+    {
+      "asin": "B0CPPW1YP6",
+      "csi_title": "Geox Bottes Hautes Felicity pour Femme, Noir, 38 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": null,
+          "additional_sizes_detected": [
+            "38 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"7\"",
+            "legacy_unit": "womens_us"
+          }
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Bottines pour femme confortables et respirantes, à l’attitude quotidienne et au look raffiné",
+            "Proposées en cuir lisse et matière à effet cuir imprimé",
+            "Ces chaussures sont rehaussées par une bride et sont déclinées ici dans une tonalité marron foncé polyvalente"
+          ],
+          "other": [
+            "Comfortable and breathable women's ankle boots for everyday attitude and refined look",
+            "Available in smooth leather and printed leather effect material",
+            "These shoes are enhanced by a strap and are available here in a versatile dark brown tone"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/5122mzdosuL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0CPPW1YP6"
+      }
+    },
+    {
+      "asin": "B0BZ92BCJ8",
+      "csi_title": "Skechers Bottes d&apos;hiver Unisexe Uno Automne AirWinter pour Enfants, Rose, 38 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "38 EU",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "big_kid"
+          ],
+          "normalized": "kid"
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Légères",
+            "Style athlétique en dentelle extensible",
+            "Athletic style in stretch lace"
+          ],
+          "other": [
+            "Dessus en maille",
+            "Skechers Logo GO WALK",
+            "Lightweight",
+            "Mesh upper",
+            "Skechers GO WALK logo"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/419R-fidIdL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0BZ92BCJ8"
+      }
+    },
+    {
+      "asin": "B09QBWN3D3",
+      "csi_title": "Tommy Hilfiger Fw0fw06658 Bottes Basses en Cuir pour Femme, Marron Cognac d&apos;hiver, 40 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_290::{",
+          "size_map": "40 EU",
+          "additional_sizes_detected": [
+            "numeric_40,",
+            "40 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_40",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "adult",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 40
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_40",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 40
+        },
+        "age_range": {
+          "raw_values": [
+            "Adult",
+            "Adulte"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "À lacets"
+          ],
+          "other": [
+            "Leather upper",
+            "Leather lining",
+            "Lace-up",
+            "Tige en cuir",
+            "Doublure en cuir"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61RPDHEcC8L.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B09QBWN3D3"
+      }
+    },
+    {
+      "asin": "B0D82Z91YV",
+      "csi_title": "Chaussures &#224; enfiler pour homme - Couleur unie - Semelle plate en toile - Chaussures basses &#224; bout &#233;troit - Style d&#233;contract&#233; - Ajustement large - Pour vacances, plage, marche - Chaussures de sport",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_123::{",
+          "size_map": "39 EU",
+          "additional_sizes_detected": [
+            "numeric_39,",
+            "39 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_39",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "adult",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 39
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_39",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 39
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": "Plateforme de sandale",
+          "normalized": "Plateforme de sandale"
+        },
+        "bullet_points": {
+          "fr": [
+            "Sandales à plateforme pour femmes d'été, sandales Pavers pour femmes taille 4, sandales en cuir pour femmes, sandales argentées pour femmes larges, sandales de plage pour femmes taille 12, sandales à talons pour femmes noires, pantoufles de chambre mules pour femmes",
+            "chaussures décontractées pour hommes, chaussures décontractées, chaussures décontractées pour homme, chaussures décontractées, chaussures pour hommes, chaussures pour hommes au Royaume-Uni, chaussures pour hommes, chaussures oxford d'affaires pour hommes, chaussures pour hommes les plus vendues",
+            "Sandales dorées pour femmes taille 7, sandales pour femmes taille 6 noires, sandales en cuir blanc pour femmes, sandales de marche pour femmes, pantoufles d'extérieur pour femmes, sandales de plage pour femmes, pantoufles d'été pour femmes pour la chambre à coucher",
+            "pantoufles animal pour adultes, pantoufles orthopédiques pour femmes UK, pantoufles bottes pour femmes rose, sandales marron pour femmes grande taille, sandales argentées pour femmes mariage, pantoufles à bout ouvert pour femmes, sandales chunky taille 2, pantoufles animal pour adultes, pantoufles orthopédiques pour femmes grande taille, pantoufles bottes pour femmes taille 5-6, sandales marron pour femmes plateforme, sandales argentées pour femmes à talon haut, pantoufles à bout ouvert pour femmes en coton, pantoufles vache"
+          ],
+          "other": [
+            "summer platform sandals for women,pave sandals for women,leather sandals for women,silver sandals for women,beach sandals for women,beach sandals for women size 7,heeled sandals for women,bedroom slippers for women",
+            "mens casual shoes, casual shoes, casual shoes, men's shoes, men's shoes, men's shoes, men's shoes, business oxford shoes, men's shoes best sellers",
+            "gold sandals for women size 7, sandals for women size 6 black, white leather sandals for women, walking sandals, outdoor slippers for women, beach sandals for women, summer slippers for women",
+            "animal slippers adult, orthopedic slippers for women, pink slippers, brown slippers for women, silver sandals for wedding, open toe slippers for women, thick sandals size 2, orthopedic slippers for women, orthopedic slippers for women, size 5-6, brown sandals for women, silver sandals for women, high heels, cotton peep toe slippers, cow slippers"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/71-SwklDqwL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0D82Z91YV"
+      }
+    },
+    {
+      "asin": "B0BSLGP31H",
+      "csi_title": "Tamaris Comfort Bottine 8-86215-41 305 Comfort fit Taille: 38 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": null,
+          "additional_sizes_detected": [
+            "38 EU Large"
+          ],
+          "structured_size": {
+            "fit_size": "\"7\"",
+            "legacy_unit": "womens_us"
+          }
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "SEMELLE INTÉRIEURE AMOVIBLE : Les semelles intérieures amovibles permettent d’optimiser facilement le confort de la chaussure. La semelle intérieure interchangeable peut être remplacée par des semelles orthopédiques, des semelles fraîcheur ou des semelles chauffantes selon les besoins.",
+            "AJUSTEMENT OPTIMAL : Grâce à leur Comfort Fit, ces chaussures s’adaptent parfaitement à la forme du pied pour un confort sans pression. Découvrez des chaussures parfaitement ajustées qui soulignent élégamment votre allure.",
+            "MATÉRIAU DE QUALITÉ : Ces chaussures sont en cuir, un matériau confortable, particulièrement durable et résistant.",
+            "CHAUFFAGE SUPPLÉMENTAIRE : Ces chaussures d’hiver doublées sont le compagnon idéal pour les journées glaciales et apportent une dose supplémentaire de chaleur à chaque aventure en plein air, qu’il s’agisse d’une promenade hivernale ou d’une visite au marché de Noël.",
+            "TAMARIS COMFORT : La ligne Tamaris Comfort place la combinaison du style et du confort au premier plan. Le confort individuel est assuré grâce à une largeur adaptée et à d’autres technologies innovantes.",
+            "Quality material: these shoes are made of leather, a comfortable material, particularly durable and resistant.",
+            "TAMARIS COMFORT: The Tamaris Comfort line puts the combination of style and comfort first. Individual comfort is ensured thanks to a suitable width and other innovative technologies."
+          ],
+          "other": [
+            "REMOVABLE INSOLE: Removable insoles make it easy to optimize the comfort of the shoe. The interchangeable insole can be replaced with orthopaedic insoles, cool insoles or heated insoles as needed.",
+            "Optimal fit: thanks to the comfort fit, these shoes adapt perfectly to the shape of the foot for a comfortable fit without pressure. Discover perfectly fitting shoes that elegantly emphasise your look.",
+            "EXTRA HEATING: These lined winter shoes are the perfect companion for frosty days and bring an extra dose of warmth to every outdoor adventure, whether it's a winter stroll or a visit to the Christmas market."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/71cS+Iw5sTL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0BSLGP31H"
+      }
+    },
+    {
+      "asin": "B07C5D8TYH",
+      "csi_title": "Rieker 98860, Bottes Hautes Femme, Marron (Nuss/Nuss 22), 36 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": {
+            "fit_size": "\"5.5\"",
+            "legacy_unit": "womens_us"
+          }
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Dessus : Synthétique",
+            "Fixation : Côté Fermetures éclair"
+          ],
+          "other": [
+            "Talon : Talons Bas Bloc",
+            "Code Fabricant : 98860",
+            "Upper: Synthetic",
+            "Fastening: side zips",
+            "Heel: Block Low Heels",
+            "Manufacturer Code: 98860"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61LWwGNAPdL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B07C5D8TYH"
+      }
+    },
+    {
+      "asin": "B0DHLKFGWT",
+      "csi_title": "Bottes pour B&#233;B&#233; Fille Gar&#231;On Bottes De Pluie Ankle Boot &#224; Lacets Chaussures Vintage Hiver Bottes Cuir Bottes Fille Gar&#231;On Soldes Pas Cher Bottes De Printemps Et d&apos;automne",
+      "csi_status": "Not Discoverable",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_196::{",
+          "size_map": "28 EU",
+          "additional_sizes_detected": [
+            "numeric_28,",
+            "$additional_links_augmentor_219::{",
+            "28 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_28",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "toddler",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 28
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_28",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "toddler",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 28
+        },
+        "age_range": {
+          "raw_values": [
+            "Kid",
+            "Enfant"
+          ],
+          "normalized": "toddler"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "bottes pluie doublee fille botte de neige garcon 30 botte lumineuse pluie enfant botte enfant fille hiver bottines premiers pas botte enfant chaussons en laine bébé naissance bottes bebe filles bottes jaune bebe bottines garcon 34 bottes fourrees f barefoot 23 botte neige fille chaussure souple bebe 21 les secrets de lollypop chausson bebe taille 16 basket montante femme marque chaussures fille 24 pas cher botte de pluie paillette femme chaussures bebe cuir chaussures chaussons bebe bottes fi",
+            "rain boots chausson bebe semelle caoutchouc botte fille hiver 30 bottes sorrel fille bottes de pluie stella bottes 2 ans bottes de pluie mixte enfant boot pour fille bottes de pluie pour enfant bottines cuir garcon botte fourree fille 31 bottes beb bottes de pluie hiver enfant bottes de pluie garçon 33 bottes fourrure fille botte caoutchouc fourrée enfant bottes caoutchouc taille 20 botte bebe fille 12 mois bottines enfant fille cuir combinaison pluie enfant 18 mois bottes fille 32 chaussures",
+            "chaussures garcon 21 botte pluie femme chaussure enfant garcon taille 20 bottes neige enfant fille bottines hiver garçon botte fourrée enfant bottines garcon 27 botte de pluie fille rose bottes fille 38 bottes de pluie enfant fourree bottes+fourree botte pluie paillette chaussures taille 19 garcon botte fourree fille 28 chaussons+bébé+fille chaussures premiers pas bebe fille chaussures enfant 21 chaussons bebe antiderapant garcon crocband bottes bebe botte pluie bebe botte chaude fille hiver",
+            "bottes pluie enfants bottes pluie enfants fille 30 bottines impermeable fille bottine fille 39 boots fille 26 bottines fille 36 botte fille 35 hiver bottes fille a paillettes bottine fourree bebe bottes aigles bebe 21 botte fille rouge botte bebe c botte pluie fille 31 bottines imperméable fille bottes enfant hiver bottes de pluie enfant fille 31 botte de pluie fille violet chaussure souple bebe premier pas botte a lacet fille chaussons bottillons enfant boots fille 27 bottes poney enfant bot"
+          ],
+          "other": [
+            "Doublee rain boots girl snow boot boy 30 light rain boot child girl winter boots first steps boot child wool slippers baby birth boots baby girls boots yellow baby boy boots 34 fur boots f barefoot 23 snow girl soft shoe baby 21 the secrets of lollypop slippers baby size 16 high trainers woman brand shoes girl 24 cheap boot Rain glitter women's shoes baby leather shoes slippers baby boots fi",
+            "Rain boots baby rubber sole boot girl winter 30 sorrel girl rain boots stella boots 2 years rain boots unisex child boot for girl rain boots for children leather boots boy fur boot girl 31 baby boots winter rain boots child rain boots boy 33 boots fur girl rubber boots size 20 baby girl boots size 20 baby girl boots 12 months child girl boots leather rain suit for children 1 8 months girl boots 32 shoes",
+            "Rain boots child princess ankle boot baby boy 21 basketball baby size 22 brown boys trainers girl boots 36 baby leather boots baby girl rain boots girl rain boots girl soft baby basketball boy 23 boot slipper boot child girl shoe children's girl boot child riding rain boot child 24 boots for baby rain boots girls rain boots child girl rain boot child girl rain boot 23 boot Rain girl light baby girl boots fur girl boots",
+            "Boy's shoes 21 rain boots woman shoe child boy size 20 snow boots child girl winter boots boy fur boots boy 27 rain boots girl pink boots girl 38 rain boots child furree boots + furry rain boot glitter shoes size 19 boy fur boot girl 28 slippers + baby girl shoes first steps baby girl shoes child 21 Anti-skid baby slippers Apant Boy's Crocband Boots, Baby Boots, Baby Boots, Warm Winter Boots",
+            "Rain boots children rain boots children girl 30 waterproof ankle boots girl 39 boots girl 26 ankle boots girl 36 boots girl 35 winter boots girl glitter ankle boots fur baby baby eagles 21 boot girl red boot baby c girl rain boot 31 waterproof girl boots child winter rain boots child girl 31 rain boot girl purple soft baby shoe First Step Boot A Lace up girl booties children's boots girl 27 boots pony child bot",
+            "bottes de pluie enfant princesse bottine bebe garcon 21 basket bebe taille 22 basket garcon marron boots fille 36 chaussure bebe cuir bottes fourres bebe fille botte de pluie fille fourre boots pluie fille bottes souple bebe basket garcon 23 botte chausson botte enfant fille chaussure botte enfants fille botte enfant equitation botte pluie enfant 24 bottes pour bebe bottes pluie fourrees fille botte de pluie enfant fille 23 botte de pluie fille legere botte de bebe fille bottes fourres fille"
+          ]
+        }
+      },
+      "dp": {
+        "image": null,
+        "fr_dp_url": "https://www.amazon.fr/dp/B0DHLKFGWT"
+      }
+    },
+    {
+      "asin": "B0D5M2W3F6",
+      "csi_title": "CPROSP Nissedor Lot de 20 accessoires de porte de lutin pour porte de lutin - Kit complet de porte de f&#233;e - D&#233;coration de porte avec sapin de No&#235;l, bonhomme de neige, cl&#244;ture, &#233;chelle, bottes",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": null,
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [],
+          "normalized": null
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "【Kit de Portes Ghostess】 : Ce mini ensemble de porte secrète est complet avec 20 pièces, y compris l'arbre de Noël, les bottes, la lampe à huile, l'orignal, le bonhomme de neige, les guitares, la clôture, la porte de fée, l'échelle, les couronnes et d'autres accessoires, un total de 20 pièces porte lutin de noël kit, décorer le coin de la pièce pour créer un monde magique unique !",
+            "【Créer Une Atmosphère Intéressante】 : Les miniatures de maison pour lutin farceur de noelpeuvent créer des scènes vivantes pour retenir l'attention de votre enfant et créer une forte atmosphère de Noël et vous laisser un bon souvenir. Si vous ou vos enfants sont fascinés par les contes de fées et les fables, l'ensemble mettra parfaitement l'ambiance pour la saison magique de Noël. Ce coffret adoucira les fêtes de fin d'année pendant quelques années.",
+            "【Matériau Durable】 : Une partie du accessoires lutin farceur de noel est en bois. Elles sont bien faites, chaque ensemble kit lutin farceur de noel est de bonne facture et de style simple, ce qui lui permet de s'intégrer dans n'importe quelle chambre d'enfant.",
+            "【Multiples Utilisations】 : Le lutin farceur de noel kit complet peut être utilisé comme meuble décoratif dans la maison, qui peut être placé devant les maisons ou sur le mur ; vous pouvez embellir cet ensemble d'accessoires de porte de porte magique lutin farceur avec la pailllette argentée et apporter une atmosphère de conte de fées à l'environnement.",
+            "【Cadeaux Délicats】 : vous pouvez offrir des porte lutin farceur de noels à vos enfants, petites-filles, nièces, neveux ou enfants des voisins, ils sont très populaires auprès des filles et seront heureux de les recevoir.",
+            "【Durable Material】: Part of the Christmas prankster elf accessories is made of wood. They are well made, each Christmas prank elf kit set is well made and simple in style, allowing it to fit into any child's room."
+          ],
+          "en": [
+            "【Ghostess Door Kit】: This mini secret door set is complete with 20 pieces, including Christmas tree, boots, oil lamp, moose, snowman, guitars, fence, fairy door, ladder, wreaths and other accessories, a total of 20 pieces Christmas elf holder kit, decorate the corner of the room to create a unique magical world!",
+            "【Create an Interesting Atmosphere】: Christmas prankster elf house miniatures can create vivid scenes to catch your child's attention and create a strong Christmas atmosphere and leave you with a good memory. If you or your children are fascinated by fairy tales and fables, the set will perfectly set the mood for the magical Christmas season. This set will sweeten the holiday season for a few years.",
+            "【Multiple Uses】: The complete Christmas prankster elf kit can be used as a decorative piece of furniture in the house, which can be placed in front of houses or on the wall; You can embellish this magical prankster elf door accessories set with the silver glitter and bring a fairy-tale atmosphere to the environment."
+          ],
+          "other": [
+            "【Delicate Gifts】You can give Christmas prank elf holder to your children, granddaughters, nieces, nephews or neighbors' children, they are very popular with girls and will be happy to receive them."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/71o-0LEDj8L.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0D5M2W3F6"
+      }
+    },
+    {
+      "asin": "B0FQTGGZYN",
+      "csi_title": "Bottines Fille Hiver, Chaussures d&apos;Hiver Enfant Fille Bottines &#224; Fourrure Douce et Chaude, Confortables et Souples avec Semelle Anti-D&#233;rapante, Id&#233;ales pour la Rentr&#233;e Scolaire et les Activit&#233;s",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_171::{",
+          "size_map": "28 EU",
+          "additional_sizes_detected": [
+            "numeric_28,",
+            "28 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_28",
+            "age_group": "little_kid",
+            "size_system": "eu_footwear_size_system",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 28
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_28",
+          "age_group": "little_kid",
+          "size_system": "eu_footwear_size_system",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 28
+        },
+        "age_range": {
+          "raw_values": [
+            "Enfant",
+            "Kid"
+          ],
+          "normalized": "little_kid"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": "not_applicable",
+          "normalized": "not_applicable"
+        },
+        "bullet_points": {
+          "fr": [
+            "【Matériaux durables de qualité supérieure】 : les couches extérieures de haute qualité (cuir résistant, synthétiques imperméables) résistent à l'usure quotidienne, assurant une utilisation durable pour les enfants actifs. Bottes pour filles de qualité supérieure, matériau extérieur durable, chaussures pour enfants durables.",
+            "【Styles tendance】: de la cheville classique à la hauteur des genoux tendance, ces bottes présentent des détails tendance (nœuds, , motifs) pour s'adapter aux sorties décontractées, à l'école aux événements spéciaux. Termes de recherche : bottes élégantes pour filles, designs tendance, chaussures tendance pour enfants",
+            "【Confort ultime】: semelles flexibles pour un mouvement facile, intérieur rembourré et soutien de la voûte plantaire pour un confort tout long de la journée. La coupe de la cheville est parfaite : pas de serrage de relâchement. Termes de recherche : bottes confortables pour filles, semelle souple, semelle intérieure rembourrée",
+            "【Facile à 】: les fermetures pratiques (fermetures éclair lisses sangles ) permettent aux filles de mettre et d'enlever les bottes indépendamment. Termes de recherche : bottes faciles à enfiler, fermeture éclair, sangles",
+            "【Taille parfaite】: large gamme de tailles avec un tableau précis pour un ajustement parfait à chaque étape de croissance. Termes de recherche : gamme de tailles de bottes pour filles, tableau des tailles précis, ajustement parfait",
+            "【Premium Durable Materials】High quality outer layers (durable leather, waterproof synthetics) withstand daily wear and tear, ensuring long-lasting use for active children. High quality girls boots, durable outer material, durable children's shoes."
+          ],
+          "other": [
+            "【FASHION STYLES】From classic ankle to trendy knee height, these boots feature fashionable details (bows, patterns) to suit casual outings, school to special events. Search terms: stylish boots for girls, fashion designs, kids fashion shoes",
+            "【ULTIMATE COMFORT】Flexible insoles for easy movement, padded interior and arch support for all day comfort. The fit of the ankle is perfect: no release tightening. Search terms: comfortable boots for girls, soft sole, cushioned insole",
+            "【Easy to】: The practical zippers (smooth zippers straps) allow girls to put on and take off the boots independently. Search terms: easy slip-on boots, zipper, straps",
+            "【Perfect Size】Wide range of sizes with accurate chart for a perfect fit at every growth stage. Search terms: girls boot size range, accurate size chart, perfect fit"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61aDZTsUtoL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0FQTGGZYN"
+      }
+    },
+    {
+      "asin": "B0BZ9FBPMX",
+      "csi_title": "Skechers Bottes d&apos;hiver Unisexe Uno Automne AirWinter pour Enfants, Bordure synth&#233;tique Blanche, 12 UK Child",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "30 EU",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "big_kid"
+          ],
+          "normalized": "kid"
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Légères",
+            "Style athlétique en dentelle extensible",
+            "Athletic style in stretch lace"
+          ],
+          "other": [
+            "Dessus en maille",
+            "Skechers Logo GO WALK",
+            "Lightweight",
+            "Mesh upper",
+            "Skechers GO WALK logo"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61s4JlXd9lL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0BZ9FBPMX"
+      }
+    },
+    {
+      "asin": "B09ZYKZXRJ",
+      "csi_title": "Mizuno Unisexe Morelia II ProSoccer, Bleu Cura&#231;ao Blanche-Neige Rouge Marron Satin, 38.5 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": null,
+          "additional_sizes_detected": [
+            "38.5 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"8\"",
+            "legacy_unit": "mens_us"
+          }
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Vous donne l'ajustement idéal avec l'utilisation d'une nouvelle chaussure",
+            "Cuir kangourou de qualité supérieure",
+            "Obtenez un maintien et un ajustement parfaits grâce au contrefort moulé intérieur du talon"
+          ],
+          "other": [
+            "Gives you the ideal fit with the use of a new shoe",
+            "High-quality kangaroo leather",
+            "Achieve perfect fit and fit with molded inner heel counter"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/51GvMJ5MprL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B09ZYKZXRJ"
+      }
+    },
+    {
+      "asin": "B0D3287PP1",
+      "csi_title": "JAN &amp; JUL Bottes d&apos;hiver r&#233;sistantes &#224; l&apos;eau Toasty-Dry pour tout-petits, For&#234;t marine, 28 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_302::{",
+          "size_map": "28 EU",
+          "additional_sizes_detected": [
+            "numeric_28,",
+            "28 EU",
+            "11."
+          ],
+          "structured_size": {
+            "size": "numeric_28",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "toddler",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 28
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_28",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "toddler",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 28
+        },
+        "age_range": {
+          "raw_values": [
+            "Petit Enfant",
+            "Little Kid"
+          ],
+          "normalized": "toddler"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "【Semelles flexibles】Pas vos bottes d'hiver encombrantes moyennes! Ces bottes pour tout-petits bougent avec les pieds de votre enfant afin qu'il puisse marcher, courir ou sauter librement. Les semelles antidérapantes offrent une adhérence maximale avec une protection supplémentaire au niveau des orteils.",
+            "Isolation et doublure en polaire : ces bottes d'hiver pour tout-petits sont isolées pour une chaleur garantie et ont une température nominale de -10 degrés. Entièrement doublé avec doublure polaire Sherpa en peluche.",
+            "Facile à enfiler : facile à enfiler pour les enfants tout seuls avec une languette intelligente et un ajustement généreux de la sangle auto-agrippante. Parfait pour les pieds larges des tout-petits potelés En cas de doute, prenez une taille au-dessus.",
+            "Résistantes à l'eau : bottes confortables parfaites pour jouer dans la neige ou porter en ville. Vous avez un pull de flaque d'eau sérieux sur vos mains ? Découvrez nos bottes d'hiver imperméables Lite ou nos bottes de pluie Puddle Dry. Recherchez les bottes Jan & Jul",
+            "Entretien facile : il suffit de les rincer sous l'eau courante et de les nettoyer. Lavage en machine non recommandé."
+          ],
+          "other": [
+            "【Flexible Soles】Not your average bulky winter boots! These toddler boots move with your child's feet so they can walk, run or jump freely. Non-slip soles provide maximum grip with extra toe protection.",
+            "INSULATION & FLEECE LINING - These toddler winter boots are insulated for guaranteed warmth and have a temperature rating of -10 degrees. Fully lined with plush sherpa fleece lining.",
+            "EASY ON - Easy to put on for kids on their own with a smart tongue and generous hook and loop strap adjustment. Perfect for chubby little ones wide feet If in doubt, size up.",
+            "WATER RESISTANT - Comfortable boots perfect for playing in the snow or wearing around town. Do you have a serious puddle sweater on your hands? Check out our Lite Waterproof Winter Boots or Puddle Dry Rain Boots. Look for boots Jan & Jul",
+            "Easy care - just rinse under running water and clean. Machine wash not recommended."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/71ve7X+x+4L.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0D3287PP1"
+      }
+    },
+    {
+      "asin": "B0CB22G3N9",
+      "csi_title": "Skechers Bottes d&apos;hiver Unisexe Uno Automne AirWinter pour Enfants, Bordure synth&#233;tique Noire, 11.5 UK Child",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "29 EU",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Enfant",
+            "Kid"
+          ],
+          "normalized": "kid"
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Duraleather Baskets tendance à lacets avec talon métallique"
+          ],
+          "other": [
+            "Duraleather Metallic Heel Lace Up Fashion Sneakers"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/81H1s+PSmOL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0CB22G3N9"
+      }
+    },
+    {
+      "asin": "B0B7127D46",
+      "csi_title": "MuscleForge Crampons pour Chaussures de Randonn&#233;e &#8211; 19 Dents en Acier Inoxydable Antid&#233;rapants pour Neige &amp; Glace, Grips de Traction en TPE pour Alpinisme, Trekking &amp; Marche Hivernale Taille L (42&#8211;45)",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "Noir 19 pointes, 42-45",
+          "size_map": null,
+          "additional_sizes_detected": [
+            "42-45"
+          ],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [],
+          "normalized": null
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "ADHÉRENCE FIABLE SUR NEIGE & GLACE – Ces crampons pour chaussures de randonnée comptent 19 pointes en acier inox reliées par des chaînes renforcées; offrent une forte traction et aident à limiter les glissades sur neige, glace et terrains mouillés.",
+            "MATÉRIAU FLEXIBLE & RÉSISTANT – Cadre en TPE 5 mm qui reste élastique jusqu’à −45 °C, résistant aux fissures et à la déformation pour des performances constantes par grand froid et un usage répété en hiver.",
+            "ENFILAGE RAPIDE & STABLE – Se mettent en place en quelques secondes sans outil; s’adaptent à la plupart des bottes et chaussures de rando et maintiennent un appui stable en limitant les glissements sur longues marches.",
+            "UTILISATION POLYVALENTE – Crampons neige pour hommes et femmes: randonnée, trail hivernal, pêche sur glace, balades sur routes verglacées ou chemins boueux; conviennent à tous les niveaux et usages quotidiens.",
+            "LÉGERS & COMPACTS – Environ 400 g la paire; format compact qui se glisse facilement dans un sac ou une poche de veste pour les garder à portée de main quand les conditions deviennent glissantes.",
+            "FLEXIBLE & DURABLE MATERIAL - 5mm TPE frame that remains elastic up to −45°C, resistant to cracking and deformation for consistent performance in extreme cold and repeated use in winter."
+          ],
+          "other": [
+            "RELIABLE SNOW & ICE GRIP - These hiking boot cleats have 19 stainless steel spikes connected by reinforced chains; provide strong traction and help limit slipping on snow, ice and wet terrain.",
+            "QUICK & STABLE ON - Put on in seconds without tools; fit most hiking boots and shoes and maintain stable support by limiting slipping on long steps.",
+            "VERSATILE USE - Snow cleats for men and women: hiking, winter trail, ice fishing, icy road rides or muddy paths; suitable for all levels and daily use.",
+            "LIGHTWEIGHT & COMPACT - Approximately 400g per pair; compact size fits easily into a bag or jacket pocket to keep them close at hand when conditions get slippery."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/81DanpViLwL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0B7127D46"
+      }
+    },
+    {
+      "asin": "B0DM6LY6PQ",
+      "csi_title": "VIVOBAREFOOT Tracker Leather AT Bottes de randonn&#233;e pieds nus pour homme | Imperm&#233;ables, l&#233;g&#232;res et r&#233;sistantes &#224; la perforation | Tous temps et terrains | Chaussures de mise &#224; la terre coupe large",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": "42 EU Large",
+          "additional_sizes_detected": [
+            "$additional_links_augmentor_171::{",
+            "numeric_42,",
+            "42 EU Large"
+          ],
+          "structured_size": {
+            "fit_size": "\"9\"",
+            "legacy_unit": "mens_us"
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_42",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "wide",
+          "size_class": "numeric",
+          "numeric_size": 42
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Nous avons insufflé une nouvelle vie à la botte de randonnée pieds nus par excellence, avec une tige en cuir réinventée sur une nouvelle semelle All Terrain.",
+            "Nous avons retiré la membrane imperméable, améliorant le confort et la respirabilité, tout en offrant une performance optimale dans des conditions humides",
+            "Une nouvelle race de bottes de randonnée, pour que vous puissiez vous déplacer avec des pas sûrs et un sentiment complet.",
+            "La semelle thermique dispose d'une technologie de régulation de la température intégrée qui absorbe, stocke et libère la chaleur."
+          ],
+          "other": [
+            "We've breathed new life into the barefoot hiking shoe, with a redesigned leather upper on a new All Terrain sole.",
+            "We removed the waterproof membrane, improving comfort and breathability, while providing optimal performance in wet conditions",
+            "A new breed of hiking boots, so you can move with safe steps and a feeling of fullness.",
+            "The thermal sole features an integrated temperature regulation technology that absorbs, stores and releases heat."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/51LJdEriBTL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0DM6LY6PQ"
+      }
+    },
+    {
+      "asin": "B09QBXKF81",
+      "csi_title": "Tommy Hilfiger Fw0fw06658 Bottes Basses en Cuir pour Femme, Marron Cognac d&apos;hiver, 41 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_223::{",
+          "size_map": "41 EU",
+          "additional_sizes_detected": [
+            "numeric_41,",
+            "41 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_41",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "adult",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 41
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_41",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 41
+        },
+        "age_range": {
+          "raw_values": [
+            "Adult",
+            "Adulte"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Fermeture Éclair sur le côté"
+          ],
+          "other": [
+            "Leather upper",
+            "Organic cotton lining",
+            "Side zip",
+            "Tige en cuir",
+            "Doublure en coton bio"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61RPDHEcC8L.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B09QBXKF81"
+      }
+    },
+    {
+      "asin": "B07B6KJH7W",
+      "csi_title": "Skechers Relment - Traven, Chaussures de Randonn&#233;e Hautes homme, Noir (Black Bbk), 42.5 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": null,
+          "additional_sizes_detected": [
+            "7.5 D"
+          ],
+          "structured_size": {
+            "fit_size": "\"9.5\"",
+            "legacy_unit": "mens_us"
+          }
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Bottines confortables à lacets style randonnée",
+            "Dessus en cuir lisse et durable, synthétique et maille avec lacets sur le devant",
+            "Skechers Semelle intérieure confortable en mousse à mémoire de forme refroidie à l'air",
+            "Coupe décontractée pour un ajustement confortable au niveau des orteils et de l'avant-pied",
+            "Smooth, durable leather, synthetic and mesh upper with lace up front"
+          ],
+          "other": [
+            "Comfortable hiking lace-up booties",
+            "Skechers Air Cooled Memory Foam Comfort Insole",
+            "Relaxed fit for a comfortable fit in the toe and forefoot"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/7167C-oytSL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B07B6KJH7W"
+      }
+    },
+    {
+      "asin": "B0DDWKYJ8F",
+      "csi_title": "D.Franklin - Bottes Australiennes Hiver pour Femme avec Int&#233;rieur en Fourrure - Nordic Low Basic",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_148::{",
+          "size_map": "40 EU",
+          "additional_sizes_detected": [
+            "numeric_40,",
+            "40 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_40",
+            "age_group": "adult",
+            "size_system": "eu_footwear_size_system",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 40
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_40",
+          "age_group": "adult",
+          "size_system": "eu_footwear_size_system",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 40
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "D.Franklin - Bottes Australiennes Hiver pour Femme avec Intérieur en Fourrure - Nordic Low Basic",
+            "Bottes australiennes à coupe basse Nordic. Une collection hivernale créée pour ceux qui recherchent le froid. Nous définissons les jours glacials de l'hiver avec un design chaleureux pour parcourir les rues. Ce modèle à lacets est confectionné avec un tissu en microfibre de haute qualité qui protège de l'humidité et des premières gouttes de pluie",
+            "[Bottes pour femmes D.Franklin] Sa semelle redessinée apporte plus de légèreté pour un confort optimal. De plus, il arbore notre emblème personnalisé à l'arrière du talon. Design à coupe asymétrique en ton blanc cassé et doublure intérieure synthétique pour une chaleur supérieure.",
+            "Un style et un design avant-gardistes et intemporels, inspirés des dernières tendances, tout en restant fidèles à notre essence. C'est pourquoi D. Franklin est devenue une marque de référence et un leader sur le marché.",
+            "D. Franklin est une marque espagnole qui est une référence pour les amateurs de mode et d'accessoires grâce à son style unique, sa qualité et son engagement en faveur de l'environnement. Les produits sont fabriqués à partir de matériaux durables et de haute qualité.",
+            "Timeless, avant-garde style and design, inspired by the latest trends, while remaining true to our essence. That is why D. Franklin has become a reference brand and a market leader.",
+            "D. Franklin is a Spanish brand that is a reference for fashion and accessory lovers thanks to its unique style, quality and commitment to the environment. The products are made of durable and high quality materials."
+          ],
+          "en": [
+            "Nordic Low Cut Australian Boot. A winter collection created for those looking for the cold. We define the frosty days of winter with a warm design to roam the streets. This lace-up design is made with a high quality microfiber fabric that protects against moisture and the first raindrops"
+          ],
+          "other": [
+            "D.Franklin - Women's Winter Australian Boots with Fur Lining - Nordic Low Basic",
+            "[D.Franklin Women's Boots] Redesigned sole adds lightness for optimal comfort. Plus, it sports our custom emblem on the back of the heel. Asymmetrical cut design in off-white tone and synthetic inner lining for superior warmth."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/51Axrbm19eL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0DDWKYJ8F"
+      }
+    },
+    {
+      "asin": "B0F5HFL7C3",
+      "csi_title": "MUSTANG Bottes pour homme, gris, 44 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "44 EU",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "male",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Équipement Tex"
+          ],
+          "other": [
+            "Bottes d'hiver",
+            "Doublure en polaire chaude",
+            "Winter Boots",
+            "Tex Equipment",
+            "Warm fleece lining"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61-Wc1h-nXL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0F5HFL7C3"
+      }
+    },
+    {
+      "asin": "B09NQPK2YD",
+      "csi_title": "Camper Jungen Kiddo K900189 Ankle Boot, Medium Brown 013, 11.5 UK Child",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "30 EU",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "kid"
+          ],
+          "normalized": "kid"
+        },
+        "target_gender": "male",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Matériau extérieur : cuir",
+            "Fermeture : fermeture éclair"
+          ],
+          "other": [
+            "Semelle : caoutchouc",
+            "Forme du talon : plat",
+            "Upper material: leather",
+            "Sole: Rubber",
+            "Closure: zip",
+            "Heel shape: flat"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/71GkGRVwM9L.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B09NQPK2YD"
+      }
+    },
+    {
+      "asin": "B07DCD1V54",
+      "csi_title": "Aigle CHAMBORDPRO Pro 2 ISO Lady, Bottes en Caoutchouc de s&#233;curit&#233; Femme, Marron (Brun 001), 39 EU (5.5)",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": null,
+          "additional_sizes_detected": [
+            "39 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"7\"",
+            "legacy_unit": "womens_us"
+          }
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "cette botte conçue pour le travail est confortable et résistante.",
+            "Sa semelle permet une adhérence optimale sur tous les terrains.",
+            "Caoutchouc naturel majoritaire : résistance et souplesse",
+            "Semelle à crantage autonettoyant : accroche et adhérence.",
+            "This work boot is comfortable and durable."
+          ],
+          "other": [
+            "Sa doublure offre isolation et confort par temps froid.",
+            "Its sole allows optimal grip on all terrains.",
+            "Its lining provides insulation and comfort in cold weather.",
+            "Majority natural rubber: strength and flexibility",
+            "Self-cleaning notching sole: grip and grip."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/71rhimIr5JL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B07DCD1V54"
+      }
+    },
+    {
+      "asin": "B0CQY2Y7KG",
+      "csi_title": "Crocs Unisexe Enfant Classic Neo Puff Boot T Bottes, Pink Tweed/Gum, 22/23 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "22/23 EU",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Petit Enfant",
+            "Little Kid"
+          ],
+          "normalized": "kid"
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Le sabot doublé classique avec un col entonnoir en nylon lâche, donnant l'apparence d'une botte",
+            "Semelle extérieure en caoutchouc en dents de scie pour une traction supérieure",
+            "Entièrement doublé avec un matériau chaud et pelucheux"
+          ],
+          "other": [
+            "Personnalisable avec les breloques Jibbitz",
+            "The classic lined clog with a loose nylon funnel collar, giving the look of a boot",
+            "Customisable with Jibbitz charms",
+            "Sawtooth rubber outsole for superior traction",
+            "Fully lined with warm, plush material"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/71C7qaceuPL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0CQY2Y7KG"
+      }
+    },
+    {
+      "asin": "B0FDBL3SPT",
+      "csi_title": "Skechers Bottes de pluie JDM Respected SwamperRain pour homme, Cuir chocolat Duraleather Bordure noire, 45.5 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": "45.5 EU",
+          "additional_sizes_detected": [
+            "$additional_links_augmentor_388::{",
+            "numeric_45_point_5,",
+            "45.5 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"11.5\"",
+            "legacy_unit": "mens_us"
+          }
+        },
+        "footwear_size": {
+          "gender": "men",
+          "size": "numeric_45_point_5",
+          "age_group": "adult",
+          "size_system": "eu_footwear_size_system",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 45
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Coupe décontractée pour un ajustement confortable au niveau des orteils et de l'avant-pied",
+            "La semelle extérieure en caoutchouc Goodyear offre une meilleure traction, stabilité et durabilité"
+          ],
+          "other": [
+            "De la collection Skechers x John Deere",
+            "Skechers Chaussures mains libres pour un ajustement facile",
+            "Le coussin de talon exclusif maintient votre pied bien en place",
+            "From the Skechers x John Deere Collection",
+            "Skechers Hands free shoes for easy fit",
+            "Exclusive heel cushion keeps your foot securely in place",
+            "Relaxed fit for a comfortable fit in the toe and forefoot",
+            "Goodyear rubber outsole provides enhanced traction, stability and durability"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/71s+c+SuujL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0FDBL3SPT"
+      }
+    },
+    {
+      "asin": "B0DJGY6TD2",
+      "csi_title": "Chaussures d&apos;hiver, Chaussures de randonn&#233;e en cuir imperm&#233;ables et r&#233;sistantes au glissement pour homme, Chaussures de sport d&apos;ext&#233;rieur, Chaussures l&#233;g&#232;res et respirantes, Bottes de cheville",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_123::{",
+          "size_map": "46 EU",
+          "additional_sizes_detected": [
+            "numeric_46,",
+            "46 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_46",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "adult",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 46
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_46",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 46
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "male",
+        "material": {
+          "raw": "baskets de marche d'extérieur pour hommes",
+          "normalized": "baskets de marche d'extérieur pour hommes"
+        },
+        "bullet_points": {
+          "fr": [
+            "baskets de marche bleu marine pour homme, chaussures en toile à coupe large pour homme, mocassins noirs pour homme, chaussures bateau en toile pour homme taille 9, chaussures de course noires pour homme, chaussures décontractées à enfiler pour homme, chaussures de marche crème pour homme, baskets à enfiler pour homme, baskets de marche blanches pour homme, baskets larges pour homme uk, baskets de marche grises pour homme, baskets de randonnée/marche pour homme",
+            "Baskets pour homme taille 8 imperméables, chaussures en maille respirante à enfiler pour homme, baskets pour homme, chaussures de marche pour homme taille 8 UK, baskets de marche pour homme, chaussures de marche pour homme crème, chaussures en maille décontractées pour homme, chaussures de marche pour homme taille 9.5, chaussures à enfiler décontractées en toile pour homme taille 13, baskets de qualité pour homme, sandales pour homme taille 9 UK, chaussures de randonnée en maille pour homme",
+            "Sandales pour homme mode, chaussures en toile noires et blanches pour homme, sandales pour homme avec support de voûte plantaire, mocassins pour homme UK, chaussures en toile pour homme taille 10, baskets noires pour homme pour marche, baskets avec support de voûte plantaire pour course pour homme, baskets imperméables pour homme taille 10, chaussures en daim bleu pour homme, chaussures de course pour homme jaunes, chaussures de course pour homme taille 8,5 UK",
+            "Baskets jaunes pour homme, baskets orange pour homme, mocassins en cuir pour homme, chaussures de course extra larges pour homme, baskets pour homme taille 5, chaussures de course pour homme taille 10 larges, chaussures à enfiler pour homme, baskets noires pour homme taille 9, baskets décontractées à enfiler pour homme, chaussures de course rouges pour homme, sandales pour homme UK taille 6, chaussures en maille pour homme pour l'eau, baskets de qualité pour homme",
+            "Baskets pour homme taille 9, chaussures de marche pour homme à enfiler, baskets pour homme taille 11 larges, baskets blanches pour homme taille 8, chaussures de sport pour homme, chaussures de marche pour homme taille 7, chaussures en toile décontractées pour homme taille 13, mocassins pour homme taille 6, baskets pour homme taille 10.5 UK, baskets en cuir noir à enfiler pour homme, chaussures de course pour homme rouges"
+          ],
+          "other": [
+            "mens navy walking sneakers,mens wide canvas shoes,black loafers men,mens canvas running shoes,mens canvas running shoes,slip on casual running shoes,walking shoes for men,walking shoes for men,white walking sneakers,mens wide trainers,mens walking sneakers,grey walking sneakers,walking sneakers for men",
+            "mens waterproof sneakers size 8,breathable mesh slip on shoes mens walking shoes mens walking shoes mens walking shoes mens walking shoes mens walking shoes mens mesh casual shoes mens canvas casual walking shoes mens size 9.5 mens quality sneakers mens sandals size 43 mens mesh hiking shoes",
+            "fashion black and white canvas sandals men sandals arch support sandals mens loafers mens canvas shoes mens walking shoes black walking shoes running sneakers with arch support waterproof sneakers mens blue suede loafers running shoes mens running shoes yellow running shoes mens running shoes mens running shoes mens running shoes mens running shoes mens size 9",
+            "yellow sneakers for men, dress trainers for men orange, leather loafers for men, extra wide running shoes, mens running shoes, mens running shoes, mens running shoes, mens running shoes, mens running shoes, mens running shoes, mens running shoes, mens running shoes, mens mesh sandals, mens mesh sandals, mens mesh shoes, mens quality sneakers",
+            "mens sneakers size 8, slip on walking sneakers mens sneakers mens sneakers size 9 white sneakers mens walking sneakers mens casual canvas walking shoes mens shoe size 13 mens loafers size 9 mens sneakers size 11 mens black leather slip on sneakers mens running shoes red"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/71RauPf+klL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0DJGY6TD2"
+      }
+    },
+    {
+      "asin": "B09NQ1HYT9",
+      "csi_title": "Helly Hansen Bottes d&apos;hiver Annabelle pour femme, 625 Blue Fog, 42 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": null,
+          "additional_sizes_detected": [
+            "42 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"10\"",
+            "legacy_unit": "womens_us"
+          }
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Espace réservé pour BP #1",
+            "Espace réservé pour BP #2",
+            "Espace réservé pour BP #3",
+            "Espace réservé pour BP #4",
+            "Espace réservé pour BP #5"
+          ],
+          "other": [
+            "Placeholder for BP #1",
+            "Placeholder for BP #2",
+            "Placeholder for BP #3",
+            "Placeholder for BP #4",
+            "Placeholder for BP #5"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/91X6YoNm5kL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B09NQ1HYT9"
+      }
+    },
+    {
+      "asin": "B0DPLG332Y",
+      "csi_title": "Tamaris Bottes Plates pour Femme, Ecru, 39 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": "39 EU",
+          "additional_sizes_detected": [
+            "$additional_links_augmentor_392::{",
+            "numeric_39,",
+            "39 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"8\"",
+            "legacy_unit": "womens_us"
+          }
+        },
+        "footwear_size": {
+          "gender": "women",
+          "size": "numeric_39",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 39
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Matériau Duo-Tex hydrofuge protège vos pieds par tous les temps.",
+            "Semelle intérieure amovible pour un confort individuel et une adaptation aux semelles orthopédiques.",
+            "Look sportif-moderne, idéal pour les aventures urbaines et les excursions en plein air.",
+            "Construction Strobel pour une fabrication durable et une liberté de mouvement optimale.",
+            "Les détails réfléchissants assurent la visibilité au crépuscule et dans l'obscurité.",
+            "Strobel construction for durable construction and optimal freedom of movement."
+          ],
+          "other": [
+            "Water-repellent Duotex material protects your feet in all weather conditions.",
+            "Removable insole for individual comfort and adaptation to orthopaedic insoles.",
+            "Sporty and modern look, ideal for urban adventures and outdoor excursions.",
+            "Reflective details ensure visibility at dusk and in the dark."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61vCqUDkdJL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0DPLG332Y"
+      }
+    },
+    {
+      "asin": "B08JH6RYJ5",
+      "csi_title": "Pit Viper Lunettes de Soleil Originaux Double polarisation Large The Absolute Freedom",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "Taille unique",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "other": [
+            "Pit Viper The Originals Double Wide - Polarized Absolute Freedom, the-abs-freedom-dw-p"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61KyXfYLBpL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B08JH6RYJ5"
+      }
+    },
+    {
+      "asin": "B083QDTKY8",
+      "csi_title": "Sorel MADSON II CHUKKA WATERPROOF, Bottes d&apos;hiver d&#233;contract&#233;es Pour des hommes, Brown (Major),",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": null,
+          "additional_sizes_detected": [
+            "8.5",
+            "41.5 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"8.5\"",
+            "legacy_unit": "mens_us"
+          }
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "male",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Construction imperméable à coutures scellées",
+            "Rembourrage de qualité supérieure"
+          ],
+          "other": [
+            "Seam-sealed waterproof construction",
+            "High-quality padding"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61Fqb7-kSlL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B083QDTKY8"
+      }
+    },
+    {
+      "asin": "B0CTCRXXMK",
+      "csi_title": "Chicco, Bottes Fille avec Fermeture &#201;clair Lat&#233;rale, Bottines Fille Chaudes, Confortables, L&#233;g&#232;res et Respirantes, Bottines Id&#233;ales pour l&apos;Automne et l&apos;Hiver, Chaussures Fille, Designed in Italy",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_342::{",
+          "size_map": "21 EU",
+          "additional_sizes_detected": [
+            "numeric_21,",
+            "21 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_21",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "toddler",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 21
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_21",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "toddler",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 21
+        },
+        "age_range": {
+          "raw_values": [
+            "Enfant",
+            "Kid"
+          ],
+          "normalized": "toddler"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "BOTTES FILLE: Les bottes Chicco sont chaudes et adaptées à tous les jours d'hiver et d'automne et conviennent à tous les jour",
+            "CONFORTABLES: Elles sont confortables, flexibles, légères, respirantes et pratiques. Elles sont équipées d'une fermeture éclair latérale pour faciliter l'enfilage",
+            "CHICCO: Depuis toujours aux côtés des familles, écoutant leurs histoires et besoins. Avec nos produits innovants, nous répondons toujours aux nouvelles exigences des parents et de tous ceux qui s'occupent des enfants"
+          ],
+          "other": [
+            "Girls' boots: Chicco boots are warm and suitable for every day in winter and autumn and are suitable for every day",
+            "COMFORTABLE: They are comfortable, flexible, lightweight, breathable and practical. They are equipped with a side zip for easy putting on",
+            "CHICCO: Always alongside families, listening to their stories and needs. With our innovative products, we always meet the new requirements of parents and all those who care for children"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/81mQoY+kr0L.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0CTCRXXMK"
+      }
+    },
+    {
+      "asin": "B0BYT9XZ5K",
+      "csi_title": "Gabor Femme Bottines, Dame Bottines &#224; Lacets,Semelle int&#233;rieure Amovible,Botte d&apos;hiver,Demi-Bottes,Botte &#224; Lacets,Gris (Pepper) / 19,39 EU / 6 UK",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_187::{",
+          "size_map": "39 EU",
+          "additional_sizes_detected": [
+            "numeric_39,",
+            "39 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_39",
+            "age_group": "adult",
+            "size_system": "eu_footwear_size_system",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 39
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_39",
+          "age_group": "adult",
+          "size_system": "eu_footwear_size_system",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 39
+        },
+        "age_range": {
+          "raw_values": [
+            "Adult",
+            "Adulte"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Type de produit: Bottines,Bottines à lacets,botte d'hiver,demi-bottes,botte à lacets",
+            "Matière supérieure: Suede, Matière intérieure: textile, Semelle extérieure: Caoutchouc thermoplastique, Semelle de recouvrement: semelle intérieure amovible, semelle intérieure interchangeable",
+            "semelle interchangeable, semelle intérieure amovible, semelle intérieure libre"
+          ],
+          "other": [
+            "Product Type: Ankle Boots,Lace Up Boots,Winter Boot,Half Boots,Lace Up Boot",
+            "Upper material: Suede, Inner material: Textile, Outsole: Thermoplastic rubber, Oversole: removable insole, interchangeable insole",
+            "Heel type: Block, Heel height: 3 cm, Shaft type: Mid-calf, Shaft height: 15 cm",
+            "Width: normal, Closure: laces",
+            "Interchangeable footbed, removable insole, loose insole",
+            "Type de talon: Bloc, Hauteur de talon: 3 cm, Type d'arbre: mi-mollet, Hauteur de l'arbre: 15 cm",
+            "Largeur: normale, Fermeture: lacets"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/71f7Mhp2XPL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0BYT9XZ5K"
+      }
+    },
+    {
+      "asin": "B07C4XV2X1",
+      "csi_title": "Rieker 98860, Bottes Hautes Femme, Marron (Nuss/Nuss 22), 42 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": {
+            "fit_size": "\"10\"",
+            "legacy_unit": "womens_us"
+          }
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Dessus : Synthétique",
+            "Fixation : Côté Fermetures éclair"
+          ],
+          "other": [
+            "Talon : Talons Bas Bloc",
+            "Code Fabricant : 98860",
+            "Upper: Synthetic",
+            "Fastening: side zips",
+            "Heel: Block Low Heels",
+            "Manufacturer Code: 98860"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61LWwGNAPdL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B07C4XV2X1"
+      }
+    },
+    {
+      "asin": "B0C5LHVS8Q",
+      "csi_title": "Jan &amp; Jul Bottes de cheville pour petits enfants pour l&apos;hiver et la neige, 22.5 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_141::{",
+          "size_map": "22.5 EU",
+          "additional_sizes_detected": [
+            "numeric_22_point_5,",
+            "22.5 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_22_point_5",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "toddler",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 22
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_22_point_5",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "toddler",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 22
+        },
+        "age_range": {
+          "raw_values": [
+            "Tout-petit",
+            "Toddler"
+          ],
+          "normalized": "toddler"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "【SEMELLES FLEXIBLES】Pas vos bottes d'hiver lourdes et rigides habituelles ! Ces bottes pour tout-petits bougent avec les pieds de votre enfant pour qu'il puisse marcher, courir ou sauter librement. Les semelles antidérapantes offrent une adhérence maximale avec une protection supplémentaire au niveau des orteils.",
+            "【ISOLEE & DOUBLÉE EN POLAIRE】Ces bottes d'hiver pour les enfants sont isolées pour une chaleur garantie et sont conçues pour une température de -10 degrés. Entièrement doublée avec doublure polaire Sherpa moelleuse.",
+            "【FACILE À CHAusser】Facile pour les enfants à enfiler tout seuls avec une languette intelligente et un large ajustement de la sangle velcro. Parfait pour les pieds potelés larges des tout-petits ! En cas de doute, choisissez une taille au-dessus.",
+            "【RÉSISTANT À L'EAU】Les bottes douillettes parfaites pour les tout-petits pour jouer dans la neige ou porter en ville. Vous voulez un sérieux puddle jumper sur vos mains ? Découvrez nos bottes d'hiver imperméables Lite ou nos bottes de pluie Puddle Dry. Recherchez les bottes Jan & Jul.",
+            "Entretien facile : il suffit de les rincer sous l'eau courante et de les nettoyer Le lavage en machine n'est pas recommandé."
+          ],
+          "other": [
+            "【FLEXIBLE SOLES】Not your usual heavy and rigid winter boots! These toddler boots move with your child's feet so they can walk, run or jump freely. Non-slip soles provide maximum grip with extra toe protection.",
+            "【INSULATED & FLEECE LINED】These winter boots for kids are insulated for guaranteed warmth and are designed for a temperature of -10 degrees. Fully lined with fluffy sherpa fleece lining.",
+            "Easy to pull off: Easy for children to put on their own with a smart tab and wide adjustment of the Velcro strap. Perfect for toddler's wide chubby feet! If in doubt, choose a size up.",
+            "【WATER RESISTANT】 The perfect cozy boots for toddlers to play in the snow or wear around town. Want a serious puddle jumper on your hands? Check out our Lite Waterproof Winter Boots or Puddle Dry Rain Boots. Look for boots Jan & Jul.",
+            "Easy care: simply rinse under running water and clean them. Machine washing is not recommended."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/71M45PNA2KL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0C5LHVS8Q"
+      }
+    },
+    {
+      "asin": "B07C5G6Q4Z",
+      "csi_title": "Rieker 98860, Bottes Hautes Femme, Marron (Nuss/Nuss 22), 38 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": {
+            "fit_size": "\"7\"",
+            "legacy_unit": "womens_us"
+          }
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Dessus : Synthétique",
+            "Fixation : Côté Fermetures éclair"
+          ],
+          "other": [
+            "Talon : Talons Bas Bloc",
+            "Code Fabricant : 98860",
+            "Upper: Synthetic",
+            "Fastening: side zips",
+            "Heel: Block Low Heels",
+            "Manufacturer Code: 98860"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61LWwGNAPdL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B07C5G6Q4Z"
+      }
+    },
+    {
+      "asin": "B0CVNLHF65",
+      "csi_title": "Dr. Martens Bottes pour femme Amaayah Hi en cuir Bex pour &#233;quitation Bottes montant jusqu&apos;au genou, Noir , 36 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": "36 EU",
+          "additional_sizes_detected": [
+            "$additional_links_augmentor_309::{",
+            "numeric_36,",
+            "36 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"5\"",
+            "legacy_unit": "womens_us"
+          }
+        },
+        "footwear_size": {
+          "gender": "women",
+          "size": "numeric_36",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 36
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Fabriqué à partir de cuir Orleans, un cuir résistant et souple avec un aspect vieilli qui continuera à évoluer avec le temps.",
+            "Fermeture éclair intérieure et soufflet élastique sur toute la longueur.",
+            "Boucle extérieure AirWair embossée et couture Goodyear jaune"
+          ],
+          "other": [
+            "Semelle Bex Squared avec profil Commando robuste.",
+            "Made from Orleans leather, a tough and supple leather with an aged look that will continue to evolve over time.",
+            "Inner zip and full length elastic gusset.",
+            "Bex Squared sole with sturdy Commando profile.",
+            "AirWair embossed outer buckle and Goodyear stitching yellow"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/619-ImwrbVL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0CVNLHF65"
+      }
+    },
+    {
+      "asin": "B0C5P2Z1LJ",
+      "csi_title": "Jan &amp; Jul Bottes de cheville pour petits enfants pour l&apos;hiver et la neige, 25 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_165::{",
+          "size_map": "25 EU",
+          "additional_sizes_detected": [
+            "numeric_25,",
+            "25 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_25",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "toddler",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 25
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_25",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "toddler",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 25
+        },
+        "age_range": {
+          "raw_values": [
+            "Tout-petit",
+            "Toddler"
+          ],
+          "normalized": "toddler"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "【SEMELLES FLEXIBLES】Pas vos bottes d'hiver lourdes et rigides habituelles ! Ces bottes pour tout-petits bougent avec les pieds de votre enfant pour qu'il puisse marcher, courir ou sauter librement. Les semelles antidérapantes offrent une adhérence maximale avec une protection supplémentaire au niveau des orteils.",
+            "【ISOLEE & DOUBLÉE EN POLAIRE】Ces bottes d'hiver pour les enfants sont isolées pour une chaleur garantie et sont conçues pour des températures jusqu'à -10 degrés. Entièrement doublée avec doublure polaire Sherpa moelleuse.",
+            "【FACILE À ENFILER】Facile pour les enfants à enfiler tout seuls avec une languette intelligente et un large ajustement par bande auto-agrippante. Parfait pour les pieds potelés de tout-petits ! En cas de doute, prenez une taille au-dessus.",
+            "【RÉSISTANT À L'EAU】Les parfaites bottes douillettes pour tout-petits pour jouer dans la neige ou porter en ville. Vous avez un véritable expert en sauts dans les flaques entre les mains ? Découvrez nos bottes d'hiver imperméables Lite ou nos bottes de pluie Puddle Dry. Recherchez les bottes Jan & Jul.",
+            "Entretien facile : il suffit de les rincer sous l'eau courante et de les nettoyer Le lavage en machine n'est pas recommandé."
+          ],
+          "other": [
+            "【FLEXIBLE SOLES】Not your usual heavy and rigid winter boots! These toddler boots move with your child's feet so they can walk, run or jump freely. Non-slip soles provide maximum grip with extra toe protection.",
+            "【INSULATED & FLEECE LINED】These winter boots for kids are insulated for guaranteed warmth and are designed for temperatures down to -10 degrees. Fully lined with fluffy sherpa fleece lining.",
+            "【EASY TO PUT ON】Easy for kids to put on by themselves with a smart tongue and wide hook and loop adjustment. Perfect for chubby little ones' feet! If in doubt, go up one size.",
+            "【WATER RESISTANT】 The perfect cozy toddler boots for playing in the snow or wearing around town. Do you have a real puddle jumping expert in your hands? Check out our Lite Waterproof Winter Boots or Puddle Dry Rain Boots. Look for boots Jan & Jul.",
+            "Easy care: simply rinse under running water and clean them. Machine washing is not recommended."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/71xfZ50kHjL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0C5P2Z1LJ"
+      }
+    },
+    {
+      "asin": "B0CR31Z1WT",
+      "csi_title": "Lot de 2 paires de crampons pour chaussures d&apos;hiver, crampons de glace, antid&#233;rapants, avec 5 griffes pour bottes, chaussures de randonn&#233;e, p&#234;che, jogging, escalade, randonn&#233;e - Universel",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "Ice & Snow Grips",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [],
+          "normalized": null
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "【Conception antidérapante】Crampon Chaussures Neige est fabriqué à partir de matériaux antidérapants professionnels, qui peuvent fournir une bonne adhérence sur les sols lisses et empêcher efficacement le glissement.",
+            "【Convient à plusieurs occasions】Le Crampons Anti Verglas convient à une variété d'endroits, tels que la randonnée en plein air, l'alpinisme, le ski, la marche les jours de pluie, etc., vous permettant de marcher l'esprit tranquille dans divers environnements.",
+            "【Confort】 Crampons Neige Et Glace a une texture douce, a une bonne élasticité et ténacité et peut s'adapter étroitement aux semelles pour éviter l'inconfort des pieds.",
+            "【Commodité】 La chaîne à chaussures antidérapante est conçue pour être facile à installer et à retirer, ce qui permet aux utilisateurs de la remplacer facilement à différentes occasions, tout en étant facile à nettoyer et à entretenir.",
+            "【Matériau de haute qualité】 Fabriqué à partir de matériaux de haute qualité, il peut être utilisé à plusieurs reprises pendant une longue période et n'est pas facile à porter."
+          ],
+          "en": [
+            "【Comfort】 Snow and ice studs have a soft texture, has good elasticity and toughness and can closely fit the soles to avoid foot discomfort."
+          ],
+          "other": [
+            "【Anti-slip Design】Cleats snow shoes is made from professional non-slip materials, which can provide good grip on smooth floors and effectively prevent slipping.",
+            "【Suitable for Multiple Occasions】Anti Verglas Crampons are suitable for a variety of places, such as outdoor hiking, mountaineering, skiing, walking in rainy days, etc., allowing you to walk with peace of mind in various environments.",
+            "【Convenience】The non-slip shoe chain is designed to be easy to install and remove, which allows users to easily replace it on different occasions, while being easy to clean and maintain.",
+            "【High Quality Material】Made of high quality materials, it can be used repeatedly for a long time and is not easy to wear."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/71N5lXHHkhL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0CR31Z1WT"
+      }
+    },
+    {
+      "asin": "B09R82YHXT",
+      "csi_title": "Spirale Bottes d&apos;hiver &#214;tz, bleu, 36 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_183::{",
+          "size_map": "36 EU",
+          "additional_sizes_detected": [
+            "numeric_36,",
+            "36 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_36",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "adult",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 36
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_36",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 36
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Spirale John Bottes en caoutchouc doublées unisexe pour adulte Bleu Taille 36"
+          ],
+          "other": [
+            "Spirale",
+            "Bottes",
+            "Boots",
+            "Spirale John Unisex Adult Lined Wellies - Blue, Size 36"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61Mmv3C8HoL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B09R82YHXT"
+      }
+    },
+    {
+      "asin": "B0D328298V",
+      "csi_title": "Jan &amp; Jul Bottes de cheville pour petits enfants pour l&apos;hiver et la neige, 19 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_279::{",
+          "size_map": "19 EU",
+          "additional_sizes_detected": [
+            "numeric_19,",
+            "19 EU",
+            "4."
+          ],
+          "structured_size": {
+            "size": "numeric_19",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "toddler",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 19
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_19",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "toddler",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 19
+        },
+        "age_range": {
+          "raw_values": [
+            "Tout-petit",
+            "Toddler"
+          ],
+          "normalized": "toddler"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "【Semelles flexibles】Pas vos bottes d'hiver classiques ! Ces bottes pour enfant bougent avec les pieds de votre enfant afin qu'ils puissent marcher, courir ou sauter librement. Les semelles antidérapantes offrent une adhérence maximale avec une protection supplémentaire au niveau des orteils.",
+            "Doublure isolée et polaire : ces bottes d'hiver pour tout-petits sont isolées pour garantir une chaleur garantie et une température de -10 degrés. Entièrement doublée avec doublure polaire Sherpa moelleuse.",
+            "Facile à enfiler : les enfants peuvent facilement mettre sur tous leurs vêtements avec une languette de chaussure intelligente et un réglage généreux. Parfait pour les pieds de bébé à large fourrure. Lorsque vous êtes en doube, taille haute.",
+            "【Résistant à l'eau】Les bottes confortables parfaites pour jouer dans la neige ou les porter partout. Vous voulez un sérieux puddle jumper sur vos mains ? Découvrez nos bottes d'hiver imperméables Lite ou bottes de pluie Puddle Dry. Recherche pour les bottes Jan & Jul",
+            "Entretien facile : il suffit de les rincer sous l'eau courante et de les nettoyer. Le lavage en machine n'est pas recommandé."
+          ],
+          "other": [
+            "【FLEXIBLE SOLES】Not your classic winter boots! These toddler boots move with your child's feet so they can walk, run or jump freely. Non-slip soles provide maximum grip with extra toe protection.",
+            "INSULATED & FLEECE LINING - These toddler winter boots are insulated to ensure guaranteed warmth and a temperature of -10 degrees. Fully lined with fluffy sherpa fleece lining.",
+            "EASY TO SLIP ON - Kids can easily put on all their clothes with a smart shoe tongue and generous adjustment. Perfect for wide fur baby feet. When you are in doube, high waist.",
+            "【Water Resistant】 The perfect comfortable boots for playing in the snow or wearing them everywhere. Want a serious puddle jumper on your hands? Check out our Lite Waterproof Winter Boots or Puddle Dry Rain Boots. Search for boots Jan & Jul",
+            "Easy care - just rinse under running water and clean. Machine wash is not recommended."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/71ve7X+x+4L.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0D328298V"
+      }
+    }
+  ],
+  "stats": {
+    "asin_blocks_found": 66,
+    "records_extracted": 66,
+    "records_skipped_no_csi": 0
+  }
+}
