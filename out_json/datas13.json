@@ -1,0 +1,3134 @@
+{
+  "source_file": "datas13.txt",
+  "records": [
+    {
+      "asin": "B0BN68JTQD",
+      "csi_title": "Geox D DAMIANA, Bottine, TOFFEE/BEIGE,",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "35 EU",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Matériau intérieur : synthétique",
+            "Matériau extérieur : synthétique",
+            "Fermeture : fermeture éclair"
+          ],
+          "other": [
+            "Semelle : caoutchouc",
+            "Forme du talon : bloc",
+            "Inner material: synthetic",
+            "Upper material: synthetic",
+            "Sole: Rubber",
+            "Closure: zip",
+            "Heel shape: block"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/5158P0QCl1L.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0BN68JTQD"
+      }
+    },
+    {
+      "asin": "B0DND6P78B",
+      "csi_title": "Crocs Unisexe Enfant Mattel Pink Barbie Classic Clog T Sabots, Multi, 27/28 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "27/28 EU",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Enfant",
+            "Kid"
+          ],
+          "normalized": "kid"
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Fabriqué en éthylène-acétate de vinyle",
+            "Design spécial pour les enfants"
+          ],
+          "other": [
+            "Sabots modernes pour enfants de la marque Crocs",
+            "Find your size: we recommend going one size down (if you are an 8, take a size smaller than 7)"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/71r6S2TqrEL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0DND6P78B"
+      }
+    },
+    {
+      "asin": "B0CNY7S9VK",
+      "csi_title": "Skechers Baskets Mega-Craft 3.0 pour gar&#231;on, Gris/multicolore., 4 Big Kid",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_192::{",
+          "size_map": "36 EU",
+          "additional_sizes_detected": [
+            "numeric_36,",
+            "36 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_36",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "big_kid",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 36
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_36",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "big_kid",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 36
+        },
+        "age_range": {
+          "raw_values": [
+            "Grand enfant",
+            "Big Kid"
+          ],
+          "normalized": "big_kid"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Semelle intérieure rembourrée pour le confort",
+            "Empeigne respirante en maille athlétique et synthétique"
+          ],
+          "other": [
+            "Skechers Design Mega-Craft Pixel",
+            "Skechers Mega-Craft pixel-themed design",
+            "Cushioned comfort insole",
+            "Breathable athletic mesh and synthetic upper"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/71AI8TlSXTL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0CNY7S9VK"
+      }
+    },
+    {
+      "asin": "B0FDH3GY65",
+      "csi_title": "DC Shoes Pure Chaussure de Skate, Bleu/Noir/Blanc, 33 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_319::{",
+          "size_map": "33 EU",
+          "additional_sizes_detected": [
+            "numeric_33,",
+            "33 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_33",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "little_kid",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 33
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_33",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "little_kid",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 33
+        },
+        "age_range": {
+          "raw_values": [
+            "Petit enfant",
+            "Kid"
+          ],
+          "normalized": "little_kid"
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": "Caoutchouc",
+          "normalized": "Rubber"
+        },
+        "bullet_points": {
+          "other": [
+            "Upright model",
+            "Velcro closure and elastic laces",
+            "Material mix",
+            "Toe reinforcement for extra strength",
+            "Foam padding on tongue and collar for comfort and support"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61-yQFo6hEL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0FDH3GY65"
+      }
+    },
+    {
+      "asin": "B0CN9JM3P6",
+      "csi_title": "LOLLY POP PLAY3 ZOO",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_246::{",
+          "size_map": "32 EU",
+          "additional_sizes_detected": [
+            "numeric_32,",
+            "32 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_32",
+            "age_group": "big_kid",
+            "size_system": "eu_footwear_size_system",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 32
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_32",
+          "age_group": "big_kid",
+          "size_system": "eu_footwear_size_system",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 32
+        },
+        "age_range": {
+          "raw_values": [
+            "Enfant",
+            "Kid"
+          ],
+          "normalized": "big_kid"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Doublure résistant",
+            "Durable lining"
+          ],
+          "other": [
+            "Tige souple et confortable",
+            "Soft and comfortable upper"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61UX-rn27PL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0CN9JM3P6"
+      }
+    },
+    {
+      "asin": "B0FDH4K31Q",
+      "csi_title": "DC Shoes Manteca 4 V - Chaussures en Cuir - Enfant - 38 - Rose.",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_146::{",
+          "size_map": "38 EU",
+          "additional_sizes_detected": [
+            "numeric_38,",
+            "38 EU"
+          ],
+          "structured_size": {
+            "gender": "men",
+            "size": "numeric_38",
+            "age_group": "big_kid",
+            "size_system": "eu_footwear_size_system",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 38
+          }
+        },
+        "footwear_size": {
+          "gender": "men",
+          "size": "numeric_38",
+          "age_group": "big_kid",
+          "size_system": "eu_footwear_size_system",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 38
+        },
+        "age_range": {
+          "raw_values": [
+            "Enfant"
+          ],
+          "normalized": "big_kid"
+        },
+        "target_gender": "male",
+        "material": {
+          "raw": "Caoutchouc",
+          "normalized": "Rubber"
+        },
+        "bullet_points": {
+          "fr": [
+            "__Matière :__ empeigne en cuir, nubuck, daim ou mesh",
+            "Col et languette doublés en mousse pour plus de confort",
+            "Lacets élastiques"
+          ],
+          "other": [
+            "Fermeture par scratch",
+            "Doublure en mesh pour plus de confort"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/51jC3I+C-nL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0FDH4K31Q"
+      }
+    },
+    {
+      "asin": "B0BN6B54HJ",
+      "csi_title": "Geox Bottines U Aurelio pour gar&#231;on, marron, 7 UK",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": null,
+          "additional_sizes_detected": [
+            "32 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"9\"",
+            "legacy_unit": "mens_us"
+          }
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Enfant"
+          ],
+          "normalized": "kid"
+        },
+        "target_gender": "male",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Matériau extérieur : synthétique",
+            "Matériau intérieur : synthétique",
+            "Fermeture : fermeture éclair"
+          ],
+          "other": [
+            "Semelle : caoutchouc",
+            "Forme du talon : plat"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/71CB6zIQVxL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0BN6B54HJ"
+      }
+    },
+    {
+      "asin": "B0DDK2HFFT",
+      "csi_title": "Taille Femmes Confortable Pied Large Chaussure Chaussures orthop&#233;diques souples pour femmes, respirantes et tiss&#233;es, chaussures de marche &#224; enfiler en , Taille Femmes Confortable Pied (Dark Blue, 35)",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_212::{",
+          "size_map": "35 EU",
+          "additional_sizes_detected": [
+            "numeric_35,",
+            "35 EU"
+          ],
+          "structured_size": {
+            "gender": "women",
+            "size": "numeric_35",
+            "age_group": "adult",
+            "size_system": "eu_footwear_size_system",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 35
+          }
+        },
+        "footwear_size": {
+          "gender": "women",
+          "size": "numeric_35",
+          "age_group": "adult",
+          "size_system": "eu_footwear_size_system",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 35
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": "not_applicable",
+          "normalized": "not_applicable"
+        },
+        "bullet_points": {
+          "fr": [
+            "Chaussures Bateau Mocassins Pour Femmes Espadrille Botte Femme Femme Sandales Femmes Chaussures Babies Chaussures Femme Mocassin Femme Cuir Femme Paillettes Mocassin Femme Tong Femme Noir Mocassin Femme Chic Derbies Femme Cuir Beige Chaussures Femmes Chaussures Femme Chic Et éLéGant Mocassins Et Loafers Femme Cuir Espadrilles Bleu Petit Talon Chaussure Mariage Femme Sandales Femme CompenséEs Femme Femmes Confortable Petit Talon Babies Femme Chausurre Femme Ouvertes Chausurre Chaussure Confort",
+            "Confort Chic Femme Sandale Chaussures Bateau Femme Chaussures Femmes Espadrille Chaussure Confort Chaussure Plate Femme Chaussure Confortable Chic Noir Diamanto Chaussures Femme Chaussures Femme Noir Femme Espadrilles Femme Pas Cher Derbies Chaussures Blanche Mariage Mocassin Femme Cuir Plates Femme Chic Derbies Noir Plat Chaussures Chaussures Mariage Chaussure Printemps Femme Chaussures Femme Confort Chic Mariage Femme Cuir Chaussure Vintage Femme éTé Confortable Sandales Petit Talon Chaussure",
+            "Femme Chaussures Femme Ete 2024 Tongs Femme Chaussure Plates Femme Mocassin Cuir Et Chic Mariage Chaussures ArgentéEs Femme Chaussure Mocassin Femme Confortable Chaussures Femme Mocassins Femmes Chaussure Femme Mocassins Cuir Chaussures Souples Femme Mocassin Femme Derbies Femme éTé Femme Chaussures Espadrilles Femme Femme Noir Chaussures Femme Cuir Souple Espadrille Tong Fille Sandales Femme Sandale Femme Chaussures Petit Talon Chaussures Paillettes Sandale Femme Chaussures De Confort Chaussure",
+            "Babies Femme Chausurre Femme Ouvertes Chausurre Femme Noir Chaussures Femme Cuir Souple Espadrille Chaussure Plates Femme Mocassin Cuir Et Chic Confortables Et éLéGantes Chaussures Femmes Mocassins Et Loafers Femme Cuir Espadrilles Bleu Printemps Chaussures Noires Femme Talon Compensé Souple Chaussures Printemps Femme Chaussures Femme Chaussure Femme Blanche Chaussures Cuir Femme Mocassin Femme Blanc Chaussure Femme Mocassins Mocassins Et Loafers Femme Derbies Femme Noir Femme Espadrilles Femme",
+            "Paillettes Mocassin Femme Tong Femme Noir Chaussure Plates Femme Mocassin Cuir Et Chic Mocassins Femmes Chaussure Femme Mocassins Cuir Mocassin Femme Confortable Chaussures Femme DéStockage Femme Espadrille Femme Chaussures Femme Mocassin Femme Noir Chausssure Femme Chaussures Chaussures Femme Espadrille Femmes Mocassin Femme Espadrilles Femme Femme Confortable Chaussures Chaussures Plates Pour Femme Espadrilles Chaussures Mariage Chaussure Printemps Femme Printemps Chaussures Noires Femme Talon"
+          ],
+          "other": [
+            "Boat shoes loafers for women espadrille boot woman sandals women shoes babies shoes woman moccasin woman leather woman glitter loafer woman flip flop woman black loafer woman chic derbies woman beige leather shoes women shoes woman chic and elegant loafers woman leather espadrilles blue small heel shoe wedding woman sandals woman wedge woman women comfortable small heel babies woman shoe woman open shoes. urre Comfort Shoe",
+            "Comfort Chic Women's Sandal Shoes Boat Shoes Women Espadrille Shoe Comfort Flat Shoe Woman Comfortable Chic Black Diamanto Shoes Woman Black Women's Espadrilles Woman Cheap Derby Shoes White Wedding Loafer Woman Leather Flat Women's Chic Derbies Black Flat Shoes Wedding Shoe Spring Woman Shoes Women's Comfort Chic Wedding Woman Leather Shoe Vintage Woman Summer Comfortable Sandals Small Heel Shoe",
+            "Women's shoes summer 2024 flip flops women's flat shoe women's loafer leather and chic wedding shoes silver women's shoe loafer woman comfortable shoes women's loafers women shoes women's loafers soft shoes woman loafer woman derbies woman summer shoes women's espadrilles woman black shoes woman soft leather espadrille flip flop girl sandals woman sandal woman shoes small heel shoes glitter sandals woman shoes Comfort Shoe",
+            "Babies woman shoe woman open shoe woman black shoes woman soft leather espadrille flat shoe woman loafer leather and chic comfortable and elegant shoes women loafers women loafers women leather espadrilles blue spring shoes black shoes women soft wedge heel shoes spring women shoes woman white shoes women's leather shoes woman loafer woman white shoe woman moccasins and loafers Women's Black Derbies Women's Espadrilles",
+            "Glitter loafer woman flip flop woman black flat shoe woman loafer leather and chic loafers women shoe woman loafers leather loafer woman comfortable shoes woman destocking woman espadrille woman shoes women's black shoe women's shoes women's espadrille women's loafer woman comfortable shoes flat shoes for women espadrilles shoes wedding shoe spring woman spring black shoes woman heel"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61YQyYanf0L.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0DDK2HFFT"
+      }
+    },
+    {
+      "asin": "B0C6958KDQ",
+      "csi_title": "Geox Sandales D Brionia LFlat pour fille, brique, 2 UK",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": "35 EU",
+          "additional_sizes_detected": [
+            "$additional_links_augmentor_294::{",
+            "numeric_35,",
+            "35 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"4.5\"",
+            "legacy_unit": "womens_us"
+          }
+        },
+        "footwear_size": {
+          "gender": "women",
+          "size": "numeric_35",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 35
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "other": [
+            "Longueur du colis de l'article: 300 mm",
+            "Largeur du colis de l'article: 170 mm",
+            "Hauteur du colis de l'article: 110 mm",
+            "Poids du colis de l'article: 0.2 kg",
+            "Breathable"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/41JwDol4iqL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0C6958KDQ"
+      }
+    },
+    {
+      "asin": "B0DHWD4Q11",
+      "csi_title": "Adidas Mixte Enfant VL Court 3.0 Shoes Children, Clear Pink/Clear Pink/Gum, 29 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "29 EU",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Enfant",
+            "Kid"
+          ],
+          "normalized": "kid"
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": "other",
+          "normalized": "other"
+        },
+        "bullet_points": {
+          "fr": [
+            "Fermeture à lacets élastiques avec brides auto-agrippantes.",
+            "Tige en cuir et synthétique.",
+            "Semelle extérieure en caoutchouc."
+          ],
+          "other": [
+            "Chaussant standard.",
+            "Doublure textile.",
+            "Standard fit.",
+            "Elastic lace-up closure with hook-and-loop straps.",
+            "Leather and synthetic upper.",
+            "Textile lining.",
+            "Rubber outsole."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61DgnDegnSL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0DHWD4Q11"
+      }
+    },
+    {
+      "asin": "B08M5Q3S7G",
+      "csi_title": "DEBAIJIA Chaussures pour Tout-Petits 1-5T B&#233;b&#233; Premi&#232;re Marche Enfant Semelle Souple Cotton Mignon 30 EU Rose (&#201;tiquette Taille 195)",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_144::{",
+          "size_map": "30 EU",
+          "additional_sizes_detected": [
+            "numeric_30,",
+            "30 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_30",
+            "age_group": "little_kid",
+            "size_system": "eu_footwear_size_system",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 30
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_30",
+          "age_group": "little_kid",
+          "size_system": "eu_footwear_size_system",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 30
+        },
+        "age_range": {
+          "raw_values": [
+            "Bébé",
+            "Baby"
+          ],
+          "normalized": "little_kid"
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": "[Semelle Extérieure Antidérapante]: Parfait pour marche intérieure, notament sur terrain dur comme plancher en bois ou plancher feuilleté. La semelle est légère et flexible, convient au besoin des bébés et enfant pendant qu’ils se marchent.",
+          "normalized": "[Semelle Extérieure Antidérapante]: Parfait pour marche intérieure, notament sur terrain dur comme plancher en bois ou plancher feuilleté. La semelle est légère et flexible, convient au besoin des bébés et enfant pendant qu’ils se marchent."
+        },
+        "bullet_points": {
+          "fr": [
+            "Material: cotton + PVC. The shoe is made of high-quality materials, durable and provides protection against rough surfaces and dirty floors. The sole is made of PVC with good flexibility and elasticity as well as good sliding properties."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61LlDgZB3YL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B08M5Q3S7G"
+      }
+    },
+    {
+      "asin": "B0CD7NYQNJ",
+      "csi_title": "Havaianas Diseny CLS Tongs pour femme, bleu marine, 13 UK Child",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_263::{",
+          "size_map": "31/32 EU",
+          "additional_sizes_detected": [
+            "numeric_31,",
+            "31/32 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_31",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "big_kid",
+            "width": "medium",
+            "to_size": "numeric_32",
+            "size_class": "numeric_range",
+            "numeric_size": 31
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_31",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "big_kid",
+          "width": "medium",
+          "to_size": "numeric_32",
+          "size_class": "numeric_range",
+          "numeric_size": 31
+        },
+        "age_range": {
+          "raw_values": [
+            "Kid",
+            "kid"
+          ],
+          "normalized": "big_kid"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Taille : lors de l'achat de tongs Havaianas sur Amazon, vous devez considérer la taille BR/fournisseur comme équivalente à la taille européenne, quelle que soit la taille affichée sur la semelle du produit",
+            "Sangle : PVC. Matériau de la semelle : caoutchouc",
+            "Type de semelle : confortable, durable, légère, résistante à la chaleur, antidérapante et imperméable",
+            "Sole type: comfortable, durable, lightweight, heat-resistant, non-slip and waterproof"
+          ],
+          "other": [
+            "Couleur des tongs : bleu marine",
+            "Genre : tongs unisexes pour enfants",
+            "Flip flop colour: navy blue",
+            "Gender: Unisex Kids Flip Flops",
+            "Size:When buying Havaianas flip flops on Amazon, you should consider the BR/supplier size as equivalent to the European size, no matter what size displayed on the sole of the product",
+            "Strap: PVC Sole material: rubber"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/71MWNovDKRL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0CD7NYQNJ"
+      }
+    },
+    {
+      "asin": "B0BM54VS5F",
+      "csi_title": "Camper Brutus K900318 Bottines unisexes pour enfant, Marron fonc&#233; 004, 33 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "33 EU",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Enfant",
+            "Kid"
+          ],
+          "normalized": "kid"
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": "100% Rubber",
+          "normalized": "Rubber"
+        },
+        "bullet_points": {
+          "fr": [
+            "Fermeture : fermeture éclair"
+          ],
+          "other": [
+            "Dessus : textile",
+            "Semelle : caoutchouc",
+            "Forme du talon : plat",
+            "Upper: Textile",
+            "Sole: Rubber",
+            "Closure: zip",
+            "Heel shape: flat"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/81thInG0J0L.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0BM54VS5F"
+      }
+    },
+    {
+      "asin": "B0BM541CTQ",
+      "csi_title": "Camper Bottines Norte K900304 pour fille, Noir 005, 11.5 UK Child",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_361::{",
+          "size_map": "29.5 EU",
+          "additional_sizes_detected": [
+            "numeric_29_point_5,",
+            "29.5 EU"
+          ],
+          "structured_size": {
+            "gender": "women",
+            "size": "numeric_29_point_5",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "little_kid",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 29
+          }
+        },
+        "footwear_size": {
+          "gender": "women",
+          "size": "numeric_29_point_5",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "little_kid",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 29
+        },
+        "age_range": {
+          "raw_values": [
+            "Enfant",
+            "Kid"
+          ],
+          "normalized": "little_kid"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Matériau extérieur : cuir",
+            "Fermeture : fermeture éclair"
+          ],
+          "other": [
+            "Semelle : caoutchouc",
+            "Upper material: leather",
+            "Sole: Rubber",
+            "Closure: zip"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/81oDkvx59aL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0BM541CTQ"
+      }
+    },
+    {
+      "asin": "B0FM4F5HXH",
+      "csi_title": "Naihoow La Reine des Neiges Elsa Chaussures pour fille, bleu, 27 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_141::{",
+          "size_map": "27 EU",
+          "additional_sizes_detected": [
+            "numeric_27,",
+            "27 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_27",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "toddler",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 27
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_27",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "toddler",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 27
+        },
+        "age_range": {
+          "raw_values": [
+            "Enfant",
+            "Kid"
+          ],
+          "normalized": "toddler"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": "Polychlorure de vinyle",
+          "normalized": "Polychlorure de vinyle"
+        },
+        "bullet_points": {
+          "fr": [
+            "Construction en PVC de qualité supérieure : ces chaussures en gelée pour filles disposent d'une semelle légère en PVC avec une excellente respirabilité, une résistance antidérapante supérieure et une durabilité durable pour un confort tout au long de la journée.",
+            "Sangle pratique : équipées d'un système de fermeture réglable, ces sandales habillées offrent une portabilité sans effort tout en conservant une apparence élégante adaptée à la fois aux occasions spéciales et à une utilisation quotidienne.",
+            "Confort tout au long de la journée : le design flexible de style ballet avec des matériaux respirants assure un port confortable pour différentes formes de pieds, offrant un confort optimal tout au long de la journée.",
+            "Taille précise : veuillez consulter le tableau des tailles détaillé dans les images du produit pour sélectionner la taille parfaite pour votre enfant.",
+            "Style polyvalent : parfaites pour les fêtes saisonnières comme Noël ou Halloween, ainsi que les tenues quotidiennes, ces sandales tendance complètent n'importe quelle garde-robe pour garder votre enfant élégant dans tous les environnements.",
+            "ALL DAY COMFORT The flexible ballet style design with breathable materials ensures comfortable wear for different foot shapes, providing optimal comfort all day long.",
+            "VERSATILE STYLE - Perfect for seasonal parties like Christmas or Halloween, as well as everyday outfits, these trendy sandals complement any wardrobe to keep your child stylish in any setting."
+          ],
+          "other": [
+            "PREMIUM PVC CONSTRUCTION - These jelly shoes for girls feature a lightweight PVC sole with excellent breathability, superior slip resistance and long-lasting durability for all day comfort.",
+            "CONVENIENT STRAP - Equipped with an adjustable closure system, these dress sandals provide effortless wearability while maintaining a stylish appearance suitable for both special occasions and everyday use.",
+            "Precise Size Please refer to the detailed size chart in the product images to select the perfect size for your child."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/614QmQMNtWL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0FM4F5HXH"
+      }
+    },
+    {
+      "asin": "B0DP7V8RLC",
+      "csi_title": "Leomil Spiderman Basket Enfant Chaussures Boys 28, Id&#233;al pour l&apos;&#233;cole et Les Loisirs, Bleu",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_166::{",
+          "size_map": "28 EU",
+          "additional_sizes_detected": [
+            "numeric_28,",
+            "28 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_28",
+            "age_group": "little_kid",
+            "size_system": "eu_footwear_size_system",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 28
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_28",
+          "age_group": "little_kid",
+          "size_system": "eu_footwear_size_system",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 28
+        },
+        "age_range": {
+          "raw_values": [
+            "Little Kid"
+          ],
+          "normalized": "little_kid"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Matériaux et production de haute qualité: Ces Spiderman Baskets sont fabriqués à partir de matériaux de haute qualité, idéales pour une utilisation quotidienne, les jeux dans la cour de récré ou la rentrée scolaire.",
+            "Produit officiellement licencié Marvel: Ces baskets Marvel Collection de licences. Ces Chaussures Marvel présentent une imageSpiderman sur le côté – parfaites pour les fans.",
+            "Motif tendance, cool et amusant: Le Hook and loop tape pratique permet d'enfiler et d'enlever facilement les chaussures. Parfaites pour les matinées chargées ou à porter comme des baskets.",
+            "Semelles antidérapantes pour une sécurité maximale: La semelle antidérapante adhère bien aux surfaces lisses et convient parfaitement aux enfants actifs.",
+            "Cadeau parfait Marvel pour Garçons: Un indispensable pour les fans de produits Marvel! Ces baskets Spiderman sont un cadeau d’anniversaire magique, une super idée de cadeau pour Garçons"
+          ],
+          "other": [
+            "High quality materials and production: These Spiderman trainers are made from high quality materials, ideal for everyday use, playground play or back to school.",
+            "Officially Licensed Marvel Product: These Marvel License Collection Sneakers. These Marvel shoes feature a Spiderman image on the side - perfect for fans.",
+            "Fashionable, cool and fun pattern: The practical hook and loop tape makes it easy to put on and take off shoes. Perfect for busy mornings or to wear as sneakers.",
+            "Non-slip soles for maximum safety: The non-slip sole adheres well to smooth surfaces and is ideal for active children.",
+            "Perfect Marvel Gift for Boys: A must have for fans of Marvel products! These Spiderman trainers are a magical birthday gift, a great gift idea for boys"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/71s4loWA4oL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0DP7V8RLC"
+      }
+    },
+    {
+      "asin": "B0BS9RC64H",
+      "csi_title": "Timberland Bottines Allington 6 pouces CODE A1JVB, taupe, 36 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": "36 EU",
+          "additional_sizes_detected": [
+            "$additional_links_augmentor_220::{",
+            "numeric_36,",
+            "36 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"5.5\"",
+            "legacy_unit": "womens_us"
+          }
+        },
+        "footwear_size": {
+          "gender": "women",
+          "size": "numeric_36",
+          "age_group": "adult",
+          "size_system": "eu_footwear_size_system",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 36
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Un ou plusieurs composants principaux utilisent au moins 50 % de cuir tanné dans une structure classée Silver ou supérieure par un audit environnemental externe. Le Leather Working Group juge et classe les tanneries sur la base de la consommation d'énergie, de la production de déchets et du traitement des eaux.",
+            "Les semelles ORTHOLITE comfort foam offrent un système de gestion de l'humidité, une action antimicrobienne et un amortissement de longue durée. Le matériau ultra-respirant ne s’use pas et ne perd pas son effet d’amortissement au fil du temps, pour une chaussure toujours confortable et de soutien.",
+            "Nous avons collecté des bouteilles en plastique PET non biodégradables, les avons recyclées et transformées en fils RPET (polyéthylène téréphtalate recyclé). Le résultat est ce matériau respectueux de l'environnement, qui nous permet de réaliser des produits en PET recyclé à 50 %, afin de réduire presque complètement l'impact environnemental de différents processus de production.",
+            "Fabriquées avec au moins 50 % de matériaux recyclés pour contribuer à réduire leur impact environnemental."
+          ],
+          "en": [
+            "We collected non-biodegradable PET plastic bottles, recycled them and processed them into RPET (recycled polyethylene terephthalate) yarns. The result is this environmentally friendly material, which allows us to produce products from 50% recycled PET, in order to almost completely reduce the environmental impact of different production processes."
+          ],
+          "other": [
+            "One or more primary components use at least 50% tanned leather in a structure classified as Silver or higher by an external environmental audit. The Leather Working Group judges and classifies tanneries based on energy consumption, waste production and water treatment.",
+            "ORTHOLITE comfort foam insoles offer moisture management system, antimicrobial action and long-lasting cushioning. The ultra-breathable material does not wear out or lose its cushioning effect over time, ensuring a shoe that is always comfortable and supportive.",
+            "Made with at least 50% recycled materials to help reduce their environmental impact."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/71UFyyWcWqL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0BS9RC64H"
+      }
+    },
+    {
+      "asin": "B0CPMF9P34",
+      "csi_title": "Geox J FLEXYPER Plus Boy Botte de Neige, Black, 36 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_312::{",
+          "size_map": "36 EU",
+          "additional_sizes_detected": [
+            "numeric_36,",
+            "36 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_36",
+            "age_group": "big_kid",
+            "size_system": "eu_footwear_size_system",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 36
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_36",
+          "age_group": "big_kid",
+          "size_system": "eu_footwear_size_system",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 36
+        },
+        "age_range": {
+          "raw_values": [
+            "Big Kid"
+          ],
+          "normalized": "big_kid"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Imperméabilité maximale et respiration pour une protection optimale",
+            "Protection contre le froid grâce à un niveau optimal d’isolation thermique"
+          ],
+          "other": [
+            "Amorti optimal qui offre protection et absorption des impacts et des sollicitations",
+            "Maximum water resistance and breathability for optimal protection",
+            "Protection against cold thanks to optimal level of thermal insulation",
+            "Optimal cushioning that provides protection and absorption of impacts and stresses"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/71PP9NOjtoL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0CPMF9P34"
+      }
+    },
+    {
+      "asin": "B0F1V7CLSK",
+      "csi_title": "Pablosky Zero 519287 Botte Tendance, Citronier, 28 EU Large",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_322::{",
+          "size_map": "28 EU Large",
+          "additional_sizes_detected": [
+            "numeric_28,",
+            "28 EU Large"
+          ],
+          "structured_size": {
+            "gender": "men",
+            "size": "numeric_28",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "little_kid",
+            "width": "wide",
+            "size_class": "numeric",
+            "numeric_size": 28
+          }
+        },
+        "footwear_size": {
+          "gender": "men",
+          "size": "numeric_28",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "little_kid",
+          "width": "wide",
+          "size_class": "numeric",
+          "numeric_size": 28
+        },
+        "age_range": {
+          "raw_values": [
+            "Enfant",
+            "Kid"
+          ],
+          "normalized": "little_kid"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Microfibre haute résistance et respirabilité pour un look spectaculaire pendant longtemps",
+            "Doublure en laine recyclée pour garder les pieds protégés et au chaud",
+            "Semelle intérieure thermique amovible en laine recyclée pour garder les pieds au chaud",
+            "Flexibilité et sécurité sur un sol en caoutchouc qui empêche les glissements et le temps.",
+            "Fabriquées en Espagne et approuvées par des podologues expérimentés Sebior."
+          ],
+          "other": [
+            "High strength microfiber and breathability for a spectacular look for a long time",
+            "Recycled wool lining keeps feet protected and warm",
+            "Removable recycled wool thermal insole keeps feet warm",
+            "Flexibility and safety on a rubber floor that prevents slipping and time.",
+            "Made in Spain and approved by experienced Sebior podiatrists."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/81tGvIAFY1L.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0F1V7CLSK"
+      }
+    },
+    {
+      "asin": "B0DKX7HKC2",
+      "csi_title": "Conguitos - Bottes Australiennes Fille Doublure Int&#233;rieure en Fourrure Bronze pour Fille (Bronce/Tailla 32)",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_153::{",
+          "size_map": "32 EU",
+          "additional_sizes_detected": [
+            "numeric_32,",
+            "32 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_32",
+            "age_group": "toddler",
+            "size_system": "eu_footwear_size_system",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 32
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_32",
+          "age_group": "toddler",
+          "size_system": "eu_footwear_size_system",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 32
+        },
+        "age_range": {
+          "raw_values": [
+            "Enfant",
+            "Kid"
+          ],
+          "normalized": "toddler"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Conguitos - Bottes Australiennes Fille Doublure Intérieure en Fourrure Bronze pour Fille (Bronce / Tailla 32)",
+            "Conguitos propose une mode pour enfants privilégiant le confort et le style à un prix abordable, garantissant la plus haute qualité. Des designs modernes et colorés.",
+            "Conguitos est une marque espagnole de mode pour enfants spécialisée dans l'offre de vêtements et de chaussures de qualité aux designs les plus variés et innovants. Nos produits sont fabriqués en Espagne.",
+            "Conguitos offers children's fashion that prioritizes comfort and style at an affordable price, guaranteeing the highest quality. Modern and colourful designs."
+          ],
+          "other": [
+            "[Bottes Conguitos]..",
+            "Conguitos - Australian boots Bronze fur inner lining. Girls' (Bronce / Tailla 32)",
+            "[Conguitos Boots]..",
+            "Conguitos is a Spanish children's fashion brand specialized in offering quality clothing and shoes with the most varied and innovative designs. Our products are made in Spain."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/51A5TCY8pIL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0DKX7HKC2"
+      }
+    },
+    {
+      "asin": "B09NZ7862H",
+      "csi_title": "KEEN Hikeport 2 Sport Mid Chaussures de randonn&#233;e imperm&#233;ables Unisexes pour Enfants, Vert, 13 UK Child",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "32/33 EU",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Enfant",
+            "Kid"
+          ],
+          "normalized": "kid"
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Imperméable : la membrane imperméable et respirante KEEN.DRY garde les pieds des enfants au sec et confortables sur les terrains humides ; dessus en cuir imperméable durable et textile avec sangle réfléchissante ; doublure en maille pour garder les pieds au frais dans les environnements plus chauds",
+            "Traction et confort : les semelles extérieures en caoutchouc non marquantes ne laissent aucune trace ou empreinte lorsque vous marchez à l'intérieur ; construites avec un système de traction multidirectionnel ; le col et la languette rembourrés aident à réduire les irritations et l'inconfort",
+            "Style et ajustement : conçu avec une semelle intermédiaire amortissante à fixation directe pour une durabilité légère ; le système de fermeture par sangle Velcro offre un ajustement sûr tout en offrant un moyen rapide et facile de les mettre et de les enlever",
+            "Entretien : brossez doucement avec une éponge douce et humide pour enlever la saleté ; sécher à l'air libre loin de la chaleur",
+            "Entretien et création consciencieuse : les sources KEEN sont issues de tanneries certifiées par le groupe de travail du cuir ; le DWR écologique préféré aide à prévenir le dessèchement du cuir",
+            "Waterproof: KEEN.DRY waterproof breathable membrane keeps kids' feet dry and comfortable on wet grounds; Durable waterproof leather upper and textile with reflective strap; Mesh lining keeps feet cool in warmer environments",
+            "STYLE AND FIT - Designed with a direct attach cushioning midsole for lightweight durability; Velcro strap closure system provides a secure fit while providing a quick and easy way to put them on and take them off"
+          ],
+          "other": [
+            "TRACTION AND COMFORT - Non-marking rubber outsoles leave no marks or footprints when walking inside; Built with multi-directional traction system; padded collar and tongue help reduce irritation and discomfort",
+            "Care: gently brush with a soft, damp sponge to remove dirt; air dry away from heat",
+            "Conscientious maintenance and creation: KEEN sources are sourced from leather working group certified tanneries; preferred eco DWR helps prevent leather drying out"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/81CIsGTAyNL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B09NZ7862H"
+      }
+    },
+    {
+      "asin": "B0DJC6TPQH",
+      "csi_title": "PUMA Baskets Rebound Femme Memoires Jr pour Fille, Puma Confiture de Prune Haute Tropique Blanche, 4 UK",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_335::{",
+          "size_map": "36 EU",
+          "additional_sizes_detected": [
+            "numeric_36,",
+            "36 EU"
+          ],
+          "structured_size": {
+            "gender": "women",
+            "size": "numeric_36",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "big_kid",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 36
+          }
+        },
+        "footwear_size": {
+          "gender": "women",
+          "size": "numeric_36",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "big_kid",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 36
+        },
+        "age_range": {
+          "raw_values": [
+            "Enfant"
+          ],
+          "normalized": "big_kid"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": "Caoutchouc",
+          "normalized": "Rubber"
+        },
+        "bullet_points": {
+          "other": [
+            "Rebound Femme Memoires Jr"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61DCwISzytL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0DJC6TPQH"
+      }
+    },
+    {
+      "asin": "B0B295M2MN",
+      "csi_title": "Geox Baskets U Merediano pour gar&#231;on, Ecru, 6 UK",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": null,
+          "additional_sizes_detected": [
+            "33 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"6\"",
+            "legacy_unit": "mens_us"
+          }
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Enfant",
+            "Kid"
+          ],
+          "normalized": "kid"
+        },
+        "target_gender": "male",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "other": [
+            "Fermeture : caoutchouc",
+            "Cuir : cuir verni",
+            "10.236220462 pouces",
+            "Closure: rubber",
+            "Leather: Patent Leather",
+            "10.236220462 inches"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/51wdcJ5ZgYL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0B295M2MN"
+      }
+    },
+    {
+      "asin": "B0BN6R1HK3",
+      "csi_title": "Geox Baskets Uomo Snake K pour gar&#231;on, Noir/Gris Anthracite, 6 UK",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "33 EU",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Enfant",
+            "Kid"
+          ],
+          "normalized": "kid"
+        },
+        "target_gender": "male",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Matériau extérieur : synthétique",
+            "Matériau intérieur : synthétique"
+          ],
+          "other": [
+            "Semelle : caoutchouc",
+            "Fermeture : lacets",
+            "Upper material: synthetic",
+            "Inner material: synthetic",
+            "Sole: Rubber",
+            "Closure: laces"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/51qGBy3rIPL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0BN6R1HK3"
+      }
+    },
+    {
+      "asin": "B0B7TK72VG",
+      "csi_title": "REEF Cushion Vista Higher Mules pour femme, noir, 36 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": null,
+          "additional_sizes_detected": [
+            "36 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"6\"",
+            "legacy_unit": "womens_us"
+          }
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Tige : disponible avec 2 brides en cuir végétalien super lisse non doublé sans PVC, avec bride de cou-de-pied tressée synthétique ou en raphia tissé synthétique avec bords festonnés. Différentes options de matériau de brides.",
+            "Semelle intérieure | Notre semelle très confortable procure le mélange parfait d’amorti et de soutien de rebond. Il s’agit d’une forme plus large avec un soutien généreux de la voûte plantaire et un renfort au talon. Revêtement supérieur en liège véritable.",
+            "Semelle extérieure : grosse semelle extérieure crantée, légère et durable, en EVA avec une plateforme de 6,3 cm à crans exagérés.",
+            "Reef : depuis 1984, Reef fabrique des chaussures de haute qualité et ultra confortables. Nous fabriquons des sandales et des chaussures qui vous emmèneront de la plage à la rue et partout ailleurs.",
+            "Outsole: chunky lugged lightweight and durable EVA outsole with a 2.5\" platform with exaggerated notches."
+          ],
+          "en": [
+            "INSOLE | Our highly comfortable sole provides the perfect blend of cushioning and rebound support. This is a wider shape with generous arch support and heel reinforcement. Real cork top coating.",
+            "Reef : Since 1984, REEF has been producing high quality and ultra-comfortable shoes. We make sandals and shoes that will take you from the beach to the street and everywhere else."
+          ],
+          "other": [
+            "- -",
+            "Upper: Available with 2 straps in super smooth vegan leather unlined PVC free, with synthetic braided instep strap or synthetic woven raffia with scalloped edges. Different flange material options."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/41pQ-58rfcL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0B7TK72VG"
+      }
+    },
+    {
+      "asin": "B0DHXKS4PK",
+      "csi_title": "pour enfants D&#233;grad&#233; de couleur Chaussures lumineuses &#224; Chaussures de papa &#224; lacets Semelles souples Fille Rose Orteils S&#233;par&#233;s Fille Argent&#233; Bout Carr&#233; Fille Violet Bout Renforc&#233; Fille Vert Mode",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_97::{",
+          "size_map": "29 EU",
+          "additional_sizes_detected": [
+            "numeric_29,",
+            "29 EU"
+          ],
+          "structured_size": {
+            "gender": "women",
+            "size": "numeric_29",
+            "age_group": "little_kid",
+            "size_system": "eu_footwear_size_system",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 29
+          }
+        },
+        "footwear_size": {
+          "gender": "women",
+          "size": "numeric_29",
+          "age_group": "little_kid",
+          "size_system": "eu_footwear_size_system",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 29
+        },
+        "age_range": {
+          "raw_values": [
+            "Enfant",
+            "Kid"
+          ],
+          "normalized": "little_kid"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "chausson 34 fille chaussons enfant 28 basket montante fille 25 basket montante taille 36 chaussures plage filles basket ado garcon 40 accessoires basket fille basket 28 fille basket 36 bottes lumineuse fille chaussures garçon 38 enfants chaussure d sneakers garcon 38 basket 32.5 basket hiver garcon chaussures enfant fille avec lumiere sneaker 38 chaussures enfants garcon basket garçon 40 basquette ete enfants garcons chaussures 28 fille chaussures bebe fille 20 chaussure ete enfant garcon bas",
+            "basket montante taille 36 chaussures plage filles basket ado garcon 40 accessoires basket fille basket 28 fille basket 36 bottes lumineuse fille chaussures garçon 38 enfants chaussure de basketball garcon sneakers 28 basket enfant fille lumiere bas basket sport garcon 39 basket garçon 30 scratch basket enfant garcon en cuir basket sport garcon 34 baskets enfant garcon 30 ballerine enfant fille basket enfants garcon basquette enfants garcons 34 basket scratch 42 chaussures lumineuse chaussures",
+            "garcon basket chaussure de basketball 36 chausson de piscine enfant chaussure tennis enfant basket enfant 31 garcon chussure fille chaussure garcon 36 basket garcon 24 scratch sneaker cuir fille chaussures garçon 36 basket enfant running basket fil chausson de plage bebe chaussures plage enfant chaussure de basketball tennis de basketball basket lumineuse 24 chaussure running enfant chaussure garcon taille 31 tennis toile enfant fille basquettes fille 30 basket noir enfant garcon sandale garc"
+          ],
+          "other": [
+            "basket fille 34 sport basket lacets enfant garcon sandales enfant fille blanche chaussure enfant 32 baskets fille 29 basquette fille 34 basket scratch noir 30 basket 32 fille baskets lumineuses garcon bebe chaussures fille chaussure fille 29 basket basket garcon 40 sans lacets tennis enfant sans lacet chaussure de enfant sandales bebe fille souple chaussure de sport enfant basquette bebe garcon chaussure enfant 31 chaussures pour enfant garcon basquette enfants garcons 37 tennis enfant basket",
+            "basket sneakers garcon chaussures fille cuir sandale taille 22 fille chaussure 38 chaussure garson basket enfant garcon taille 21 running fille 34 chaussure enfant garcon 32 chaussure les chaussures lumineuse enfant fille chaussures filles hiver ch chaussure running 34 dunk kids chaussures 32 33 fille basket gzrcon basket fille taille 19 chaussure de basket ball femme basket sport garcon 30 basket toile fille 37 chausson d eau enfant requins chaussures fille sandale enfant baskets scratch 29",
+            "Girls' trainers 34 sport basketball laces child boy sandals girl white shoe child 32 trainers girl 29 basquet girl 34 black 30 sneaker 32 girl light trainers boy baby girl shoes girl shoe 29 basketball boy 10 without laces tennis children's shoes without lacing children's sandals baby girl soft sports shoe toddler basquette baby boy shoe child 31 shoes for children boy basquet kids boys 3 pack 7 children's tennis basketball",
+            "Slippers 34 girl slippers child 28 high-top trainers girl 25 high top sneaker size 36 beach shoes girls basketball teen boy 40 accessories girl basketball 28 girl basketball 36 boots bright girl shoes boy 38 children shoes d sneakers boy 38 trainers 32.5 basketball winter boy shoes girl with light sneaker 38 shoes children boy trainers boy 7 boys summer basquette Cons Shoes 28 Girl Shoes Baby Girl 20 Summer Shoes Child Boy Stockings",
+            "trainers trainers boy shoes girl leather sandal size 22 girl shoe 38 shoes boy basketball child boy size 21 running girl 34 shoes child boy 32 shoes bright child girl shoes girls winter ch running shoe 34 dunk kids shoes 32 33 girl basketball gzrcon sneaker girl size 19 basketball shoes woman sport trainer boy 30 basketball canvas girl 30 basketball shoes girl 30 basketball shoes girl 30 canvas girl 30 basketball shoes girl 30 7 Slippers D water child sharks shoes girl sandal children sneakers scratch 29",
+            "High-top trainer, size 36, beach shoes, girls, trainers, teenagers, boy, 40 accessories, girls' trainers, 28 girls, trainers, 36 boots, luminous girl, shoes, 38 children, basketball shoes, boy, 28 children's trainers, girl's light trainers, low sports trainers, boy, 39 trainers, boys 30 scratch trainers, leather trainers, boy's sports trainers, 34 trainers, 30 ballerinas, children, girls, boys. con basquette kids garter cons 34 basketball scratch 42 shoes bright shoes",
+            "Boys basketball shoes 36 pool shoes children's tennis shoe children's basketball children's basketball shoe 31 boy chussure girl shoe boy 36 basketball boy 24 scratch sneaker leather girl shoes boy 36 basketball children running basketball wire beach slippers baby beach shoes children's basketball tennis shoe bright basketball light 24 running shoes boy size 31 tennis canvas child girl sneakers girl 30 trainers black children's boys' sandal Ale Garc"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61JrG44TpfL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0DHXKS4PK"
+      }
+    },
+    {
+      "asin": "B0DHWBJ1JH",
+      "csi_title": "Adidas Mixte Enfant VL Court 3.0 Shoes Children, Clear Pink/Clear Pink/Gum, 30 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "30 EU",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Enfant",
+            "Kid"
+          ],
+          "normalized": "kid"
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": "other",
+          "normalized": "other"
+        },
+        "bullet_points": {
+          "fr": [
+            "Fermeture à lacets élastiques avec brides auto-agrippantes.",
+            "Tige en cuir et synthétique.",
+            "Semelle extérieure en caoutchouc."
+          ],
+          "other": [
+            "Chaussant standard.",
+            "Doublure textile.",
+            "Standard fit.",
+            "Elastic lace-up closure with hook-and-loop straps.",
+            "Leather and synthetic upper.",
+            "Textile lining.",
+            "Rubber outsole."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61DgnDegnSL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0DHWBJ1JH"
+      }
+    },
+    {
+      "asin": "B0DTZ3M2XT",
+      "csi_title": "VEJA V-90 Sneaker",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": null,
+          "additional_sizes_detected": [
+            "36 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"5\"",
+            "legacy_unit": "womens_us"
+          }
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": "other",
+          "normalized": "other"
+        },
+        "bullet_points": {
+          "fr": [
+            "Tige : Cuir traité biologiquement (OT)",
+            "Inserts : Cuir traité biologiquement (OT)",
+            "Logo : Caoutchouc amazonien (26 %), silice minérale (22 %), caoutchouc synthétique (21 %) et autres (31 %)"
+          ],
+          "other": [
+            "Upper: leather with organic finish (O.T.)",
+            "Inserts: leather with organic finish (O.T.)",
+            "Logo: Amazon rubber (26%), mineral silica (22%), synthetic rubber (21%) and others (31%)"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/51kXbsqOCHL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0DTZ3M2XT"
+      }
+    },
+    {
+      "asin": "B07V31WMVK",
+      "csi_title": "Dorking by Fluchos D7687-SRSR Sierra+Sierra Castagno + Cuero Tierra (36)",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": "36 EU",
+          "additional_sizes_detected": [
+            "$additional_links_augmentor_123::{",
+            "numeric_36,",
+            "36 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"6\"",
+            "legacy_unit": "womens_us"
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_36",
+          "age_group": "adult",
+          "size_system": "eu_footwear_size_system",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 36
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Semelle intérieure: Textile",
+            "Semelle extérieure: Elastomère / autre - Amovible : Non"
+          ],
+          "other": [
+            "Dessus: Cuir",
+            "Doublure: Textile",
+            "Hauteur de talon: 2,5 cm",
+            "Product Type: Boots Upper Material: Leather Inner Material: Leather, Textile Closure Type: Zip Heel Type: Flat Heel Toe Type: Round Toe Heel Height: 3 cm"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/416LlM3cASL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B07V31WMVK"
+      }
+    },
+    {
+      "asin": "B01LZN0NGV",
+      "csi_title": "Dotty Fish Chaussures Pieds Nus Unisexes en Cuir pour b&#233;b&#233;s et Enfants - Antid&#233;rapantes, l&#233;g&#232;res, Respirantes, Animaux du Zoo et de la Jungle. Gar&#231;ons et Filles - Panda Gris 3-4 Ans",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "3-4 ans",
+          "size_map": null,
+          "additional_sizes_detected": [
+            "3-4 Years"
+          ],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "infant",
+            "Infant"
+          ],
+          "normalized": "infant"
+        },
+        "target_gender": "male",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Chaussures minimalistes en cuir souple — légères, respirantes et flexibles pour accompagner les premiers pas et le développement naturel du pied.",
+            "Semelle en cuir suédé antidérapante — permet de sentir le sol sous les pieds tout en offrant une adhérence douce sur les surfaces intérieures.",
+            "Chevilles élastiquées confortables — assurent un bon maintien sans comprimer et facilitent l’enfilage et le retrait.",
+            "Testées et approuvées par le London Podiatry Centre — conçues pour respecter la forme naturelle du pied et favoriser une croissance saine.",
+            "Excellente idée cadeau — parfaites pour une naissance, une baby shower, un anniversaire ou Noël ; marque britannique de confiance depuis 2006."
+          ],
+          "other": [
+            "Tested and approved by the London Podiatry Centre and trusted by parents around the world since 2006.",
+            "The non-slip suede sole provides barefoot walking grip and balance. Flexible and lightweight, it offers optimal freedom of movement.",
+            "Soft and breathable leather and wide toe for plenty of manoeuvre.",
+            "Elasticated ankle for a perfect fit. No more lost shoes and socks!",
+            "Cute animal designs that kids love. An ideal gift for a birth, birthday or Christmas."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/71vyLNngP0L.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B01LZN0NGV"
+      }
+    },
+    {
+      "asin": "B075ZZQM3M",
+      "csi_title": "Skechers Baskets Uno Stand on Air pour gar&#231;on, Blanc, 36 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": null,
+          "additional_sizes_detected": [
+            "5.5",
+            "36 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"6\"",
+            "legacy_unit": "womens_us"
+          }
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Coupe compensée avec talon caché de 2,5 cm",
+            "Tige perforée en durabuck synthétique lisse",
+            "Semelle extérieure en caoutchouc souple",
+            "Skechers Semelle intérieure confortable en mousse à mémoire de forme refroidie par"
+          ],
+          "other": [
+            "Wedge fit with 1\" hidden heel",
+            "Perforated upper made of smooth synthetic durabuck",
+            "Soft rubber outsole",
+            "Skechers Memory foam comfort insole cooled by"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/719zPg3vNGL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B075ZZQM3M"
+      }
+    },
+    {
+      "asin": "B0C85LB7D4",
+      "csi_title": "ARA Baskets Sapporo pour Fille, Sable Caramel cr&#232;me, 3.5 UK Wide",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": "36.5 EU Large",
+          "additional_sizes_detected": [
+            "$additional_links_augmentor_320::{",
+            "numeric_36_point_5,",
+            "36.5 EU Large",
+            "36.5 EU Wide"
+          ],
+          "structured_size": {
+            "fit_size": "\"5.5\"",
+            "legacy_unit": "womens_us"
+          }
+        },
+        "footwear_size": {
+          "gender": "women",
+          "size": "numeric_36_point_5",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "wide",
+          "size_class": "numeric",
+          "numeric_size": 36
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Semelle intérieure interchangeable"
+          ],
+          "other": [
+            "Ultra doux",
+            "bambou",
+            "Interchangeable insole",
+            "Ultra Soft",
+            "Bamboo"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/71TWzlBozgL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0C85LB7D4"
+      }
+    },
+    {
+      "asin": "B0BLCKBW6L",
+      "csi_title": "UGG Tasman II, Chausson, Black,",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "27.5 EU",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Enfant",
+            "Kid"
+          ],
+          "normalized": "kid"
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Semelle intérieure en mousse",
+            "Semelle extérieure EVA canne à sucre",
+            "Logo UGG en relief à la chaleur",
+            "UGG Détails tressés"
+          ],
+          "other": [
+            "Foam insole",
+            "Sugarcane EVA outsole",
+            "Heat embossed UGG logo",
+            "UGG Braided details"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/51Z+Aih0tLL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0BLCKBW6L"
+      }
+    },
+    {
+      "asin": "B0DKNT3NQG",
+      "csi_title": "Barbie Baskets Lumineuses pour Filles, Chaussures de Sport &#224; LED Clignotantes et faciles &#224; Attacher, poup&#233;e Tendance pour Enfants",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_164::{",
+          "size_map": "32 EU",
+          "additional_sizes_detected": [
+            "numeric_32,",
+            "32 EU"
+          ],
+          "structured_size": {
+            "gender": "women",
+            "size": "numeric_32",
+            "age_group": "little_kid",
+            "size_system": "eu_footwear_size_system",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 32
+          }
+        },
+        "footwear_size": {
+          "gender": "women",
+          "size": "numeric_32",
+          "age_group": "little_kid",
+          "size_system": "eu_footwear_size_system",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 32
+        },
+        "age_range": {
+          "raw_values": [
+            "Enfant",
+            "Kid"
+          ],
+          "normalized": "little_kid"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Nous avons travaillé en collaboration directe avec Barbie pour concevoir ces magnifiques baskets. Elles sont d'un rose parfait et comportent des lumières au talon qui clignotent pendant la marche. Nous présentons une image de différentes poupées de chaque côté avec une finition brillante qui brille dans un thème de couleur argent et rose. Un cadeau parfait pour tous les fans de Barbie, surtout lorsque chaque paire est livrée dans un magnifique coffret cadeau Barbie.",
+            "Conçues avec un matériau résistant et une maille respirante. Dotées de lumières clignotantes au talon qui s'allument pendant la marche, idéales pour la sécurité pendant les nuits sombres. Le talon et les semelles intérieures sont entièrement rembourrés et offrent un soutien supplémentaire à la cheville. Fabriquées à partir de matériaux durables et de haute qualité pour assurer la longévité.",
+            "Faites partie du phénomène Barbie. Barbie est un jouet bien connu et très apprécié vendu dans le monde entier. Puis est arrivé le film et l'explosion des produits dérivés Barbie. Alors pourquoi ne pas ajouter ces baskets à la garde-robe de votre enfant et participer à la tendance. Elle se sentira comme une vraie Barbie dans ces chaussures Barbie élégantes.",
+            "Idéal pour toutes les occasions. Ce modèle est parfait pour les tenues décontractées, l'école, les sorties au parc ou les sorties. Complétez n'importe quel déguisement avec ces chaussures, car elles présentent de jolies images des personnages Barbie très appréciés.",
+            "Nous avons une vaste sélection de nombreux personnages populaires dans notre boutique. Parcourez notre collection pour trouver le cadeau de personnage parfait pour votre petite princesse ou votre petit héros.",
+            "Designed with durable material and breathable mesh. Featuring flashing lights on the heel that light up while walking, ideal for safety in dark nights. The heel and insoles are fully padded and provide extra support to the ankle. Made from durable and high quality materials to ensure longevity."
+          ],
+          "en": [
+            "Ideal for any occasion. This model is perfect for casual wear, school, going to the park or going out. Complete any costume with these shoes as they feature cute images of the much-loved Barbie characters."
+          ],
+          "other": [
+            "We worked directly with Barbie to design these beautiful sneakers. They are a perfect pink and feature heel lights that flash while walking. We feature an image of different dolls on each side with a glossy finish that shines in a silver and pink color theme. A perfect gift for any Barbie fan, especially when each pair comes in a beautiful gift box Barbie.",
+            "Be part of the Barbie phenomenon. Barbie is a well-known and highly regarded toy sold worldwide. Then came the film and the explosion of Barbie derivatives. So why not add these sneakers to your child's wardrobe and join the trend. She will feel like a true Barbie in these elegant Barbie shoes.",
+            "We have a huge selection of many popular characters in our shop. Browse our collection to find the perfect character gift for your little princess or little hero."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/715WJzi0k3L.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0DKNT3NQG"
+      }
+    },
+    {
+      "asin": "B0CPN24LQX",
+      "csi_title": "Geox Bottines J Casey pour fille, Cyclamen, 7 UK",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "32 EU",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Enfant",
+            "Kid"
+          ],
+          "normalized": "kid"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Il s'agit d'un produit Geox authentique et original",
+            "Matériau : synthétique",
+            "Lacets et fermeture éclair",
+            "Semelle intérieure amovible",
+            "Semelle antibactérienne"
+          ],
+          "other": [
+            "Bottes Geox respirantes",
+            "Breathable"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61-9BAyyAcL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0CPN24LQX"
+      }
+    },
+    {
+      "asin": "B0CPJFZJNL",
+      "csi_title": "Skechers Baskets Uno Wedge pour Fille - Everything NiceSneaker, Naturel, 36 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": null,
+          "additional_sizes_detected": [
+            "36 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"6\"",
+            "legacy_unit": "womens_us"
+          }
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Matériau intérieur : Synthétique",
+            "Matériau extérieur : Synthétique",
+            "Matériau unique : Caoutchouc synthétique"
+          ],
+          "other": [
+            "Type de fermeture : Lacet",
+            "Type de talon : Plat",
+            "Closure type: lace",
+            "Heel type: flat",
+            "Inner material: synthetic",
+            "Upper material: synthetic",
+            "Unique Material: Synthetic Rubber"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61Wb51PJD3L.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0CPJFZJNL"
+      }
+    },
+    {
+      "asin": "B0BNLCPMHK",
+      "csi_title": "Clarks Premium Freva55 Strap, Pompe, Black Leather,",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": null,
+          "additional_sizes_detected": [
+            "35.5 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"5\"",
+            "legacy_unit": "womens_us"
+          }
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Semelle intérieure rembourrée enveloppée avec soutien de la voûte plantaire, semelle extérieure en caoutchouc pour une flexibilité maximale, tige en cuir de qualité supérieure provenant de sources responsables",
+            "Semelle intérieure rembourrée avec soutien de la voûte plantaire",
+            "La doublure en cuir et la chaussette augmentent la respirabilité",
+            "Semelle extérieure en caoutchouc pour une flexibilité maximale"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/71NySOEDm7L.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0BNLCPMHK"
+      }
+    },
+    {
+      "asin": "B0CNY7GJ9S",
+      "csi_title": "Skechers Bottines Uno Lite Comfurt pour Fille, Noir, 4 UK Child",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "30 EU",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Enfant",
+            "Kid"
+          ],
+          "normalized": "kid"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Entraîneur à lacets et bordure en cuir",
+            "Mousse à mémoire de forme refroidie par air",
+            "Fermeture éclair au milieu"
+          ],
+          "other": [
+            "Lace-up trainer and leather trim",
+            "Air Cooled Memory Foam",
+            "Zipper in the middle"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61wXVOPFK7L.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0CNY7GJ9S"
+      }
+    },
+    {
+      "asin": "B09HJFDYJW",
+      "csi_title": "Skechers Baskets 314802n Nvmt pour Fille, Bordure Textile Bleu Marine, 4 UK",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "36 EU",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Enfant",
+            "Kid"
+          ],
+          "normalized": "kid"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "other": [
+            "Unicorn Sunshine Gore & Strap Baskets",
+            "Unicorn Sunshine Gore & Strap Sneakers"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/71fZa5qYQSL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B09HJFDYJW"
+      }
+    },
+    {
+      "asin": "B0DSCCMWXP",
+      "csi_title": "Kickers WETYKRO,Sneakers Haut Kids Marron Camel Bleu, 28 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_224::{",
+          "size_map": "28 EU",
+          "additional_sizes_detected": [
+            "numeric_28,",
+            "28 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_28",
+            "age_group": "toddler",
+            "size_system": "eu_footwear_size_system",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 28
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_28",
+          "age_group": "toddler",
+          "size_system": "eu_footwear_size_system",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 28
+        },
+        "age_range": {
+          "raw_values": [
+            "Enfant",
+            "Kid"
+          ],
+          "normalized": "toddler"
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Cuir très souple pour un confort optimisé",
+            "Semelle intérieure moussé, amovible et avec voute plantaire pour un confort optimal"
+          ],
+          "other": [
+            "Fermeture facile par large patte auto-agrippante pour un enfilage rapide et un ajustement parfait",
+            "Very soft leather for optimal comfort",
+            "Easy closure with wide hook-and-loop tab for quick on and perfect fit",
+            "Removable foam footbed with arch for comfort"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/71L12q91NEL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0DSCCMWXP"
+      }
+    },
+    {
+      "asin": "B0CPLTXQHT",
+      "csi_title": "Skechers Baskets Skx-228 pour gar&#231;on, Blanc/Rouge, 5 UK",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_319::{",
+          "size_map": "33 EU",
+          "additional_sizes_detected": [
+            "numeric_33,",
+            "33 EU",
+            "5 UK"
+          ],
+          "structured_size": {
+            "size": "numeric_33",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "big_kid",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 33
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_33",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "big_kid",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 33
+        },
+        "age_range": {
+          "raw_values": [
+            "Enfant",
+            "Kid"
+          ],
+          "normalized": "big_kid"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Baskets à lacets avec semelle extérieure en caoutchouc durable",
+            "Lace-up sneakers with durable rubber outsole"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/711bgRQeUoL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0CPLTXQHT"
+      }
+    },
+    {
+      "asin": "B0CC3WZ9F5",
+      "csi_title": "Skechers Baskets Uno Lite Metallic LoveSneaker pour Fille, Noir/dor&#233;, 4 UK",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "34.5 EU",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Enfant",
+            "Kid"
+          ],
+          "normalized": "kid"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Cuir synthétique"
+          ],
+          "other": [
+            "Faux Leather"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/518adP8kY8L.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0CC3WZ9F5"
+      }
+    },
+    {
+      "asin": "B08P2B7ZWC",
+      "csi_title": "Skechers Chaussures de Service NampaFood pour Fille, Polyur&#233;thane synth&#233;tique Noir, 36 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": null,
+          "additional_sizes_detected": [
+            "36 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"6\"",
+            "legacy_unit": "womens_us"
+          }
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Double Gore à enfiler avec semelle extérieure Sr",
+            "Antidérapant, coupe décontractée, EN ISO 20347:2012, mousse à mémoire de forme, OB FO SRC",
+            "SKECHERS Semelle extérieure antidérapante",
+            "Baskets de travail sportives décontractées confortables et antidérapantes"
+          ],
+          "other": [
+            "Double Gore slip on with Sr outsole",
+            "Non-slip, relaxed fit, EN ISO 20347:2012, memory foam, OB FO SRC",
+            "SKECHERS Non-slip outsole",
+            "Comfortable Non Slip Casual Sports Work Sneakers"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61tAUrdI+FL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B08P2B7ZWC"
+      }
+    },
+    {
+      "asin": "B0FS7HPKWQ",
+      "csi_title": "Nlaayong Bottes Western Cowgirl Cowboy pour Filles, Chaussures d&apos;&#233;quitation mi-Mollet pour Petit Enfant/Grand Enfant",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_405::{",
+          "size_map": "33 EU",
+          "additional_sizes_detected": [
+            "numeric_33,",
+            "33 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_33",
+            "age_group": "toddler",
+            "size_system": "eu_footwear_size_system",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 33
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_33",
+          "age_group": "toddler",
+          "size_system": "eu_footwear_size_system",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 33
+        },
+        "age_range": {
+          "raw_values": [
+            "Enfant",
+            "Kid"
+          ],
+          "normalized": "toddler"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": "not_applicable",
+          "normalized": "not_applicable"
+        },
+        "bullet_points": {
+          "fr": [
+            "Design classique : matériau en cuir synthétique souple et broderie décorative.",
+            "Confort : conçues avec une doublure douce et un talon bas, ces chaussures confortables permettent à vos enfants de marcher confortablement toute la journée",
+            "Pratique : les languettes rendent les bottes mi-mollet faciles à mettre et à enlever pour votre fille",
+            "La semelle extérieure flexible en rend ces bottes pour les activités extérieures, permet à votre enfant de courir, sauter et sauter tout en se sentant complètement à l'aise et en contrôle."
+          ],
+          "other": [
+            "Ces bottes sont pour toutes les saisons et sont du plus bel effet avec des jeans, des shorts, des robes",
+            "Classic design: soft PU leather material and decorative embroidery.",
+            "COMFORT - Designed with soft lining and low heel, these comfortable shoes make your kids walk comfortably all day long",
+            "CONVENIENT - Tabs make the mid-calf boots easy for your girl to put on and take off",
+            "The flexible outsole makes these boots for outdoor activities, allows your child to run, jump and jump while feeling completely comfortable and in control.",
+            "These boots are for all seasons and look great with jeans, shorts, dresses"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61X5N3P0iUL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0FS7HPKWQ"
+      }
+    },
+    {
+      "asin": "B0BZ91FJ85",
+      "csi_title": "Skechers Bottes d&apos;&#233;tude Bounder Power pour gar&#231;on, Noir, 3 UK",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "36 EU",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Enfant",
+            "Kid"
+          ],
+          "normalized": "kid"
+        },
+        "target_gender": "male",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Lacets à bout rond avec col rembourré"
+          ],
+          "other": [
+            "Goga Mat Arch, Charcoal MF, Air Cooled MF, Relaxed Fit",
+            "Round toe laces with padded collar"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/51zKoHqiqUL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0BZ91FJ85"
+      }
+    },
+    {
+      "asin": "B0CK8H1BLN",
+      "csi_title": "Chaussons Disney - Princesse Clogs Disney (Frozen Disney Clogs-E, Syst&#232;me Taille Chaussures EU, Enfant de Moins de 5 Ans, Femme, Num&#233;rique (intervalle), Moyen, 28, 29)",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_100::{",
+          "size_map": "28/29 EU",
+          "additional_sizes_detected": [
+            "numeric_28,",
+            "28/29 EU"
+          ],
+          "structured_size": {
+            "gender": "women",
+            "size": "numeric_28",
+            "age_group": "toddler",
+            "size_system": "eu_footwear_size_system",
+            "to_size": "numeric_29",
+            "width": "medium",
+            "size_class": "numeric_range",
+            "numeric_size": 28
+          }
+        },
+        "footwear_size": {
+          "gender": "women",
+          "size": "numeric_28",
+          "age_group": "toddler",
+          "size_system": "eu_footwear_size_system",
+          "to_size": "numeric_29",
+          "width": "medium",
+          "size_class": "numeric_range",
+          "numeric_size": 28
+        },
+        "age_range": {
+          "raw_values": [
+            "Big Kid",
+            "Grand enfant"
+          ],
+          "normalized": "toddler"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": "Polyvinyl Chloride",
+          "normalized": "Polyvinyl Chloride"
+        },
+        "bullet_points": {
+          "other": [
+            "Disney Slippers - Disney Princess Clogs",
+            "Clean by hand with a wipe",
+            "PVC",
+            "100% official merchandise",
+            "Chaussons Disney - Princesse Clogs Disney",
+            "100% marchandise officielle"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/513JKpmmwcL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0CK8H1BLN"
+      }
+    },
+    {
+      "asin": "B0DHW3ZC1J",
+      "csi_title": "Adidas Mixte b&#233;b&#233; VL Court 3.0 Shoes Infants, Clear Pink/Clear Pink/Gum, 27 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "27 EU",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Bébé",
+            "Baby"
+          ],
+          "normalized": "bébé"
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": "other",
+          "normalized": "other"
+        },
+        "bullet_points": {
+          "fr": [
+            "Tige en cuir et synthétique.",
+            "Semelle extérieure en caoutchouc."
+          ],
+          "other": [
+            "Chaussant standard.",
+            "Bride auto-agrippante.",
+            "Doublure textile.",
+            "Standard fit.",
+            "Hook and loop strap.",
+            "Leather and synthetic upper.",
+            "Textile lining.",
+            "Rubber outsole."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61AGdrL0uvL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0DHW3ZC1J"
+      }
+    },
+    {
+      "asin": "B0F1D3XTCR",
+      "csi_title": "Leomil Frozen Baskets Lumineuses pour Filles Chaussures Enfants 27, Id&#233;al pour l&apos;&#233;cole et Les Loisirs, Argent&#233;",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "27 EU",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Little Kid"
+          ],
+          "normalized": "kid"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "S'allume à chaque étape: Ces Frozen Baskets ont des lumières LED dans la semelle extérieure. Elles s'allument à chaque pas, Les lumières ajoutent un élément interactif qui les motive à se déplacer tout en profitant de chaque pas lumineux.",
+            "Produit officiellement licencié Disney: Ces baskets Disney Collection de licences. Ces Chaussures Disney présentent une imageAnna||Elsa sur le côté – parfaites pour les fans.",
+            "Motif tendance, cool et amusant: Le Hook and loop tape pratique permet d'enfiler et d'enlever facilement les chaussures. Parfaites pour les matinées chargées ou à porter comme des baskets.",
+            "Semelles antidérapantes pour une sécurité maximale: La semelle antidérapante adhère bien aux surfaces lisses et convient parfaitement aux enfants actifs.",
+            "Cadeau parfait Disney pour Filles: Un indispensable pour les fans de produits Disney! Ces baskets Anna||Elsa sont un cadeau d’anniversaire magique, une super idée de cadeau pour Filles"
+          ],
+          "other": [
+            "Lights up every step: These Frozen Sneakers have LED lights in the outsole. They light up with every step, the lights add an interactive element that motivates them to move while enjoying every step of light.",
+            "Officially Licensed Disney Product: These Disney License Collection sneakers. These Disney shoes feature an image of Anna||Elsa on the side - perfect for fans.",
+            "Fashionable, cool and fun pattern: The practical hook and loop tape makes it easy to put on and take off shoes. Perfect for busy mornings or to wear as sneakers.",
+            "Non-slip soles for maximum safety: The non-slip sole adheres well to smooth surfaces and is ideal for active children.",
+            "Perfect Disney Gift for Girls: A must have for fans of Disney products! These Anna||Elsa sneakers are a magical birthday gift, a great gift idea for girls"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61jhjCmhZEL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0F1D3XTCR"
+      }
+    },
+    {
+      "asin": "B0BN6HCC4D",
+      "csi_title": "Geox Baskets D Spherica D pour Femme, Gris Clair, 7 UK",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "32 EU",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Enfant",
+            "Kid"
+          ],
+          "normalized": "kid"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Matériau extérieur : synthétique",
+            "Matériau intérieur : synthétique"
+          ],
+          "other": [
+            "Semelle : caoutchouc",
+            "Upper material: synthetic",
+            "Inner material: synthetic",
+            "Sole: Rubber"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/81pDiOUaK6L.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0BN6HCC4D"
+      }
+    },
+    {
+      "asin": "B0CPMFMG32",
+      "csi_title": "Geox J Flexyper B ABX Bottines pour gar&#231;on, Gris fonc&#233; royal, 27 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_363::{",
+          "size_map": "31 EU",
+          "additional_sizes_detected": [
+            "numeric_31,",
+            "31 EU"
+          ],
+          "structured_size": {
+            "gender": "men",
+            "size": "numeric_31",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "big_kid",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 31
+          }
+        },
+        "footwear_size": {
+          "gender": "men",
+          "size": "numeric_31",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "big_kid",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 31
+        },
+        "age_range": {
+          "raw_values": [
+            "Enfant",
+            "Kid"
+          ],
+          "normalized": "big_kid"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Les systèmes brevetés Geox offrent la respirabilité de la semelle et le bien-être des pieds",
+            "Des chaussures qui offrent un amorti optimal et protègent des chocs et des sollicitations",
+            "Les technologies Amphibiox rendent la tige imperméable, pour une protection optimale quelles que soient les conditions météo",
+            "Des chaussures légères pour une plus grande liberté de mouvement",
+            "Faciles à porter pour un confort unique",
+            "Chaussures dotées d’une semelle extérieure antimarque"
+          ],
+          "other": [
+            "Souplesse optimale",
+            "Breathable"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/71qJJQdc+aL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0CPMFMG32"
+      }
+    },
+    {
+      "asin": "B0DLGHC1JH",
+      "csi_title": "DREAM PAIRS Bottes de cowboy mi-mollet Western &#224; bout carr&#233; pour gar&#231;ons et filles, Rose/marron, 13 Little Kid",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_118::{",
+          "size_map": "31 EU",
+          "additional_sizes_detected": [
+            "numeric_31,",
+            "31 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_31",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "little_kid",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 31
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_31",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "little_kid",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 31
+        },
+        "age_range": {
+          "raw_values": [
+            "Enfant",
+            "Little Kid"
+          ],
+          "normalized": "little_kid"
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Bottes western pour garçon : Vous cherchez une paire de bottes habillées pour votre tout-petit bien-aimé? C'est tout. Ces bottes western pour garçons sont un fantastique débutant de style western pour les jeunes aventuriers.",
+            "Motifs qu'ils vont adorer : ils auront l'air si cool parmi leurs pairs! Avec des motifs camouflage cool, ces bottes de cowboy mi-mollet sont parfaites pour les garçons à l'âge de l'exploration et de l'aventure.",
+            "Faciles à mettre et à enlever : ces bottes de cowboy sont conçues avec une fermeture éclair de taille afin que votre garçon puisse les mettre et les enlever indépendamment, parfaites pour les enfants occupés et actifs.",
+            "Gardez-les protégés : la semelle extérieure de ces bottes western pour garçons est antidérapante afin que vous puissiez vous sentir confiant que votre enfant est en sécurité tout en jouant, en courant ou en explorant.",
+            "Habillez-les : ces bottes western pour enfants sont parfaites pour les occasions habillées comme les foires du comté, le carnaval et la danse de grange. Ils font également un cadeau idéal pour tout jeune cowboy de votre vie.",
+            "BOYS WESTERN BOOTS: Looking for a pair of dress boots for your beloved little one? That's all. These boys western boots are a fantastic western style beginner for young adventurers."
+          ],
+          "other": [
+            "PATTERNS THEY WILL LOVE - They will look so cool among their peers! With cool camouflage patterns, these mid-calf cowboy boots are perfect for boys in the age of exploration and adventure.",
+            "Easy to put on and take off: these cowboy boots are designed with a size zipper so that your boy can put on and take them off independently, perfect for busy and active kids.",
+            "KEEP THEM PROTECTED The outsole of these boys western boots is non-slip so you can feel confident that your child is safe while playing, running or exploring.",
+            "Dress them up: these kids western boots are perfect for dressy occasions like county fairs, carnival and barn dancing. They also make an ideal gift for any young cowboy in your life."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/71O0Q5cCNUL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0DLGHC1JH"
+      }
+    },
+    {
+      "asin": "B0CYQ7P4HL",
+      "csi_title": "Adidas Hoops 4.0 Shoes Chaussures Mixte Enfant, FTWR White Dark Blue Better Scarlet, 27 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_246::{",
+          "size_map": "27 EU",
+          "additional_sizes_detected": [
+            "numeric_27,",
+            "27 EU"
+          ],
+          "structured_size": {
+            "gender": "men",
+            "size": "numeric_27",
+            "age_group": "little_kid",
+            "size_system": "eu_footwear_size_system",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 27
+          }
+        },
+        "footwear_size": {
+          "gender": "men",
+          "size": "numeric_27",
+          "age_group": "little_kid",
+          "size_system": "eu_footwear_size_system",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 27
+        },
+        "age_range": {
+          "raw_values": [
+            "Baby",
+            "Bébé"
+          ],
+          "normalized": "little_kid"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Tige en matière synthétique."
+          ],
+          "other": [
+            "Standard fit.",
+            "Velcro fastening.",
+            "Synthetic upper",
+            "Mesh collar and lining.",
+            "Rubber cupsole",
+            "Chaussant standard.",
+            "Fermeture par scratch.",
+            "Col et doublure en mesh.",
+            "Semelle cupsole en caoutchouc."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/6114vjz3VuL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0CYQ7P4HL"
+      }
+    },
+    {
+      "asin": "B0CC6CR822",
+      "csi_title": "Rocket Dog Baskets montantes Jazzin Hi Plush Foam Comfort, naturel, 36 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": "36 EU",
+          "additional_sizes_detected": [
+            "$additional_links_augmentor_272::{",
+            "numeric_36,",
+            "36 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"5\"",
+            "legacy_unit": "womens_us"
+          }
+        },
+        "footwear_size": {
+          "gender": "women",
+          "size": "numeric_36",
+          "age_group": "adult",
+          "size_system": "eu_footwear_size_system",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 36
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": "Caoutchouc synthétique",
+          "normalized": "Rubber"
+        },
+        "bullet_points": {
+          "fr": [
+            "Semelle intérieure en mousse pelucheuse, Rocket Dog, baskets montantes"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/81R0tWI19vL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0CC6CR822"
+      }
+    },
+    {
+      "asin": "B0CPMDXDZB",
+      "csi_title": "Geox J SHAYLAX Girl A Bottine, Black, 36 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_335::{",
+          "size_map": "36 EU",
+          "additional_sizes_detected": [
+            "numeric_36,",
+            "36 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_36",
+            "age_group": "big_kid",
+            "size_system": "eu_footwear_size_system",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 36
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_36",
+          "age_group": "big_kid",
+          "size_system": "eu_footwear_size_system",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 36
+        },
+        "age_range": {
+          "raw_values": [
+            "Enfant"
+          ],
+          "normalized": "big_kid"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Bottines à lacets décontractées et féminines pour filles avec beaucoup d'attrait urbain qui s'associe à un style de combat classique",
+            "Cette version bordeaux de Shaylax offre un équilibre parfait entre confort et style",
+            "Faciles et rapides à installer",
+            "Fermeture éclair et dentelle ; semelle intérieure amovible",
+            "Casual and feminine lace-up ankle boots for girls with lots of urban appeal that pairs with classic combat style",
+            "This burgundy version of Shaylax strikes the perfect balance between comfort and style"
+          ],
+          "other": [
+            "Quick and easy to install",
+            "Zip and lace; removable insole"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/51O6DnjzEpL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0CPMDXDZB"
+      }
+    },
+    {
+      "asin": "B0DHY13PGP",
+      "csi_title": "Infant Boys Girls Chaussettes Chaussures Toddler Fleece WarmThe Floor Chaussettes Chaussures Prewalker antid&#233;rapantes Chaussures De Sports Mode Chaussures Imperm&#233;ables Scooter Chausson Enfant Fille",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_148::{",
+          "size_map": "27 EU",
+          "additional_sizes_detected": [
+            "numeric_27,",
+            "27 EU",
+            "27"
+          ],
+          "structured_size": {
+            "gender": "men",
+            "size": "numeric_27",
+            "age_group": "toddler",
+            "size_system": "eu_footwear_size_system",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 27
+          }
+        },
+        "footwear_size": {
+          "gender": "men",
+          "size": "numeric_27",
+          "age_group": "toddler",
+          "size_system": "eu_footwear_size_system",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 27
+        },
+        "age_range": {
+          "raw_values": [
+            "Tout-Petit",
+            "Toddler"
+          ],
+          "normalized": "toddler"
+        },
+        "target_gender": "male",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "basket cuir fille chaussure tennis 27 chaussure ete bebe fille 22 chaussure led enfant fille basquette fille 34 noir sneaker enfant garçon sandales 22 fille basket noir chaussure enfant fille 28 basket garcon 25 5 chaussure deau enfant chaussures d chaussures volley enfant chaussure pour le basketball enfant chaussure de sport garcon basket sport 32 basquette ete fille chausures basket montante garçon chaussure a talon enfant pettite fille basket fille taille 29 scratch chaussure fille 35 bas",
+            "baskets enfants basket a scratch garcon 28 basket enfant bebe baskets mode garçon basket montante fille 36 chaussures golf enfant sandalette fille 27 basket 24 basquette pour fille 8 ans chaussure cuir fille 35 basket led fille 24 tennis enfant noi basket garcon 6 ans chaussure bébé fille ceremonie chaussure fille clignotante running enfants chaussure de communion fille basket toile fille 28 basquette garcon 39 basket enfant garçon 28 chaussures pour enfant baskets fourrées fille basket enfan",
+            "sneakers enfant 30 chaussure mariage fille rose chaussures scratch 30 basket fille 34 bleu basket noir garçon chaussons ado garcon basket garcons basket de basketball homme 4 blanc chaussures sport fille tennis scratch chaussures bébé basketball sh noel fille chaussure chaussures tennis 36 chaussures fille ete 34 chaussures de basketball enfant garcon basket unisexe basket garcon 14 ans chaussures bebe garcon basket lumiere fille 23 chaussures enfant 31 34 sandales fille 37 basket enfant garc"
+          ],
+          "other": [
+            "chaussures scratch garcon chaussures de sport fille 32 basket garcon 29 rouge chaussure scratch garcon 34 chaussure enfant taille 24 basket de sport enfant fille basket 38 garcon chaussures piscine enfant basket enfant 36 garcon basket chaussure en basquettes garcon 38 chaussures hiver bebe fille chaussure bebe fille 19 chaussures bateau et mocassins pour filles chaussures pour faire du basket chaussure fille taille 30 basquet sport garcon taille 38 tennis pour enfants chaussures hiver fille",
+            "baskets lumineuses fille chaussur tennis pour enfant basket fille 31.5 chaussure roulette fille chaussures en toile fille 28 basket tissus garcon baskets garcon 30 basket impermeable taille 30 chaussures plage fille chaussures bebe fille premier pa basket garcon bleu basket enfant garcon 36 montante basket enfant garcon a scratch basket enfant garcon 40 basquette 28 chaussur enfant tennis enfant fille ete basket toile garcon 30 basket lumineuse 23 chaussures petit garcon chaussure running gar",
+            "Leather trainers girl tennis shoe 27 summer shoe baby girl 22 led shoes child girl basquet girl 34 black sneaker child boy sandals 22 girl black shoe child girl 28 basketball boy 25 5 children's water shoes d shoes volleyball child shoe for basketball child sports shoe boy sports shoe 32 summer girl shoes basketball high boy shoes high heel boy shoe child pettite girl trainer. girl size 29 scratch shoe girl 35 stockings",
+            "Children's trainers with Velcro 28 trainers for boys and girls 28 trainers fashion boy high top girl 36 golf shoes children's sandalette girl 27 trainers 24 basquet for girl 8 years leather shoe girl 35 led basketball girl 24 tennis children's black trainers boy 6 years baby girl ceremony shoe girl flashing running children communion shoe girl canvas girl 28 basquette boy 39 trainers child boy 28 children's shoes stuffed trainers girl children's trainers",
+            "sneakers child 30 shoes wedding girl pink shoes scratch 30 sneakers girl 34 blue basketball black boy slippers teen boy basketball boys basketball basketball shoes man 4 white shoes girl tennis scratch shoes baby basketball sh Christmas girl shoe tennis shoes 36 shoes girl summer 34 basketball shoes child boy unisex basketball boy 14 years baby boy shoes light girl 23 shoes child 31 34 girls sandals 37 children's trainers for boys",
+            "Boy's scratch shoes sports shoes girl 32 basketball boy 29 red scratch shoe boy 34 children's shoes size 24 sports trainers child girl trainer 38 boy shoes pool children's basketball 36 boy basketball shoes in socks boy 38 shoes winter baby girl shoe 19 boat shoes and loafers for girls shoes for basketball shoes girl size 30 sport basquet boy con size 10 children's tennis shoes winter girl",
+            "Bright girl's tennis shoes for children trainers girl 31.5 shoes roulette girl canvas shoes girl 28 trainers fabric boy trainers boys trainers 30 waterproof trainers size 30 beach shoes girl shoes baby girl first pa basketball boy blue basketball child boy 36 high trainers child boy with velcro basketball child boy 40 basquette 28 shoes child tennis child girl summer basketball canvas boy 36 high trainers boy 30 basketball shoes for boys 30 0 Luminous Trainers 2 3 x running shoes for boys"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61dUk0vAdmL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0DHY13PGP"
+      }
+    },
+    {
+      "asin": "B0FT8M2T4B",
+      "csi_title": "Froddo Barefoot Wooly, Chaussures Pieds Nus Mixte Enfant, Bordeaux, 34",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_123::{",
+          "size_map": "34 EU",
+          "additional_sizes_detected": [
+            "numeric_34,",
+            "34 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_34",
+            "age_group": "big_kid",
+            "size_system": "eu_footwear_size_system",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 34
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_34",
+          "age_group": "big_kid",
+          "size_system": "eu_footwear_size_system",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 34
+        },
+        "age_range": {
+          "raw_values": [
+            "Kid",
+            "Enfant"
+          ],
+          "normalized": "big_kid"
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Longueur de la Chaussure: Chaussant généreux. Si vous êtes habituellement entre deux pointures, nous vous conseillons de choisir une demi taille plus grande de votre pointure habituelle."
+          ],
+          "other": [
+            "Slippers",
+            "Shoe length: Generous fit. If you are usually between two sizes, we advise you to choose a half size larger than your usual size.",
+            "Chaussons"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61-vF94dvML.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0FT8M2T4B"
+      }
+    },
+    {
+      "asin": "B0DSL3TWYX",
+      "csi_title": "Crocs KClog KClog Sabots Classiques pour Enfants Motif Camouflage, Vert Kaki/Multicolore, 33/34 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_389::{",
+          "size_map": "33 EU",
+          "additional_sizes_detected": [
+            "numeric_33,",
+            "33 EU",
+            "33/34 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_33",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "big_kid",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 33
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_33",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "big_kid",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 33
+        },
+        "age_range": {
+          "raw_values": [
+            "Enfant",
+            "Kid"
+          ],
+          "normalized": "big_kid"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Trouvez votre taille : nous vous recommandons de prendre une taille en-dessous (si vous êtes un 8, prenez une taille inférieure à 7)"
+          ],
+          "other": [
+            "Find your size: we recommend going one size down (if you are an 8, take a size smaller than 7)"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/71FD7JheyqL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0DSL3TWYX"
+      }
+    },
+    {
+      "asin": "B0CNY6TNLS",
+      "csi_title": "Skechers Baskets Uno Lite Metallic LoveSneaker pour Fille, Blanc/Multicolore, 4 UK",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": null,
+          "additional_sizes_detected": [
+            "34.5 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"5\"",
+            "legacy_unit": "womens_us"
+          }
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Enfant",
+            "Kid"
+          ],
+          "normalized": "kid"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Skechers Mousse à mémoire de forme refroidie par",
+            "Semelle intérieure confortable rembourrée",
+            "Semelle extérieure flexible"
+          ],
+          "other": [
+            "Skechers Memory foam cooled by",
+            "Cushioned comfort insole",
+            "Flexible outsole"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61fhybFmU8L.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0CNY6TNLS"
+      }
+    },
+    {
+      "asin": "B0BN8PYJXD",
+      "csi_title": "KEEN Wanduro Mid Bottes de randonn&#233;e imperm&#233;ables unisexes pour enfants, Sky Captain Sea Moss, 34 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "35 EU",
+          "size_map": null,
+          "additional_sizes_detected": [
+            "34 EU"
+          ],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Grand Enfant",
+            "Big Kid"
+          ],
+          "normalized": "kid"
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Imperméable : la membrane imperméable et respirante KEEN.DRY garde vos pieds au sec et confortables tout au long de la journée en permettant à la vapeur de s'échapper sans laisser entrer l'eau",
+            "Semelle : traction plus élevée légère KEEN.Le caoutchouc Fusion aide à leur donner la sécurité nécessaire sur des sentiers et des terrains variés",
+            "Fermeture : le système de capture élastique à lacets offre un ajustement sûr tout en offrant un moyen rapide et facile de mettre et d'enlever les chaussures",
+            "Confort : rembourrage ultra durable et confort de soutien qui ne se comprime pas au fil du temps",
+            "Protection des orteils : pointe en caoutchouc à haute abrasion pour plus de durabilité et de protection",
+            "COMFORT - Ultra durable padding and supportive comfort that won't compress over time"
+          ],
+          "other": [
+            "WATERPROOF - KEEN.DRY waterproof breathable membrane keeps your feet dry and comfortable all day long by allowing steam to escape without letting water in",
+            "Sole: KEEN lightweight higher traction. Fusion rubber helps give them the necessary safety on various trails and terrains",
+            "CLOSURE - Lace-up elastic capture system provides a secure fit while providing a quick and easy way to put on and take off shoes",
+            "Toe Protection - High abrasion rubber tip for durability and protection"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/7154wkbyynL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0BN8PYJXD"
+      }
+    }
+  ],
+  "stats": {
+    "asin_blocks_found": 59,
+    "records_extracted": 59,
+    "records_skipped_no_csi": 0
+  }
+}

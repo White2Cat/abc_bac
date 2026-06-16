@@ -1,0 +1,1333 @@
+{
+  "source_file": "datas11.txt",
+  "records": [
+    {
+      "asin": "B096KP3WNC",
+      "csi_title": "Skechers Uno-Loving Love 155506-WRPK, Womens Sneakers, White, 36 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": null,
+          "additional_sizes_detected": [
+            "36 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"6\"",
+            "legacy_unit": "womens_us"
+          }
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "other": [
+            "Synthetic Leather"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61zm9lzPNfL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B096KP3WNC"
+      }
+    },
+    {
+      "asin": "B0B9YNSJQ2",
+      "csi_title": "CMP Rigel Mid Shoes WP Chaussures de Trekking Unisexes pour Enfant, Violet Prune Rose p&#234;che Prugna Peach, 35 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "35 EU",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Enfant",
+            "Kid"
+          ],
+          "normalized": "kid"
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Imperméable Ripstop",
+            "Laçage Fast Lace et poche porte-lacets",
+            "Doublure intérieure en Lycra pour une sensation de douceur et de confort"
+          ],
+          "other": [
+            "Semelle en EVA",
+            "Languette et montre en microfibre pour plus de confort sur le cou du pied",
+            "Bande de roulement en TPR",
+            "Impmeabile CLIMAPROTECT membrane",
+            "Allacciatura Fast Lace and Taschino Porta Lacci",
+            "Sistema di supporto alla caviglia",
+            "Fascione protettivo realizzato in tessuto anti abrasion",
+            "Battistrada con inserti in TPR per handle miglior"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/71nwZztHu6L.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0B9YNSJQ2"
+      }
+    },
+    {
+      "asin": "B096KQ837D",
+      "csi_title": "Skechers Uno-Loving Love 155506-WRPK, Womens Sneakers, White, 38 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": null,
+          "additional_sizes_detected": [
+            "38 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"8\"",
+            "legacy_unit": "womens_us"
+          }
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "other": [
+            "Synthetic Leather"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61zm9lzPNfL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B096KQ837D"
+      }
+    },
+    {
+      "asin": "B09RPFZ7Z7",
+      "csi_title": "Skechers Baskets pour Femme, Blanches, 42 EU, Blanc., 42 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "42 EU",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Skechers Détails du logo :",
+            "Semelle extérieure flexible de traction"
+          ],
+          "other": [
+            "Fermeture : lacets",
+            "Skechers Logo details:",
+            "Flexible traction outsole",
+            "Closure: laces"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61zm9lzPNfL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B09RPFZ7Z7"
+      }
+    },
+    {
+      "asin": "B07RWFGBV9",
+      "csi_title": "Xtratuf Women&apos;s 6 Inch Ankle Deck Boot, Black, Size 8",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": null,
+          "additional_sizes_detected": [
+            "8.",
+            "6 UK"
+          ],
+          "structured_size": {
+            "fit_size": "\"8\"",
+            "legacy_unit": "womens_us"
+          }
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "100 % étanche",
+            "Circonférence de la tige : 29,7 cm",
+            "Semelle extérieure antidérapante à chevrons"
+          ],
+          "other": [
+            "Hauteur de la pointe : 2,9 cm",
+            "Environ 1,4 kg",
+            "Tip height: 2.8 cm",
+            "Approximately 1.4 kg",
+            "100% waterproof",
+            "Shaft circumference: 29.7 cm",
+            "Herringbone non-slip outsole"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/513UWRJO6ZL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B07RWFGBV9"
+      }
+    },
+    {
+      "asin": "B0FJMMWS95",
+      "csi_title": "Generisch Bottes en caoutchouc pour homme - Bottes de pluie imperm&#233;ables en caoutchouc Bottes de jardin pour la p&#234;che, le travail en plein air R&#233;sistantes &#224; l&apos;usure Demi-bottes Antid&#233;rapantes Bottes",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_118::{",
+          "size_map": "44 EU",
+          "additional_sizes_detected": [
+            "numeric_44,",
+            "44 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_44",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "adult",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 44
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_44",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 44
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Antidérapant : Les semelles avec un profil antidérapant améliorent la stabilité. La résistance antidérapante des bottines assure un maintien stable sur les chemins boueux, elles vous offrent un maintien stable et une sécurité lors de la marche.",
+            "Confort : avec leur semelle extérieure solide, ces bottes de pluie offrent un gain de taille discret mais aussi un confort tout au long de la journée sans fatiguer vos pieds.",
+            "Large application : Les bottes en caoutchouc tendance sont disponibles dans différentes couleurs et se combinent parfaitement avec divers tenues, idéales pour les jours de pluie. Que ce soit pour le jardinage ou l'usage quotidien, ces bottes vous offriront une excellente expérience.",
+            "Chaussures de jardin courtes pour femme - Bottes d'été courtes pour homme 43 - Bottes d'été courtes pour femme - Bottes d'été pour femme 39 - Bottines à lacets pour homme et femme - Bottes de trekking pour femme - Bottes de travail pour femme avec embout en acier - Bottines d'équitation pour femme en cuir - Bottes de motard pour femme - Bottes courtes en caoutchouc pour femme - Bottes de motard pour femme - Bottines pour femme - Bottines pour femme noires - Bottines d'été pour femme - Bottes cuissardes - Bottes en cuir pour homme - Bottes en caoutchouc pour femme - Bottines pour femme avec talon - Bottes beiges pour homme en cuir - Bottes d'extérieur pour femme en cuir - Bottines d'été pour femme",
+            "Bottines pour femme, bottes de cowboy pour femme, bottes marron pour femme, bottes cheville pour femme, bottes d'été pour femme, bottines pour femme, bottines pour femme beige, bottes de moto pour femme, bottes en jean pour femme, bottines pour femme avec talon, chaussures boho pour femme, bottes de country line dance pour femme, bottines blanches d'été, bottes de motard pour femme, bottes country, robe, chaussures en cuir suédé pour femme, bottes blanches, bottes western pour femme, bottes marron pour femme, chaussures traditionnelles pour femme, chaussures colorées pour femme, bottes boho, tenue de cow-boy pour femme, bottines"
+          ],
+          "other": [
+            "Non-slip: the outer soles with non-slip profile improve stability. The non-slip resistance of the ankle boots ensures a stable hold on muddy paths, providing you with a stable hold and safety when walking.",
+            "COMFORT - With a solid outsole, these rain boots offer a discreet size gain but also all-day comfort without straining your feet.",
+            "Wide Application The fashionable wellies come in different colors and can be perfectly combined with different outfits, ideal for rainy days. Whether you are in gardening or everyday use, these boots will give you a great experience.",
+            "short garden shoes women summer boots women short summer boots women summer boots 39 ankle boots lace up ankle boots for men and women trekking boots for women with steel toe cap leather riding boots women biker boots women short wellies boots for women biker boots for women summer boots for women summer boots for women leather boots for men women leather boots beige leather boots outdoor boots for women summer boots",
+            "cowboy ankle boots for women brown summer boots for women summer ankle boots for women ankle boots for women beige ankle boots for women motorcycle boots for women denim boots for women ankle boots with bohemian heel ankle boots for women dance boots for women summer boots white biker boots suede boots white boots western boots for women colorful shoes for women boho boots cowboy outfit boots for women boots ladies boots boots boots for women lets"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/613iIRMvF2L.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0FJMMWS95"
+      }
+    },
+    {
+      "asin": "B0FJQ8XCFX",
+      "csi_title": "Generisch Bottes en caoutchouc pour homme - Bottes de pluie imperm&#233;ables en caoutchouc Bottes de jardin pour la p&#234;che, le travail en plein air R&#233;sistantes &#224; l&apos;usure Demi-bottes Bottes courtes",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_166::{",
+          "size_map": "40 EU",
+          "additional_sizes_detected": [
+            "numeric_40,",
+            "40 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_40",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "adult",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 40
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_40",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 40
+        },
+        "age_range": {
+          "raw_values": [
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Antidérapant : Les semelles avec un profil antidérapant améliorent la stabilité. La résistance antidérapante des bottines assure un maintien stable sur les chemins boueux, elles vous offrent un maintien stable et une sécurité lors de la marche.",
+            "Confort : avec leur semelle extérieure solide, ces bottes de pluie offrent un gain de taille discret mais aussi un confort tout au long de la journée sans fatiguer vos pieds.",
+            "Large application : Ces bottes en caoutchouc à la mode sont disponibles dans différentes couleurs et se combinent parfaitement avec divers tenues, idéales pour les jours de pluie. Que ce soit pour le jardinage ou l'usage quotidien, ces bottes vous offriront une excellente expérience.",
+            "Bottes taille 45 pour femme, bottes d'été avec motif perforé, bottines à lacets en daim pour femme, bottes de combat en daim pour femme, bottes de travail pour homme taille 43, bottines d'équitation pour femme taille 38, bottes en caoutchouc taille 26, bottes en caoutchouc pour femme, bottes de cowboy pour femme, bottes de cowboy pour femme marron, chaussures médiévales pour femme, bottes d'été pour femme, bottes de moto pour femme, bottes en caoutchouc taille 36, bottines pour femme avec talon pour l'été, bottes d'été pour homme en cuir, bottes d'extérieur pour enfants, bottines pour femme marron, bottines pour femme d'été, bottes pour homme noir, bottes pour femme noires à plateforme",
+            "Chaussures pour femme - Bottes blanches - Bottes western pour femme - Marron - Chaussures traditionnelles pour femme - Chaussures colorées pour femme - Bottes bohème - Tenue cowboy pour femme - Bottines beige - Robe western pour femme - Bottes de cowboy pour femme en daim - Bottes d'été - Bottines d'été pour femme - Bottes d'été pour femme - Chaussures rouges pour femme - Bottines pour femme - Bottines marron pour femme - Cowboy pour femme - Bottes d'équitation - Cowgirl - Robe country pour femme - Bottes de moto pour femme - Chaussures rouges pour femme - Chaussures roses - Chaussures rouges pour femme - Bottes de cowboy"
+          ],
+          "other": [
+            "Non-slip: the outer soles with non-slip profile improve stability. The non-slip resistance of the ankle boots ensures a stable hold on muddy paths, providing you with a stable hold and safety when walking.",
+            "COMFORT - With a solid outsole, these rain boots offer a discreet size gain but also all-day comfort without straining your feet.",
+            "Wide Application The fashionable wellies come in different colors and can be perfectly combined with different outfits, ideal for rainy days. Whether you are in gardening or everyday use, these boots will give you a great experience.",
+            "boots size 11 women boots summer boots with perforated pattern lace up ankle boots for women suede flat boots combat boots for men uk 9 ladies riding boots women 5 wellies wellies 26 wellies cowboy boots women cowboy boots for women brown medieval shoes women summer boots women wellies 36 summer boots Leather Summer Boots for Children's and Women's Brown Ankle Boots, Summer Boots, for Men and Women, Black - Platform",
+            "shoes for women white boots western boots for women colorful shoes for women bohemian boots cowboy outfit beige boots western dress for women cowboy boots for women summer boots for women summer boots for women summer boots for women red boots for women ankle boots for women ankle boots for women cowboy boots for women riding boots for women country cowgirl boots for women motorcycle boots for women red shoes for women boyboots"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61BSH3EI0QL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0FJQ8XCFX"
+      }
+    },
+    {
+      "asin": "B0FJQ8TNCP",
+      "csi_title": "Generisch Bottes en caoutchouc pour homme - Bottes de pluie imperm&#233;ables en caoutchouc Bottes de jardin pour la p&#234;che, le travail en plein air R&#233;sistantes &#224; l&apos;usure Demi-bottes Antid&#233;rapantes Bottes",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_207::{",
+          "size_map": "42 EU",
+          "additional_sizes_detected": [
+            "numeric_42,",
+            "42 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_42",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "adult",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 42
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_42",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 42
+        },
+        "age_range": {
+          "raw_values": [
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Antidérapant : Les semelles avec un profil antidérapant améliorent la stabilité. La résistance antidérapante des bottines assure un maintien stable sur les chemins boueux, elles vous offrent un maintien stable et une sécurité lors de la marche.",
+            "Confort : avec leur semelle extérieure solide, ces bottes de pluie offrent un gain de taille discret mais aussi un confort tout au long de la journée sans fatiguer vos pieds.",
+            "Large application : Les bottes en caoutchouc tendance sont disponibles dans différentes couleurs et se combinent parfaitement avec divers tenues, idéales pour les jours de pluie. Que ce soit pour le jardinage ou l'usage quotidien, ces bottes vous offriront une excellente expérience.",
+            "bottines doublées 42 bottes en caoutchouc jeunes bottes en caoutchouc hommes 44 bottes de pluie doublées pour femmes 32 bottes de pluie courtes pour femmes chaussures de jardin pour hommes 47/48 bottes d'été pour femmes bottes d'été pour femmes 43 bottes à enfiler pour hommes bottes de randonnée pour hommes 43 bottes de travail pour femmes imperméables bottes d'équitation pour femmes bottes en caoutchouc 37 bottes de cow-boy bottes de cowboy bottes pour femmes bottes d'été pour hommes imperméables avec bottes sac à bottes bottes d'équitation bottes en caoutchouc pour femmes mi-hautes bottes pour hommes 45 bottes pour hommes",
+            "bottes été, bottines été, bottines été pour femme, bottines été pour femme avec motif perforé, bottes d'été, bottes de cowboy pour femme, bottines été pour femme avec talon, tenue de cowgirl pour femme, botte de cowboy, bottes cheville pour femme, bottines pour femme, vêtements country pour femme, chaussures de line dance pour femme, bottes western pour femme, bottes de cowboy pour femme, bottes de cowboy pour femme, bottines pour femme western, bottines western, bottes western, bottes de cowboy pour femme, bottes pour femme été, bottes pour femme"
+          ],
+          "other": [
+            "Non-slip: The soles with a non-slip profile improve stability. The non-slip resistance of the ankle boots ensures a stable hold on muddy paths, providing you with a stable hold and safety when walking.",
+            "COMFORT - With a solid outsole, these rain boots offer a discreet size gain but also all-day comfort without straining your feet.",
+            "Wide application: the fashionable wellies come in different colors and combine perfectly with various outfits, ideal for rainy days. Whether for gardening or everyday use, these boots will give you a great experience.",
+            "lined ankle boots 42 wellies young wellies men 44 lined rain boots for women 32 short rain boots for women garden shoes for men 12/13 summer boots for women summer boots for women 43 slip on boots for men hiking boots for men 43 work boots for women waterproof riding boots for women wellies 37 cowboy boots womens boots summer boots men's waterproof with boots boot bag riding boots women's wellies mid rise men's boots 45 men's boots",
+            "summer boots, summer ankle boots, summer ankle boots for women, summer ankle boots for women with perforated pattern, summer boots for women, cowboy boots for women, summer boots for women with heel, cowgirl outfit for women, cowboy boots, ankle boots for women, ankle boots for women, country clothing for women, line dance shoes for women, western boots for women, cowboy boots for women, cowboy boots for women, western boots, western boots, western boots, western boots. tern, cowboots boy for women, boots for women, summer boots, women's boots"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/613iIRMvF2L.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0FJQ8TNCP"
+      }
+    },
+    {
+      "asin": "B09VYLC72Z",
+      "csi_title": "Skechers Uno-Loving Love 155506-BBK, Womens Sneakers, Black, 42 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": null,
+          "additional_sizes_detected": [
+            "42 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"11\"",
+            "legacy_unit": "womens_us"
+          }
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Matière intérieure : Synthétique",
+            "Semelle Matériel : Caoutchouc",
+            "Matériau extérieur : Simili cuir",
+            "Matériau unique : Cuir synthétique"
+          ],
+          "other": [
+            "Fermeture : Lacet",
+            "Type de talon : Talon plateforme",
+            "Largeur de chaussure : Moyen",
+            "Closure: lace",
+            "Heel Type: Platform Heel",
+            "Inner material: synthetic",
+            "Sole material: rubber",
+            "Outer material: faux leather",
+            "Shoe Width: Medium",
+            "Unique material: PU leather"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61c5fj9xReL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B09VYLC72Z"
+      }
+    },
+    {
+      "asin": "B0FJQGKB6Z",
+      "csi_title": "Generisch Bottes en caoutchouc pour homme - Bottes de pluie imperm&#233;ables en caoutchouc Bottes de jardin pour la p&#234;che, le travail en plein air R&#233;sistantes &#224; l&apos;usure Demi-bottes Bottes courtes",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_118::{",
+          "size_map": "41 EU",
+          "additional_sizes_detected": [
+            "numeric_41,",
+            "41 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_41",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "adult",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 41
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_41",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 41
+        },
+        "age_range": {
+          "raw_values": [
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Antidérapant : Les semelles avec un profil antidérapant améliorent la stabilité. La résistance antidérapante des bottines assure un maintien stable sur les chemins boueux, elles vous offrent un maintien stable et une sécurité lors de la marche.",
+            "Confort : avec leur semelle extérieure solide, ces bottes de pluie offrent un gain de taille discret mais aussi un confort tout au long de la journée sans fatiguer vos pieds.",
+            "Large application : Ces bottes en caoutchouc tendance sont disponibles dans différentes couleurs et se combinent parfaitement avec divers tenues, idéales pour les jours de pluie. Que ce soit pour le jardinage ou l'usage quotidien, ces bottes vous offriront une excellente expérience.",
+            "bottes en caoutchouc hommes 44 bottes de pluie festival bottes de pluie femmes bottes de pluie femmes imperméables chaussures de jardin hommes 43 bottes femmes noires plates femmes été bottines noires bottes sans lacets bottes de trekking femmes été bottes de travail femmes noires bottes d'équitation enfants filles 33 bottines femmes avec talon boots femmes bottes western chaussures femmes été élégantes bottes été bottes cowboy bottines femmes bottes tactiques hommes bottes en caoutchouc bottes hommes 46 bottes hommes marron bottines outdoor femmes",
+            "Bottes pour femme, bottes en cuir pour femme, bottes western pour femme, bottes en daim pour femme, bottes d'été pour femme, bottes de cowboy pour femme, bottes pour femme, bottes de cowboy, bottes en daim pour femme, bottes d'été pour femme, bottes d'été pour femme, tenue western pour femme, bottes pour femme motard, bottes d'été pour femme, bottes pour femme d'été, bottes d'été pour femme, bottes d'été pour femme à motif perforé, bottes d'été pour femme, bottes en daim pour femme d'été avec talon"
+          ],
+          "other": [
+            "Non-slip: the outer soles with non-slip profile improve stability. The non-slip resistance of the ankle boots ensures a stable hold on muddy paths, providing you with a stable hold and safety when walking.",
+            "COMFORT - With a solid outsole, these rain boots offer a discreet size gain but also all-day comfort without straining your feet.",
+            "Wide Application The fashionable wellies come in different colors and can be perfectly combined with different outfits, ideal for rainy days. Whether you are in gardening or everyday use, these boots will give you a great experience.",
+            "wellies for men 44 rain boots for women waterproof garden shoes for men 43 black flat boots for women summer boots black boots for women trekking boots for women riding boots women riding boots for women riding boots for women riding boots for women riding boots for women heel boots western boots for women summer boots elegant boots cowboy boots for women intervention boots for men wellies for men wellies 44 4 6 boots Men's Brown Outdoor Ankle Boots for Women",
+            "boots for women cowboy boots for women summer boots for women cowboy boots for women cowboy boots for women cowboy boots for women summer boots for women summer boots for women summer boots for women biker boots for women summer ankle boots for women summer ankle boots for women ankle boots for women summer ankle boots for women ankle boots for women summer ankle boots for women with heel"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/613iIRMvF2L.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0FJQGKB6Z"
+      }
+    },
+    {
+      "asin": "B0FG2RDWMP",
+      "csi_title": "Bottes en caoutchouc femmes hautes &#233;tanches bottes de pluie bottes de travail bottes &#224; enfiler chaussures de pluie Rain Boots bottes en caoutchouc antid&#233;rapantes bottes de jardin bottes de s&#233;curit&#233;",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_153::{",
+          "size_map": "39 EU",
+          "additional_sizes_detected": [
+            "numeric_39,",
+            "39 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_39",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "adult",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 39
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_39",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 39
+        },
+        "age_range": {
+          "raw_values": [
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "bottes en caoutchouc pour femmes doublées mi-hautes colorées bottes en caoutchouc taille 21 bottes de pluie pour enfants filles 23 bottes de pluie pour femmes courtes bottes de pluie pour hommes doublées chaussures de pluie pour femmes vélo chaussures de pluie pour hommes bottes de pluie 36 bottes de pluie hommes noir haut bottes courtes hommes noir chukka bottes hommes cuir bottes chaussures pour femmes noir bottes chaussures hommes bottes femmes noir cuir",
+            "Bottes en caoutchouc pour femmes 38, bottes en caoutchouc taille 20 pour bébé fille, bottes de pluie pour femmes, bottes de pluie mi-hautes pour femmes, bottes de pluie pour femmes 43, bottes de pluie pour hommes, bottes de pluie pour femmes beiges, bottes pour femmes, bottes cowboy pour hommes, bottes pour hommes, bottes en cuir pour femmes, bottes en cuir pour hommes, bottes marron pour femmes, bottes avec boucle pour femmes",
+            "bottes en caoutchouc pour femmes 41 bottes en caoutchouc taille 36 bottes en caoutchouc pour hommes bottes de pluie pour filles bottes de pluie imperméables pour femmes courtes bottes de pluie pour hommes courtes 47 bottes de pluie doublées pour femmes bottes de pluie pour hommes 46 bottes de pluie pour femmes courtes colorées bottes pour enfants 34 bottes à plateforme pour femmes beige bottes cowboy pour hommes bottes chukka pour hommes noir bottes pour femmes gris bottes pour hommes bottes pour femmes beiges à talons plats",
+            "bottes en caoutchouc femme 40 bottes en caoutchouc homme mi-hautes bottes de pluie homme mi-hautes bottes de pluie femme bottes de pluie homme 46 bottes de pluie femme 42 bottes de pluie homme 46 bottes de pluie fille 35 bottes pour enfants 37 bottes femme noir plat bottes western homme bottes motard homme 46 bottes femme 39 bottes homme bleu bottes femme avec nœud",
+            "Bottes en caoutchouc courtes pour femmes 40 bottes en caoutchouc mi-hautes pour hommes taille 48-49 bottes de pluie pour enfants 23 bottes de pluie courtes pour femmes bottes de pluie courtes pour hommes 47 bottes de pluie imperméables pour femmes bottes de pluie pour hommes 45 bottes de pluie pour filles 35 bottes de pluie pour enfants 26 bottines pour hommes noirs bottes en cuir pour hommes bottes pour femmes 40 bottes pour hommes bleues bottes pour femmes"
+          ],
+          "other": [
+            "wellies women wellies lined mid high wellies colorful wellies size 21 rain boots for kids girls rain boots short lined rain boots mens rain boots mens rain boots mens rain boots 36 rain boots black rain boots mens ankle boots women men black boots",
+            "wellington boots women wellies 38 wellies size 20 rain boots women rain boots women rain boots women rain boots women rain boots women rain boots women rain boots women rain boots for women cowboy boots for men women leather boots leather boat shoes men brown boots women boots women bow",
+            "wellies women wellies women 8 rain boots rubber boots size 36 rain boots girls rain boots short rain boots waterproof short 13 rain shoes lined rain shoes women short rain shoes women short multicoloured boat shoes for kids platform boots 34 cowboy boots beige boots for men women flat boots",
+            "wellies women wellies women 7 rain boots mid height rain boots men rain boots men rain boots men 11 rain shoes men 12 rain boots girls 35 boat shoes kids 37 black boots flat western biker boots mens 11 boat shoes women 6 blue boots women bow",
+            "wellies women wellies short wellies size 13-14 rain boots for women short rain boots men 12 12 12 rain boots mens waterproof rain boots 11 11 girls rain boots 35 kids rain boots 26 black ankle boots suede boots men women 8 blue boat shoes for women men Women"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/51U8k4hduuL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0FG2RDWMP"
+      }
+    },
+    {
+      "asin": "B0CKZ7QJ3N",
+      "csi_title": "Nike Jordan Adg Chaussures de Golf Homme, Ossidian Pink Foam Lime Blast Polar, 46 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": null,
+          "additional_sizes_detected": [
+            "46 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"12\"",
+            "legacy_unit": "mens_us"
+          }
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "male",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Matériau de la semelle extérieure:"
+          ],
+          "other": [
+            "Fermeture : lacets",
+            "Type de talon : plat",
+            "Outsole material: Rubber",
+            "Closure: laces",
+            "Heel type: flat"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/81tPU+rt0uL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0CKZ7QJ3N"
+      }
+    },
+    {
+      "asin": "B0D4TGBJHW",
+      "csi_title": "Skechers Go Golf Elite Vortex Slip InsSneaker pour Homme, Garniture Rouge synth&#233;tique Anthracite, 43 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": null,
+          "additional_sizes_detected": [
+            "43 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"10\"",
+            "legacy_unit": "mens_us"
+          }
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "male",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Crampons remplaçables Softspikes offrant traction et confort",
+            "Fermeture à cadran Twist Fit pour un ajustement précis et réglable",
+            "Garantie étanche d'un an",
+            "Système de semelle intérieure breveté Skechers Arch Fit avec soutien de la voûte plantaire certifié par les podologues"
+          ],
+          "other": [
+            "Skechers Chaussures mains libres pour un ajustement facile avec un coussin de talon exclusif qui maintient votre pied bien en place.",
+            "Skechers Hands free shoes for easy fit with an exclusive heel cushion that keeps your foot securely in place.",
+            "Replaceable Softspikes cleats provide traction and comfort",
+            "Twist fit dial closure for a precise, adjustable fit",
+            "One year waterproof warranty",
+            "Patented Skechers Arch Fit insole system with podiatrist-certified arch support"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/81E+7uVSGlL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0D4TGBJHW"
+      }
+    },
+    {
+      "asin": "B0D4TV5K7C",
+      "csi_title": "Nike Homme Superfly 10 Club FG/MG Soccer Shoe, Black/Black-Deep Jungle, 39 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": null,
+          "additional_sizes_detected": [
+            "39 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"6.5\"",
+            "legacy_unit": "mens_us"
+          }
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Chaussure de foot montante à crampons multi-surfaces Nike Mercurial Superfly 10 Club"
+          ],
+          "other": [
+            "Nike Mercurial Superfly 10 Club Multi Surface Spiked Football Boots"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61sBqyReYkL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0D4TV5K7C"
+      }
+    },
+    {
+      "asin": "B0D1YFGBLN",
+      "csi_title": "Nike DM0029-109 Air Max 90 Homme Summit White/Black-Khaki-LT Orewood BRN EU 42",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": null,
+          "additional_sizes_detected": [
+            "42 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"8.5\"",
+            "legacy_unit": "mens_us"
+          }
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "male",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Détails recherchés"
+          ],
+          "other": [
+            "Ergonomique",
+            "Confort maximal",
+            "Ergonomic",
+            "Details sought",
+            "Maximum comfort"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61SdHSMWm3L.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0D1YFGBLN"
+      }
+    },
+    {
+      "asin": "B0FG2QQMQ2",
+      "csi_title": "Bottes en caoutchouc pour femme, hautes et imperm&#233;ables, bottes de travail, bottes de pluie, bottes de jardin, bottes de s&#233;curit&#233;, bottes de p&#234;che, bottes antid&#233;rapantes en caoutchouc, rouge, 39 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_166::{",
+          "size_map": "39 EU",
+          "additional_sizes_detected": [
+            "numeric_39,",
+            "39 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_39",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "adult",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 39
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_39",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 39
+        },
+        "age_range": {
+          "raw_values": [
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Bottines courtes pour femme, 37, bottes en caoutchouc pour homme, 47/48, bottines de pluie bleues pour femme, bottes de pluie légères pour homme, chaussures de pluie pour femme, chaussures imperméables pour homme, 48 bottes de pluie pour femme, bottes de pluie pour femme, bottines pour femme, bottines pour homme, 45 bottes de motard, bottes en cuir pour femme, 41 bottines pour homme, bottes de cheville pour femme, couleur marron",
+            "Bottes en caoutchouc pour femmes, courtes et colorées, bottes en caoutchouc taille 39, bottes de pluie pour filles 27, bottes de pluie pour femmes mi-hautes légères, bottes de pluie pour hommes, chaussures de pluie pour femmes taille 35, chaussures de pluie pour hommes, bottes de pluie pour filles, bottines de printemps marron pour femmes, bottines en cuir pour hommes, bottes de motard pour hommes avec fermeture éclair, chaussures nautiques pour femmes taille 39, chaussures nautiques en cuir marron pour hommes, bottes noires plates pour femmes",
+            "Bottes en caoutchouc pour femme avec doublure courte, bottes en caoutchouc pour homme 43 imperméables, bottes de pluie doublées d'hiver pour femme, bottes de pluie courtes colorées, bottes de pluie mi-mollet pour femme, chaussures de pluie imperméables pour femme, chaussures de pluie imperméables pour homme, bottines de pluie doublées pour femme, bottes de pluie pour homme, bottes et bottines en cuir noir pour femme, bottes noires 43 pour homme, chaussures nautiques en cuir pour femme, chaussures nautiques pour homme, bottes de printemps pour femme",
+            "Bottes en caoutchouc pour femme, bottes en caoutchouc noires pour homme, 45, bottes de pluie hautes pour homme, 46, bottes de pluie légères pour femme, bottes de pluie pour homme, chaussures de pluie pour femme 41, bottines imperméables pour la pluie pour homme, rain boots women, bottes hautes noires pour homme, bottes hautes noires en daim pour homme, bottes en cuir marron pour homme, chaussures nautiques en cuir pour femme, chaussures nautiques pour homme 46, bottes en cuir pour femme"
+          ],
+          "other": [
+            "short boots women 37 wellies men 13/14 blue rain boots lightweight rain boots men rain boots mens waterproof rain shoes men 13 12 rain boots girls 12 rain boots women ankle boots women ankle boots for men women leather biker boots for women 8.5 womens brown boat shoes women",
+            "wellington boots women red size 2/3 rain boots girls 35 short rain boots waterproof rain boots men 10 yellow rain boots rain boots for men women rain boots for men women rain boots for women pink black ankle boots for men women ankle boots for men and women brown canvas boots for women spring",
+            "wellies women wellies short colorful size 6 rain boots for girls 27 rain boots women rain boots for women rain boots for men lightweight rain boots for men 35 rain shoes for men rain boots for men rain boots for men rain boots for men rain boots for men rain boots for men rain boots for men rain boots for men rain boots for men rain boots for men rain boots for men rain boots for men brown leather boots cowboy boots for men Men's incl. zip - 39 - brown leather boat shoes for women - flat black",
+            "wellies women short lined wellies wellies wellies rain boots women waterproof rain boots for women lined rain boots women winter boots women rain boots women rain boots for women rain boots lined rain boots women rain boots for women black leather boots for men black boots women leather boat shoes for women spring",
+            "wellington boots women tall rain boots black rain boots men rain boots men 11 rain boots men lightweight rain boots women rain shoes women 8 rain shoes waterproof rain boots lined rain boots women rain boots women black boots black suede ankle boots brown leather boots women boat shoes women 12 leather boots women leather boots women 12 womens leather boots",
+            "Bottes en caoutchouc pour femme, bottes en caoutchouc rouges, taille 34/35, bottes de pluie pour fille, 35, bottes de pluie pour femme, bottes de pluie courtes pour homme, 43, chaussures de pluie jaunes pour homme, 46, bottes de pluie pour enfants, bottes de pluie roses pour femme, bottines noires pour homme, bottes marrons pour homme, chaussures bateau marrons pour femme, chaussures bateau pour homme, bottes en toile pour femme, bottes de printemps"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/51MPKeg2ioL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0FG2QQMQ2"
+      }
+    },
+    {
+      "asin": "B0FG2QM64F",
+      "csi_title": "Bottes en caoutchouc pour femmes, hautement imperm&#233;ables, de travail, de pluie, antid&#233;rapantes, de jardin, de s&#233;curit&#233;, de p&#234;che, Noir , 41 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_130::{",
+          "size_map": "41 EU",
+          "additional_sizes_detected": [
+            "numeric_41,",
+            "41 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_41",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "adult",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 41
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_41",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 41
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Bottes en caoutchouc doublées pour femme, 42 bottes en caoutchouc, taille 21, bottes de pluie 36/37, bottes de pluie pour femme, imperméables, rembourrées et imperméables, 45 chaussures de pluie, 43 chaussures de pluie pour homme, 48 bottes de pluie pour femme, bottes pour femme à mi-mollet, 31 bottes pour homme, couleur noir, stivaletti pour homme, couleur noir, bottes pour homme, couleur marron, beige 40",
+            "Bottes en caoutchouc mi-haut pour femme, couleur noir, taille 20, bottes de pluie pour femme, imperméables, bottes de pluie pour femme, bottes de pluie pour homme, 39 chaussures de pluie pour homme, 46 bottines de pluie pour femme, rembourrées, bottines pour femme, couleur noir, élégantes bottes de cowboy, 44 bottes en cuir suédé pour homme, 38 5 OT femme mini",
+            "Bottes en caoutchouc rouges pour femme, taille 24/25, bottes de pluie pour femme, bottes de pluie pour femme, chaussures de pluie pour femme, chaussures de pluie, bottes pour femme, bottines pour femme, plateforme 37, bottes pour femme, couleur noir, style gothique, bottes pour homme, couleur marron, chukka, chaussures en cuir suédé pour homme, bottes en cuir suédé pour homme",
+            "Bottes en caoutchouc doublées pour femme, bottes de pluie pour homme, bottes de pluie pour homme, bottes de pluie imperméables, pour homme, chaussures de pluie pour femme, bottes de pluie pour homme, 34, bottes de pluie pour femme, bottes à talons marron pour femme, bottes courtes marron pour homme",
+            "Bottes en caoutchouc courtes pour femmes, doublées, bottes de pluie mi-hautes, pour enfants, 24 bottes de pluie légères, pour femmes, imperméables, de pluie, pour femmes, imperméables, de pluie, pour hommes, 34, bottes pour enfants, 31 bottes de cowboy, bottes en cuir suédé pour hommes, 39 bleu"
+          ],
+          "other": [
+            "womens lined wellies wellies women wellies 42 wellies size 21 rain boots 36/37 waterproof lined rain boots for men 11 rain shoes for men women 13 13 mid boots men black boots for men women brown beige 40",
+            "wellies women wellies women boots mid rise black rubber boots size 20 waterproof rain boots women short rain boots for men women lined rain boots women rain boots women rain boots lined rain boots women rain boots women black stylish cowboy boots for men 10 suede shoes boat shoes women 5 5 boat shoes for women men-black mini women",
+            "wellington boots women red size 7/8 rain boots women rain boots women mid rise rain boots women rain boots for men rain boots women rain boots women rain boots for women platform boots 37 gothic boots men brown chukka shoes suede boat shoes men womens platform beige",
+            "wellies for women wellies rain boots rubber lined rain boots for men and women rain boots for men and women waterproof rain boots for men and women rain boots for girls rain boots for women rain boots for women brown boots biker boots for men women vintage boots for men women",
+            "wellies women wellies short wellies lined short wellies rain boots mid rise rain boots kids rain boots lightweight lined rain boots women rain boots women wide rain boots women wide rain boots girls waterproof rain boots girls 2 boat shoes kids 31 cowboy boots suede boots men summer shoes women 6 blue with summer heel"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/51IGtwz1ALL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0FG2QM64F"
+      }
+    },
+    {
+      "asin": "B096KP77XP",
+      "csi_title": "Skechers Uno-Loving Love 155506-WRPK, Womens Sneakers, White, 37 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": null,
+          "additional_sizes_detected": [
+            "37 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"7\"",
+            "legacy_unit": "womens_us"
+          }
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "other": [
+            "Synthetic Leather"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61H8oGjeFtL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B096KP77XP"
+      }
+    },
+    {
+      "asin": "B0CVL4TVZL",
+      "csi_title": "Pantalon de p&#234;che pour homme - Imperm&#233;able en n&#233;opr&#232;ne - Pantalon de p&#234;che pour femme - Imperm&#233;able avec bottes - Gu&#234;tres de pluie longues - Pantalon de plein air - Respirant - Pantalon de pluie",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "44",
+          "size_map": "44",
+          "additional_sizes_detected": [
+            "46"
+          ],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adult",
+            "Adulte"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Men's checked trousers, casual trousers, business style, elegant, medium waist, striped, stretch fabric, streetwear trousers, classic chinos, slim fit, men's chinos, straight trousers, jogging trousers, jogging trousers, suit trousers, pencil trousers, leisure trousers, chequered trousers, business elegance. Trousers t-waist mid-rise-striped-sweatpant-sweatpant-stretched-fabric casual streetwear trousers classic sports trousers chinos slim fit leisure trousers plaid trousers business trousers chinos streetwear long trousers training pants sweatpants",
+            "Service IQYU : Chers clients, nos marchandises sont sélectionnées avec une bonne logistique, généralement dans un délai de ✈✈7-15 jours ! Si vous n'êtes pas satisfait de mon produit, nous soutenons le retour ou le remboursement dans les 30 jours suivant l'achat !! Veuillez soutenir IQYU, nous reviendrons à chaque client avec des produits de qualité supérieure et un bon service ~",
+            "Pantalon softshell pour homme - Taille courte - Pantalon softshell d'été noir - Pantalon softshell été 110 - Pantalon de neige pour garçon 110 - Pantalon de randonnée pour homme - Pantalon de randonnée pour homme - Pantalon de neige 104 - Pantalon de neige pour garçon 110 - Pantalon de randonnée pour homme - Pantalon de randonnée d'été pour homme",
+            "Pantalon de pluie doublé pour homme, pantalon de pluie doublé pour homme, pantalon de pluie doublé 128, pantalon de boue doublé 116 garçons, pantalon de boue doublé 110/116 garçon, pantalon de pluie pour garçon 128, pantalon de boue doublé 116 garçons, salopette de pluie pour homme 128, salopette de pluie pour homme, imperméable, salopette de pluie 122 doublée. Pantalon buddel doublé pour garçon 110 cm",
+            "Pantalon de pluie pour homme jaune, pantalon de pluie doublé pour homme, pantalon de pluie pour homme, pantalon de pluie pour homme 104, pantalon de boue doublé en polaire 122, pantalon de pluie pour garçon 128, salopette de pluie doublée en polaire 110, salopette de pluie pour homme 110, salopette de travail pour homme, salopette de travail pour garçon doublée",
+            "Pantalon à carreaux pour homme - Pantalon décontracté - Style business élégant - Taille moyenne - Rayé - Tissu extensible - Pantalon streetwear - Pantalon chino classique - Coupe slim - Pantalon chino pour homme - Pantalon long droit - Pantalon de jogging - Pantalon de costume - Pantalon crayon - Pantalon de loisirs pour homme - Pantalon à carreaux - Élégance professionnelle. Pantalon t-taille mi-haute-rayé-Sweatpant-Sweatpant-Stretch-Tissu Pantalon streetwear décontracté Pantalon de sport classique Chino Slim Fit Loisirs Pantalon à carreaux Pantalon d'affaires Pantalon chino streetwear Pantalon long Pantalon d'entraînement Pantalon de survêtement"
+          ],
+          "other": [
+            "IQYU Service: Dear customers, our goods are selected with good logistics, usually within 7-15 days! If you are not satisfied with my product, we support return or refund within 30 days of purchase! ! Please support IQYU, we will return to every customer with superior products and good service~",
+            "softshell pants men short waist softshell pants summer black softshell pants summer 110 snow pants boys 110 hiking pants men hiking pants men hiking pants men snow pants 104 snow pants boys 110 hiking pants men summer hiking pants men summer hiking pants men",
+            "mens lined rain pants, mens lined rain pants, lined rain pants 128, lined mud pants 116 boys lined mud pants, 110/116 boy lined mud pants, boys rain pants 128, lined mud pants 116 boys, rain overalls mens 128, rain overalls mens waterproof, 122 lined rain overalls. Boy's Lined Buddel Pants 110cm",
+            "mens rain pants yellow rain pants lined rain pants mens rain pants mens rain pants mens rain pants 104 fleece lined mud pants 122 boys rain pants 128 fleece lined rain overalls 110 mens rain overalls 110 mens work overalls work overalls boys lined"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/51Mrmifr2YL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0CVL4TVZL"
+      }
+    },
+    {
+      "asin": "B0FJQVG9B3",
+      "csi_title": "Generisch Bottes en caoutchouc pour homme - Bottes de pluie imperm&#233;ables en caoutchouc Bottes de jardin pour la p&#234;che, le travail en plein air R&#233;sistantes &#224; l&apos;usure Demi-bottes Bottes courtes",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_118::{",
+          "size_map": "43 EU",
+          "additional_sizes_detected": [
+            "numeric_43,",
+            "43 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_43",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "adult",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 43
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_43",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 43
+        },
+        "age_range": {
+          "raw_values": [
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Antidérapant : Les semelles avec un profil antidérapant améliorent la stabilité. La résistance antidérapante des bottines assure un maintien stable sur les chemins boueux, elles vous offrent un maintien stable et une sécurité lors de la marche.",
+            "Confort : avec leur semelle extérieure solide, ces bottes de pluie offrent un gain de taille discret mais aussi un confort tout au long de la journée sans fatiguer vos pieds.",
+            "Large application : Ces bottes en caoutchouc à la mode sont disponibles dans différentes couleurs et se combinent parfaitement avec différentes tenues, idéales pour les jours de pluie. Que ce soit pour le jardinage ou l'usage quotidien, ces bottes vous offriront une excellente expérience.",
+            "bottes de festival femmes pointues bottes d'été femmes bottes en caoutchouc bottes en caoutchouc enfants bottes en caoutchouc tout-petits bottes en caoutchouc enfants filles bottines femmes noires avec talon bottes hommes été outdoor bottes hommes été femmes bottines bottines femmes été beiges boots hommes 42 boots femmes noires velours bottines courtes imperméables femmes ankle boots noires cuir bottes en caoutchouc hommes courtes 45 bottes en caoutchouc 26 bottes en caoutchouc hommes courtes 44 chaussures de pluie bébé bottes de pluie femmes imperméables femmes",
+            "Bottes de cowboy pour femme - Bottes d'été en daim - Bottes western - Bottines d'été élégantes - Bottes western - Bottes de cowboy pour femme - Bottes de cowboy pour femme - Bottes d'été pour femme - Bottes de cowboy - Bottines d'été pour femme - Bottes d'été pour femme - Bottes de motard pour femme - Bottes d'été pour femme Bottines pour femme"
+          ],
+          "other": [
+            "Non-slip: the outer soles with non-slip profile improve stability. The non-slip resistance of the ankle boots ensures a stable hold on muddy paths, providing you with a stable hold and safety when walking.",
+            "COMFORT - With a solid outsole, these rain boots offer a discreet size gain but also all-day comfort without straining your feet.",
+            "Wide Application The fashionable wellies come in different colors and can be perfectly combined with different outfits, ideal for rainy days. Whether you are in gardening or everyday use, these boots will give you a great experience.",
+            "festival boots for women summer boots pointed wellies boots for girls black with heel summer boots for men summer boots for women summer boots for women summer boots for women summer boots for women summer boots for women summer boots for women summer boots for women summer boots for women summer boots for women summer boots for women summer boots for women summer boots for women summer boots for women summer boots for women summer boots for women summer boots for women summer boots for women - Women's summer boots - summer boots for women summer boots for women summer boots for women summer boots for women summer boots for women summer boots for women summer boots for women summer boots for women summer boots for women summer boots for women summer boots for women summer boots for women wellies wellies short rain shoes for men and women",
+            "cowboy boots for women summer boots suede boots western boots summer ankle boots elegant western boots for women cowboy boots for women summer boots for women cowboy boots for women summer boots for women cowboy boots cowboy boots for women summer boots for women summer boots for women biker boots for women summer boots for women boots for women summer boots for women boots for women summer boots for women"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61BSH3EI0QL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0FJQVG9B3"
+      }
+    },
+    {
+      "asin": "B09PZ8RXSB",
+      "csi_title": "Skechers Femme Uno Stand On Air Shoes, Dk Mauve Durabuck Mesh, 39.5 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": null,
+          "additional_sizes_detected": [
+            "39.5 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"9.5\"",
+            "legacy_unit": "womens_us"
+          }
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Matériau extérieur: Synthétique",
+            "Matériau intérieur: Synthétique",
+            "Matériau de la semelle: Caoutchouc"
+          ],
+          "other": [
+            "Outer material: synthetic",
+            "Inner material: Synthetic",
+            "Sole material: Rubber"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61PkAj+hvqL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B09PZ8RXSB"
+      }
+    },
+    {
+      "asin": "B09RPM2ZZK",
+      "csi_title": "Skechers Baskets Uno Loving Lovepour Femme, Bordure en Maille Blanche Durabuck Rouge Rose, 36.5 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": null,
+          "additional_sizes_detected": [
+            "36.5 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"6.5\"",
+            "legacy_unit": "womens_us"
+          }
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Cuir synthétique"
+          ],
+          "other": [
+            "Faux Leather"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61zm9lzPNfL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B09RPM2ZZK"
+      }
+    },
+    {
+      "asin": "B0D35FR9LW",
+      "csi_title": "FitFlop F-Mode Baskets Plates en Tissu/Daim/Cuir pour Femme, P&#234;che, 40 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": null,
+          "additional_sizes_detected": [
+            "40 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"8.5\"",
+            "legacy_unit": "womens_us"
+          }
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": "other",
+          "normalized": "other"
+        },
+        "bullet_points": {
+          "fr": [
+            "Semelle intermédiaire Microwobbleboard",
+            "Le daim est protégé par Scotchgard",
+            "Soutien naturel de la voûte plantaire"
+          ],
+          "other": [
+            "Microwobbleboard midsole",
+            "Suede is protected by Scotchgard",
+            "Natural arch support"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/413ZQEAomHL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0D35FR9LW"
+      }
+    },
+    {
+      "asin": "B0CRL7W1Q4",
+      "csi_title": "Nike &#8211; Baskets pour homme, 42 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": null,
+          "additional_sizes_detected": [
+            "42 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"8.5\"",
+            "legacy_unit": "mens_us"
+          }
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "male",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Un élément Max Air visible assure un amorti réactif",
+            "Les lignes de design et les détails rendent hommage aux modèles de course des années 1990",
+            "L'unité de semelle injectée IU de la semelle intercalaire/semelle extérieure combinée assure un confort léger et une flexibilité",
+            "Les languettes au talon le rendent facile à mettre et à enlever"
+          ],
+          "other": [
+            "La tige en maille avec housses sans couture est respirante et offre un bon maintien",
+            "Visible Max Air element provides responsive cushioning",
+            "Design lines and details pay tribute to 1990s racing models",
+            "Mesh upper with seamless covers is breathable and supportive",
+            "The IU injected sole unit of the midsole/combined outsole ensures lightweight comfort and flexibility",
+            "Heel tabs make it easy to put on and take off"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/614XQwTbTDL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0CRL7W1Q4"
+      }
+    },
+    {
+      "asin": "B09PZ9CLYC",
+      "csi_title": "Skechers Femme Uno - Night Shades, Violet Clair, 41 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": null,
+          "additional_sizes_detected": [
+            "41 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"11\"",
+            "legacy_unit": "womens_us"
+          }
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Dessus synthétique et maille avec lacets extensibles",
+            "Semelle extérieure en caoutchouc souple"
+          ],
+          "other": [
+            "Synthetic and mesh upper with stretch laces",
+            "Soft rubber outsole"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/71OruGaFnfL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B09PZ9CLYC"
+      }
+    },
+    {
+      "asin": "B08WRH3MD7",
+      "csi_title": "Skechers Uno-Loving Love 155506-WHT, Womens Sneakers, White, 37,5 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": null,
+          "additional_sizes_detected": [
+            "37.5 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"7.5\"",
+            "legacy_unit": "womens_us"
+          }
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "other": [
+            "Synthetic"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61RHghEIg6L.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B08WRH3MD7"
+      }
+    }
+  ],
+  "stats": {
+    "asin_blocks_found": 26,
+    "records_extracted": 26,
+    "records_skipped_no_csi": 0
+  }
+}

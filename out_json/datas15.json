@@ -1,0 +1,3066 @@
+{
+  "source_file": "datas15.txt",
+  "records": [
+    {
+      "asin": "B0F7HYN3CC",
+      "csi_title": "XTI 144308, Bottines pour femme, beige, 39 EU, beige, 39 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_358::{",
+          "size_map": "39 EU",
+          "additional_sizes_detected": [
+            "numeric_39,",
+            "39 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_39",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "adult",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 39
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_39",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 39
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Semelle antidérapante",
+            "Cowboy style, this boot features a lovely stitching design that gives it a unique and sophisticated touch. Its 2\" heel offers a stylish height, combining style and comfort",
+            "[Our Brand]: XTI stands out for its urban and functional style, with shoes that combine the latest trends with comfort and versatility to support an active, modern lifestyle."
+          ],
+          "other": [
+            "Xti women's boot. Made of high quality material",
+            "The high stem design brings a western vibe, perfect for giving a modern touch to your look. In addition, its non-slip sole ensures safety and stability when walking. Removable insole"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/51BuFCLVB5L.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0F7HYN3CC"
+      }
+    },
+    {
+      "asin": "B0F7HZLT7G",
+      "csi_title": "Refresh 173033, Bottines pour femme, taupe, 40 EU, Taupe, 40 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_402::{",
+          "size_map": "40 EU",
+          "additional_sizes_detected": [
+            "numeric_40,",
+            "40 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_40",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "adult",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 40
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_40",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 40
+        },
+        "age_range": {
+          "raw_values": [
+            "Adult",
+            "Adulte"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "[Our Brand]: REFRESH with fresh and youthful style. Versatile and modern shoes designed for those who always want to be fashionable without giving up comfort.",
+            "Semelle antidérapante"
+          ],
+          "en": [
+            "36 cm high stem. 8 cm high heel with non-slip rubber sole. This model has obtained the vegan certificate of the world organization PETA (Organization for Animal Rights)"
+          ],
+          "other": [
+            "Refresh women's boot. Made of soft suede",
+            "Inner zip closure. Side pull for easy donning"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/51NYJlxCQfL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0F7HZLT7G"
+      }
+    },
+    {
+      "asin": "B0DP7RS175",
+      "csi_title": "Skechers Bottines Trego Snow Worries pour femme, Cuir synth&#233;tique Duraleather Chocolat, 38.5 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": "38.5 EU",
+          "additional_sizes_detected": [
+            "$additional_links_augmentor_373::{",
+            "numeric_38_point_5,",
+            "38.5 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"8.5\"",
+            "legacy_unit": "womens_us"
+          }
+        },
+        "footwear_size": {
+          "gender": "women",
+          "size": "numeric_38_point_5",
+          "age_group": "adult",
+          "size_system": "eu_footwear_size_system",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 38
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Mousse à mémoire de forme refroidie à l'air",
+            "Coupe décontractée",
+            "Antidérapant dans des conditions humides et sèches",
+            "Étanche"
+          ],
+          "other": [
+            "Dessus et doublure en fausse fourrure",
+            "Air Cooled Memory Foam",
+            "Relaxed fit",
+            "Non-slip in wet and dry conditions",
+            "Faux fur upper and lining",
+            "Waterproof"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61L4M-vcNWL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0DP7RS175"
+      }
+    },
+    {
+      "asin": "B0C8KDQ7G1",
+      "csi_title": "Camper Bottines &#224; Lacets Droite pour Femme, Noir 022, 38 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": null,
+          "additional_sizes_detected": [
+            "38 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"7.5\"",
+            "legacy_unit": "womens_us"
+          }
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Matériau extérieur : 100 % cuir de vachette",
+            "Semelle : 80 % caoutchouc, 20 % caoutchouc recyclé",
+            "Cuir de qualité supérieure"
+          ],
+          "other": [
+            "Couleur : noir",
+            "Colour: black",
+            "Outer material: 100% cowhide leather",
+            "Sole: 80% Rubber, 20% Recycled Rubber",
+            "High Quality Leather"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/41RxneEGmzL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0C8KDQ7G1"
+      }
+    },
+    {
+      "asin": "B0BN69HW9N",
+      "csi_title": "Geox Bottines J Theleven pour gar&#231;on, bleu marine, 8.5 UK Child",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_288::{",
+          "size_map": "26 EU",
+          "additional_sizes_detected": [
+            "numeric_26,",
+            "26 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_26",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "little_kid",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 26
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_26",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "little_kid",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 26
+        },
+        "age_range": {
+          "raw_values": [
+            "Enfant",
+            "Kid"
+          ],
+          "normalized": "little_kid"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Matériau extérieur : synthétique",
+            "Matériau intérieur : synthétique"
+          ],
+          "other": [
+            "Semelle : caoutchouc",
+            "Fermeture : lacets",
+            "Forme du talon : plat",
+            "Upper material: synthetic",
+            "Inner material: synthetic",
+            "Sole: Rubber",
+            "Closure: laces",
+            "Heel shape: flat"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/81WLrX1IGjL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0BN69HW9N"
+      }
+    },
+    {
+      "asin": "B0BP2VK62R",
+      "csi_title": "Clarks Bottines Charlten Bay pour femme, Nubuck ardoise, 38 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": null,
+          "additional_sizes_detected": [
+            "38 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"7.5\"",
+            "legacy_unit": "womens_us"
+          }
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Propulsées par des technologies innovantes telles que Contoured Comfort et Cushion Plus, nos chaussures offrent un soutien là où vous en avez le plus besoin",
+            "Offrant une douceur suprême et un confort durable, la mousse à rebond élevé de Cushion Soft est astucieusement dissimulée à l'intérieur de la chaussure pour absorber l'impact de chaque pas",
+            "La semelle légère offre amorti et flexibilité",
+            "Déplacez-vous confortablement"
+          ],
+          "other": [
+            "Powered by innovative technologies like Contoured Comfort and Cushion Plus, our shoes provide support where you need it most",
+            "Offering supreme softness and lasting comfort, Cushion Soft's high rebound foam is cleverly concealed inside the shoe to absorb the impact of every step",
+            "Lightweight sole provides cushioning and flexibility",
+            "Move comfortably"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61ODBN-BZ1L.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0BP2VK62R"
+      }
+    },
+    {
+      "asin": "B0F7J18QRV",
+      "csi_title": "REFRESH - Botte femme Femme Taupe - Chaussures confortables et polyvalentes - Mode d&#233;contract&#233;e - Mod&#232;le 17303301 (Taille41)",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_337::{",
+          "size_map": "41 EU",
+          "additional_sizes_detected": [
+            "numeric_41,",
+            "41 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_41",
+            "age_group": "adult",
+            "size_system": "eu_footwear_size_system",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 41
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_41",
+          "age_group": "adult",
+          "size_system": "eu_footwear_size_system",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 41
+        },
+        "age_range": {
+          "raw_values": [
+            "Adult",
+            "Adulte"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Botte femme, de la marque Refresh. Fabriquée en doux daim",
+            "Fermeture par zip intérieur. Tirette latérale pour faciliter l'enfilage",
+            "Tige de 36 cm de hauteur. Talon de 8 cm de haut avec semelle en caoutchouc antidérapante. Ce modèle a obtenu le certificat végan de l'organisation mondiale PETA (Organisation des droits des animaux)",
+            "[Notre Marque] : REFRESH Avec un style frais et jeune. Des chaussures polyvalentes et modernes conçues pour ceux qui souhaitent toujours être à la mode sans renoncer au confort.",
+            "[Our Brand]: REFRESH with fresh and youthful style. Versatile and modern shoes designed for those who always want to be fashionable without giving up comfort."
+          ],
+          "en": [
+            "36 cm high stem. 8 cm high heel with non-slip rubber sole. This model has obtained the vegan certificate of the world organization PETA (Organization for Animal Rights)"
+          ],
+          "other": [
+            "Refresh women's boot. Made of soft suede",
+            "Inner zip closure. Side pull for easy donning"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/51NYJlxCQfL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0F7J18QRV"
+      }
+    },
+    {
+      "asin": "B0CB3N7F51",
+      "csi_title": "Clarks Deva Mae Bottines &#224; Talons pour Femme, Marron Clair/Cuir, 39 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": null,
+          "additional_sizes_detected": [
+            "39 EU",
+            "38.5 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"8.5\"",
+            "legacy_unit": "womens_us"
+          }
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Matériau intérieur : Synthétique",
+            "Matériau de la semelle intérieure : Caoutchouc",
+            "Matériau extérieur :Cuir",
+            "Matériau unique : Caoutchouc"
+          ],
+          "other": [
+            "Type de fermeture : Boucle",
+            "Type de talon : Talon bloc",
+            "Closure type: buckle",
+            "Heel Type: Block Heel",
+            "Inner material: synthetic",
+            "Insole Material: Rubber",
+            "Outer material: leather",
+            "Unique Material: Rubber"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/51fbsaAyHCL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0CB3N7F51"
+      }
+    },
+    {
+      "asin": "B0DLGHC1JH",
+      "csi_title": "DREAM PAIRS Bottes de cowboy mi-mollet Western &#224; bout carr&#233; pour gar&#231;ons et filles, Rose/marron, 13 Little Kid",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_118::{",
+          "size_map": "31 EU",
+          "additional_sizes_detected": [
+            "numeric_31,",
+            "31 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_31",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "little_kid",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 31
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_31",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "little_kid",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 31
+        },
+        "age_range": {
+          "raw_values": [
+            "Enfant",
+            "Little Kid"
+          ],
+          "normalized": "little_kid"
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Bottes western pour garçon : Vous cherchez une paire de bottes habillées pour votre tout-petit bien-aimé? C'est tout. Ces bottes western pour garçons sont un fantastique débutant de style western pour les jeunes aventuriers.",
+            "Motifs qu'ils vont adorer : ils auront l'air si cool parmi leurs pairs! Avec des motifs camouflage cool, ces bottes de cowboy mi-mollet sont parfaites pour les garçons à l'âge de l'exploration et de l'aventure.",
+            "Faciles à mettre et à enlever : ces bottes de cowboy sont conçues avec une fermeture éclair de taille afin que votre garçon puisse les mettre et les enlever indépendamment, parfaites pour les enfants occupés et actifs.",
+            "Gardez-les protégés : la semelle extérieure de ces bottes western pour garçons est antidérapante afin que vous puissiez vous sentir confiant que votre enfant est en sécurité tout en jouant, en courant ou en explorant.",
+            "Habillez-les : ces bottes western pour enfants sont parfaites pour les occasions habillées comme les foires du comté, le carnaval et la danse de grange. Ils font également un cadeau idéal pour tout jeune cowboy de votre vie.",
+            "BOYS WESTERN BOOTS: Looking for a pair of dress boots for your beloved little one? That's all. These boys western boots are a fantastic western style beginner for young adventurers."
+          ],
+          "other": [
+            "PATTERNS THEY WILL LOVE - They will look so cool among their peers! With cool camouflage patterns, these mid-calf cowboy boots are perfect for boys in the age of exploration and adventure.",
+            "Easy to put on and take off: these cowboy boots are designed with a size zipper so that your boy can put on and take them off independently, perfect for busy and active kids.",
+            "KEEP THEM PROTECTED The outsole of these boys western boots is non-slip so you can feel confident that your child is safe while playing, running or exploring.",
+            "Dress them up: these kids western boots are perfect for dressy occasions like county fairs, carnival and barn dancing. They also make an ideal gift for any young cowboy in your life."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/71O0Q5cCNUL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0DLGHC1JH"
+      }
+    },
+    {
+      "asin": "B0BM5274RJ",
+      "csi_title": "Camper Runner Four K300347 Bottines pour homme, Vert fonc&#233; 010, 42 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": null,
+          "additional_sizes_detected": [
+            "42 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"9\"",
+            "legacy_unit": "mens_us"
+          }
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "male",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Matériau extérieur : cuir",
+            "Semelle : éthylène-acétate de vinyle",
+            "Fermeture : fermeture éclair"
+          ],
+          "other": [
+            "Upper material: leather",
+            "Sole: EVA",
+            "Closure: zip"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/714hWFHr6mL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0BM5274RJ"
+      }
+    },
+    {
+      "asin": "B0CN423D5S",
+      "csi_title": "CHATTAWAK FEMME BOTTINE ROJA NOIR, 39",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": "39 EU",
+          "additional_sizes_detected": [
+            "$additional_links_augmentor_338::{",
+            "numeric_39,",
+            "39 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"8\"",
+            "legacy_unit": "womens_us"
+          }
+        },
+        "footwear_size": {
+          "gender": "women",
+          "size": "numeric_39",
+          "age_group": "adult",
+          "size_system": "eu_footwear_size_system",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 39
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "botte genoux; effet chaussette avec lacets pour bon maintien; semelle intérieure cuir"
+          ],
+          "other": [
+            "Knee boot; sock effect with laces for support; leather insole"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61MmW6hY+ZL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0CN423D5S"
+      }
+    },
+    {
+      "asin": "B07ZW2RD8K",
+      "csi_title": "Kickers Bottines classiques unisexes pour enfants avec fermeture &#233;clair | Extra confortables | Durabilit&#233; ajout&#233;e | Qualit&#233; sup&#233;rieure | Noir, 10 UK Enfant",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "28 EU",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Petit Enfant",
+            "Little Kid"
+          ],
+          "normalized": "kid"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Brand: Kickers - Colour: Black - Department: Toddler/Infant - Style: Toddlers Boots"
+          ],
+          "other": [
+            "UK Shoe Size: UK 10 Infant",
+            "Type: Toddlers Boots - Upper Material: Patent Leather - Closure: Lace Up / Zip - Customised: No",
+            "Fabric Type: Patent Leather - Country/Region of Manufacture: China - Features: Lace Up / Zip",
+            "Season: Winter",
+            "Kickers The shoe boxes are FSC certified, using 90% recycled materials and natural soy ink. All our shoe boxes are 100% recyclable",
+            "All our leathers come from tanneries certified by the Leather Working Group",
+            "We use 100% recycled mesh for lined styles",
+            "All our laces are BCI (Better Cotton Initiative) laces",
+            "If wet, dry in a place away from direct heat or light"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/71Q6dsIqHNS.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B07ZW2RD8K"
+      }
+    },
+    {
+      "asin": "B0DKG1VV28",
+      "csi_title": "IF FASHION Bottes Boucl&#233;es Au Mollet Femmes En Cuir Synth&#233;tique &#192; Talons Gros Plateau Franges 6641, 39 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": "39 EU",
+          "additional_sizes_detected": [
+            "$additional_links_augmentor_187::{",
+            "numeric_39,",
+            "39 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"8\"",
+            "legacy_unit": "womens_us"
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_39",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 39
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Décoration avec boucle",
+            "Cuir synthétique",
+            "Talon épais",
+            "Produit expédié d'Italie."
+          ],
+          "other": [
+            "Bottes mi-mollet",
+            "Calf Boots",
+            "Decoration with buckle",
+            "Faux Leather",
+            "Chunky heel",
+            "Shipped from Italy."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/51uv1KXtLBL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0DKG1VV28"
+      }
+    },
+    {
+      "asin": "B0DGXLFK2Y",
+      "csi_title": "NORTIV 8 Snhb2212w Botte de randonn&#233;eFemme, Daim Gris Fonc&#233;, 40 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": "40 EU",
+          "additional_sizes_detected": [
+            "$additional_links_augmentor_233::{",
+            "numeric_40,",
+            "40 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"9.5\"",
+            "legacy_unit": "womens_us"
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_40",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 40
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Tige en maille respirante : assure des pieds aérés et confortables tout au long de la journée.",
+            "Semelle extérieure en caoutchouc antidérapant : empêche les glissades ou les chutes lorsque vous traversez des surfaces glissantes ou inégales.",
+            "Talon en TPU de soutien : offre de la stabilité et prévient les blessures à la cheville lors de l'exploration en plein air.",
+            "Semelle intermédiaire MD absorbant les chocs et semelle extérieure en caoutchouc antidérapant"
+          ],
+          "other": [
+            "Tige en maille respirante et talon de soutien",
+            "Breathable mesh upper - ensures airy and comfortable feet all day long.",
+            "Non-slip rubber outsole: prevents slips or falls when crossing slippery or uneven surfaces.",
+            "Supportive TPU Heel - Provides stability and prevents ankle injury when exploring outdoors.",
+            "Breathable mesh upper and supportive heel",
+            "Shock absorbing MD midsole and non-slip rubber outsole"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/714laxTSllL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0DGXLFK2Y"
+      }
+    },
+    {
+      "asin": "B0BN71LYS1",
+      "csi_title": "Geox Bottines J Theleven BoyAnkle pour gar&#231;on, marron, 1.5 UK",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "34 EU",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Enfant",
+            "Kid"
+          ],
+          "normalized": "kid"
+        },
+        "target_gender": "male",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Niveau de résistance à l'eau : non étanche"
+          ],
+          "other": [
+            "Fermeture : lacets",
+            "Forme du talon : plat",
+            "Closure: laces",
+            "Heel shape: flat",
+            "Water resistance level: not waterproof"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/81h6gjO7tVL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0BN71LYS1"
+      }
+    },
+    {
+      "asin": "B0CSDTS4HG",
+      "csi_title": "Fly London Rami043fly Bottes mi-mollet pour femme, p&#233;trole, 5 UK",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": "38 EU",
+          "additional_sizes_detected": [
+            "$additional_links_augmentor_338::{",
+            "numeric_38,",
+            "38 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"7\"",
+            "legacy_unit": "womens_us"
+          }
+        },
+        "footwear_size": {
+          "gender": "women",
+          "size": "numeric_38",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 38
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Fabriqué à la main au Portugal.",
+            "Finitions de qualité supérieure."
+          ],
+          "other": [
+            "Bottes tendance et confortables.",
+            "Bottes d'hiver.",
+            "Bottes en cuir.",
+            "Handmade in Portugal.",
+            "Fashionable and comfortable boots.",
+            "Winter boots.",
+            "Leather boots.",
+            "High-quality workmanship."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/51rz1elNN7L.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0CSDTS4HG"
+      }
+    },
+    {
+      "asin": "B0BN6BJZN3",
+      "csi_title": "Geox J Casey Girl B Abx, Bottines pour fille, Noir, 10 UK Child",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_314::{",
+          "size_map": "31 EU",
+          "additional_sizes_detected": [
+            "numeric_31,",
+            "31 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_31",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "little_kid",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 31
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_31",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "little_kid",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 31
+        },
+        "age_range": {
+          "raw_values": [
+            "Enfant",
+            "Kid"
+          ],
+          "normalized": "little_kid"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Niveau de résistance à l'eau : imperméable"
+          ],
+          "other": [
+            "Forme du talon : plat",
+            "Largeur de la chaussure : moyenne",
+            "Heel shape: flat",
+            "Shoe width: medium",
+            "Water resistance level: waterproof"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/813Kc7LsnFL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0BN6BJZN3"
+      }
+    },
+    {
+      "asin": "B08WJDG3PQ",
+      "csi_title": "Remonte Femme Bottines D7478, Dame Bottines &#224; Lacets,Semelle int&#233;rieure Amovible,Hydrofuge,remonteTEX,Bottes,Braun Kombi,37 EU / 4 UK",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "37 EU",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Type de produit: Bottines,Bottines à lacets,bottes,chukka boot,bottes courtes,bottes à lacets",
+            "Matière supérieure: Suede Leather, Matière intérieure: laine, Semelle extérieure: Synthétique, Semelle de recouvrement: textile",
+            "Largeur: normale (F), Closure type: fermeture eclair, Résistance à l'eau: imperméable grâce à remonteTEX",
+            "semelle interchangeable, semelle intérieure amovible, semelle intérieure libre"
+          ],
+          "other": [
+            "Type de talon: Bloc, Hauteur de talon: 3.2 cm, Type d'arbre: mi-mollet",
+            "Product Type: Ankle Boots,Lace Up Boots,Boots,Chukka Boot,Short Boots,Lace Up Boots",
+            "Upper material: Suede Leather, Inner material: wool, Outsole: Synthetic, Cover: Textile",
+            "Heel type: Block, Heel height: 3.2 cm, Shaft type: Mid-calf",
+            "Width: normal (F), Closure type: zipper, Water resistance: waterproof thanks to remonteTEX",
+            "Interchangeable footbed, removable insole, loose insole"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61ZP3ywDtOL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B08WJDG3PQ"
+      }
+    },
+    {
+      "asin": "B0B5F29HWD",
+      "csi_title": "Kickers Bottines classiques unisexes en cuir alternatif Hi | Mat&#233;riau &#224; base de plantes | Extra confortables | Durabilit&#233; accrue | Qualit&#233; sup&#233;rieure, bleu marine, 39 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "39 EU",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Notre matériau végétal est fabriqué à partir de 75 % de matériaux végétaux, y compris un mélange de maïs et de céréales, qui est tivé à des fins non alimentaires et est 100 % sans OGM et certifié FSC, tandis que le reste est synthétique (ce qui t la durabilité des chaussures)",
+            "Ce matériau extérieur est approuvé A et végétalien",
+            "Ce matériau extérieur dure quatre à cinq fois plus longtemps que les produits traditionnels à base de polyuréthane",
+            "SATRA, une organisation de test de premier plan, a constaté que la durabilité de notre cuir d'origine végétale est passée aux mêmes normes industrielles que les produits en cuir standard",
+            "Les boîtes à chaussures Kickers sont certifiées FSC, utilisant 90 % de matériaux recyclés et de l'encre de soja naturelle, toutes nos boîtes à chaussures sont 100 % recyclables"
+          ],
+          "en": [
+            "This outer material is A-approved and vegan",
+            "This outer material lasts four to five times longer than traditional polyurethane products",
+            "SATRA, a leading testing organization, has found that the durability of our plant-based leather has gone to the same industry standards as standard leather products"
+          ],
+          "other": [
+            "Our plant material is made from 75% plant materials, including a blend of corn and cereals, which is tivated for non-food purposes and is 100% GMO free and FSC certified, while the rest is synthetic (which doesn't last for shoes)",
+            "Kickers shoe boxes are FSC certified, using 90% recycled materials and natural soy ink, all our shoe boxes are 100% recyclable"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/81Tf9IgXyeL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0B5F29HWD"
+      }
+    },
+    {
+      "asin": "B0CB3N4JLK",
+      "csi_title": "Clarks Deva Mae Bottines &#224; talons pour femme, dor&#233;, 41.5 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": null,
+          "additional_sizes_detected": [
+            "41.5 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"10\"",
+            "legacy_unit": "womens_us"
+          }
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Les sandales à talon bloc en cuir disposent d'une sangle de cheville avec fermeture à boucle pour un ajustement sûr"
+          ],
+          "other": [
+            "Talon de 7 cm offrant une hauteur portable",
+            "Une semelle en caoutchouc offre une traction",
+            "Rembourrage en mousse souple sous le pied",
+            "Leather block heel sandals feature an ankle strap with buckle closure for a secure fit",
+            "7cm heel provides portable height",
+            "A rubber sole provides traction",
+            "Soft foam padding underfoot"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/81asWZkDfQL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0CB3N4JLK"
+      }
+    },
+    {
+      "asin": "B0BPFX6Y68",
+      "csi_title": "Camper Peu Cami 36411 Basket Bottines pour homme, Bleu marine 114, 41 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": null,
+          "additional_sizes_detected": [
+            "41 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"8\"",
+            "legacy_unit": "mens_us"
+          }
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "male",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Niveau de résistance à l'eau : non étanche"
+          ],
+          "other": [
+            "Forme du talon : sans talon",
+            "Largeur de la chaussure : moyenne",
+            "Heel shape: without heel",
+            "Shoe width: medium",
+            "Water resistance level: not waterproof"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/71uRzowsLAL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0BPFX6Y68"
+      }
+    },
+    {
+      "asin": "B0D6GK6764",
+      "csi_title": "Remonte Bottines classiques pour femmes D0780, Femmes Bottines, chaussant amovible, d&#233;perlant, remonteTEX, Blanc 80, 40 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_166::{",
+          "size_map": "40 EU",
+          "additional_sizes_detected": [
+            "numeric_40,",
+            "40 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_40",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "adult",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 40
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_40",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 40
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Type de produit : bottines, chaussures basses, baskets hautes, chaussures pour femme, chaussures à lacets, bottines à lacets, coupe moyenne",
+            "Matériau extérieur : cuir lisse, matériau intérieur : textile, semelle extérieure : semelle TR, semelle intérieure : textile",
+            "Largeur : normale (G), fermeture : fermeture éclair, résistance à l'eau : déperlant grâce à remonteTEX",
+            "Ce modèle dispose de la membrane remonteTEX hydrofuge, qui garantit une protection optimale contre l'humidité ainsi qu'une parfaite protection contre le froid et le vent avec une bonne respirabilité. La semelle intérieure amovible est particulièrement douce et absorbe les chocs et peut être remplacée par des semelles orthopédiques individuelles. La laine vierge naturelle de qualité supérieure offre une protection fiable contre le froid tout en offrant un bon climat pour les pieds grâce à ses propriétés respirantes et à son confort optimal."
+          ],
+          "en": [
+            "This model features the water-repellent remonteTEX membrane that guarantees optimal protection against moisture and cold and wind with good breathability. The removable insole is extra soft and shock-absorbing and can be replaced with individual (orthopedic) insoles. The high-quality natural virgin wool offers reliable protection against the cold and at the same time provides a good foot climate thanks to its breathable properties and optimal comfort."
+          ],
+          "other": [
+            "Type de talon : plat, Hauteur du talon : 3,5 cm, Type de tige : demi-tige, Hauteur de la tige : 10 cm",
+            "Product type: ankle boots, low shoes, high trainers, women's shoes, lace-up shoes, lace-up boots, mid-length cut",
+            "Upper material: smooth leather, inner material: textile, outsole: TR sole, insole: textile",
+            "Heel Type: Flat, Heel Height: 3.5 cm, Shaft Type: Half Shaft, Shaft Height: 10 cm",
+            "Width: normal (G), closure: zip, water resistance: waterproof thanks to remonteTEX"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/51i7okC9ZLL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0D6GK6764"
+      }
+    },
+    {
+      "asin": "B07ZW2V5B4",
+      "csi_title": "Kickers Bottines classiques Hi pour enfant avec fermeture &#233;clair | Extra confortables | Durabilit&#233; accrue | Qualit&#233; sup&#233;rieure, Noir, 24 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "24 EU",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Kid"
+          ],
+          "normalized": "kid"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Nous utilisons des mailles 100 % recyclées pour les styles qui sont doublés",
+            "Kickers Les boîtes à chaussures sont certifiées FSC, utilisant 90 % de matériaux recyclés et de l'encre de soja naturelle. Toutes nos boîtes à chaussures sont 100 % recyclables",
+            "Tous nos styles Kicks avec une semelle en caoutchouc noir sont fabriqués à partir de matériaux recyclés à 20 %",
+            "Tous nos cuirs proviennent de tanneries certifiées Leather Working Group"
+          ],
+          "other": [
+            "Tous nos lacets sont des lacets BCI (Better Cotton Initiative)",
+            "All our laces are BCI (Better Cotton Initiative) laces",
+            "We use 100% recycled mesh for styles that are lined",
+            "Kickers The shoe boxes are FSC certified, using 90% recycled materials and natural soy ink. All our shoe boxes are 100% recyclable",
+            "All our Kicks styles with a black rubber sole are made from 20% recycled materials",
+            "All our leathers come from Leather Working Group certified tanneries"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/81mHDqq33eS.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B07ZW2V5B4"
+      }
+    },
+    {
+      "asin": "B0CPPVJBDP",
+      "csi_title": "Geox Bottines U Spherica 4x4 B ABX pour Homme, caf&#233;, 39 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": "39 EU",
+          "additional_sizes_detected": [
+            "$additional_links_augmentor_269::{",
+            "numeric_39,",
+            "39 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"6\"",
+            "legacy_unit": "mens_us"
+          }
+        },
+        "footwear_size": {
+          "gender": "men",
+          "size": "numeric_39",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 39
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "male",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Idéal pour la ville et les loisirs",
+            "Imperméabilité et respirabilité maximales pour une protection optimale même en cas de forte pluie",
+            "Protection contre le froid grâce à une isolation thermique optimale",
+            "Absorption des chocs améliorée"
+          ],
+          "other": [
+            "Respirant"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/71E2L-g8DEL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0CPPVJBDP"
+      }
+    },
+    {
+      "asin": "B0F7J17WQQ",
+      "csi_title": "XTI 144308, Bottines pour femme, beige, 38 EU, beige, 38 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_363::{",
+          "size_map": "38 EU",
+          "additional_sizes_detected": [
+            "numeric_38,",
+            "38 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_38",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "adult",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 38
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_38",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 38
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Semelle antidérapante"
+          ],
+          "other": [
+            "Non-slip sole"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/51BuFCLVB5L.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0F7J17WQQ"
+      }
+    },
+    {
+      "asin": "B09TRZM1GS",
+      "csi_title": "THE NORTH FACE Chaussures de piste Back-to-Berkeley pour homme, Marron caf&#233; TNF noir, 48 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": "48 EU",
+          "additional_sizes_detected": [
+            "$additional_links_augmentor_488::{",
+            "numeric_48,",
+            "48 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"14\"",
+            "legacy_unit": "mens_us"
+          }
+        },
+        "footwear_size": {
+          "gender": "men",
+          "size": "numeric_48",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 48
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Respirantes, imperméables et coupe-vent",
+            "Semelle intermédiaire en EVA préformée d'une dureté",
+            "Pour plus de stabilité",
+            "Membrane DryVent imperméable"
+          ],
+          "other": [
+            "Pour encore plus de protection de la cheville et de confort",
+            "Breathable, waterproof and windproof",
+            "EVA midsole with preformed hardness",
+            "For even more ankle protection and comfort",
+            "For added stability",
+            "Waterproof DryVent membrane"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/71MLl0UnErL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B09TRZM1GS"
+      }
+    },
+    {
+      "asin": "B0F7J1395J",
+      "csi_title": "Refresh 173033, Bottines pour femme, taupe, 38 EU, Taupe, 38 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_384::{",
+          "size_map": "38 EU",
+          "additional_sizes_detected": [
+            "numeric_38,",
+            "38 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_38",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "adult",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 38
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_38",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 38
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Semelle antidérapante",
+            "[Our Brand]: REFRESH with fresh and youthful style. Versatile and modern shoes designed for those who always want to be fashionable without giving up comfort."
+          ],
+          "en": [
+            "36 cm high stem. 8 cm high heel with non-slip rubber sole. This model has obtained the vegan certificate of the world organization PETA (Organization for Animal Rights)"
+          ],
+          "other": [
+            "Refresh women's boot. Made of soft suede",
+            "Inner zip closure. Side pull for easy donning"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/51NYJlxCQfL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0F7J1395J"
+      }
+    },
+    {
+      "asin": "B09NQJKF8W",
+      "csi_title": "Clarks Bottines Opal RosAnkle pour femme, Cuir noir noir, 39 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": "39 EU",
+          "additional_sizes_detected": [
+            "$additional_links_augmentor_335::{",
+            "numeric_39,",
+            "39 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"8\"",
+            "legacy_unit": "womens_us"
+          }
+        },
+        "footwear_size": {
+          "gender": "women",
+          "size": "numeric_39",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 39
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Propulsées par des technologies innovantes telles que Contoured Comfort et Cushion Plus, nos chaussures offrent un soutien là où vous en avez le plus besoin",
+            "Offrant une douceur suprême et un confort durable, la mousse à rebond élevé de Cushion Soft est astucieusement dissimulée à l'intérieur de la chaussure pour absorber l'impact de chaque pas",
+            "La semelle légère offre amorti et flexibilité",
+            "Déplacez-vous confortablement"
+          ],
+          "other": [
+            "Powered by innovative technologies like Contoured Comfort and Cushion Plus, our shoes provide support where you need it most",
+            "Offering supreme softness and lasting comfort, Cushion Soft's high rebound foam is cleverly concealed inside the shoe to absorb the impact of every step",
+            "Lightweight sole provides cushioning and flexibility",
+            "Move comfortably"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/81G2XAi2T3L.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B09NQJKF8W"
+      }
+    },
+    {
+      "asin": "B09QLDDML8",
+      "csi_title": "Timberland Pro Bottines Reaxion pour Homme, Noir, Roux et Orange, 42 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": null,
+          "additional_sizes_detected": [
+            "42 EU Étroit",
+            "42 EU Narrow"
+          ],
+          "structured_size": {
+            "fit_size": "\"9\"",
+            "legacy_unit": "mens_us"
+          }
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "male",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Matériau extérieur : textile Majority W/cuir",
+            "Matériau intérieur : synthétique",
+            "Semelle : polyuréthane"
+          ],
+          "other": [
+            "Fermeture : lacets",
+            "Forme du talon : pas de talon",
+            "Upper material: Majority textile W/leather",
+            "Inner material: synthetic",
+            "Sole: Polyurethane",
+            "Closure: laces",
+            "Heel shape: no heel"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/818rYN+YIEL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B09QLDDML8"
+      }
+    },
+    {
+      "asin": "B0DK2RTFCD",
+      "csi_title": "Columbia Chaussures de trail Vertisol, confort polyvalent, soutien fiable, base stable, r&#233;duction des chocs, adh&#233;rence sup&#233;rieure - Femmes",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": null,
+          "additional_sizes_detected": [
+            "41.5 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"10.5\"",
+            "legacy_unit": "womens_us"
+          }
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "CHAUSSURES PRÊTES POUR L’AVENTURE : Chaussures de trail pour femmes conçues pour la randonnée, avec une adhérence supérieure et un soutien fiable sur les chemins de montagne et les terrains rocheux",
+            "AJUSTEMENT LÉGER ET AMORTI : Semelle intermédiaire Techlite, semelle intérieure rembourrée, soutien de la cheville et retour d’énergie élevé pour un confort tout au long de la journée",
+            "STYLISEZ-LE À VOTRE FAÇON : À porter pour les aventures en plein air ou les promenades en ville - la tige en maille avec empiècements synthétiques donne un look moderne et polyvalent",
+            "MATÉRIAUX DURABLES ET ENTRETIEN : Caoutchouc Omni-Grip pour une traction supplémentaire, matériaux imperméables et respirants, système Omni-Max avec une semelle intermédiaire Techlite pour une meilleure absorption des chocs",
+            "STYLE IT YOUR WAY: Wear for outdoor adventures or city walks - mesh upper with synthetic inserts gives a modern, versatile look",
+            "DURABLE MATERIALS AND MAINTENANCE: Omni-Grip rubber for extra traction, waterproof and breathable materials, Omni-Max system with Techlite midsole for enhanced shock absorption"
+          ],
+          "other": [
+            "CONTENU : 1x Columbia Vertisol Trail Shoes, Femme, Taille: 41.5 EU, Couleur: Cloud Grey, Citron Haze (Gris (Grey))",
+            "ADVENTURE READY SHOES: Women's trail running shoes designed for hiking, with superior grip and reliable support on mountain paths and rocky terrain",
+            "LIGHTWEIGHT AND CUSHIONED FIT: Techlite midsole, cushioned insole, ankle support and high energy return for all-day comfort",
+            "Contents: 1 x Columbia Vertisol Trail Shoes, Women, Size: 41.5 EU, Colour: Cloud Grey, Lemon Haze (Grey (Grey))"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61yFDham+JL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0DK2RTFCD"
+      }
+    },
+    {
+      "asin": "B0CSDSWSH3",
+      "csi_title": "Fly London Rami043fly Bottes mi-mollet pour femme, p&#233;trole, 40 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "40 EU",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Fabriqué à la main au Portugal.",
+            "Finitions de qualité supérieure."
+          ],
+          "other": [
+            "Bottes tendance et confortables.",
+            "Bottes d'hiver.",
+            "Bottes en cuir.",
+            "Handmade in Portugal.",
+            "Fashionable and comfortable boots.",
+            "Winter boots.",
+            "Leather boots.",
+            "High-quality workmanship."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/51rz1elNN7L.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0CSDSWSH3"
+      }
+    },
+    {
+      "asin": "B0CF981C9H",
+      "csi_title": "Izas Temma Chaussure Polyvalente pour Homme pour La Randonn&#233;e en Terrain Rocheux. Amorti Int&#233;rieur Et Semelle Adh&#233;rente sur Sol Sec Et Humide",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "43 EU",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adult",
+            "Adulte"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "male",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "BREATHABLE AND DURABLE DESIGN: With breathable and highly durable materials, these sneakers are ideal for all your outdoor adventures, providing you with freshness and support all day long.",
+            "ZAPATILLAS MULTIACTIVIDAD TEMMA M POUR LA RANDONNÉE: Parfaites pour la randonnée en altitude basse et moyenne, ces chaussures offrent des performances optimales sur des distances moyennes et courtes sur des terrains rocheux.",
+            "PLANTILLA INTÉRIEURE AVEC AMORTISSEMENT: Avec une SEMELLE intérieure offrant un excellent amorti, les Temma M garantissent un confort à chaque pas lors de longues promenades ou d'activités intenses.",
+            "SEMELLE EXTÉRIEURE AVEC TALONS POUR UNE ADHÉRENCE SUR TOUT TERRAIN: Sa SEMELLE extérieure avec des talons offre une adhérence supérieure aussi bien sur les surfaces sèches que humides, assurant une stabilité sur les terrains difficiles.",
+            "DESIGN RESPIRANT ET DURABLE: Avec des matériaux respirants et hautement durables, ces baskets sont idéales pour toutes vos aventures en plein air, vous offrant fraîcheur et soutien tout au long de la journée.",
+            "IZAS: Explorez sans limites - Forts de plus de 20 ans d'expérience dans les vêtements techniques, nous concevons des vêtements pour relever tous les défis, des rues aux sommets. Technologie, confort et résistance s'unissent pour vous accompagner dans chaque aventure."
+          ],
+          "other": [
+            "ZAPATILLAS MULTIACTIVIDAD TEMMA M FOR HIKING: Perfect for hiking in low and medium altitudes, these shoes offer optimal performance over medium and short distances on rocky terrain.",
+            "INNER PLANTILLA WITH CUSHIONING: With an inner sole offering excellent cushioning, the Temma M guarantee comfort with every step during long walks or intense activities.",
+            "OUTSOLE WITH HEELS FOR GRIP ON ANY TERRAIN: Its outer sole with heels provides superior grip on both dry and wet surfaces, ensuring stability on difficult terrain.",
+            "IZAS: Explore without limits - With over 20 years of experience in technical clothing, we design clothing to meet any challenge, from the streets to the peaks. Technology, comfort and resistance come together to accompany you on every adventure."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/512R7rIGywL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0CF981C9H"
+      }
+    },
+    {
+      "asin": "B0CPPW8CH2",
+      "csi_title": "Geox Bottines D Giselda R D pour Femme, Noir, 2 UK",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": "35 EU",
+          "additional_sizes_detected": [
+            "$additional_links_augmentor_312::{",
+            "numeric_35,",
+            "35 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"5\"",
+            "legacy_unit": "womens_us"
+          }
+        },
+        "footwear_size": {
+          "gender": "women",
+          "size": "numeric_35",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 35
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": "Caoutchouc",
+          "normalized": "Rubber"
+        },
+        "bullet_points": {
+          "other": [
+            "Respirant"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61sAN7Xt2WL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0CPPW8CH2"
+      }
+    },
+    {
+      "asin": "B0CB3QQNKK",
+      "csi_title": "Clarks Deva Mae Bottines &#224; talons pour femme, dor&#233;, 39.5 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "39.5 EU",
+          "size_map": null,
+          "additional_sizes_detected": [
+            "39 EU"
+          ],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Les sandales à talon bloc en cuir disposent d'une sangle de cheville avec fermeture à boucle pour un ajustement sûr"
+          ],
+          "other": [
+            "Talon de 7 cm offrant une hauteur portable",
+            "Une semelle en caoutchouc offre une traction",
+            "Rembourrage en mousse souple sous le pied",
+            "Leather block heel sandals feature an ankle strap with buckle closure for a secure fit",
+            "7cm heel provides portable height",
+            "A rubber sole provides traction",
+            "Soft foam padding underfoot"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/81asWZkDfQL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0CB3QQNKK"
+      }
+    },
+    {
+      "asin": "B0F7HZZR2G",
+      "csi_title": "XTI 144308 Bottines pour femme, beige, 41 EU, beige, 41 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_340::{",
+          "size_map": "41 EU",
+          "additional_sizes_detected": [
+            "numeric_41,",
+            "41 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_41",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "adult",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 41
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_41",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 41
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Semelle antidérapante",
+            "Cowboy style, this boot features a lovely stitching design that gives it a unique and sophisticated touch. Its 2\" heel offers a stylish height, combining style and comfort",
+            "[Our Brand]: XTI stands out for its urban and functional style, with shoes that combine the latest trends with comfort and versatility to support an active, modern lifestyle."
+          ],
+          "other": [
+            "Xti women's boot. Made of high quality material",
+            "The high stem design brings a western vibe, perfect for giving a modern touch to your look. In addition, its non-slip sole ensures safety and stability when walking. Removable insole"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/51BuFCLVB5L.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0F7HZZR2G"
+      }
+    },
+    {
+      "asin": "B0CJNFSJ6G",
+      "csi_title": "Converse A04480C Chuck Taylor All Star City Trek Waterproof Boot Homme Black/White/Silver EU 45",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": null,
+          "additional_sizes_detected": [
+            "45 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"11\"",
+            "legacy_unit": "mens_us"
+          }
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "male",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Bottine avec tige en matières mélangées",
+            "Amorti CX pour un confort supérieur",
+            "Semelle à motif Converse Traction Utility"
+          ],
+          "other": [
+            "Ankle boot with mixed material upper",
+            "CX cushioning for superior comfort",
+            "Converse Traction Utility patterned sole"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/41DbElDdo8L.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0CJNFSJ6G"
+      }
+    },
+    {
+      "asin": "B0F7HYHLDY",
+      "csi_title": "REFRESH - Botte femme Femme Taupe - Chaussures confortables et polyvalentes - Mode d&#233;contract&#233;e - Mod&#232;le 17303301 (Taille37)",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_304::{",
+          "size_map": "37 EU",
+          "additional_sizes_detected": [
+            "numeric_37,",
+            "37 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_37",
+            "age_group": "adult",
+            "size_system": "eu_footwear_size_system",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 37
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_37",
+          "age_group": "adult",
+          "size_system": "eu_footwear_size_system",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 37
+        },
+        "age_range": {
+          "raw_values": [
+            "Adult",
+            "Adulte"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "[Our Brand]: REFRESH with fresh and youthful style. Versatile and modern shoes designed for those who always want to be fashionable without giving up comfort.",
+            "Botte femme, de la marque Refresh. Fabriquée en doux daim",
+            "Fermeture par zip intérieur. Tirette latérale pour faciliter l'enfilage",
+            "Tige de 36 cm de hauteur. Talon de 8 cm de haut avec semelle en caoutchouc antidérapante. Ce modèle a obtenu le certificat végan de l'organisation mondiale PETA (Organisation des droits des animaux)",
+            "[Notre Marque] : REFRESH Avec un style frais et jeune. Des chaussures polyvalentes et modernes conçues pour ceux qui souhaitent toujours être à la mode sans renoncer au confort."
+          ],
+          "en": [
+            "36 cm high stem. 8 cm high heel with non-slip rubber sole. This model has obtained the vegan certificate of the world organization PETA (Organization for Animal Rights)"
+          ],
+          "other": [
+            "Refresh women's boot. Made of soft suede",
+            "Inner zip closure. Side pull for easy donning"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/51NYJlxCQfL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0F7HYHLDY"
+      }
+    },
+    {
+      "asin": "B0CB3R2D53",
+      "csi_title": "Clarks Deva Mae Bottines &#224; Talons pour Femme, dor&#233;, 38 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": null,
+          "additional_sizes_detected": [
+            "38 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"7.5\"",
+            "legacy_unit": "womens_us"
+          }
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Les sandales à talon bloc en cuir disposent d'une sangle de cheville avec fermeture à boucle pour un ajustement sûr"
+          ],
+          "other": [
+            "Talon de 7 cm offrant une hauteur portable",
+            "Une semelle en caoutchouc offre une traction",
+            "Rembourrage en mousse souple sous le pied",
+            "Leather block heel sandals feature an ankle strap with buckle closure for a secure fit",
+            "7cm heel provides portable height",
+            "A rubber sole provides traction",
+            "Soft foam padding underfoot"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/81asWZkDfQL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0CB3R2D53"
+      }
+    },
+    {
+      "asin": "B0FR9SXCCX",
+      "csi_title": "Remonte CHAUSSURES R5172 Taille : numeric_36",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_148::{",
+          "size_map": "36 EU",
+          "additional_sizes_detected": [
+            "numeric_36,",
+            "36 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_36",
+            "gender": "women",
+            "age_group": "adult",
+            "size_system": "eu_footwear_size_system",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 36
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_36",
+          "gender": "women",
+          "age_group": "adult",
+          "size_system": "eu_footwear_size_system",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 36
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": "Caoutchouc synthétique",
+          "normalized": "Rubber"
+        },
+        "bullet_points": {
+          "fr": [
+            "\"Confort et Style Inégalés\"Découvrez le summum du confort et du style avec les chaussures Remonte R5172. Ces boots de la marque Remonte sont conçues pour v"
+          ],
+          "other": [
+            "CHAUSSURES REMONTE R5172 Taille : numeric_36",
+            "CHAUSSURES FEMME",
+            "CHAUSSURES FEMME Bottines",
+            "Remonte"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/51xNVSoTPFL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0FR9SXCCX"
+      }
+    },
+    {
+      "asin": "B07ZW31SKB",
+      "csi_title": "Kickers Bottines classiques Kick Hi pour enfant avec fermeture &#233;clair | Extra confortables | Durabilit&#233; accrue | Qualit&#233; sup&#233;rieure, Noir, 28 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "28 EU",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Petit Enfant",
+            "Little Kid"
+          ],
+          "normalized": "kid"
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Style: Derby - Type: Boot - UK Shoe Size: UK 10 Infant",
+            "Style: Derby - Type: Boot - Shoe Size: 38 Baby"
+          ],
+          "other": [
+            "Brand: Kickers - Colour: Black - Department: Unisex",
+            "Upper Material: Leather - Closure: Lace Up / Zip - Country/Region of Manufacture: China",
+            "Insole Material: Synthetic - Lining Material: Textile - Outsole Material: Rubber",
+            "Season: Winter",
+            "Brand: Kickers - Colour: Black - Category: Unisex",
+            "Upper material: leather; closure: lace/zip; country/region of manufacture: China",
+            "Insole material: synthetic. Lining Material: Textile Outsole Material: Rubber"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/6159xYD8uIL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B07ZW31SKB"
+      }
+    },
+    {
+      "asin": "B0BN6CVXJQ",
+      "csi_title": "Geox J Casey Girl B Abx, Bottines pour fille, Noir, 6 UK",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_337::{",
+          "size_map": "39 EU",
+          "additional_sizes_detected": [
+            "numeric_39,",
+            "39 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_39",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "big_kid",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 39
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_39",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "big_kid",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 39
+        },
+        "age_range": {
+          "raw_values": [
+            "Enfant",
+            "Kid"
+          ],
+          "normalized": "big_kid"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Niveau de résistance à l'eau : imperméable"
+          ],
+          "other": [
+            "Forme du talon : plat",
+            "Largeur de la chaussure : moyenne",
+            "Heel shape: flat",
+            "Shoe width: medium",
+            "Water resistance level: waterproof"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/813Kc7LsnFL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0BN6CVXJQ"
+      }
+    },
+    {
+      "asin": "B0CT3RMY7G",
+      "csi_title": "MARCO TOZZI Bottines pour femme 2-25006-43, Peigne noir, 36 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": "42 EU",
+          "additional_sizes_detected": [
+            "$additional_links_augmentor_385::{",
+            "numeric_42,",
+            "42 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"5.5\"",
+            "legacy_unit": "womens_us"
+          }
+        },
+        "footwear_size": {
+          "gender": "women",
+          "size": "numeric_42",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 42
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Semelle intérieure Soft Feel Me",
+            "Doublure intérieure douce"
+          ],
+          "other": [
+            "Cuir",
+            "Soft Feel Me insole",
+            "Leather",
+            "Soft inner lining"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/71jv0XJjguL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0CT3RMY7G"
+      }
+    },
+    {
+      "asin": "B0BP2SNL2Q",
+      "csi_title": "Clarks Bottines Cora Derby pour femme, marron, 35 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": "35 EU",
+          "additional_sizes_detected": [
+            "$additional_links_augmentor_337::{",
+            "numeric_35,",
+            "35 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"5\"",
+            "legacy_unit": "womens_us"
+          }
+        },
+        "footwear_size": {
+          "gender": "women",
+          "size": "numeric_35",
+          "age_group": "adult",
+          "size_system": "eu_footwear_size_system",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 35
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Propulsées par des technologies innovantes telles que Contoured Comfort et Cushion Plus, nos chaussures offrent un soutien là où vous en avez le plus besoin",
+            "Offrant une douceur suprême et un confort durable, la mousse à rebond élevé de Cushion Soft est astucieusement dissimulée à l'intérieur de la chaussure pour absorber l'impact de chaque pas",
+            "La semelle légère offre amorti et flexibilité",
+            "Déplacez-vous confortablement"
+          ],
+          "other": [
+            "Powered by innovative technologies like Contoured Comfort and Cushion Plus, our shoes provide support where you need it most",
+            "Offering supreme softness and lasting comfort, Cushion Soft's high rebound foam is cleverly concealed inside the shoe to absorb the impact of every step",
+            "Lightweight sole provides cushioning and flexibility",
+            "Move comfortably"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61QD8cSDeUL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0BP2SNL2Q"
+      }
+    },
+    {
+      "asin": "B0BM54VS5F",
+      "csi_title": "Camper Brutus K900318 Bottines unisexes pour enfant, Marron fonc&#233; 004, 33 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "33 EU",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Enfant",
+            "Kid"
+          ],
+          "normalized": "kid"
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": "100% Rubber",
+          "normalized": "Rubber"
+        },
+        "bullet_points": {
+          "fr": [
+            "Fermeture : fermeture éclair"
+          ],
+          "other": [
+            "Dessus : textile",
+            "Semelle : caoutchouc",
+            "Forme du talon : plat",
+            "Upper: Textile",
+            "Sole: Rubber",
+            "Closure: zip",
+            "Heel shape: flat"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/81thInG0J0L.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0BM54VS5F"
+      }
+    },
+    {
+      "asin": "B0BG5SKW1Y",
+      "csi_title": "Buffalo ASPHA COM1 Laceup Mid Vert 36",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": "36 EU",
+          "additional_sizes_detected": [
+            "$additional_links_augmentor_237::{",
+            "numeric_36,",
+            "36 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"5.5\"",
+            "legacy_unit": "womens_us"
+          }
+        },
+        "footwear_size": {
+          "gender": "women",
+          "size": "numeric_36",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 36
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "other": [
+            "Botines Mujer",
+            "Buffalo Aspha Com1 Laceup Mid Khaki 36 EU",
+            "Buffalo",
+            "Vert",
+            "size:36",
+            "Colour: Khaki",
+            "Material: synthetic",
+            "Closure: laces",
+            "Season: Autumn/Winter"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/71NkF9IvqoL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0BG5SKW1Y"
+      }
+    },
+    {
+      "asin": "B0BN6CX9D6",
+      "csi_title": "Geox Bottines J Shawntel pour fille, Bleu marine, 10 UK Child",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_289::{",
+          "size_map": "31 EU",
+          "additional_sizes_detected": [
+            "numeric_31,",
+            "31 EU",
+            "28 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_31",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "little_kid",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 31
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_31",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "little_kid",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 31
+        },
+        "age_range": {
+          "raw_values": [
+            "Enfant",
+            "Kid"
+          ],
+          "normalized": "little_kid"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Niveau de résistance à l'eau : non étanche"
+          ],
+          "other": [
+            "Forme du talon : plat",
+            "Largeur de la chaussure : moyenne",
+            "Heel shape: flat",
+            "Shoe width: medium",
+            "Water resistance level: not waterproof"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/41P+y6JX5VL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0BN6CX9D6"
+      }
+    },
+    {
+      "asin": "B0BN6DD61G",
+      "csi_title": "Geox Bottines J Shawntel pour fille, noir, 11.5 UK Child",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_289::{",
+          "size_map": "30 EU",
+          "additional_sizes_detected": [
+            "numeric_30,",
+            "30 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_30",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "little_kid",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 30
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_30",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "little_kid",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 30
+        },
+        "age_range": {
+          "raw_values": [
+            "Enfant",
+            "Kid"
+          ],
+          "normalized": "little_kid"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Niveau de résistance à l'eau : non étanche"
+          ],
+          "other": [
+            "Forme du talon : plat",
+            "Largeur de la chaussure : moyenne",
+            "Heel shape: flat",
+            "Shoe width: medium",
+            "Water resistance level: not waterproof"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61QoMBCwUaL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0BN6DD61G"
+      }
+    },
+    {
+      "asin": "B0BM541CTQ",
+      "csi_title": "Camper Bottines Norte K900304 pour fille, Noir 005, 11.5 UK Child",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_361::{",
+          "size_map": "29.5 EU",
+          "additional_sizes_detected": [
+            "numeric_29_point_5,",
+            "29.5 EU"
+          ],
+          "structured_size": {
+            "gender": "women",
+            "size": "numeric_29_point_5",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "little_kid",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 29
+          }
+        },
+        "footwear_size": {
+          "gender": "women",
+          "size": "numeric_29_point_5",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "little_kid",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 29
+        },
+        "age_range": {
+          "raw_values": [
+            "Enfant",
+            "Kid"
+          ],
+          "normalized": "little_kid"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Matériau extérieur : cuir",
+            "Fermeture : fermeture éclair"
+          ],
+          "other": [
+            "Semelle : caoutchouc",
+            "Upper material: leather",
+            "Sole: Rubber",
+            "Closure: zip"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/81oDkvx59aL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0BM541CTQ"
+      }
+    },
+    {
+      "asin": "B0BN6BY28Z",
+      "csi_title": "Geox Bottines J Shawntel pour fille, Bleu marine, 6 UK",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_240::{",
+          "size_map": "39 EU",
+          "additional_sizes_detected": [
+            "numeric_39,",
+            "39 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_39",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "big_kid",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 39
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_39",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "big_kid",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 39
+        },
+        "age_range": {
+          "raw_values": [
+            "kid"
+          ],
+          "normalized": "big_kid"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Niveau de résistance à l'eau : non étanche"
+          ],
+          "other": [
+            "Forme du talon : plat",
+            "Largeur de la chaussure : moyenne",
+            "Heel shape: flat",
+            "Shoe width: medium",
+            "Water resistance level: not waterproof"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/41CQC6i6+AL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0BN6BY28Z"
+      }
+    },
+    {
+      "asin": "B0BN6B9K46",
+      "csi_title": "Geox Bottines J Eclair pour fille, Noir, 13 UK",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "32 EU",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Enfant",
+            "Kid"
+          ],
+          "normalized": "kid"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Niveau de résistance à l'eau : non étanche"
+          ],
+          "other": [
+            "Forme du talon : plat",
+            "Largeur de la chaussure : moyenne",
+            "Heel shape: flat",
+            "Shoe width: medium",
+            "Water resistance level: not waterproof"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/41LM5cGY5-L.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0BN6B9K46"
+      }
+    },
+    {
+      "asin": "B0F3YKTW6X",
+      "csi_title": "Skechers Bottines Glacial Ultra Mountain Muse pour femme, Synth&#233;tique noir naturel, 41 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": null,
+          "additional_sizes_detected": [
+            "41 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"11\"",
+            "legacy_unit": "womens_us"
+          }
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": "rubber",
+          "normalized": "Rubber"
+        },
+        "bullet_points": {
+          "fr": [
+            "Semelle intérieure Goga Mat refroidie par air",
+            "Foulée douce",
+            "Produit végétalien"
+          ],
+          "other": [
+            "Doublure en fausse fourrure",
+            "Scotchguard 3M",
+            "Faux Fur Lining",
+            "Air Cooled Goga Mat insole",
+            "Smooth stride",
+            "Vegan",
+            "3M Scotchguard"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/71HpR4IKa7L.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0F3YKTW6X"
+      }
+    },
+    {
+      "asin": "B0BN6S6VMH",
+      "csi_title": "Geox Bottines J Theleven BoyAnkle pour gar&#231;on, marron, 11.5 UK Child",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_315::{",
+          "size_map": "30 EU",
+          "additional_sizes_detected": [
+            "numeric_30,",
+            "30 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_30",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "toddler",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 30
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_30",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "toddler",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 30
+        },
+        "age_range": {
+          "raw_values": [
+            "Enfant",
+            "Kid"
+          ],
+          "normalized": "toddler"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Matériau extérieur : synthétique",
+            "Matériau intérieur : synthétique"
+          ],
+          "other": [
+            "Semelle : caoutchouc",
+            "Fermeture : lacets",
+            "Forme du talon : plat",
+            "Upper material: synthetic",
+            "Inner material: synthetic",
+            "Sole: Rubber",
+            "Closure: laces",
+            "Heel shape: flat"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/81h6gjO7tVL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0BN6S6VMH"
+      }
+    },
+    {
+      "asin": "B0F7HXX7CC",
+      "csi_title": "XTI 144308, Bottines pour femme, beige, 40 EU, beige, 40 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": "40 EU",
+          "additional_sizes_detected": [
+            "$additional_links_augmentor_388::{",
+            "numeric_40,",
+            "40 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"8.5\"",
+            "legacy_unit": "womens_us"
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_40",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 40
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Semelle antidérapante",
+            "Cowboy style, this boot features a lovely stitching design that gives it a unique and sophisticated touch. Its 2\" heel offers a stylish height, combining style and comfort",
+            "[Our Brand]: XTI stands out for its urban and functional style, with shoes that combine the latest trends with comfort and versatility to support an active, modern lifestyle."
+          ],
+          "other": [
+            "Xti women's boot. Made of high quality material",
+            "The high stem design brings a western vibe, perfect for giving a modern touch to your look. In addition, its non-slip sole ensures safety and stability when walking. Removable insole"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/51BuFCLVB5L.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0F7HXX7CC"
+      }
+    },
+    {
+      "asin": "B0BTQWHYFK",
+      "csi_title": "Skechers Bottines Easy to Go-Warm Escape pour femme, Feutre microcuir ch&#226;taignier, 38 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": null,
+          "additional_sizes_detected": [
+            "3.",
+            "38 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"8\"",
+            "legacy_unit": "womens_us"
+          }
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Coupe régulière",
+            "Confort longue durée"
+          ],
+          "other": [
+            "Design respirant",
+            "Regular fit",
+            "Long-lasting comfort",
+            "Breathable design"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/71j20Q5dA7L.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0BTQWHYFK"
+      }
+    },
+    {
+      "asin": "B0BN67XZN4",
+      "csi_title": "Geox Bottines J Junette GirlAnkle pour femme, Noir/bleu marine., 2.5 UK",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "33 EU",
+          "size_map": null,
+          "additional_sizes_detected": [
+            "35 EU"
+          ],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Enfant",
+            "Kid"
+          ],
+          "normalized": "kid"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "other": [
+            "Respirable",
+            "Breathable"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/711Jbxzx1eL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0BN67XZN4"
+      }
+    },
+    {
+      "asin": "B0CB3ND3BP",
+      "csi_title": "Clarks Deva Mae Bottines &#224; Talons pour Femme, Cuir Ivoire, 37 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": null,
+          "additional_sizes_detected": [
+            "37 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"6.5\"",
+            "legacy_unit": "womens_us"
+          }
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Matériau intérieur:Synthétique",
+            "Matériau extérieur:Cuir",
+            "Matériau de la semelle:Caoutchouc"
+          ],
+          "other": [
+            "Type de talon:Talon bloc",
+            "Heel type: block heel",
+            "Inner material: synthetic",
+            "Outer material: leather",
+            "Sole material: rubber"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61gtj0HtX5L.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0CB3ND3BP"
+      }
+    },
+    {
+      "asin": "B07ZW2NNRR",
+      "csi_title": "Kickers Bottines classiques Hi pour enfant avec fermeture &#233;clair | Extra confortables | Durabilit&#233; accrue | Qualit&#233; sup&#233;rieure, Noir, 30 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "29 EU",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Petit Enfant",
+            "Little Kid"
+          ],
+          "normalized": "kid"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Brand: Kickers - Colour: Black - Department: Toddler/Infant - Style: Toddlers Boots"
+          ],
+          "other": [
+            "UK Shoe Size: UK 11 Kids",
+            "Type: Toddlers Boots - Upper Material: Patent Leather - Closure: Lace Up / Zip - Customised: No",
+            "Fabric Type: Patent Leather - Country/Region of Manufacture: China - Features: Lace Up / Zip",
+            "Season: Winter",
+            "Kickers The shoe boxes are FSC certified, using 90% recycled materials and natural soy ink. All our shoe boxes are 100% recyclable",
+            "All our leathers come from Leather Working Group certified tanneries",
+            "We use 100% recycled mesh for styles that are lined",
+            "All our laces are BCI (Better Cotton Initiative) laces",
+            "If it gets wet, dry it in a place away from direct heat or light"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/6159xYD8uIL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B07ZW2NNRR"
+      }
+    }
+  ],
+  "stats": {
+    "asin_blocks_found": 57,
+    "records_extracted": 57,
+    "records_skipped_no_csi": 0
+  }
+}

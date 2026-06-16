@@ -1,0 +1,935 @@
+{
+  "source_file": "datas07.txt",
+  "records": [
+    {
+      "asin": "B0DMPG4M6Z",
+      "csi_title": "Scholl Mixte Evoflex Chaussure de s&#233;curit&#233;, Rose, 41 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_339::{",
+          "size_map": "41 EU",
+          "additional_sizes_detected": [
+            "numeric_41,",
+            "41 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_41",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "adult",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 41
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_41",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 41
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "De clog à snowboard : la sangle innovante réglable et rabattable permet de passer du clog à des baskets en une seconde, avec flexibilité mais aussi sécurité, tout en gardant le pied stable dans la bonne position même à pas soutenu",
+            "Professionnels : la surface lisse empêche l'accumulation de saleté et rend ces sabots parfaits pour une utilisation dans les hôpitaux, les cabinets médicaux, les cliniques vétérinaires, les laboratoires, mais aussi les salons de beauté et les cuisines.",
+            "Respirant : la semelle intérieure amovible en Memory Cushion assure la transpiration et garde le pied au frais, aidant à réduire la fatigue d'une journée entière.",
+            "Sécurité : la semelle antidérapante et le point d'échappement électrostatique permettent de travailler en toute sécurité, évitant les chutes et les désagréments au pied",
+            "Facile à nettoyer : le socle avec semelle intérieure est autoclavable à 121 °, tandis que le seul socle à 134 ° ; le produit est également lavable en machine à 90 °C"
+          ],
+          "other": [
+            "From clog to snowboard: the innovative adjustable and folding strap allows you to switch from clog to sneakers in a second, with flexibility but also security, while keeping the foot stable in the right position even at a supported step",
+            "PROFESSIONALS - Smooth surface prevents dirt build-up and makes these clogs perfect for use in hospitals, doctors' offices, veterinary clinics, laboratories, but also beauty salons and kitchens",
+            "BREATHABLE - Removable Memory Cushion insole ensures perspiration and keeps foot cool, helping to reduce fatigue from a day standing",
+            "Safety: the non-slip sole and electrostatic exhaust point allow you to work safely, preventing falls and inconvenience to the foot",
+            "Easy to clean: the base with insole is autoclavable at 121°, while the sole base at 134°; the product is also machine washable at 90 ° C"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/51A7UY5CitL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0DMPG4M6Z"
+      }
+    },
+    {
+      "asin": "B0FH9ZT6SF",
+      "csi_title": "G&#233;n&#233;rique Chaussure Femme L&#233;g&#232;res Chaussures d&apos;int&#233;rieur Baskets Athl&#233;tisme Chaussures Apon&#233;vrosite Adapt&#233;es Pour Tendinite Chaussure De Marche Femme Randonn&#233;e Randonn&#233;e",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_189::{",
+          "size_map": "41 EU",
+          "additional_sizes_detected": [
+            "numeric_41,",
+            "41 EU"
+          ],
+          "structured_size": {
+            "gender": "women",
+            "size": "numeric_41",
+            "age_group": "adult",
+            "size_system": "eu_footwear_size_system",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 41
+          }
+        },
+        "footwear_size": {
+          "gender": "women",
+          "size": "numeric_41",
+          "age_group": "adult",
+          "size_system": "eu_footwear_size_system",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 41
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Il s'agit d'une sandale très légère et confortable pour femme avec de bonnes semelles avec beaucoup d'amortissement et de soutien de la voûte plantaire. Tige en maille respirante, les chaussures peuvent respirer librement, même si le cou-de-pied est couvert, de sorte que chaque centimètre de la peau puisse respirer naturellement sans retenue.",
+            "Chaussures d'été pour femme : Avec un soutien avancé de la voûte plantaire et des propriétés orthopédiques, elles luttent contre les maladies courantes du pied telles que la fasciite plantaire, les pieds plats et la voûte plantaire haute. Le design orthopédique et les semelles rembourrées soulagent les problèmes de diabète. Ne laissez pas vos pieds vous gêner dans vos activités quotidiennes.",
+            "Chaussures de marche d'été pour femme : les baskets orthopédiques en maille sont légères et respirantes, de sorte que vos pieds ne seront pas chauds ou ne transpirent pas. Grâce au matériau en maille, elles sont super confortables. Cela les rend parfaites pour la marche ou la course.Grâce à leur conception sans lacets, ces baskets sont faciles à mettre et à enlever.",
+            "Largement utilisé : les sandales orthopédiques confortables pour femme sont utilisées pour une variété d'applications. Elles sont adaptées à la coupe avec des jeans et des robes pour les loisirs estivaux sur la plage et sont idéales pour la rue, le shopping, la maison, l'extérieur, la plage, le club et la marche, les rendez-vous et l'école.",
+            "Répondre à tous les besoins : Que vous ayez des pieds larges ou étroits, vous trouverez la taille qui vous convient et qui s'adapte confortablement à vos besoins. Veuillez consulter le tableau des tailles et choisir la taille qui vous convient le mieux. Si vous avez des questions, n'hésitez pas à nous contacter par e-mail via Amazon."
+          ],
+          "en": [
+            "This is a very light and comfortable women's sandal with good insoles with plenty of cushioning and arch support. Breathable mesh upper, the shoes can breathe freely, even if the instep is covered, so that every inch of the skin can breathe naturally without restraint.",
+            "Summer Walking Shoes for Women The mesh orthopedic sneakers are lightweight and breathable, so your feet will not be hot or sweaty. Thanks to the mesh material, they are super comfortable. This makes them perfect for walking or running.Thanks to the no-lace design, these sneakers are easy to put on and take off."
+          ],
+          "other": [
+            "SUMMER SHOES FOR WOMEN - With advanced arch support and orthopedic properties, they fight common foot diseases such as plantar fasciitis, flat feet and high arch. Orthopedic design and cushioned insoles relieve diabetes problems. Don't let your feet get in the way of your daily activities.",
+            "Widely Used The comfortable orthopedic sandals for women are used for a variety of applications. They are suitable to fit with jeans and dresses for summer leisure on the beach and are ideal for street, shopping, home, outdoor, beach, club and walking, dating and school.",
+            "Meet all needs: Whether you have wide or narrow feet, you will find the size that suits you and fits comfortably to your needs. Please refer to the size chart and choose the size that suits you best. If you have any questions, please feel free to contact us via email through Amazon."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61DIl93Wk9L.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0FH9ZT6SF"
+      }
+    },
+    {
+      "asin": "B0DMPDFS7D",
+      "csi_title": "Scholl Mixte Evoflex Chaussure de s&#233;curit&#233;, Gris, 39 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_199::{",
+          "size_map": "39 EU",
+          "additional_sizes_detected": [
+            "numeric_39,",
+            "39 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_39",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "adult",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 39
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_39",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 39
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "De clog à snowboard : la sangle innovante réglable et rabattable permet de passer du clog à des baskets en une seconde, avec flexibilité mais aussi sécurité, tout en gardant le pied stable dans la bonne position même à pas soutenu",
+            "Professionnels : la surface lisse empêche l'accumulation de saleté et rend ces sabots parfaits pour une utilisation dans les hôpitaux, les cabinets médicaux, les cliniques vétérinaires, les laboratoires, mais aussi les salons de beauté et les cuisines",
+            "Respirant : la semelle intérieure amovible en Memory Cushion assure la transpiration et garde le pied au frais, aidant à réduire la fatigue d'une journée debout",
+            "Sécurité : la semelle antidérapante et le point d'échappement électrostatique permettent de travailler en toute sécurité, évitant les chutes et les désagréments au pied",
+            "Facile à nettoyer : le socle avec semelle intérieure est autoclavable à 121 °, tandis que le seul socle à 134 ° ; le produit est également lavable en machine à 90 °C"
+          ],
+          "other": [
+            "From clog to snowboard: the innovative adjustable and folding strap allows you to switch from clog to sneakers in a second, with flexibility but also security, while keeping the foot stable in the right position even at a supported step",
+            "PROFESSIONALS - Smooth surface prevents dirt build-up and makes these clogs perfect for use in hospitals, doctors' offices, veterinary clinics, laboratories, but also beauty salons and kitchens",
+            "BREATHABLE - Removable Memory Cushion insole ensures perspiration and keeps foot cool, helping to reduce fatigue from a day standing",
+            "Safety: the non-slip sole and electrostatic exhaust point allow you to work safely, preventing falls and inconvenience to the foot",
+            "Easy to clean: the base with insole is autoclavable at 121°, while the sole base at 134°; the product is also machine washable at 90 ° C"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/51KkXyt85tL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0DMPDFS7D"
+      }
+    },
+    {
+      "asin": "B0F4R4TC95",
+      "csi_title": "Giniros Basquette Homme Chaussures de Running Sport L&#233;g&#232;res Basket Homme Confortables Slip on Chaussure Sport Respirant Mesh Fitness Gym Gris Fonc&#233; 44EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": "44 EU",
+          "additional_sizes_detected": [
+            "$additional_links_augmentor_141::{",
+            "numeric_44,",
+            "44 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"10\"",
+            "legacy_unit": "mens_us"
+          }
+        },
+        "footwear_size": {
+          "gender": "men",
+          "size": "numeric_44",
+          "age_group": "adult",
+          "size_system": "eu_footwear_size_system",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 44
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "[tige respirante]Fabriquées en maille et en matériau synthétique respirant, ces chaussure sport homme sont fabriquées dans un tissu confortable, respirant et léger qui maintient vos pieds au frais et à l'aise, même lors d'exercices intenses.",
+            "[intérieur confortable]La couche intérieure de cette basket homme est faite de textile et de coton hautement élastique et respirant avec amorti et absorption des chocs, ce qui rend la chaussure pour homme très confortable au travail et dans le sport.",
+            "[semelle antidérapante]Ces basket slip on homme sont fabriquées en EVA et en caoutchouc durable et ne sont pas faciles à endommager lorsqu'elles sont portées pendant de longues périodes. Le caoutchouc a également une bonne résistance à l'usure et la conception de la texture rainurée améliore les propriétés antidérapantes de la semelle.",
+            "[facile à porter]Cette basquettes homme est dotée d'un design sans langue, d'un cordon de serrage et d'un matériau élastique à l'extérieur pour faciliter l'enfilage et le retrait. Les lacets peuvent être ajustés serrés pour ne pas tomber, même après un entraînement intensif.",
+            "[largement utilisé]Cette chaussures de running homme est parfaite pour la course, la randonnée, l'exercice, le travail au gymnase, le jogging, le cyclisme, l'exercice, le travail, le basket - ball, le tennis, le football, les fêtes, les voyages, les vacances, les loisirs, les achats quotidiens, le camping, la conduite, les activités intérieures et extérieures.",
+            "[Non-slip sole]These men's slip on trainers are made of EVA and durable rubber and are not easy to damage when worn for long periods. The rubber also has good wear resistance, and the grooved texture design improves the non-slip properties of the sole."
+          ],
+          "en": [
+            "[Comfortable Interior]The inner layer of this men's sneaker is made of textile and cotton that is highly elastic and breathable with cushioning and shock absorption, which makes the men's shoe very comfortable at work and sports.",
+            "[Easy to Wear]This men's slipper features a tongueless design, drawstring and elastic material on the outside for easy on and off. The laces can be adjusted tightly, so they don't fall off, even after a hard workout.",
+            "[Widely Used]This men's running shoes is perfect for running, hiking, exercise, gym work, jogging, cycling, exercise, work, basketball, tennis, football, party, travel, vacation, leisure, daily shopping, camping, driving, indoor and outdoor activities."
+          ],
+          "other": [
+            "[Breathable Upper]Made of mesh and breathable synthetic material, these men's sports shoes are made of comfortable, breathable and lightweight fabric that keeps your feet cool and comfortable even during strenuous exercise."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/81A-g3WkWpL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0F4R4TC95"
+      }
+    },
+    {
+      "asin": "B0C7FWHCWD",
+      "csi_title": "Adidas Mixte Duramo RC Running Shoes, Victory Blue/Cloud White/Bright Red, 44 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_266::{",
+          "size_map": "44 EU",
+          "additional_sizes_detected": [
+            "numeric_44,",
+            "44 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_44",
+            "age_group": "adult",
+            "size_system": "eu_footwear_size_system",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 44
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_44",
+          "age_group": "adult",
+          "size_system": "eu_footwear_size_system",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 44
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Fermeture à lacets.",
+            "Semelle intermédiaire en EVA."
+          ],
+          "other": [
+            "Achetez une taille plus grande",
+            "Chaussant standard.",
+            "Tige en mesh.",
+            "Doublure textile.",
+            "Buy one size larger",
+            "Standard fit.",
+            "Lace-up closure.",
+            "Mesh upper",
+            "Textile lining.",
+            "EVA midsole"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/71+g6tpBnLL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0C7FWHCWD"
+      }
+    },
+    {
+      "asin": "B0FH75VRPH",
+      "csi_title": "Skechers Storm Blazer Drizzle Squad Baskets pour gar&#231;on Synth&#233;tique/Bleu Marine/Noir Pointure 45",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_362::{",
+          "size_map": "29.5 EU",
+          "additional_sizes_detected": [
+            "numeric_29_point_5,",
+            "29.5 EU"
+          ],
+          "structured_size": {
+            "gender": "men",
+            "size": "numeric_29_point_5",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "little_kid",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 29
+          }
+        },
+        "footwear_size": {
+          "gender": "men",
+          "size": "numeric_29_point_5",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "little_kid",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 29
+        },
+        "age_range": {
+          "raw_values": [
+            "TEEN",
+            "Enfant"
+          ],
+          "normalized": "little_kid"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Protection imperméable : design étanche à coutures scellées pour garder les pieds au sec pendant les aventures en plein air dans des conditions humides",
+            "Fermeture facile et adaptable : design innovant facile à mettre et à enlever avec lacets extensibles et sangle réglable, parfait pour les baskets de garçons et les enfants actifs",
+            "Confort supérieur : la semelle intérieure rembourrée confortable offre un soutien tout au long de la journée pour les pieds en pleine croissance pendant le jeu et les activités",
+            "Construction durable : la tige synthétique et en maille combinée à une semelle extérieure de traction flexible assure une durabilité durable pour les chaussures portées par les enfants actifs",
+            "Style polyvalent : le design mi-haut avec une hauteur de talon de 2,5 cm offre à la fois style et fonctionnalité pour un usage quotidien"
+          ],
+          "other": [
+            "Stylish children's sneakers in navy/orange",
+            "Lightweight, breathable material for optimal comfort",
+            "Shock absorbing midsole for optimal cushioning",
+            "Flexible outsole with secure fit",
+            "Quick closure and laces for easy donning"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/71oz5qrbG2L.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0FH75VRPH"
+      }
+    },
+    {
+      "asin": "B0F42BX5TP",
+      "csi_title": "Sosenfer Chaussures unisexes larges pieds nus - Chaussures minimalistes pour hommes et femmes - Chaussures de randonn&#233;e pour l&apos;ext&#233;rieur - Baskets &#224; enfiler, 40 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": "40 EU",
+          "additional_sizes_detected": [
+            "$additional_links_augmentor_124::{",
+            "numeric_40,",
+            "40 EU",
+            "positif"
+          ],
+          "structured_size": {
+            "fit_size": "\"7.5\"",
+            "legacy_unit": "mens_us"
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_40",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 40
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": "Caoutchouc",
+          "normalized": "Rubber"
+        },
+        "bullet_points": {
+          "fr": [
+            "Large boîte à orteils : profitez de l'espace généreux pour vos orteils, laissez vos pieds respirer librement et bouger naturellement, sans points de pression.",
+            "Simple et léger : Ressentez la légèreté comme une seconde peau, réduisez la charge sur vos pieds et adaptez-vous parfaitement au quotidien.",
+            "Confortable et mobile : chaque pas est léger et mobile, grâce à des matériaux confortables et à un design flexible qui vous offrent une liberté de mouvement à tout moment.",
+            "Matériau respirant : garde vos pieds au sec et ventilés pour vous garder à l'aise par tous les temps.",
+            "Design à enfilage rapide : le design pratique à enfilage rapide vous permet d'enfiler et de retirer rapidement les chaussures, idéal pour une vie rapide."
+          ],
+          "other": [
+            "Wide Toe Box Enjoy the generous space for your toes, let your feet breathe freely and move naturally, without pressure points.",
+            "SIMPLE AND LIGHTWEIGHT: Enjoy lightness like a second skin, reduce the burden on your feet and fit perfectly into daily life.",
+            "COMFORTABLE AND MOBILE - Each step is lightweight and mobile, thanks to comfortable materials and flexible design that give you freedom of movement at all times.",
+            "BREATHABLE MATERIAL - Keep your feet dry and ventilated to keep you comfortable in any weather.",
+            "QUICK ON DESIGN - Convenient quick slip on design allows you to quickly put on and take off shoes, ideal for a quick life."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/71RvEYR8FAL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0F42BX5TP"
+      }
+    },
+    {
+      "asin": "B0DTTQJ69Y",
+      "csi_title": "ARISIC Chaussures de s&#233;curit&#233; avec embout en acier pour hommes et femmes - Baskets de travail indestructibles - Chaussures de travail l&#233;g&#232;res avec coussin en acier - Baskets de mode, Noir , 40 2/3 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_165::{",
+          "size_map": "40 2/3 EU",
+          "additional_sizes_detected": [
+            "fraction_40_and_2_thirds,",
+            "40 2/3 EU",
+            "Neutre",
+            "Neutral"
+          ],
+          "structured_size": {
+            "size": "fraction_40_and_2_thirds",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "adult",
+            "width": "medium",
+            "size_class": "numeric"
+          }
+        },
+        "footwear_size": {
+          "size": "fraction_40_and_2_thirds",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric"
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "male",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Tige en maille : la respirabilité maximise la tige et permet à votre pied de rester au sec et au frais",
+            "Chaussures à bout en acier : l'embout en acier peut protéger vos pieds contre le roulement accidentel ou la chute d'objets pendant le travail",
+            "【Amorti par air】 : La semelle à amorti par air offrant un soutien stable et une absorption des chocs optimale pour le travail",
+            "Semelle en Kevlar anti-crevaison : baskets de sécurité avec semelle intermédiaire en Kevlar pour protéger vos pieds contre les perforations d'objets tranchants"
+          ],
+          "other": [
+            "【Baskets avec embout en acier pour homme et femme】"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/71bS0+5oTvL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0DTTQJ69Y"
+      }
+    },
+    {
+      "asin": "B0C2CKYHJG",
+      "csi_title": "SOFTINOS - IBBI P900653",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": "38 EU",
+          "additional_sizes_detected": [
+            "$additional_links_augmentor_214::{",
+            "numeric_38,",
+            "38 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"7\"",
+            "legacy_unit": "womens_us"
+          }
+        },
+        "footwear_size": {
+          "gender": "women",
+          "size": "numeric_38",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 38
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "other": [
+            "Saison Hiver 2025",
+            "Product Type: Boots, Lace-Up Boots, Short Boots, Lace-Up",
+            "Upper material: Suple Leather. Inner material: Leather. Outsole: rubber (TR RUBBER). Insole: microfibre (microfibre)",
+            "Heel Type: Flat, Heel Height: 2 cm",
+            "Width: Regular, Closure: Laces, Toe of Shoe: 0",
+            "Removable insole, loose insole"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/51v698ZNz4L.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0C2CKYHJG"
+      }
+    },
+    {
+      "asin": "B0CYN922ZP",
+      "csi_title": "Adidas Front Court Shoes Chaussures de Basket-Ball Mixte, FTWR White Shadow Navy Gold Met, 44 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": "44 EU",
+          "additional_sizes_detected": [
+            "$additional_links_augmentor_222::{",
+            "numeric_44,",
+            "44 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"10\"",
+            "legacy_unit": "mens_us"
+          }
+        },
+        "footwear_size": {
+          "gender": "men",
+          "size": "numeric_44",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 44
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Fermeture à lacets.",
+            "Tige en matière synthétique, cuir enduit, mesh et TPU."
+          ],
+          "other": [
+            "Chaussant standard.",
+            "Amorti Cloudfoam.",
+            "Doublure textile.",
+            "Standard fit.",
+            "Lace-up closure.",
+            "Upper made of synthetic material, coated leather, mesh and TPU.",
+            "Cloudfoam cushioning.",
+            "Textile lining."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61aDfzrRzSL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0CYN922ZP"
+      }
+    },
+    {
+      "asin": "B0F4R7KQXZ",
+      "csi_title": "Giniros Basquette Homme Chaussures de Running Sport L&#233;g&#232;res Basket Homme Confortables Slip on Chaussure Sport Respirant Mesh Fitness Gym Gris Fonc&#233; 40EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": "40 EU",
+          "additional_sizes_detected": [
+            "$additional_links_augmentor_141::{",
+            "numeric_40,",
+            "40 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"7\"",
+            "legacy_unit": "mens_us"
+          }
+        },
+        "footwear_size": {
+          "gender": "men",
+          "size": "numeric_40",
+          "age_group": "adult",
+          "size_system": "eu_footwear_size_system",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 40
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "[tige respirante]Fabriquées en maille et en matériau synthétique respirant, ces chaussure sport homme sont fabriquées dans un tissu confortable, respirant et léger qui maintient vos pieds au frais et à l'aise, même lors d'exercices intenses.",
+            "[intérieur confortable]La couche intérieure de cette basket homme est faite de textile et de coton hautement élastique et respirant avec amorti et absorption des chocs, ce qui rend la chaussure pour homme très confortable au travail et dans le sport.",
+            "[semelle antidérapante]Ces basket slip on homme sont fabriquées en EVA et en caoutchouc durable et ne sont pas faciles à endommager lorsqu'elles sont portées pendant de longues périodes. Le caoutchouc a également une bonne résistance à l'usure et la conception de la texture rainurée améliore les propriétés antidérapantes de la semelle.",
+            "[facile à porter]Cette basquettes homme est dotée d'un design sans langue, d'un cordon de serrage et d'un matériau élastique à l'extérieur pour faciliter l'enfilage et le retrait. Les lacets peuvent être ajustés serrés pour ne pas tomber, même après un entraînement intensif.",
+            "[largement utilisé]Cette chaussures de running homme est parfaite pour la course, la randonnée, l'exercice, le travail au gymnase, le jogging, le cyclisme, l'exercice, le travail, le basket - ball, le tennis, le football, les fêtes, les voyages, les vacances, les loisirs, les achats quotidiens, le camping, la conduite, les activités intérieures et extérieures.",
+            "[Non-slip sole]These men's slip on trainers are made of EVA and durable rubber and are not easy to damage when worn for long periods. The rubber also has good wear resistance, and the grooved texture design improves the non-slip properties of the sole."
+          ],
+          "en": [
+            "[Comfortable Interior]The inner layer of this men's sneaker is made of textile and cotton that is highly elastic and breathable with cushioning and shock absorption, which makes the men's shoe very comfortable at work and sports.",
+            "[Easy to Wear]This men's slipper features a tongueless design, drawstring and elastic material on the outside for easy on and off. The laces can be adjusted tightly, so they don't fall off, even after a hard workout.",
+            "[Widely Used]This men's running shoes is perfect for running, hiking, exercise, gym work, jogging, cycling, exercise, work, basketball, tennis, football, party, travel, vacation, leisure, daily shopping, camping, driving, indoor and outdoor activities."
+          ],
+          "other": [
+            "[Breathable Upper]Made of mesh and breathable synthetic material, these men's sports shoes are made of comfortable, breathable and lightweight fabric that keeps your feet cool and comfortable even during strenuous exercise."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/81A-g3WkWpL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0F4R7KQXZ"
+      }
+    },
+    {
+      "asin": "B09M3NKL87",
+      "csi_title": "Skechers 232296/Char, Sabots Homme, seize if grey, 45.5 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_262::{",
+          "size_map": "45.5 EU",
+          "additional_sizes_detected": [
+            "numeric_45_point_5,",
+            "45.5 EU"
+          ],
+          "structured_size": {
+            "gender": "men",
+            "size": "numeric_45_point_5",
+            "age_group": "adult",
+            "size_system": "eu_footwear_size_system",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 45
+          }
+        },
+        "footwear_size": {
+          "gender": "men",
+          "size": "numeric_45_point_5",
+          "age_group": "adult",
+          "size_system": "eu_footwear_size_system",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 45
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Élastiques latéraux",
+            "Semelle intérieure rembourrée et douce en mousse à mémoire de forme"
+          ],
+          "other": [
+            "Compagnon quotidien sportif en mesh",
+            "Product Type: Clogs, Clogs, Slippers, Slippers, Slippers, Slippers, Leisure Shoes, Garden Shoes",
+            "Upper material: synthetic, inner material: textile, outsole: rubber",
+            "Width: Regular, Closure Type: Slip-On"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61g6ObgNhWL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B09M3NKL87"
+      }
+    },
+    {
+      "asin": "B0F42TJJLD",
+      "csi_title": "Sosenfer Chaussures unisexes larges pieds nus - Chaussures minimalistes pour hommes et femmes - Chaussures de randonn&#233;e pour l&apos;ext&#233;rieur - Baskets &#224; enfiler, 39 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": "39 EU",
+          "additional_sizes_detected": [
+            "$additional_links_augmentor_142::{",
+            "numeric_39,",
+            "39 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"7\"",
+            "legacy_unit": "mens_us"
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_39",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 39
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": "Caoutchouc",
+          "normalized": "Rubber"
+        },
+        "bullet_points": {
+          "fr": [
+            "Large boîte à orteils : profitez de l'espace généreux pour vos orteils, laissez vos pieds respirer librement et bouger naturellement, sans points de pression.",
+            "Simple et léger : Ressentez la légèreté comme une seconde peau, réduisez la charge sur vos pieds et adaptez-vous parfaitement au quotidien.",
+            "Confortable et mobile : chaque pas est léger et mobile, grâce à des matériaux confortables et à un design flexible qui vous offrent une liberté de mouvement à tout moment.",
+            "Matériau respirant : garde vos pieds au sec et ventilés pour vous garder à l'aise par tous les temps.",
+            "Design à enfilage rapide : le design pratique à enfilage rapide vous permet d'enfiler et de retirer rapidement les chaussures, idéal pour une vie rapide."
+          ],
+          "other": [
+            "Wide Toe Box Enjoy the generous space for your toes, let your feet breathe freely and move naturally, without pressure points.",
+            "SIMPLE AND LIGHTWEIGHT: Enjoy lightness like a second skin, reduce the burden on your feet and fit perfectly into daily life.",
+            "COMFORTABLE AND MOBILE - Each step is lightweight and mobile, thanks to comfortable materials and flexible design that give you freedom of movement at all times.",
+            "BREATHABLE MATERIAL - Keep your feet dry and ventilated to keep you comfortable in any weather.",
+            "QUICK ON DESIGN - Convenient quick slip on design allows you to quickly put on and take off shoes, ideal for a quick life."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/71Ih9ZgwUML.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0F42TJJLD"
+      }
+    },
+    {
+      "asin": "B0F4351W7J",
+      "csi_title": "Sosenfer Chaussures unisexes larges pieds nus - Chaussures minimalistes pour hommes et femmes - Chaussures de randonn&#233;e pour l&apos;ext&#233;rieur - Baskets &#224; enfiler, 41 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": "41 EU",
+          "additional_sizes_detected": [
+            "$additional_links_augmentor_142::{",
+            "numeric_41,",
+            "41 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"8.5\"",
+            "legacy_unit": "mens_us"
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_41",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 41
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": "Caoutchouc",
+          "normalized": "Rubber"
+        },
+        "bullet_points": {
+          "fr": [
+            "Large boîte à orteils : profitez de l'espace généreux pour vos orteils, laissez vos pieds respirer librement et bouger naturellement, sans points de pression.",
+            "Simple et léger : Ressentez la légèreté comme une seconde peau, réduisez la charge sur vos pieds et adaptez-vous parfaitement au quotidien.",
+            "Confortable et mobile : chaque pas est léger et mobile, grâce à des matériaux confortables et à un design flexible qui vous offrent une liberté de mouvement à tout moment.",
+            "Matériau respirant : garde vos pieds au sec et ventilés pour vous garder à l'aise par tous les temps.",
+            "Design à enfilage rapide : le design pratique à enfilage rapide vous permet d'enfiler et de retirer rapidement les chaussures, idéal pour une vie rapide."
+          ],
+          "other": [
+            "Wide Toe Box Enjoy the generous space for your toes, let your feet breathe freely and move naturally, without pressure points.",
+            "SIMPLE AND LIGHTWEIGHT: Enjoy lightness like a second skin, reduce the burden on your feet and fit perfectly into daily life.",
+            "COMFORTABLE AND MOBILE - Each step is lightweight and mobile, thanks to comfortable materials and flexible design that give you freedom of movement at all times.",
+            "BREATHABLE MATERIAL - Keep your feet dry and ventilated to keep you comfortable in any weather.",
+            "QUICK ON DESIGN - Convenient quick slip on design allows you to quickly put on and take off shoes, ideal for a quick life."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/71RvEYR8FAL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0F4351W7J"
+      }
+    },
+    {
+      "asin": "B0B318TV77",
+      "csi_title": "Timberland Seneca Bay Chukka en cuir, noir profond, 43.5 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": "43.5 EU",
+          "additional_sizes_detected": [
+            "$additional_links_augmentor_240::{",
+            "numeric_43_point_5,",
+            "43.5 EU",
+            "9.5"
+          ],
+          "structured_size": {
+            "fit_size": "\"9.5\"",
+            "legacy_unit": "mens_us"
+          }
+        },
+        "footwear_size": {
+          "gender": "men",
+          "size": "numeric_43_point_5",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 43
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Synthétique, cuir, caoutchouc, lacets, baskets haute",
+            "Elevate your style by wearing the Timberland Seneca Bay Leather Chukka."
+          ],
+          "other": [
+            "Pays de fabrication : Bangladesh",
+            "1",
+            "Largeur de la chaussure : moyenne",
+            "Leather and textile upper.",
+            "Textile lining.",
+            "Textile insole.",
+            "Lace-up closure."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/71zu7Lgof2L.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0B318TV77"
+      }
+    }
+  ],
+  "stats": {
+    "asin_blocks_found": 15,
+    "records_extracted": 15,
+    "records_skipped_no_csi": 0
+  }
+}

@@ -1,0 +1,1148 @@
+{
+  "source_file": "datat001.txt",
+  "records": [
+    {
+      "asin": "B0FCC3QRGL",
+      "csi_title": "DUOEASE Chemise Femme Basiques Chic Col Roul&#233; T Shirt Automne Hiver Manches Longues Slim Fit Pulls Femme&#65288;Noir L&#65289;",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_929::{",
+          "size_map": null,
+          "additional_sizes_detected": [
+            "l,"
+          ],
+          "structured_size": {
+            "size": "l",
+            "size_system": "as4",
+            "body_type": "regular",
+            "height_type": "regular",
+            "size_class": "alpha"
+          }
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "【Matière & Confort】Le tee shirt pour femme offre une sensation douce et légère au toucher, avec une extensibilité assurant un confort agréable pendant la saison automne-hiver.",
+            "【Design & Coupe】Ce t-shirt manches longues allie col roulé chic et coupe slim fit élégante. Son design basique intemporel convient aux styles décontractés comme élégants.",
+            "【Occasions】Idéal pour le travail, les sorties shopping ou la vie quotidienne à la maison. Se porte seule ou sous un pull femme pour les vacances comme les loisirs.",
+            "【Association & Styling】La chemise femme basique s'associe facilement avec jeans et pulls. Sa couleur unie s'harmonise avec tous les hauts femme pour un look chic instantané.",
+            "【Conseils de Taille & Entretien】Lavage machine à 30°C pour préserver forme et couleur. Séchage à plat recommandé. Tailles standard XS-XL : consultez notre guide."
+          ],
+          "en": [
+            "【Design & Fit】This long-sleeved t-shirt combines chic turtleneck with an elegant slim fit. The timeless basic design suits both casual and elegant styles."
+          ],
+          "other": [
+            "【Material & Comfort】 The women's t-shirt offers a soft and lightweight feel, with stretch ensuring a pleasant wearing comfort during the autumn-winter season.",
+            "【Occasions】Ideal for work, shopping or daily life at home. Can be worn alone or under a women's jumper for holidays or leisure.",
+            "【Match & Styling】 The basic women's shirt can be easily combined with jeans and sweaters. Its solid color coordinates with any women's tops for an instant chic look.",
+            "【Size & Care Tips】Machine washable at 30°C to preserve shape and colour. Flat dry recommended. Standard Sizes XS-XL - See our guide."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/71ocAJhVQtL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0FCC3QRGL"
+      }
+    },
+    {
+      "asin": "B09VCXZK2Z",
+      "csi_title": "Pr&#233;nom personnalis&#233; flex thermocollant stayola pour tissus",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": null,
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [],
+          "normalized": null
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Prénom personnalisé en Flex pour tous vos textiles. Idéal pour customiser vos Tee-shirt, body, casquette, trousse, cartable...à l'aide d'un simple fer à repasser.",
+            "ATTENTION : Le tarif comprend 1 prénom seulement maximum 10 lettres en continue sans espace.",
+            "Plusieurs tailles et couleur disponible. Une fois commandé communiquez moi le numéro de la couleur choisie. La longueur dépend du prénom choisi.",
+            "La taille est en hauteur. La longueur dépendra du prénom. C'est la première lettre qui détermine la taille en hauteur. Attention si vous avez des jambages de lettre comme Y.J.Z la taille de l'ensemble sera plus grande puisque nous prenons en compte la première lettre pour définir la taille. Si vous avez un doute, n'hésitez pas à demander et si vous souhaitez une taille en longueur à ne pas dépasser, n'hésitez pas à le mentionner.",
+            "Tous nos flex paillettes et mat sont Certifié OEKO-TEX️ Standard 100 Classe 1 ( peut être utilisé sur les articles de bébé et enfants de bas âge jusqu'à 3 ans )."
+          ],
+          "other": [
+            "Personalised Flex name for all your textiles. Ideal for customising your T-shirt, bodysuit, cap, pencil case, school bag etc. with a simple iron.",
+            "ATTENTION: The price includes 1 first name only maximum 10 continuous letters without space.",
+            "Various sizes and colours available. Once ordered, tell me the number of the chosen colour. The length depends on the chosen name.",
+            "The waist is in height. The length will depend on the name. It is the first letter that determines the height in height. Attention if you have letter jambs like Y.J.Z the size of the set will be larger since we take into account the first letter to define the size. If you have any doubts, do not hesitate to ask and if you want a size in length not to be exceeded, do not hesitate to mention it.",
+            "All our glitter and matte flex are OEKO-TEX️ Standard 100 Class 1 certified ( can be used on baby and toddler items up to 3 years old)."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61bOO3Da+hL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B09VCXZK2Z"
+      }
+    },
+    {
+      "asin": "B0FWKQR8TN",
+      "csi_title": "Porte-cl&#233;s Maillot de Foot Paris Domicile 2025/2026 Personnalisable &#8211; Ajoutez Votre Nom, Num&#233;ro et Logo &#8211; Cadeau Supporter Paris &#8211; Accessoire Football Original",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "Taille unique",
+          "size_map": null,
+          "additional_sizes_detected": [
+            "One Size"
+          ],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [],
+          "normalized": null
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Design officiel inspiré de l'équipe de Paris 2025/2026 – Retrouvez les couleurs emblématiques du maillot domicile de Paris, fidèlement reproduites pour les vrais fans.",
+            "Personnalisation complète – Ajoutez votre nom, votre numéro et même le logo de votre choix pour créer un porte-clés unique, à votre image ou à celle de votre équipe.",
+            "Qualité et durabilité – Fabriqué avec des matériaux résistants, ce porte-clés personnalisé conserve ses couleurs éclatantes et sa forme, même après une utilisation quotidienne.",
+            "Cadeau parfait pour les supporters – Offrez un cadeau original et symbolique à un fan de l'équipe de Paris ou à un joueur amateur. Idéal pour les anniversaires, tournois ou événements sportifs.",
+            "Fabrication rapide et française 🇫🇷 – Conçu et imprimé en France, ce porte-clés garantit une finition soignée et une livraison rapide."
+          ],
+          "en": [
+            "QUALITY & DURABILITY - Made with tough materials, this personalized keychain retains its vibrant colors and shape even after everyday use.",
+            "PERFECT GIFT FOR FANS - Give an original and symbolic gift to a Paris fan or amateur player. Ideal for birthdays, tournaments or sporting events.",
+            "Quick and French manufacture - Designed and printed in France, this key ring guarantees a neat finish and fast delivery."
+          ],
+          "other": [
+            "OFFICIAL DESIGN INSPIRED BY THE 2025/2026 PARIS TEAM - Find the iconic colours of the Paris Home Jersey faithfully reproduced for true fans.",
+            "FULL PERSONALIZATION - Add your name, number and even logo of your choice to create a unique keychain, to your image or that of your team."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/615wnz5iS-L.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0FWKQR8TN"
+      }
+    },
+    {
+      "asin": "B0D54LVLGT",
+      "csi_title": "Levi&apos;s SS Original Housemark Tee T-Shirt Homme, Chino, XL",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "XL",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "male",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "other": [
+            "Col rond",
+            "Manches courtes",
+            "Fit standard",
+            "Crew Neck",
+            "Short Sleeve",
+            "Standard fit"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/71DEBepE8uL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0D54LVLGT"
+      }
+    },
+    {
+      "asin": "B0DC6SXMW5",
+      "csi_title": "CROWNLY CRYSTAL&#174; Verre &#224; Bi&#232;re Personnalis&#233; Anniversaire Homme Original et Dr&#244;le",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "19 cm",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adult",
+            "Adulte"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "MEILLEUR CHOIX: Pour l'anniversaire de votre papy, offrez-lui un cadeau original et rigolo : un verre à bière personnalisé ! Idée cadeau homme unique, cette tasse spéciale fera sourire votre grand-père à chaque gorgée. Ajoutez une touche personnelle à cet accessoire indispensable pour les amateurs de bière, et faites de son anniversaire un moment inoubliable",
+            "COFFRET CADEAU:Le cadeau de chope de bière pour hommes est dans un coffret cadeau de luxe, bien meilleur que les autres boîtes de couleur, élégant et apprécié. La personne qui a reçu votre cadeau sera surprise et heureuse. Vous n'avez pas à vous inquiéter Problèmes de rayures cassés. Sentez-vous absolument en sécurité dans votre achat.",
+            "QUALITÉ D'IMPRESSION : Le verre en cristal avec les mots \"PAPY j'ai essayé de trouver LA CADEAU PARFAIT POUR TOI MAIS TU M'AS DÈJÀ \" ne se décolore jamais et ne se perdra jamais. Contrairement à d'autres, le texte est imprimé sur l'aspect du verre qui est facile à laver. Les nôtres seront conservés longtemps et utilisés pendant de nombreuses années dans la vie quotidienne. Pour que les mots restent brillants, il est préférable de se laver les mains.",
+            "VERRE À BIÈRE PREMIUM : Les verres cadeaux sont fabriqués en cristal sans plomb et présentent un côté épais et une base solide. La capacité de 14 oz est un choix populaire pour déguster une seule portion de bière, offrant une taille confortable pour différents styles de bière.",
+            "GARANTIE DE SATISFACTION À 100% : Nous soutenons notre produit et vous offrons la meilleure expérience d'achat. Votre satisfaction est notre priorité. Bon shopping ! Made in Türkiye",
+            "100% SATISFACTION GUARANTEE: We stand behind our product and give you the best shopping experience. Your satisfaction is our top priority. Happy shopping! Made in Türkiye"
+          ],
+          "en": [
+            "BEST CHOICE: For your grandpa's birthday, give him an original and funny gift: a personalized beer glass! Unique men's gift idea, this special mug will make your grandad smile with every sip. Add a personal touch to this must-have accessory for beer lovers, and make his birthday a memorable one"
+          ],
+          "other": [
+            "Gift box: The beer mug gift for men is in a luxury gift box, much better than other coloured boxes, elegant and appreciated. The person who received your gift will be surprised and happy. You don't have to worry about broken scratches problems. Feel absolutely safe in your purchase.",
+            "PRINTING QUALITY: The crystal glass with the words \"PAPY I tried to find THE PERFECT GIFT FOR YOU BUT YOU HAVE ME ALREADY\" will never fade and will never get lost. Unlike others, the text is printed on the look of the glass which is easy to wash. Ours will be kept for a long time and used for many years in daily life. In order for the words to remain bright, it is better to wash your hands.",
+            "PREMIUM BEER GLASS: The gift glasses are made of lead-free crystal and feature a thick side and solid base. The 14 oz capacity is a popular choice for enjoying a single serving of beer, providing a comfortable size for different beer styles."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/91KzAz-Wd2L.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0DC6SXMW5"
+      }
+    },
+    {
+      "asin": "B09XKPDF5R",
+      "csi_title": "Pr&#233;nom &#224; personnaliser thermocollant .Transfert Patch en flex thermocollant pour tissus et textile. NV Sparkle",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": null,
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [],
+          "normalized": null
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Prénom personnalisé en Flex pour tous vos textiles. Idéal pour customiser vos Tee-shirt, body, casquette, trousse, cartable...à l'aide d'un simple fer à repasser.",
+            "ATTENTION : Le tarif comprend 1 prénom seulement maximum 10 lettres en continue sans espace.",
+            "Plusieurs tailles et couleur disponible. Une fois commandé communiquez moi le numéro de la couleur choisie. La longueur dépend du prénom choisi.",
+            "La taille est en hauteur. La longueur dépendra du prénom. C'est la première lettre qui détermine la taille en hauteur. Attention si vous avez des jambages de lettre comme Y.J.Z la taille de l'ensemble sera plus grande puisque nous prenons en compte la première lettre pour définir la taille. Si vous avez un doute, n'hésitez pas à demander et si vous souhaitez une taille en longueur à ne pas dépasser, n'hésitez pas à le mentionner.",
+            "Tous nos flex paillettes et mat sont Certifié OEKO-TEX️ Standard 100 Classe 1 ( peut être utilisé sur les articles de bébé et enfants de bas âge jusqu'à 3 ans )."
+          ],
+          "other": [
+            "Personalised Flex name for all your textiles. Ideal for customising your T-shirt, bodysuit, cap, pencil case, school bag etc. with a simple iron.",
+            "ATTENTION: The price includes 1 first name only maximum 10 continuous letters without space.",
+            "Various sizes and colours available. Once ordered, tell me the number of the chosen colour. The length depends on the chosen name.",
+            "The waist is in height. The length will depend on the name. It is the first letter that determines the height in height. Attention if you have letter jambs like Y.J.Z the size of the set will be larger since we take into account the first letter to define the size. If you have any doubts, do not hesitate to ask and if you want a size in length not to be exceeded, do not hesitate to mention it.",
+            "All our glitter and matte flex are OEKO-TEX️ Standard 100 Class 1 certified ( can be used on baby and toddler items up to 3 years old)."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61+eyehjR1L.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B09XKPDF5R"
+      }
+    },
+    {
+      "asin": "B0D2LQXFXN",
+      "csi_title": "SOLSTIS - Jeu de soci&#233;t&#233; 2 Joueurs- Jeu 8 Ans et Plus - Duel Tactique - Jeu familiale - Format Poche - Lumberjack Studios - Blackrock Games",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "5 cm x 131 cm x 0.1 cm",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "famille",
+            "Family"
+          ],
+          "normalized": "famille"
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "?UN JEU À DEUX ZEN ET TACTIQUE : Chaque année, au jour le plus long, chacun devait s’élancer dans la montagne voisine pour aller y allumer des feux 🔥sur ses sommets. Et, qui sait, peut-être rencontrer les facétieux esprits de la montagne...",
+            "⚔️ UN DUEL AU SOMMET : Le but du jeu est de reconstituer un paysage en associant ses tuiles pour faire un maximum de points. Il faudra faire attention à ne pas laisser de tuiles qui rapportent trop de point à son adversaire tout en optimisant notre paysage. On gagne des points en assemblant le plus grand nombre de tuiles possible, en rencontrant les esprits de la forêt et en allumant des feux sur les sommets.",
+            "🌞IDÉAL EN COUPLE, EN FAMILLE OU ENTRES AMIS: rapide, accessible et tactique, ce jeu saura plaire autant aux adultes qu'aux enfants dès 8 ans. L'expérience est zen et très rapide à mettre en place !",
+            "♻️Règles en Woodfree paper. Tuiles, papiers et boîtes sont certifiés provenir de forêt gérée de manière éco-responsable."
+          ],
+          "en": [
+            "Ideal for couples, families or friends: fast, accessible and tactical, this game will appeal to adults and children from 8 years old. The experience is zen and very quick to set up!"
+          ],
+          "other": [
+            "👨‍👩‍👦‍👦 2 joueurs🎂 8 ans et plus ⏱15 minutes de jeu environ",
+            "?A TWO ZEN AND TACTICAL GAME: Every year, on the longest day, everyone had to embark on the nearby mountain to go and light fires 🔥on its peaks. And, who knows, maybe meet the facetious mountain spirits...",
+            "2 players🎂 8 years old and over 15 minutes of play time approx",
+            "A DUEL AT THE TOP: The goal of the game is to reconstruct a landscape by combining its tiles to make a maximum of points. We will have to be careful not to leave tiles that bring too much point to your opponent while optimizing our landscape. Points are earned by assembling as many tiles as possible, meeting forest spirits and lighting fires on the peaks.",
+            "Rules made of woodfree paper. Tiles, papers and boxes are certified from forest managed in an eco-responsible way."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/612Vomee+nL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0D2LQXFXN"
+      }
+    },
+    {
+      "asin": "B082VVYQ72",
+      "csi_title": "TANOSHI - Soupe Miso Tofu - Soupe Instantan&#233;e - 3 Personnes - Sans Glutamate Ajout&#233; - 60, 9 g",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "60.9 g (Lot de 1)",
+          "size_map": null,
+          "additional_sizes_detected": [
+            "1 unité (Lot de 1)"
+          ],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [],
+          "normalized": null
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "SOUPE MISO AU TOFU TANOSHI : Idéale pour vous réchauffer et prête en 1 minute, la soupe miso Tanoshi vous fait voyager vers l'Orient avec ce mets traditionnel japonais à base de soja qui se consomme en début de repas.",
+            "QU'EST-CE QUE LE MISO ? : Faisant partie des aliments de base au Japon, la soupe miso est préparée à partir de pâte de soja fermenté diluée dans l'eau, ce qui lui confère une texture claire sur le dessus et veloutée au fond.",
+            "LA RECETTE DE CETTE SOUPE : Sans glutamate ajouté, cette soupe Tanoshi est cuisinée avec de la pâte de miso à base de soja, du tofu (pâte formée à partir de lait de soja caillé), des algues wakamé et des oignons verts.",
+            "COMMENT PRÉPARER VOTRE BOL DE SOUPE MISO ? : Diluez un sachet de pâte Miso dans 160 ml d'eau bouillante, puis remuez. Ajoutez le sachet de tofu et d'algues en remuant, puis laissez reposer 1 minute avant de déguster.",
+            "LA MARQUE TANOSHI : Tanoshi vous fait voyager en Asie avec délice, au travers de produits authentiques, savoureux et raffinés, dédiés à la gastronomie japonaise (produits roses) et à la cuisine coréenne (produits jaunes)."
+          ],
+          "en": [
+            "TANOSHI TOFU MISO SOUP: Ideal to warm up and ready in 1 minute, Tanoshi miso soup takes you to the East with this traditional Japanese soy-based dish that is eaten at the beginning of your meal.",
+            "THE RECIPE FOR THIS SOUP: Without added glutamate, this Tanoshi soup is cooked with soy-based miso paste, tofu (dough formed from curd soy milk), wakame seaweed and green onions.",
+            "The TANOSHI brand: Tanoshi makes you travel to Asia with delight, through authentic, tasty and refined products, dedicated to Japanese gastronomy (pink products) and Korean cuisine (yellow products)."
+          ],
+          "other": [
+            "WHAT IS MISO? : As one of the staple foods in Japan, miso soup is prepared from fermented soy paste diluted in water, giving it a clear texture on top and velvety at the bottom.",
+            "HOW TO PREPARE YOUR MISO SOUP BOWL? : Dilute a sachet of Miso paste in 160 ml of boiling water, then stir. Add the tofu and seaweed bag while stirring, then let stand for 1 minute before tasting."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/71rd4A1LwRL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B082VVYQ72"
+      }
+    },
+    {
+      "asin": "B07TKDMTHY",
+      "csi_title": "Levi&apos;s Barstow Western Standard Chemise Homme, Marble Black Denim Rinse, M",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": null,
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Chemise Western Shirt traditionnelle en denim et à manches longues",
+            "Détails Western originaux",
+            "Ourlet arrière arrondi",
+            "Levi's Sculpt with Hypersoft, très doux, vous apporte un confort supérieur et un stretch optimal",
+            "Nous nous associons à l’organisation Better Cotton Initiative pour améliorer la culture du coton dans le monde entier",
+            "Ceci est un authentique produit Levi’s"
+          ],
+          "en": [
+            "Original Western Details",
+            "This is a genuine product Levi's"
+          ],
+          "other": [
+            "Traditional Denim Long Sleeve Western Shirt",
+            "Rounded back hem",
+            "Levi's Sculpt with Hypersoft, very soft, brings you superior comfort and optimal stretch",
+            "We partner with Better Cotton Initiative to improve cotton cultivation worldwide"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/71QNjSY0OuL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B07TKDMTHY"
+      }
+    },
+    {
+      "asin": "B0FVMJGRPF",
+      "csi_title": "Peluche personnalis&#233;e avec photo, pr&#233;nom ou message &#8211; Ourson, lapin ou grenouille &#8211; Cadeau original &#8211; 20 cm &#8211; Conforme CE (Photo et message)",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": null,
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [],
+          "normalized": null
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Peluche personnalisable – Ourson, lapin ou grenouille avec votre photo, prénom ou message imprimé sur un tee-shirt doux.",
+            "Cadeau parfait pour toutes les occasions – Naissance, baptême, anniversaire, Noël, Saint-Valentin, Fête des Mères, Fête des Pères, Fête des Grands-Parents.",
+            "Douce et moelleuse – Idéale pour les câlins, un souvenir unique ou une jolie décoration pleine d’émotion.",
+            "Fabrication de qualité – Taille environ 20 cm assis, peluche douce, résistante et certifiée conforme CE.",
+            "Souvenir unique et attendrissant – Allie douceur, originalité et émotion pour un cadeau personnalisé inoubliable.",
+            "QUALITY WORKMANSHIP - Size approx 20 cm sitting, soft plush, durable and CE certified."
+          ],
+          "other": [
+            "PERSONALISED TOY - Bear, Rabbit or Frog with your photo, first name or message printed on a soft tee.",
+            "Perfect gift for any occasion - Birth, Christening, Birthday, Christmas, Valentine's Day, Mother's Day, Father's Day, Grandparents Day.",
+            "Soft and fluffy - ideal for cuddling, a unique keepsake or a lovely decoration full of emotion.",
+            "UNIQUE & TREATING MEMORY - Combines sweetness, originality and emotion for an unforgettable personalized gift."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61SB8mPiIkL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0FVMJGRPF"
+      }
+    },
+    {
+      "asin": "B0FKBFJP5K",
+      "csi_title": "Greatabox Cadeau Papa, Id&#233;e Cadeau Papa Noel Anniversaire, Cadeau pour Papa Plaque, Annonce Grossesse Papa, Meilleur Papa No&#235;l Anniversaire F&#234;te des P&#232;res Original - Plaque C&#339;ur",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "12.8 x 10.6 cm",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [],
+          "normalized": null
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "【Original Cadeau Papa Noel】Un cadeau spécial pour un papa est toujours une belle idée, et un cœur-puzzle personnalisé pourrait être le cadeau parfait. Cette création unique est une façon tendre de montrer votre affection pour votre père. Un cadeau personnalisé de ce genre est idéal pour des occasions spéciales, comme l'anniversaire de votre papa, ou simplement pour lui dire \"tu es une pièce indispensable de notre famille\".",
+            "【Idée Cadeau Papa Anniversaire】Cadeau original pour la Fête des Pères, un anniversaire, Noël, la Saint-Valentin ou simplement pour faire plaisir au quotidien... Le présent idéal pour gâter son papa/père en toute occasion!",
+            "【Pré-assemblé & Démontable Cadeau Pour Papa】Vous recevrez un cœur complet prêt à offrir. Bien sûr, vous pourrez le démonter et le reconstituer pour un moment de complicité ! Ce cadeau original allie solidité et tendresse, parfait pour une exposition élégante dans votre intérieur.",
+            "【Cadeau Polyvalent pour Toutes Les Occasions】Ce cœur puzzle d'une dimension élégante de 12,7 x 10,4 cm (5 x 4,1 pouces) bénéficie d'une impression haute résolution anti-décoloration, garantissant des couleurs éclatantes et une netteté parfaite dans le temps. Véritable souvenir intemporel, il s'intègrera avec charme sur vos étagères, bureaux, tables de salon ou tout espace de vie, insufflant une poésie affective à votre décoration.",
+            "【Service Client Exceptionnel】La plaque puzzle pour couple est livrée dans un emballage renforcé. Pour toute question ou suggestion, n'hésitez pas à nous contacter - votre satisfaction est notre priorité absolue."
+          ],
+          "en": [
+            "【Original Santa Gift】A special gift for a dad is always a great idea, and a personalized heart puzzle could be the perfect gift. This unique creation is a tender way to show your affection for your father. A personalized gift of this kind is ideal for special occasions, such as your dad's birthday, or simply to say \"you are an indispensable part of our family\".",
+            "【Dad Birthday Gift Idea】Original gift for Father's Day, birthday, Christmas, Valentine's Day or just to make fun every day. The perfect present to spoil your dad/father on any occasion!",
+            "【Pre-Assembled & Dismountable Gift For Dad】You will receive a complete heart ready to give as a gift. Of course, you can disassemble it and replenish it for a moment of complicity! This original gift combines strength and tenderness, perfect for an elegant display in your home.",
+            "【VERSATILE GIFT FOR ALL OCCASIONS】This elegant puzzle heart size of 12.7 x 10.4 cm (5 x 4.1 inches) features high-resolution anti-fade printing, ensuring vibrant colours and perfect sharpness over time. A true timeless souvenir, it will fit with charm on your shelves, desks, living room tables or any living space, infusing affective poetry into your decor."
+          ],
+          "other": [
+            "【Exceptional Customer Service】The puzzle plate for couples comes in reinforced packaging. Any questions or suggestions, please feel free to contact us - your satisfaction is our top priority."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61VzvEkwQaL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0FKBFJP5K"
+      }
+    },
+    {
+      "asin": "B0C5XBJJ1X",
+      "csi_title": "Sekiguchi 233724 - Monchhichi Original Fille, T-Shirt Arc-en-Ciel avec Sac et Rubans, Animal en Peluche Brun d&apos;environ 20 cm",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": null,
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Enfant",
+            "Kid"
+          ],
+          "normalized": "kid"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Le visage, les mains et les pieds de la poupée ressemblant à un singe sont fabriqués en plastique",
+            "La fourrure brune est en peluche mohair particulièrement douce et invite aux câlins, au jeu et à l'amour.",
+            "Monchhichi tient dans sa main droite une tétine qu'il peut mettre dans sa bouche.",
+            "Cadeau idéal pour les anniversaires, Noël et Pâques pour les enfants, les amateurs, les collectionneurs et les nostalgiques"
+          ],
+          "other": [
+            "Adorable Monchhichi fillette avec T-shirt arc-en-ciel et sac, taille env. 20 cm",
+            "Cute Monchhichi girl with rainbow t-shirt and bag, size approx. 20 cm",
+            "The face, hands and feet of the monkey-like doll are made of plastic",
+            "The brown fur is made of particularly soft mohair plush and invites to cuddle, play and love.",
+            "Monchhichi holds in his right hand a pacifier that he can put in his mouth.",
+            "Ideal gift for birthdays, Christmas and Easter for kids, hobbyists, collectors and nostalgic"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/711VTj3VZzL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0C5XBJJ1X"
+      }
+    },
+    {
+      "asin": "B0DN6RLWHD",
+      "csi_title": "PANINI Foot 2024-2025 Ligue 1 McDonald&apos;s Blister 12 Pochettes + 2 offertes",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": null,
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Enfant",
+            "Kid"
+          ],
+          "normalized": "kid"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Pour célébrer ce 50ème album de stickers dédié au Championnat de France de football, tentez de trouver les 20 stickers de LÉGENDES dans les pochettes et replongez dans l’histoire de la Ligue 1 à travers les pages spéciales anniversaire.",
+            "Ce blister est composé de 12 pochettes + 2 offertes de 7 stickers, soit 98 stickers au total.",
+            "Cette saison, 530 stickers, dont 152 spéciaux, sont à collectionner pour tout savoir des 18 clubs de Ligue 1 McDonald’s : joueurs, écussons, maillots.",
+            "Aussi, retrouvez toutes les infos à savoir : le calendrier des matchs, les statistiques des effectifs ou encore le palmarès de chaque club.",
+            "Une édition déjà collector !"
+          ],
+          "en": [
+            "To celebrate this 50th sticker album dedicated to the French Football Championship, try to find the 20 LEGENDS stickers in the sleeves and delve back into the history of Ligue 1 through the special anniversary pages.",
+            "This blister pack consists of 12 pouches + 2 free 7 stickers, 98 stickers in total.",
+            "This season, 530 stickers, including 152 specials, are collected to learn all about the 18 McDonald's Ligue 1 clubs: players, crests, jerseys."
+          ],
+          "other": [
+            "Also, find all the information you need to know: the schedule of matches, the statistics of the squads or the list of each club.",
+            "An already collector's edition!"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/811HTkWX84L.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0DN6RLWHD"
+      }
+    },
+    {
+      "asin": "B0F6MYTVY5",
+      "csi_title": "Sekiguchi 203864 - Monchhichi gar&#231;on Original avec Salopette et Motif Shiba Inu, Peluche d&apos;environ 20 cm en Peluche Marron",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "Taille unique",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Enfant",
+            "Kid"
+          ],
+          "normalized": "kid"
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Adorable garçon Monchhichi vêtu d'un t-shirt rouge et d'une salopette avec un visage de Shiba Inu et une empreinte de patte, taille env. 20 cm",
+            "Le visage, les mains et les pieds de la poupée ressemblant à un singe sont en plastique",
+            "La fourrure brune est composée d'une peluche particulièrement douce et invite aux câlins, au jeu et à l'amour",
+            "Le Monchhichi tient dans sa main droite une tétine qu'il peut mettre dans sa bouche",
+            "Cadeau idéal pour un anniversaire, Noël ou Pâques pour les enfants, les amateurs, les collectionneurs et les nostalgiques"
+          ],
+          "other": [
+            "Adorable Monchhichi boy dressed in a red t-shirt and overalls with Shiba Inu face and paw print, size approx. 20 cm",
+            "The face, hands and feet of the monkey-like doll are made of plastic",
+            "The brown fur is made of a particularly soft plush and invites cuddles, play and love",
+            "The Monchhichi holds in his right hand a pacifier that he can put in his mouth",
+            "Ideal Birthday, Christmas or Easter gift for kids, hobbyists, collectors and nostalgic"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/71miVIc6DzL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0F6MYTVY5"
+      }
+    },
+    {
+      "asin": "B08NZNHVN3",
+      "csi_title": "Rouleau Flex Thermocollant pour Tissu-30cm&#215;300cm Pour Cricut &amp; Silhouette Cameo-Rouleau Vinyle Thermocollant,Tr&#232;s R&#233;sistant pourT-Shirts et V&#234;tements, Facile &#224; Couper et &#224; D&#233;sherber or",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": null,
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [],
+          "normalized": null
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "1. Le vinyle de transfert de chaleur blanc est l'un des matériaux chauds les plus populaires au monde aujourd'hui. A été largement utilisé dans l'impression de numéro de maillot de sport, le t-shirt de personnalité, la chemise publicitaire, les uniformes scolaires, les vêtements de sport, les t-shirts amoureux, les sacs, la conception de LOGO DIY.",
+            "2. Taille : 12 pouces x 10 pieds (30,5 cm x 3,0 m, matériau : PVC. Remarque 1 : le vinyle serré convient à la découpe de petites lettres ou de motifs, lors du désherbage, il ne tombe pas facilement ; le vinyle lâche convient aux grandes cibles, facile à Donc, cela ne signifie pas : c'est un mauvais vinyle s'il est difficile à désherber. Remarque 2 : si vous désherbez fortement, parfois une petite partie flottera peut-être, c'est normal mais n'affecte pas la presse à chaud.",
+            "3.Ce fer blanc sur vinyle n'est PAS ADHÉSIF / AUCUN COLLANT, montrant un visage différent avec un dos collant. Ce type est texturé mat et non lisse, et les sensations tactiles sont meilleures. Les professionnels aiment celui-ci antiadhésif. Avantage : 1. Facile à nettoyer (les parties indésirables ne collent pas) 2. Garder propre (la poussière ne colle pas à la surface) 3. Noble (la surface mate est agréable au toucher)",
+            "4. Notre rouleau de vinyle htv est plus épais que celui des autres marques, il est donc nécessaire d'augmenter la pression de coupe qui serait facile à désherber. Notre qualité est très durable et a une longue durée de vie, il est donc sûr d'acheter.",
+            "5. Comment utiliser le htv blanc ? ( 1.Avant d'utiliser, distinguez d'abord le bas et le haut. 2. Le côté transparent en plastique est vers le bas, introduisez le vinyle HTV dans votre machine de découpe 3. Retirez la partie inutile 4. Placez le graphique sur la zone cible. Assurez-vous que la surface est plat, propre et exempt de résidus 5. Utilisez un fer à repasser ou une machine à chaleur pour appuyer fermement à 302-330℉/10s-20s (si vous utilisez un fer à repasser, appuyez fermement)",
+            "4. Our htv vinyl roll is thicker than other brands, so it is necessary to increase the cutting pressure that would be easy to weed. Our quality is very durable and has a long service life, so it is safe to buy."
+          ],
+          "en": [
+            "1. White heat transfer vinyl is one of the most popular warm materials in the world today. Has been widely used in sports jersey number printing, personality t-shirt, advertising shirt, school uniforms, sportswear, love T-shirts, bags, DIY LOGO design.",
+            "2. Size: 12 inches x 10 feet (30.5 cm x 3 m, material: PVC. Note 1: tight vinyl is suitable for cutting small letters or patterns, when weeding, it is not easy to fall off; loose vinyl is suitable for large targets, easy to So this does not means: it is a bad vinyl if it is difficult to weed. Note 2: If you weed heavily, sometimes a small part may float, this is normal but does not affect the heat press.",
+            "3.This tinplate on vinyl is NOT ADHESIVE/NO STICKY, showing a different face with a sticky back. This type is matte textured and not smooth, and the tactile sensations are better. Professionals love this non-stick one. Advantage: 1. Easy to clean (unwanted parts do not stick) 2. Keep clean (dust does not stick to the surface) 3. Noble (the matte surface is pleasant to the touch)"
+          ],
+          "other": [
+            "5. How to use white TV? (1.Before using, first distinguish the bottom and the top. 2. The transparent plastic side is down, insert HTV vinyl into your cutting machine 3. Remove the unnecessary part 4. Place the graph on the target area. Make sure the surface is flat, clean and free of residue 5. Use an iron or heat machine to press firmly to 302-330℉/10s-20s (if you use an iron, press firmly)"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61Xpv0KsUBL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B08NZNHVN3"
+      }
+    },
+    {
+      "asin": "B0F6MXJCPR",
+      "csi_title": "Sekiguchi 203871 - Monchhichi Original gar&#231;on avec Salopette et Motif Grenouille, Peluche d&apos;environ 20 cm en Peluche Marron",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "approx. 20 cm",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Enfant",
+            "Kid"
+          ],
+          "normalized": "kid"
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Adorable garçon Monchhichi vêtu d'un t-shirt blanc et d'une salopette avec un visage de grenouille, taille env. 20 cm",
+            "Le visage, les mains et les pieds de la poupée ressemblant à un singe sont en plastique",
+            "La fourrure brune est composée d'une peluche particulièrement douce qui invite aux câlins, au jeu et à l'amour",
+            "Le Monchhichi tient dans sa main droite une tétine qu'il peut mettre dans sa bouche",
+            "Cadeau idéal pour un anniversaire, Noël ou Pâques pour les enfants, les amateurs, les collectionneurs et les nostalgiques"
+          ],
+          "other": [
+            "Adorable Monchhichi boy dressed in a white t-shirt and overalls with a frog face, size approx. 20 cm",
+            "The face, hands and feet of the monkey-like doll are made of plastic",
+            "The brown fur is made of a particularly soft plush that invites cuddles, play and love",
+            "The Monchhichi holds in his right hand a pacifier that he can put in his mouth",
+            "Ideal Birthday, Christmas or Easter gift for kids, hobbyists, collectors and nostalgic"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/712ExVHLUJL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0F6MXJCPR"
+      }
+    },
+    {
+      "asin": "B0DGXQB1YH",
+      "csi_title": "Sockers Banbo Toys Real Madrid CF Jude Bellingham 8&quot; Collectible Soccer Action Figure",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": null,
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [],
+          "normalized": null
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Produit sous licence officielle représentant les athlètes de football emblématiques",
+            "Design réaliste et détaillé .",
+            "Avec une représentation précise et fidèle, cette figurine capture son essence dans les moindres détails. Idéal pour ceux qui recherchent une pièce authentique qui célèbre leur amour pour le football ."
+          ],
+          "en": [
+            "With accurate and faithful representation, this figure captures its essence in every detail. Ideal for those looking for an authentic piece that celebrates their love for football."
+          ],
+          "other": [
+            "Hauteur : environ 20 cm",
+            "Articulable pour prendre des position de jeux",
+            "Officially licensed product featuring iconic football athletes",
+            "Height: approx. 20 cm",
+            "Articulable to take playing positions",
+            "Realistic and detailed design."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61exG84QagL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0DGXQB1YH"
+      }
+    },
+    {
+      "asin": "B0CYLWYHSG",
+      "csi_title": "Disney Store Officiel Gobelet avec Paille Bonbonne de Cris, Monstres et Cie, 470ml, Bouteille Imprim&#233;e &#224; Double Paroi avec Couvercle &#224; Vis",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": null,
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Enfant",
+            "Kid"
+          ],
+          "normalized": "kid"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": "BPA Free",
+          "normalized": "BPA Free"
+        },
+        "bullet_points": {
+          "fr": [
+            "Produit inspiré du film Pixar Monstres & Cie (2001)",
+            "Réplique moulée de la bonbonne de cris",
+            "Appuyez sur le bouton rouge sur le dessus, puis dévissez le couvercle pour entendre des cris",
+            "Couvercle à visser muni d'un trou pour insérer la paille"
+          ],
+          "other": [
+            "Rappuyez sur le bouton pour mettre fin aux effets sonores",
+            "Product inspired by Pixar Monsters & Co. (2001)",
+            "Molded replica of the screaming cylinder",
+            "Press the red button on the top, then unscrew the lid to hear screams",
+            "Press the button again to end the sound effects",
+            "Screw-on lid with hole for inserting straw"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61XPHiRE9FL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0CYLWYHSG"
+      }
+    },
+    {
+      "asin": "B08LP26JL1",
+      "csi_title": "Star Wars Gingerbread Cookies Galactic Empire Holiday Sweatshirt",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "2X-Large",
+          "size_map": "2X-Large",
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "241 g, coupe classique, col tissé"
+          ],
+          "other": [
+            "Official Star Wars Merchandise",
+            "Star Wars Holiday Christmas T Shirts for Men, Women, Boys, Girls, Kids; Star Wars Christmas T Shirts; Star Wars Holiday T Shirts; Funny Star Wars T Shirts; Cute Star Wars Shirts; Star Wars Gingerbread; Star Wars Cookie; Darth Vader; Boba Fett; Stormtrooper",
+            "Star Wars Holiday T-Shirts and Tank Tops for Men, Women, Boys, and Girls",
+            "8.5 oz, Regular Fit, Woven Collar"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/A1mN82gBRyL.png%7C0%2C0%2C2140%2C2000%2B0.0%2C0.0%2C2140.0%2C2000.0_AC_SX466_.png",
+        "fr_dp_url": "https://www.amazon.fr/dp/B08LP26JL1"
+      }
+    },
+    {
+      "asin": "B09WJG72P8",
+      "csi_title": "Hy-Pro UEFA Champions League Ballon de Football, Taille 5, sous Licence Officielle, entra&#238;nement, Match, Marchandise, Objet de Collection pour Enfants et Adultes, Excellente id&#233;e Cadeau de Football",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "5",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Jeunesse",
+            "Youth"
+          ],
+          "normalized": "jeunesse"
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Marchandise sous licence officielle | Hy-Pro est fier de présenter ce ballon de football sous licence officielle UEFA Champions League Montrez votre amour pour le football avec ce ballon de qualité supérieure.",
+            "Design cool | Fabriqué avec un design d'étoile frappant, ce ballon de football de la Ligue des Champions se distingue que ce soit à la maison ou sur le terrain",
+            "Haute qualité : ce ballon de football de taille 5 Champions League est soigneusement fabriqué à partir de matériaux de qualité supérieure pour garantir durabilité et longévité, le tout enveloppé dans une finition haut de gamme.",
+            "Excellente idée cadeau : notre champions League football est une excellente idée de cadeau de football pour les enfants et les adultes Que ce soit pour un anniversaire, Noël ou juste comme ça",
+            "Gonflage facile : notre ballon de football de la Ligue des Champions est livré dégonflé, achetez une pompe Hy-Pro pour un gonflage rapide et commencez à l'utiliser dès que possible."
+          ],
+          "en": [
+            "OFFICIALLY LICENSED MERCHANDISE | Hy-Pro is proud to present this officially licensed UEFA Champions League football Show your love for football with this premium quality ball.",
+            "Cool Design | Made with a striking star design, this Champions League football stands out whether at home or on the pitch",
+            "HIGH QUALITY - This Champions League size 5 football is carefully crafted from premium materials to ensure durability and longevity, all wrapped in a premium finish."
+          ],
+          "other": [
+            "GREAT GIFT IDEA Our champions League football is a great football gift idea for kids and adults Whether it's for a birthday, Christmas or just because!",
+            "EASY INFLATION - Our Champions League football comes deflated, buy a Hy-Pro pump for quick inflation and start using it ASAP."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/71EOGb5rR8L.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B09WJG72P8"
+      }
+    },
+    {
+      "asin": "B0FMFZ9HMS",
+      "csi_title": "UrbanGlide Draisienne &#233;lectrique Thunder 160 &#8211; 25 km/h, 30 km d&apos;autonomie, Freins &#224; Disque, 16&apos;&apos;",
+      "csi_status": "Not Discoverable",
+      "attributes": {
+        "size_info": {
+          "size": "S-M",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": "Métal",
+          "normalized": "Métal"
+        },
+        "bullet_points": {
+          "other": [
+            "Balance Bike UrbanGlide",
+            "Draisienne UrbanGlide"
+          ]
+        }
+      },
+      "dp": {
+        "image": null,
+        "fr_dp_url": "https://www.amazon.fr/dp/B0FMFZ9HMS"
+      }
+    },
+    {
+      "asin": "B0FF1NCWC9",
+      "csi_title": "DERAYEE 32PCS Crayon en Bois de No&#235;l,8 Motifs-Crayons avec Gommes Noel",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "2_3mm",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Enfant"
+          ],
+          "normalized": "kid"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "【Diverses formes sur le thème de Noël】Ces 32 crayons de Noël ont une variété de motifs de gomme en haut, y compris un visage souriant portant un chapeau de Père Noël, une jolie tête de renne, une jolie tête de Père Noël, un bonhomme de neige ludique, etc., chacun d’entre eux étant plein d’atmosphère de Noël.",
+            "【Décoration de motif riche】Le corps du crayon est imprimé avec divers motifs d’éléments de Noël, tels que des flocons de neige, des arbres de Noël, des bas de Noël, des personnes en pain d’épice, etc., des couleurs vives, du rouge, du vert, du blanc et d’autres couleurs de Noël classiques sont entrelacées, visuellement une atmosphère très festive.",
+            "【Quantité suffisante】Un ensemble de 32 crayons, que ce soit pour l’écriture personnelle quotidienne ou comme cadeaux de Noël à distribuer aux camarades de classe, aux fêtards, etc., le nombre est suffisant pour répondre aux besoins de divers scénarios.",
+            "【Pratique et amusant】Le crayon répond non seulement à la fonction d’écriture quotidienne, la gomme en haut est pratique pour corriger les erreurs d’écriture à tout moment, mais aussi le design unique de la forme de Noël ajoute beaucoup de plaisir au processus d’écriture, de sorte que les utilisateurs peuvent également ressentir la joie de Noël lorsqu’ils étudient et travaillent.",
+            "【Parfait comme cadeau de Noël】Ces crayons pleins de caractéristiques de Noël font d’excellents petits cadeaux à offrir pendant la période de Noël. Il peut être mis dans un bas de Noël comme surprise ou comme petit prix lors d’une fête de Noël."
+          ],
+          "other": [
+            "【Various Christmas Themed Shapes】These 32 Christmas pencils have a variety of eraser patterns at the top, including smiling face wearing Santa hat, cute reindeer head, cute Santa head, playful snowman, etc., each of them full of Christmas atmosphere.",
+            "【Rich Pattern Decoration】The pencil body is printed with various patterns of Christmas elements, such as snowflakes, Christmas trees, Christmas stockings, gingerbread people, etc., bright colors, red, green, white and other classic Christmas colors are intertwined, visually a very festive atmosphere.",
+            "【Sufficient Quantity】A set of 32 pencils, whether for daily personal writing or as Christmas gifts to distribute to classmates, party goers, etc., the number is enough to meet the needs of various scenarios.",
+            "【Practical and Fun】Pencil not only meets the daily writing function, the eraser at the top is convenient to correct writing errors at any time, but also the unique design of the Christmas shape adds much fun to the writing process, so that users can also feel the joy of Christmas when studying and working.",
+            "【Perfect Christmas Gift】These pencils full of Christmas features make great little gifts to give during the Christmas period. It can be put in a stocking stocking as a surprise or as a small prize at a Christmas party."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/71M4ATe346L.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0FF1NCWC9"
+      }
+    },
+    {
+      "asin": "B0C33N1WCB",
+      "csi_title": "Singe Monkey DJ &#233;couteurs &amp; Lunettes de Soleil Gorilla Fun P T-Shirt",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "S",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "male",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Ce drôle de Monkey DJ avec écouteurs et lunettes de soleil est parfait pour les amateurs de disco qui aiment écouter de la house, du RnB ou de la techno. Cadeau parfait pour les anniversaires et Noël !",
+            "Singe Monkey DJ avec écouteurs et lunettes de soleil idée cadeau. Cool et amusant avec un singe qui écoute de la musique. Design coloré qui sera parfait en boîte de nuit ou en discothèque.",
+            "Léger, Coupe classique, manche à double couture et ourlet à la base"
+          ],
+          "en": [
+            "This funny Monkey DJ with headphones and sunglasses is perfect for disco lovers who like to listen to house, RnB or techno. Perfect gift for birthdays and Christmas!"
+          ],
+          "other": [
+            "Monkey Monkey DJ with Headphones and Sunglasses Gift Idea Cool and fun with a monkey listening to music. Colorful design that will look great in the club or disco.",
+            "Lightweight, classic fit, double-stitched sleeve and hem at hem"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/B1pppR4gVKL.png%7C0%2C0%2C2140%2C2000%2B0.0%2C0.0%2C2140.0%2C2000.0_AC_SX679_.png",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0C33N1WCB"
+      }
+    },
+    {
+      "asin": "B07TMHGSPW",
+      "csi_title": "Levi&apos;s Barstow Western Standard Chemise Homme, Indigo Rinse, L",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": null,
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Chemise Western Shirt traditionnelle en denim et à manches longues",
+            "Détails Western originaux",
+            "Ourlet arrière arrondi",
+            "Cette coupe oversize taille très grand, nous vous recommandons de prendre une taille ou deux en dessous",
+            "Nous nous associons à l’organisation Better Cotton Initiative pour améliorer la culture du coton dans le monde entier",
+            "Ceci est un authentique produit Levi’s"
+          ],
+          "en": [
+            "Original Western Details",
+            "This oversized fit runs very large, we recommend taking a size or two down",
+            "This is a genuine product Levi's"
+          ],
+          "other": [
+            "Traditional Denim Long Sleeve Western Shirt",
+            "Rounded back hem",
+            "We partner with Better Cotton Initiative to improve cotton cultivation worldwide"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/81S6KR7jSfL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B07TMHGSPW"
+      }
+    },
+    {
+      "asin": "B0BXB3JHJ3",
+      "csi_title": "Reishunger Cuvette &#224; riz en acier inoxydable (noir) - Passoire pour le lavage du riz et des l&#233;gumes - Avec pied en silicone antid&#233;rapant",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "Ø 22 cm",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [],
+          "normalized": null
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "🍚 Pour un voyage parfait – Il suffit de mettre du riz et de l'eau dans le bol de sorte que le riz est couvert d'eau, de laver à la main et de vider l'eau en inclinant légèrement. Répéter 2 à 3 fois - C'est prêt",
+            "💎 Qualité et design : grâce à la qualité supérieure, elle peut non seulement être utilisée pour laver le riz, mais elle vous aide dans de nombreuses autres tâches. Elle est le compagnon idéal pour votre riz, mais aussi pour les légumes, les grains de céréales, etc.",
+            "️❤️ Un fidèle compagnon - Le pied en silicone assure en outre une stabilité et une stabilité antidérapantes. Grâce au matériau en acier inoxydable de qualité supérieure et alimentaire, vous bénéficiez d'une longue durée de vie.",
+            "💯 Caractéristiques - Matière : Inox et Silicone / Diamètre : 22 cm / Hauteur : 12,5 cm / Capacité : 1,8 L / Couleur: Noir"
+          ],
+          "other": [
+            "🚿 Ustensile pratique – Parfait pour le lavage et le trempage du riz",
+            "CONVENIENT UTENSIL - Perfect for washing and soaking rice",
+            "FOR A PERFECT JOURNEY - Just put rice and water into the bowl so that the rice is covered with water, wash by hand and drain the water by tilting slightly. Repeat 2-3 times - it's ready",
+            "💎 QUALITY & DESIGN - Thanks to the superior quality, it can not only be used to wash rice, but it helps you in many other tasks. It is the ideal companion for your rice, but also for vegetables, cereal grains etc.",
+            "❤️❤️ A faithful companion: the silicone foot also ensures non-slip stability and stability. Thanks to the high-quality and food-safe stainless steel material, you have a long service life.",
+            "Features: Material: stainless steel and silicone. Diameter: 22 cm. Height: 12.5 cm. Capacity: 1.8 litres. Colour: black"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61Yd7yB+yaL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0BXB3JHJ3"
+      }
+    }
+  ],
+  "stats": {
+    "asin_blocks_found": 25,
+    "records_extracted": 25,
+    "records_skipped_no_csi": 0
+  }
+}

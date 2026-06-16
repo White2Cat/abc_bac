@@ -1,0 +1,3215 @@
+{
+  "source_file": "datas10.txt",
+  "records": [
+    {
+      "asin": "B0DMPHTZ27",
+      "csi_title": "Scholl Mixte Evoflex Chaussure de s&#233;curit&#233;, Vert, 40 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_362::{",
+          "size_map": "40 EU",
+          "additional_sizes_detected": [
+            "numeric_40,",
+            "40 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_40",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "adult",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 40
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_40",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 40
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "De clog à snowboard : la sangle innovante réglable et rabattable permet de passer du clog à des baskets en une seconde, avec flexibilité mais aussi sécurité, tout en gardant le pied stable dans la bonne position même à pas soutenu",
+            "Professionnels : la surface lisse empêche l'accumulation de saleté et rend ces sabots parfaits pour une utilisation dans les hôpitaux, les cabinets médicaux, les cliniques vétérinaires, les laboratoires, mais aussi les salons de beauté et les cuisines",
+            "Respirant : la semelle intérieure amovible en Memory Cushion assure la transpiration et garde le pied au frais, aidant à réduire la fatigue d'une journée debout",
+            "Sécurité : la semelle antidérapante et le point d'échappement électrostatique permettent de travailler en toute sécurité, évitant les chutes et les désagréments au pied",
+            "Facile à nettoyer : le socle avec semelle intérieure est autoclavable à 121 °, tandis que le seul socle à 134 ° ; le produit est également lavable en machine à 90 °C"
+          ],
+          "other": [
+            "From clog to snowboard: the innovative adjustable and folding strap allows you to switch from clog to sneakers in a second, with flexibility but also security, while keeping the foot stable in the right position even at a supported step",
+            "PROFESSIONALS - Smooth surface prevents dirt build-up and makes these clogs perfect for use in hospitals, doctors' offices, veterinary clinics, laboratories, but also beauty salons and kitchens",
+            "BREATHABLE - Removable Memory Cushion insole ensures perspiration and keeps foot cool, helping to reduce fatigue from a day standing",
+            "Safety: the non-slip sole and electrostatic exhaust point allow you to work safely, preventing falls and inconvenience to the foot",
+            "Easy to clean: the base with insole is autoclavable at 121°, while the sole base at 134°; the product is also machine washable at 90 ° C"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/51-uYihjReL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0DMPHTZ27"
+      }
+    },
+    {
+      "asin": "B0CD829WMP",
+      "csi_title": "Tamaris Damen 1-22309-42, Sneaker,",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": null,
+          "additional_sizes_detected": [
+            "37 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"6\"",
+            "legacy_unit": "womens_us"
+          }
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "La fonction Touch-IT permet un confort optimal grâce à une semelle souple et adaptable.",
+            "Ces chaussures avec semelle intérieure confortable et douce assurent une sensation de marche agréable et font de chaque pas un plaisir.",
+            "La technologie Antislide assure toujours et partout une semelle antidérapante et un maintien ferme.",
+            "Les chaussures à talon compensé combinent une hauteur élégante avec un confort optimal et sont parfaites pour tous les jours.",
+            "Enfilage et retrait rapides et faciles grâce à la fermeture velcro."
+          ],
+          "other": [
+            "The Touch-IT function allows for optimal comfort thanks to the flexible and adaptable sole.",
+            "These shoes with a soft, comfortable insole ensure a pleasant walking sensation and make every step a pleasure.",
+            "The Antislide technology always ensures a non-slip sole and a firm hold.",
+            "The wedge shoes combine an elegant height with optimal comfort and are perfect for every day.",
+            "Quick and easy to put on and take off thanks to the Velcro fastener."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61dqOG9R0wL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0CD829WMP"
+      }
+    },
+    {
+      "asin": "B0CNT8DFY2",
+      "csi_title": "Baskets de s&#233;curit&#233; avec embout en acier pour homme et femme - Chaussures de travail imperm&#233;ables - Bottes de s&#233;curit&#233; antid&#233;rapantes - Chaussures de travail l&#233;g&#232;res - Chaussures de protection",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_141::{",
+          "size_map": "45 EU",
+          "additional_sizes_detected": [
+            "numeric_45,",
+            "45 EU",
+            "43 1/3 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_45",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "adult",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 45
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_45",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 45
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "⚠ Avantage imperméable : nous avons fait un traitement spécial sur la partie supérieure, en ajoutant une housse imperméable, offrant une protection imperméable. Ils gardent vos pieds au sec dans les environnements humides, assurant un confort tout au long de la journée. Que vous travailliez à l'extérieur ou soyez confronté à des risques de liquides, ces bottes vous protègent et vous gardent au sec.",
+            "⚠ Semelle intermédiaire en Kevlar : Comparée à la semelle intermédiaire en acier, la semelle intermédiaire en Kevlar résistante aux balles est non seulement durable et souple, mais les chaussures de sécurité peuvent également être pliées aléatoirement au travail.",
+            "⚠Antidérapant : Ces chaussures de sécurité ont des caoutchoucs stratégiquement placés sur les semelles extérieures pour ajouter une traction et une durabilité multi-surfaces. La prise en main fiable réduit les risques de glissement dans n'importe quel environnement.",
+            "⚠ Chaussures de sécurité polyvalentes : Ces chaussures de travail sont une protection fiable pour les clients travaillant en usine, entrepôt, usine chimique, réparation automobile, laboratoire, etc.",
+            "Kevlar Midsole: Compared with steel midsole, Kevlar midsole is not only durable and soft, but safety shoes can also be folded randomly at work."
+          ],
+          "other": [
+            "Waterproof Advantage: We have made special treatment on the top, adding a waterproof cover, providing waterproof protection. They keep your feet dry in humid environments, ensuring all-day comfort. Whether you're working outdoors or facing liquid hazards, these boots keep you protected and dry.",
+            "NON-SLIP - These safety sneakers strategically place rubbers on the outsoles to add multi-surface traction and durability. The reliable grip reduces the risk of slipping in any environment.",
+            "MULTIFUNCTIONAL SAFETY SHOES These work shoes are reliable protection for customers working in factory, warehouse, chemical factory, auto repair, laboratory, etc."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/71joqOJEEgL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0CNT8DFY2"
+      }
+    },
+    {
+      "asin": "B0F8P16HLD",
+      "csi_title": "POIUIYQA Chaussures Orthop&#233;diques pour Femme, Chaussures sans Lacets Antid&#233;rapantes avec Maille pour Femme, Basket de Marche &#192; Plateforme Orthop&#233;dique L&#233;g&#232;res et Confortables",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_124::{",
+          "size_map": "42 EU",
+          "additional_sizes_detected": [
+            "numeric_42,",
+            "42 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_42",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "adult",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 42
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_42",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 42
+        },
+        "age_range": {
+          "raw_values": [
+            "adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": "Polyester + coton",
+          "normalized": "Polyester + coton"
+        },
+        "bullet_points": {
+          "fr": [
+            "Confortables et respirantes : Ces chaussures orthopédiques pour femmes sont fabriquées dans une matière supérieure en tricot doux, léger et respirant, douce pour la peau et qui ne chauffe pas les pieds.",
+            "Soulage la pression du pied : Nos chaussures de marche orthopédiques, dotées d'une triple voûte plantaire amortissante et amortissante, répartissent uniformément le poids et réduisent la pression exercée sur vos pieds. Le coussin et la cale offrent un soutien supplémentaire pour soulager la pression du pied, rendant chaque pas confortable.",
+            "Antidérapantes : Pour éviter les chutes sur sol glissant, ces chaussures de marche pour femmes sont dotées d'une semelle imprimée en relief qui augmente la friction entre la chaussure et le sol.",
+            "Chaussures à enfiler et à retirer rapidement : Ces chaussures s'enfilent et se retirent en un clin d'œil. Leur ouverture élastique épouse parfaitement la forme du pied et offre un ajustement confortable et stable. Sans lacets, aucun problème.",
+            "Largement utilisées : Nos chaussures de marche orthopédiques sont parfaites pour les promenades tranquilles, la salle de sport, les entraînements intenses, le camping et même les longs voyages."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/51YXd-1T6BL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0F8P16HLD"
+      }
+    },
+    {
+      "asin": "B0CPPSKY7P",
+      "csi_title": "Geox B ECLYPER Girl A, Basket,",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "22 EU",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Enfant",
+            "Kid"
+          ],
+          "normalized": "kid"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Fermeture à un scratch et lacets élastiques",
+            "Semelle intérieure amovible"
+          ],
+          "other": [
+            "Enfilage facile et rapide",
+            "closure and elastic laces",
+            "Removable insole",
+            "Quick and easy to put on"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/71Zs7zVm9EL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0CPPSKY7P"
+      }
+    },
+    {
+      "asin": "B0F8NW1JX1",
+      "csi_title": "POIUIYQA Chaussures Orthop&#233;diques pour Femme, Chaussures sans Lacets Antid&#233;rapantes avec Maille pour Femme, Basket de Marche &#192; Plateforme Orthop&#233;dique L&#233;g&#232;res et Confortables",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_124::{",
+          "size_map": "40 EU",
+          "additional_sizes_detected": [
+            "numeric_40,",
+            "40 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_40",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "adult",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 40
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_40",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 40
+        },
+        "age_range": {
+          "raw_values": [
+            "adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": "Polyester + coton",
+          "normalized": "Polyester + coton"
+        },
+        "bullet_points": {
+          "fr": [
+            "Confortables et respirantes : Ces chaussures orthopédiques pour femmes sont fabriquées dans une matière supérieure en tricot doux, léger et respirant, douce pour la peau et qui ne chauffe pas les pieds.",
+            "Soulage la pression du pied : Nos chaussures de marche orthopédiques, dotées d'une triple voûte plantaire amortissante et amortissante, répartissent uniformément le poids et réduisent la pression exercée sur vos pieds. Le coussin et la cale offrent un soutien supplémentaire pour soulager la pression du pied, rendant chaque pas confortable.",
+            "Antidérapantes : Pour éviter les chutes sur sol glissant, ces chaussures de marche pour femmes sont dotées d'une semelle imprimée en relief qui augmente la friction entre la chaussure et le sol.",
+            "Chaussures à enfiler et à retirer rapidement : Ces chaussures s'enfilent et se retirent en un clin d'œil. Leur ouverture élastique épouse parfaitement la forme du pied et offre un ajustement confortable et stable. Sans lacets, aucun problème.",
+            "Largement utilisées : Nos chaussures de marche orthopédiques sont parfaites pour les promenades tranquilles, la salle de sport, les entraînements intenses, le camping et même les longs voyages."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/613gqvpHuZL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0F8NW1JX1"
+      }
+    },
+    {
+      "asin": "B0F8NYSTK3",
+      "csi_title": "POIUIYQA Chaussures Orthop&#233;diques pour Femme, Chaussures sans Lacets Antid&#233;rapantes avec Maille pour Femme, Basket de Marche &#192; Plateforme Orthop&#233;dique L&#233;g&#232;res et Confortables",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_124::{",
+          "size_map": "39 EU",
+          "additional_sizes_detected": [
+            "numeric_39,",
+            "39 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_39",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "adult",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 39
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_39",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 39
+        },
+        "age_range": {
+          "raw_values": [
+            "kid"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": "Polyester + coton",
+          "normalized": "Polyester + coton"
+        },
+        "bullet_points": {
+          "fr": [
+            "Confortables et respirantes : Ces chaussures orthopédiques pour femmes sont fabriquées dans une matière supérieure en tricot doux, léger et respirant, douce pour la peau et qui ne chauffe pas les pieds.",
+            "Soulage la pression du pied : Nos chaussures de marche orthopédiques, dotées d'une triple voûte plantaire amortissante et amortissante, répartissent uniformément le poids et réduisent la pression exercée sur vos pieds. Le coussin et la cale offrent un soutien supplémentaire pour soulager la pression du pied, rendant chaque pas confortable.",
+            "Antidérapantes : Pour éviter les chutes sur sol glissant, ces chaussures de marche pour femmes sont dotées d'une semelle imprimée en relief qui augmente la friction entre la chaussure et le sol.",
+            "Chaussures à enfiler et à retirer rapidement : Ces chaussures s'enfilent et se retirent en un clin d'œil. Leur ouverture élastique épouse parfaitement la forme du pied et offre un ajustement confortable et stable. Sans lacets, aucun problème.",
+            "Largement utilisées : Nos chaussures de marche orthopédiques sont parfaites pour les promenades tranquilles, la salle de sport, les entraînements intenses, le camping et même les longs voyages."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/610VW1-U0oL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0F8NYSTK3"
+      }
+    },
+    {
+      "asin": "B0F8P1W7YV",
+      "csi_title": "POIUIYQA Chaussures Orthop&#233;diques pour Femme, Chaussures sans Lacets Antid&#233;rapantes avec Maille pour Femme, Basket de Marche &#192; Plateforme Orthop&#233;dique L&#233;g&#232;res et Confortables",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_124::{",
+          "size_map": "43 EU",
+          "additional_sizes_detected": [
+            "numeric_43,",
+            "43 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_43",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "adult",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 43
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_43",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 43
+        },
+        "age_range": {
+          "raw_values": [
+            "kid"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": "Polyester + coton",
+          "normalized": "Polyester + coton"
+        },
+        "bullet_points": {
+          "fr": [
+            "Confortables et respirantes : Ces chaussures orthopédiques pour femmes sont fabriquées dans une matière supérieure en tricot doux, léger et respirant, douce pour la peau et qui ne chauffe pas les pieds.",
+            "Soulage la pression du pied : Nos chaussures de marche orthopédiques, dotées d'une triple voûte plantaire amortissante et amortissante, répartissent uniformément le poids et réduisent la pression exercée sur vos pieds. Le coussin et la cale offrent un soutien supplémentaire pour soulager la pression du pied, rendant chaque pas confortable.",
+            "Antidérapantes : Pour éviter les chutes sur sol glissant, ces chaussures de marche pour femmes sont dotées d'une semelle imprimée en relief qui augmente la friction entre la chaussure et le sol.",
+            "Chaussures à enfiler et à retirer rapidement : Ces chaussures s'enfilent et se retirent en un clin d'œil. Leur ouverture élastique épouse parfaitement la forme du pied et offre un ajustement confortable et stable. Sans lacets, aucun problème.",
+            "Largement utilisées : Nos chaussures de marche orthopédiques sont parfaites pour les promenades tranquilles, la salle de sport, les entraînements intenses, le camping et même les longs voyages."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/71RMPUd3PmL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0F8P1W7YV"
+      }
+    },
+    {
+      "asin": "B0F4PTMG2K",
+      "csi_title": "Baskets Homme Chaussures de Course L&#233;g&#232;res Respirantes Confortables Chaussures de Marche Sneakers Maille Chaussures d&apos;Entra&#238;nement Chaussures de Sport Athl&#233;tisme Tennis Baskets, Rouge, 39 2/3 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_118::{",
+          "size_map": "40 EU",
+          "additional_sizes_detected": [
+            "numeric_40,",
+            "40 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_40",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "adult",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 40
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_40",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 40
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Chaussures de plage imperméables pour homme; baskets de tennis pour homme; chaussures plates pour homme; baskets pour homme taille 7 UK; baskets de tennis pour homme 3.0; chaussures de danse; rangement pour chaussures de plein air; baskets pour homme taille 12 UK; chaussures élégantes pour homme grand pied; baskets pour homme taille 12 UK avec velcro; Chaussures décontractées pour homme; chaussures de mariage à talon bloc et bout fermé; Chaussures de travail décontractées pour homme; Chaussures décontractées pour homme taille 14; chaussures de golf pour homme; chaussures pour diabétiques pour homme grand pied; chaussures décontractées pour homme; Chaussures confortables pour homme décontractées; Chaussures à lacets décontractées pour homme; chaussures aqua pour homme taille 11",
+            "Chaussures de tennis pour homme blanches; Chaussures de jazz taille 2 marron clair; Chaussures orthopédiques pour homme avec emplacement pour orthèses; Nouvelles chaussures de sport décontractées pour homme 10; Mocassins pour homme taille 8; Chaussures d'école pour garçons taille 7; Chaussures de communion taille 2,5; Chaussures décontractées à enfiler pour homme taille 8; Lacets pour baskets; Chaussures de golf taille 12; Chaussures de boxe blanches; Chaussures noires pour homme taille 8; Chaussures décontractées en daim pour homme; Chaussures de football taille 6; Baskets blanches pour homme; Chaussures de marche imperméables pour homme; Chaussures de course sur route; Chaussures élégantes pour garçons taille 4; Chaussures aqua pour garçons",
+            "Baskets pour homme taille 13 ; baskets de sécurité pour homme ; chaussures à plateforme noires taille 3 ; chaussures de mariage bleu marine ; chaussures respirantes taille 3 ; baskets noires pour homme ; chaussures résistantes à l'eau ; chaussures de sport et d'extérieur pour homme taille 10 ; Baskets décontractées pour homme ; chaussures aquatiques pour homme taille 10 ; chaussures de tennis bleu marine taille 3 ; chaussures de squash ; chaussures de fitness ; chaussures de football pour garçons 10-11 ; chaussures de tennis bleu marine taille 3 ; chaussures d'affaires ; baskets de boxe taille 3 ; Chaussures décontractées tendance d'affaires pour homme ; Pantoufles baskets pour homme taille 13 ; chaussures d'école pour garçons taille 4",
+            "Chaussures d'école pour garçons taille 6; Chaussures décontractées d'affaires pour homme; Chaussures de natation pour hommes 11; Baskets en toile pour homme taille 8 UK; Baskets à lacets pour homme; Chaussures légères pour homme; Baskets décontractées pour homme; Chaussures de mariage blanches; Chaussures décontractées en cuir pour homme avec bottine basse; Chaussures imperméables pour homme noir; Baskets de marche imperméables pour homme; Chaussures décontractées en cuir pour homme; Mocassins pour garçons taille 6; Mocassins pour garçons taille 28; Chaussures en cuir verni pour homme; Chaussures de jazz taille 3 pour garçons; Chaussures formelles noires pour homme grand pied; Chaussures de natation pour homme taille 9; Chaussures de course pour homme taille 12",
+            "chaussons pour hommes taille 9 à coupe large; chaussons pour hommes taille 9 blancs; chaussures de golf pour hommes UK 8,5; chaussures d'athlétisme pour hommes; chaussures de jazz taille 12; chaussures d'escalade d'intérieur; chaussures de boxe taille 12; chaussures de communion pour garçon; chaussures de course pour hommes taille 9; chaussures formelles pour hommes pour le travail; chaussures d'escalade d'intérieur; chaussures de golf pour hommes UK 9,5; chaussures à plateforme chunky taille 1; chaussures pour hommes taille 11 pour le cricket; chaussures de sport pour hommes; chaussures décontractées pour hommes; chaussures de jazz taille 7; chaussures de communion taille 3; chaussures imperméables pour hommes taille 12; chaussures de plage taille 4,5"
+          ],
+          "other": [
+            "mens waterproof beach shoes; mens flat sneakers; mens sneakers size 7; dance sneakers; outdoor shoe storage; smart shoes for men; smart shoes for men size 11; mens sneakers size 11; mens casual shoes; mens golf shoes; mens casual shoes; mens golf shoes; golf shoes for men; mens golf shoes; men's golf shoes; men's diabetic shoes, extra wide fit casual shoes for men; Comfortable shoes for men; mens casual loafers water shoes mens water shoes size 11",
+            "mens tennis shoes white; jazz shoes size 2; orthopedic shoes for men to take orthotics; casual shoes for men 8; mens loafers size 7; communion shoes size 36; slip on casual shoes for men size 8; lace up sneakers; golf shoes size 7; white boxing shoes; mens black shoes size 8; mens casual shoes suede football sneakers size 6 ; white mens sneakers; mens waterproof walking shoes; road running shoes; smart shoes for boys size 4; water shoes for boys",
+            "mens sneakers size 13; safety sneakers men; platform shoes black size 3; navy wedding shoes; breathable shoes size 3; black sneakers men; water resistant shoes; mens sports and outdoor shoes size 13; mens water shoes size 3; mens water shoes size 3; squash shoes; fitness shoes; football shoes boys 10-11; navy sports shoes size 3; business shoes; sneakers Boxing Size 3 Fashion Casual Shoes Men Slippers Size 13; Boys School Shoes Size 4",
+            "school shoes for boys size 6; business casual shoes for men; mens swimming shoes; mens canvas sneakers size 8; mens lightweight sneakers; mens casual sneakers; white wedding shoes; casual shoes for men; casual shoes for men; mens casual shoes; wedding shoes white; mens casual shoes; mens casual shoes; mens casual shoes; loafers for boys size 28; patent leather shoes; jazz shoes for men; jazz shoes 3 boys; black Training shoes elles for men wide fit swimming shoes for men size 11",
+            "mens loafers size 8; loafers men size 8; mens golf shoes; mens sports shoes; mens sneakers; jazz shoes size 12; indoor climbing shoes; boxing shoes size 8; communion shoes for boys; mens running shoes size 8; mens formal shoes for work; indoor climbing shoes; golf shoes for men size 9; mens size 9; mens shoes size 9; cricket for men size 10 mens sneakers mens casual shoes mens sneakers jazz sneakers size 7 communion shoes size 3 waterproof mens shoes 12 beach shoes size 4.5"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61UI7YU17NL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0F4PTMG2K"
+      }
+    },
+    {
+      "asin": "B0F8NYLLH1",
+      "csi_title": "POIUIYQA Chaussures Orthop&#233;diques pour Femme, Chaussures sans Lacets Antid&#233;rapantes avec Maille pour Femme, Basket de Marche &#192; Plateforme Orthop&#233;dique L&#233;g&#232;res et Confortables",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_124::{",
+          "size_map": "36 EU",
+          "additional_sizes_detected": [
+            "numeric_36,",
+            "36 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_36",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "adult",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 36
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_36",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 36
+        },
+        "age_range": {
+          "raw_values": [
+            "adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": "Polyester + coton",
+          "normalized": "Polyester + coton"
+        },
+        "bullet_points": {
+          "fr": [
+            "Confortables et respirantes : Ces chaussures orthopédiques pour femmes sont fabriquées dans une matière supérieure en tricot doux, léger et respirant, douce pour la peau et qui ne chauffe pas les pieds.",
+            "Soulage la pression du pied : Nos chaussures de marche orthopédiques, dotées d'une triple voûte plantaire amortissante et amortissante, répartissent uniformément le poids et réduisent la pression exercée sur vos pieds. Le coussin et la cale offrent un soutien supplémentaire pour soulager la pression du pied, rendant chaque pas confortable.",
+            "Antidérapantes : Pour éviter les chutes sur sol glissant, ces chaussures de marche pour femmes sont dotées d'une semelle imprimée en relief qui augmente la friction entre la chaussure et le sol.",
+            "Chaussures à enfiler et à retirer rapidement : Ces chaussures s'enfilent et se retirent en un clin d'œil. Leur ouverture élastique épouse parfaitement la forme du pied et offre un ajustement confortable et stable. Sans lacets, aucun problème.",
+            "Largement utilisées : Nos chaussures de marche orthopédiques sont parfaites pour les promenades tranquilles, la salle de sport, les entraînements intenses, le camping et même les longs voyages."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/71P5wHUlQNL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0F8NYLLH1"
+      }
+    },
+    {
+      "asin": "B0CD84T8S7",
+      "csi_title": "Tamaris Damen 1-22309-42, Sneaker,",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": null,
+          "additional_sizes_detected": [
+            "41 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"9.5\"",
+            "legacy_unit": "womens_us"
+          }
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "La fonction Touch-IT permet un confort optimal grâce à une semelle souple et adaptable.",
+            "Ces chaussures avec semelle intérieure confortable et douce assurent une sensation de marche agréable et font de chaque pas un plaisir.",
+            "La technologie Antislide assure toujours et partout une semelle antidérapante et un maintien ferme.",
+            "Les chaussures à talon compensé combinent une hauteur élégante avec un confort optimal et sont parfaites pour tous les jours.",
+            "Enfilage et retrait rapides et faciles grâce à la fermeture velcro."
+          ],
+          "other": [
+            "The Touch-IT function allows for optimal comfort thanks to the flexible and adaptable sole.",
+            "These shoes with a soft, comfortable insole ensure a pleasant walking sensation and make every step a pleasure.",
+            "The Antislide technology always ensures a non-slip sole and a firm hold.",
+            "The wedge shoes combine an elegant height with optimal comfort and are perfect for every day.",
+            "Quick and easy to put on and take off thanks to the Velcro fastener."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61dqOG9R0wL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0CD84T8S7"
+      }
+    },
+    {
+      "asin": "B0F8P3ZPZS",
+      "csi_title": "POIUIYQA Chaussures Orthop&#233;diques pour Femme, Chaussures sans Lacets Antid&#233;rapantes avec Maille pour Femme, Basket de Marche &#192; Plateforme Orthop&#233;dique L&#233;g&#232;res et Confortables",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_124::{",
+          "size_map": "37 EU",
+          "additional_sizes_detected": [
+            "numeric_37,",
+            "37 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_37",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "adult",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 37
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_37",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 37
+        },
+        "age_range": {
+          "raw_values": [
+            "kid"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": "Polyester + coton",
+          "normalized": "Polyester + coton"
+        },
+        "bullet_points": {
+          "fr": [
+            "Confortables et respirantes : Ces chaussures orthopédiques pour femmes sont fabriquées dans une matière supérieure en tricot doux, léger et respirant, douce pour la peau et qui ne chauffe pas les pieds.",
+            "Soulage la pression du pied : Nos chaussures de marche orthopédiques, dotées d'une triple voûte plantaire amortissante et amortissante, répartissent uniformément le poids et réduisent la pression exercée sur vos pieds. Le coussin et la cale offrent un soutien supplémentaire pour soulager la pression du pied, rendant chaque pas confortable.",
+            "Antidérapantes : Pour éviter les chutes sur sol glissant, ces chaussures de marche pour femmes sont dotées d'une semelle imprimée en relief qui augmente la friction entre la chaussure et le sol.",
+            "Chaussures à enfiler et à retirer rapidement : Ces chaussures s'enfilent et se retirent en un clin d'œil. Leur ouverture élastique épouse parfaitement la forme du pied et offre un ajustement confortable et stable. Sans lacets, aucun problème.",
+            "Largement utilisées : Nos chaussures de marche orthopédiques sont parfaites pour les promenades tranquilles, la salle de sport, les entraînements intenses, le camping et même les longs voyages."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/51YXd-1T6BL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0F8P3ZPZS"
+      }
+    },
+    {
+      "asin": "B0F8NWSRWV",
+      "csi_title": "POIUIYQA Chaussures Orthop&#233;diques pour Femme, Chaussures sans Lacets Antid&#233;rapantes avec Maille pour Femme, Basket de Marche &#192; Plateforme Orthop&#233;dique L&#233;g&#232;res et Confortables",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_124::{",
+          "size_map": "42 EU",
+          "additional_sizes_detected": [
+            "numeric_42,",
+            "42 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_42",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "adult",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 42
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_42",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 42
+        },
+        "age_range": {
+          "raw_values": [
+            "adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": "Polyester + coton",
+          "normalized": "Polyester + coton"
+        },
+        "bullet_points": {
+          "fr": [
+            "Confortables et respirantes : Ces chaussures orthopédiques pour femmes sont fabriquées dans une matière supérieure en tricot doux, léger et respirant, douce pour la peau et qui ne chauffe pas les pieds.",
+            "Soulage la pression du pied : Nos chaussures de marche orthopédiques, dotées d'une triple voûte plantaire amortissante et amortissante, répartissent uniformément le poids et réduisent la pression exercée sur vos pieds. Le coussin et la cale offrent un soutien supplémentaire pour soulager la pression du pied, rendant chaque pas confortable.",
+            "Antidérapantes : Pour éviter les chutes sur sol glissant, ces chaussures de marche pour femmes sont dotées d'une semelle imprimée en relief qui augmente la friction entre la chaussure et le sol.",
+            "Chaussures à enfiler et à retirer rapidement : Ces chaussures s'enfilent et se retirent en un clin d'œil. Leur ouverture élastique épouse parfaitement la forme du pied et offre un ajustement confortable et stable. Sans lacets, aucun problème.",
+            "Largement utilisées : Nos chaussures de marche orthopédiques sont parfaites pour les promenades tranquilles, la salle de sport, les entraînements intenses, le camping et même les longs voyages."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/71RMPUd3PmL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0F8NWSRWV"
+      }
+    },
+    {
+      "asin": "B0CB1V7D3K",
+      "csi_title": "Skechers Caley Go Walk Flex CaleyGO Walk Flex Caley pour Femme, Bordure Corail synth&#233;tique Bleu Marine, 39.5 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": null,
+          "additional_sizes_detected": [
+            "39.5 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"9.5\"",
+            "legacy_unit": "womens_us"
+          }
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Rembourrage léger",
+            "Dessus synthétique"
+          ],
+          "other": [
+            "Traction flexible",
+            "Lightweight padding",
+            "Flexible traction",
+            "Synthetic upper"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/51OLZHsD5zL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0CB1V7D3K"
+      }
+    },
+    {
+      "asin": "B0F8NZDGGY",
+      "csi_title": "POIUIYQA Chaussures Orthop&#233;diques pour Femme, Chaussures sans Lacets Antid&#233;rapantes avec Maille pour Femme, Basket de Marche &#192; Plateforme Orthop&#233;dique L&#233;g&#232;res et Confortables",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_124::{",
+          "size_map": "40 EU",
+          "additional_sizes_detected": [
+            "numeric_40,",
+            "40 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_40",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "adult",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 40
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_40",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 40
+        },
+        "age_range": {
+          "raw_values": [
+            "adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": "Polyester + coton",
+          "normalized": "Polyester + coton"
+        },
+        "bullet_points": {
+          "fr": [
+            "Confortables et respirantes : Ces chaussures orthopédiques pour femmes sont fabriquées dans une matière supérieure en tricot doux, léger et respirant, douce pour la peau et qui ne chauffe pas les pieds.",
+            "Soulage la pression du pied : Nos chaussures de marche orthopédiques, dotées d'une triple voûte plantaire amortissante et amortissante, répartissent uniformément le poids et réduisent la pression exercée sur vos pieds. Le coussin et la cale offrent un soutien supplémentaire pour soulager la pression du pied, rendant chaque pas confortable.",
+            "Antidérapantes : Pour éviter les chutes sur sol glissant, ces chaussures de marche pour femmes sont dotées d'une semelle imprimée en relief qui augmente la friction entre la chaussure et le sol.",
+            "Chaussures à enfiler et à retirer rapidement : Ces chaussures s'enfilent et se retirent en un clin d'œil. Leur ouverture élastique épouse parfaitement la forme du pied et offre un ajustement confortable et stable. Sans lacets, aucun problème.",
+            "Largement utilisées : Nos chaussures de marche orthopédiques sont parfaites pour les promenades tranquilles, la salle de sport, les entraînements intenses, le camping et même les longs voyages."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/71P5wHUlQNL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0F8NZDGGY"
+      }
+    },
+    {
+      "asin": "B08336BV37",
+      "csi_title": "Camper 80212-077 gar&#231;on Basket, Blue, 23 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "23 EU",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Bébé",
+            "Baby"
+          ],
+          "normalized": "bébé"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Doublure : 57 % peau de porc, 33 % textile (PET 100 % recyclé) 10 % peau de porc avec finition piégée",
+            "Semelle extérieure : 100 % caoutchouc vulcanisé",
+            "Semelle intérieure : 85 % peau de porc, 15 % peau de porc avec finition piégée"
+          ],
+          "other": [
+            "Dessus : 100 % cuir de vache",
+            "Lacets",
+            "Upper: 100% Cowhide Leather",
+            "Lining: 57% Pigskin, 33% Textile (PET 100% Recycled) 10% Pig Skin with Trapped Finish",
+            "Outsole: 100% vulcanised rubber",
+            "Insole: 85% pigskin, 15% pigskin with trapped finish",
+            "Laces"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/71ada3UMeOL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B08336BV37"
+      }
+    },
+    {
+      "asin": "B09DBGHSB2",
+      "csi_title": "vivobarefoot Primus Lite 3.5 Barefoot Trainers EU 44",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": "44 EU",
+          "additional_sizes_detected": [
+            "$additional_links_augmentor_286::{",
+            "numeric_44,",
+            "44 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"11\"",
+            "legacy_unit": "mens_us"
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_44",
+          "age_group": "adult",
+          "size_system": "eu_footwear_size_system",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 44
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "other": [
+            "Obsidian"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/51OYyujaxYL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B09DBGHSB2"
+      }
+    },
+    {
+      "asin": "B0D6N49KYR",
+      "csi_title": "Clarks Femme Wallabeeevo Racine Accueil Homme Chaussures-Homme Baskets-et-Sneakers, Dark Brown Suede, 42 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": null,
+          "additional_sizes_detected": [
+            "$additional_links_augmentor_36::{",
+            "42 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"9\"",
+            "legacy_unit": "mens_us"
+          }
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Semelle intérieure rembourrée enveloppée avec soutien de la voûte plantaire, semelle extérieure en caoutchouc pour une flexibilité maximale - Tige en cuir de qualité supérieure provenant de sources responsables",
+            "Semelle intérieure rembourrée",
+            "Semelle intermédiaire légère en EVA",
+            "Semelle intérieure rembourrée en mousse à haut rebond pour un confort durable"
+          ],
+          "other": [
+            "Wrapped cushioned insole with arch support, rubber outsole for maximum flexibility; Premium responsibly sourced leather upper",
+            "Cushioned insole",
+            "Lightweight EVA midsole",
+            "High rebound foam cushioned insole for lasting comfort"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61tV-cwk97L.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0D6N49KYR"
+      }
+    },
+    {
+      "asin": "B0F8P12HKQ",
+      "csi_title": "POIUIYQA Chaussures Orthop&#233;diques pour Femme, Chaussures sans Lacets Antid&#233;rapantes avec Maille pour Femme, Basket de Marche &#192; Plateforme Orthop&#233;dique L&#233;g&#232;res et Confortables",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_124::{",
+          "size_map": "38 EU",
+          "additional_sizes_detected": [
+            "numeric_38,",
+            "38 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_38",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "adult",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 38
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_38",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 38
+        },
+        "age_range": {
+          "raw_values": [
+            "adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": "Polyester + coton",
+          "normalized": "Polyester + coton"
+        },
+        "bullet_points": {
+          "fr": [
+            "Confortables et respirantes : Ces chaussures orthopédiques pour femmes sont fabriquées dans une matière supérieure en tricot doux, léger et respirant, douce pour la peau et qui ne chauffe pas les pieds.",
+            "Soulage la pression du pied : Nos chaussures de marche orthopédiques, dotées d'une triple voûte plantaire amortissante et amortissante, répartissent uniformément le poids et réduisent la pression exercée sur vos pieds. Le coussin et la cale offrent un soutien supplémentaire pour soulager la pression du pied, rendant chaque pas confortable.",
+            "Antidérapantes : Pour éviter les chutes sur sol glissant, ces chaussures de marche pour femmes sont dotées d'une semelle imprimée en relief qui augmente la friction entre la chaussure et le sol.",
+            "Chaussures à enfiler et à retirer rapidement : Ces chaussures s'enfilent et se retirent en un clin d'œil. Leur ouverture élastique épouse parfaitement la forme du pied et offre un ajustement confortable et stable. Sans lacets, aucun problème.",
+            "Largement utilisées : Nos chaussures de marche orthopédiques sont parfaites pour les promenades tranquilles, la salle de sport, les entraînements intenses, le camping et même les longs voyages."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61gouVtQIDL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0F8P12HKQ"
+      }
+    },
+    {
+      "asin": "B0FDL138BY",
+      "csi_title": "MODSGUE Baskets &#224; paillettes pour femme - Chaussures de sport pour femme - Chaussures plates - Chaussures d&#233;cor&#233;es - Dor&#233; clair - Chaussures d&apos;&#233;t&#233;, argent&#233;, 38 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_260::{",
+          "size_map": "38 EU",
+          "additional_sizes_detected": [
+            "numeric_38,",
+            "38 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_38",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "adult",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 38
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_38",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 38
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Utilisation polyvalente : convient non seulement pour les vêtements décontractés quotidiens, mais aussi pour les activités de plein air telles que la plage, la salle de sport, la randonnée, etc., qui répondent aux besoins de différentes occasions. Convient pour le lavage, le maintien de la propreté et de l'hygiène, de sorte que vous pouvez porter des sandales fraîches et confortables tous les jours.",
+            "Original Harraa Pantoufles orthopédiques – Pantoufles ergonomiques pour un confort maximal, chaussures de bain pour femme super douces, Cozyslides pour homme et femme, semelle épaisse, chaussures de course antidérapantes pour femme Cloud-Walk Pro – Chaussures ergonomiques pour femme",
+            "Sandales d'été élégantes pour femme - Chaussures d'été confortables - Sandales orthopédiques plates avec semelle intérieure - Sandales respirantes pour les vacances à la plage, les loisirs, la mode de soirée - Baskets orthopédiques pour femme",
+            "Baskets noires pour femme - Baskets de costume pour femme - Chaussures de sport pour femme - Sabots avec semelle intérieure - Sabots avec semelle intérieure - Chaussures blanches pour femme - Baskets larges pour femme - Baskets épaisses pour femme - Chaussures à enfiler",
+            "Baskets pour femme avec motif floral - Baskets avec semelle en caoutchouc - Baskets avec fleurs - Chaussures de course pour femme - Automne 2017 - Baskets de sport pour femme - Chaussures de sport pour femme - Baskets à talon compensé"
+          ],
+          "en": [
+            "Original Harraa Orthopedic Slippers - Ergonomic Slippers for Maximum Comfort, Super Soft Women's Swim Shoes, Cozyslides for Men and Women, Thick Sole, Non-Slip Running Shoes for Women Cloud-Walk Pro - Ergonomic Shoes for Women"
+          ],
+          "other": [
+            "Versatile Use Not only suitable for daily casual wear, but also for outdoor activities such as beach, gym, hiking, etc., which meet the needs of different occasions. Suitable for washing, maintaining cleanliness and hygiene, so you can wear cool and comfortable sandals every day.",
+            "summer sandals elegant women's sandals summer shoes comfortable orthopaedic sandals with insole breathable sandals for beach vacation leisure evening fashion orthopedic trainers for women",
+            "black sneakers for women costume sneakers for women sneakers women sneakers for women sneakers for women sneakers for women clogs with insole clogs with insole white shoes for women wide sneakers for women wide sneakers for women chunky sneakers for women slip on shoes",
+            "womens sneakers with floral pattern sneakers rubber sole sneakers with flowers running shoes for women autumn 2017 sports sneakers for women sports shoes for women sneakers for women sneakers women sneakers womens sneakers womens sneakers wedge heel sneakers"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/717R757GLxL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0FDL138BY"
+      }
+    },
+    {
+      "asin": "B0F8NZBSHJ",
+      "csi_title": "POIUIYQA Chaussures Orthop&#233;diques pour Femme, Chaussures sans Lacets Antid&#233;rapantes avec Maille pour Femme, Basket de Marche &#192; Plateforme Orthop&#233;dique L&#233;g&#232;res et Confortables",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_124::{",
+          "size_map": "38 EU",
+          "additional_sizes_detected": [
+            "numeric_38,",
+            "38 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_38",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "adult",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 38
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_38",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 38
+        },
+        "age_range": {
+          "raw_values": [
+            "adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": "Polyester + coton",
+          "normalized": "Polyester + coton"
+        },
+        "bullet_points": {
+          "fr": [
+            "Confortables et respirantes : Ces chaussures orthopédiques pour femmes sont fabriquées dans une matière supérieure en tricot doux, léger et respirant, douce pour la peau et qui ne chauffe pas les pieds.",
+            "Soulage la pression du pied : Nos chaussures de marche orthopédiques, dotées d'une triple voûte plantaire amortissante et amortissante, répartissent uniformément le poids et réduisent la pression exercée sur vos pieds. Le coussin et la cale offrent un soutien supplémentaire pour soulager la pression du pied, rendant chaque pas confortable.",
+            "Antidérapantes : Pour éviter les chutes sur sol glissant, ces chaussures de marche pour femmes sont dotées d'une semelle imprimée en relief qui augmente la friction entre la chaussure et le sol.",
+            "Chaussures à enfiler et à retirer rapidement : Ces chaussures s'enfilent et se retirent en un clin d'œil. Leur ouverture élastique épouse parfaitement la forme du pied et offre un ajustement confortable et stable. Sans lacets, aucun problème.",
+            "Largement utilisées : Nos chaussures de marche orthopédiques sont parfaites pour les promenades tranquilles, la salle de sport, les entraînements intenses, le camping et même les longs voyages."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61PRx9PodRL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0F8NZBSHJ"
+      }
+    },
+    {
+      "asin": "B0CD866GLC",
+      "csi_title": "Tamaris Damen 1-22309-42, Sneaker,",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": null,
+          "additional_sizes_detected": [
+            "36 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"5.5\"",
+            "legacy_unit": "womens_us"
+          }
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "La fonction Touch-IT permet un confort optimal grâce à une semelle souple et adaptable.",
+            "Ces chaussures avec semelle intérieure confortable et douce assurent une sensation de marche agréable et font de chaque pas un plaisir.",
+            "La technologie Antislide assure toujours et partout une semelle antidérapante et un maintien ferme.",
+            "Les chaussures à talon compensé combinent une hauteur élégante avec un confort optimal et sont parfaites pour tous les jours.",
+            "Enfilage et retrait rapides et faciles grâce à la fermeture velcro."
+          ],
+          "other": [
+            "The Touch-IT function allows for optimal comfort thanks to the flexible and adaptable sole.",
+            "These shoes with a soft, comfortable insole ensure a pleasant walking sensation and make every step a pleasure.",
+            "The Antislide technology always ensures a non-slip sole and a firm hold.",
+            "The wedge shoes combine an elegant height with optimal comfort and are perfect for every day.",
+            "Quick and easy to put on and take off thanks to the Velcro fastener."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61dqOG9R0wL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0CD866GLC"
+      }
+    },
+    {
+      "asin": "B0F8NZF1T6",
+      "csi_title": "POIUIYQA Chaussures Orthop&#233;diques pour Femme, Chaussures sans Lacets Antid&#233;rapantes avec Maille pour Femme, Basket de Marche &#192; Plateforme Orthop&#233;dique L&#233;g&#232;res et Confortables",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_124::{",
+          "size_map": "42 EU",
+          "additional_sizes_detected": [
+            "numeric_42,",
+            "42 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_42",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "adult",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 42
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_42",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 42
+        },
+        "age_range": {
+          "raw_values": [
+            "adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": "Polyester + coton",
+          "normalized": "Polyester + coton"
+        },
+        "bullet_points": {
+          "fr": [
+            "Confortables et respirantes : Ces chaussures orthopédiques pour femmes sont fabriquées dans une matière supérieure en tricot doux, léger et respirant, douce pour la peau et qui ne chauffe pas les pieds.",
+            "Soulage la pression du pied : Nos chaussures de marche orthopédiques, dotées d'une triple voûte plantaire amortissante et amortissante, répartissent uniformément le poids et réduisent la pression exercée sur vos pieds. Le coussin et la cale offrent un soutien supplémentaire pour soulager la pression du pied, rendant chaque pas confortable.",
+            "Antidérapantes : Pour éviter les chutes sur sol glissant, ces chaussures de marche pour femmes sont dotées d'une semelle imprimée en relief qui augmente la friction entre la chaussure et le sol.",
+            "Chaussures à enfiler et à retirer rapidement : Ces chaussures s'enfilent et se retirent en un clin d'œil. Leur ouverture élastique épouse parfaitement la forme du pied et offre un ajustement confortable et stable. Sans lacets, aucun problème.",
+            "Largement utilisées : Nos chaussures de marche orthopédiques sont parfaites pour les promenades tranquilles, la salle de sport, les entraînements intenses, le camping et même les longs voyages."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/71P5wHUlQNL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0F8NZF1T6"
+      }
+    },
+    {
+      "asin": "B0CW9XZ6FH",
+      "csi_title": "Jana Baskets Slip on Femme &#224; Enfiler Vegan, Black/Gold, 37 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": "37 EU",
+          "additional_sizes_detected": [
+            "$additional_links_augmentor_413::{",
+            "numeric_37,",
+            "37 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"6\"",
+            "legacy_unit": "womens_us"
+          }
+        },
+        "footwear_size": {
+          "gender": "women",
+          "size": "numeric_37",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 37
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "ÉLÉGANTES ET FONCTIONNELLES : Ces sneakers slip-on séduisent non seulement par leur design tendance, mais aussi par leur fonctionnalité qui vous prépare parfaitement à toutes les situations du quotidien.",
+            "VÉGANES : Ces sneakers sont fabriquées à 100 % avec des matériaux d’origine non animale, utilisant des tissus véganes de haute qualité qui ne laissent rien à désirer en termes de finition.",
+            "AJUSTEMENT OPTIMAL : Grâce à leur largeur H, ces chaussures conviennent particulièrement aux pieds larges. Elles s’adaptent parfaitement à la forme du pied pour un confort sans pression.",
+            "CONFORT : Ces sneakers sont parfaites pour des looks décontractés. Avec leur design sportif et leur confort agréable, elles offrent un confort maximal au quotidien tout en affirmant un style tendance.",
+            "JANA : Des designs tendance réalisés dans des matériaux de qualité à des prix attractifs – voilà ce qui caractérise les chaussures confortables de Jana. Ces modèles polyvalents allient un confort agréable grâce à leur coupe soignée et des technologies innovantes aux tendances actuelles de la mode."
+          ],
+          "other": [
+            "Comfortable extra width - ideal for all feet",
+            "Vegan"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61NdWxUfFAL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0CW9XZ6FH"
+      }
+    },
+    {
+      "asin": "B0F8P1PP2S",
+      "csi_title": "POIUIYQA Chaussures Orthop&#233;diques pour Femme, Chaussures sans Lacets Antid&#233;rapantes avec Maille pour Femme, Basket de Marche &#192; Plateforme Orthop&#233;dique L&#233;g&#232;res et Confortables",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_124::{",
+          "size_map": "40 EU",
+          "additional_sizes_detected": [
+            "numeric_40,",
+            "40 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_40",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "adult",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 40
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_40",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 40
+        },
+        "age_range": {
+          "raw_values": [
+            "adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": "Polyester + coton",
+          "normalized": "Polyester + coton"
+        },
+        "bullet_points": {
+          "fr": [
+            "Confortables et respirantes : Ces chaussures orthopédiques pour femmes sont fabriquées dans une matière supérieure en tricot doux, léger et respirant, douce pour la peau et qui ne chauffe pas les pieds.",
+            "Soulage la pression du pied : Nos chaussures de marche orthopédiques, dotées d'une triple voûte plantaire amortissante et amortissante, répartissent uniformément le poids et réduisent la pression exercée sur vos pieds. Le coussin et la cale offrent un soutien supplémentaire pour soulager la pression du pied, rendant chaque pas confortable.",
+            "Antidérapantes : Pour éviter les chutes sur sol glissant, ces chaussures de marche pour femmes sont dotées d'une semelle imprimée en relief qui augmente la friction entre la chaussure et le sol.",
+            "Chaussures à enfiler et à retirer rapidement : Ces chaussures s'enfilent et se retirent en un clin d'œil. Leur ouverture élastique épouse parfaitement la forme du pied et offre un ajustement confortable et stable. Sans lacets, aucun problème.",
+            "Largement utilisées : Nos chaussures de marche orthopédiques sont parfaites pour les promenades tranquilles, la salle de sport, les entraînements intenses, le camping et même les longs voyages."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/71RMPUd3PmL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0F8P1PP2S"
+      }
+    },
+    {
+      "asin": "B0F8P1PP2T",
+      "csi_title": "POIUIYQA Chaussures Orthop&#233;diques pour Femme, Chaussures sans Lacets Antid&#233;rapantes avec Maille pour Femme, Basket de Marche &#192; Plateforme Orthop&#233;dique L&#233;g&#232;res et Confortables",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_124::{",
+          "size_map": "37 EU",
+          "additional_sizes_detected": [
+            "numeric_37,",
+            "37 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_37",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "adult",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 37
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_37",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 37
+        },
+        "age_range": {
+          "raw_values": [
+            "kid"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": "Polyester + coton",
+          "normalized": "Polyester + coton"
+        },
+        "bullet_points": {
+          "fr": [
+            "Confortables et respirantes : Ces chaussures orthopédiques pour femmes sont fabriquées dans une matière supérieure en tricot doux, léger et respirant, douce pour la peau et qui ne chauffe pas les pieds.",
+            "Soulage la pression du pied : Nos chaussures de marche orthopédiques, dotées d'une triple voûte plantaire amortissante et amortissante, répartissent uniformément le poids et réduisent la pression exercée sur vos pieds. Le coussin et la cale offrent un soutien supplémentaire pour soulager la pression du pied, rendant chaque pas confortable.",
+            "Antidérapantes : Pour éviter les chutes sur sol glissant, ces chaussures de marche pour femmes sont dotées d'une semelle imprimée en relief qui augmente la friction entre la chaussure et le sol.",
+            "Chaussures à enfiler et à retirer rapidement : Ces chaussures s'enfilent et se retirent en un clin d'œil. Leur ouverture élastique épouse parfaitement la forme du pied et offre un ajustement confortable et stable. Sans lacets, aucun problème.",
+            "Largement utilisées : Nos chaussures de marche orthopédiques sont parfaites pour les promenades tranquilles, la salle de sport, les entraînements intenses, le camping et même les longs voyages."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/71RMPUd3PmL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0F8P1PP2T"
+      }
+    },
+    {
+      "asin": "B0FMYSMDLW",
+      "csi_title": "Generisch Chaussures de randonn&#233;e pour homme Imperm&#233;ables Sneakers Grande Taille Chaussures de sport Semelle en caoutchouc Chaussures de marche Chaussures de loisirs Chaussures de course Chaussures",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_100::{",
+          "size_map": "48 EU",
+          "additional_sizes_detected": [
+            "numeric_48,",
+            "48 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_48",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "adult",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 48
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_48",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 48
+        },
+        "age_range": {
+          "raw_values": [
+            "Adult",
+            "Adulte"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Le design s'adapte à la forme du pied et dispose d'une semelle douce et confortable qui absorbe les chocs et réduit la pression sur les pieds à chaque pas.",
+            "Cette chaussure de sport pour homme est fabriquée en matériau respirant et est équipée d'une semelle intérieure élastique qui s'adapte à la forme du pied, assure un confort optimal et garde les pieds au sec pendant longtemps.",
+            "Convient pour différentes occasions : ces chaussures de sport sont à la fois belles et pratiques et conviennent pour le travail, l'entraînement en intérieur, les sports de plein air, les loisirs à la maison et d'autres occasions.",
+            "Léger et confortable : La légèreté du sneaker s’étend en marchant, s’adapte mieux au pied et assure une sensation agréable au pied.",
+            "Doublure intérieure confortable : la doublure intérieure de ces chaussures de sport pour homme est fabriquée en matériau respirant. L'amortissement amélioré et l'absorption des chocs assurent le confort même lors de longues périodes debout et de marche.",
+            "Chaussures d'extérieur pour homme été chaussures de lutte pour homme chaussures de refuge chaussures d'hiver avec fermeture éclair latérale chaussures d'hiver pour homme noir chaussures de costume pour homme marron 38 chaussures de costume pour homme larges chaussures de travail pour homme imperméables et antidérapantes sneaker cuir homme chaussures pieds nus avec amortissement chaussures de tennis en salle chaussures de costume pour homme sans lacets chaussures en cuir avec fermeture éclair chaussures de salle sans lacets football chaussures d'extérieur pour homme beige homme chaussures d'hiver imperméables taille 95",
+            "Chaussures de randonnée pour homme sans lacets - Chaussures de fitness pour homme - Chaussures de sport pour homme - Baskets pour homme - Chaussures de loisirs pour homme - Légères - Chaussures extérieures pour homme - Chaussures plates pour homme - Chaussures de travail pour homme - Demi-chaussures pour homme - Taille 44 - Chaussures de course pour homme - Légères - Chaussures de sport pour homme - Imperméables - Chaussures de sport pour homme avec semelle blanche - Chaussures de travail avec fermeture rapide - Chaussures de randonnée pour homme - Brun - Chaussures pour homme pieds nus - Blanc - Chaussures de sport pour homme avec fermeture rotative - Chaussures pour homme pieds nus - Chaussures d’intérieur pour homme - Chaussures pour homme pieds nus avec lacets - Baskets pour homme - Taille 93 - Vert",
+            "Baskets pour homme taille 42 chaussures de costume pour homme marron bottes pour homme chaussures de football en salle 43 chaussures de loisirs pour homme en cuir 42 chaussures de trekking pour homme larges chaussures de marche pour homme chaussures de randonnée pour homme été légères chaussures en salle sans lacets football chaussures de sport pour homme running sport baskets pour homme chaussures de neige pour homme 44 chaussures de trekking pour homme imperméables légères chaussons amusants chaussures de travail sans laçage chaussures de costume noires pour homme larges chaussures pieds nus 95 chaussures basses pour homme en cuir larges",
+            "Chaussures pour homme - Chaussures d'hiver pour homme extra larges - Chaussures d'hiver en cuir pour homme - 45 - Chaussures de sport blanches pour homme avec semelle en cuir - Chaussures de travail pour homme avec bouton rotatif - Chaussures d'extérieur pour homme - Chaussures de randonnée avec fermeture BOA pour homme - Chaussures de loisirs pour homme - Chaussures de sport sans talon pour homme - Mocassins pour homme en cuir noir - Chaussures de course pour homme imperméables - Vêtements de pied pour homme - Chaussures de randonnée pour homme - 39 - Chaussures d'intérieur pour homme - Chaussures de football pour homme - 44 - Chaussures de costume pour homme en cuir gris - Chaussures en cuir pour homme - 92 - Chaussures de course pour homme pour la course",
+            "Chaussures de sport antidérapantes pour homme - Chaussures basses en cuir marron daim - Chaussures de loisirs pour homme avec fermeture Velcro - Chaussures pieds nus pour le printemps - Chaussures d'extérieur imperméables - Chaussures de course fines avec amortissement élevé - Chaussures de course pour homme - Chaussures de marche pour homme - Chaussures de trekking sans lacets - Chaussures de loisirs avec bouton rotatif - Chaussures pieds nus respirantes pour homme - Chaussures basses respirantes avec talon 37 - Chaussures homme 96 - Chaussures de jogging imperméables pour homme"
+          ],
+          "en": [
+            "This men's sports shoe is made of breathable material and is equipped with an elastic insole that adapts to the shape of the foot, ensures optimal comfort and keeps the feet dry for a long time."
+          ],
+          "other": [
+            "The design adapts to the shape of the foot and features a soft and comfortable sole that absorbs shock and reduces pressure on the feet with every step.",
+            "Suitable for different occasions: these sports shoes are both beautiful and practical and suitable for work, indoor training, outdoor sports, home leisure and other occasions.",
+            "LIGHTWEIGHT & COMFORTABLE: The lightweight of the sneaker stretches when running, fits the foot better and ensures a comfortable foot feeling.",
+            "Comfortable Inner Lining The inner lining of these men's sports shoes is made of breathable material. Improved cushioning and shock absorption ensure comfort even when standing and walking for long periods of time.",
+            "outdoor shoes men summer shoes men winter shoes with side zipper winter shoes men men suit shoes men brown 38 wide work shoes men waterproof non-slip barefoot shoes leather cushioning indoor tennis shoes no laces leather sports shoes with zipper outdoor football boots men's outdoor football boots beige waterproof winter shoes size 95",
+            "Trekking shoes for men without tying, fitness shoes for men, sports shoes, casual shoes, light outdoor shoes, flat work shoes, men's low shoes, men's low shoes, men's jogging shoes, men's lightweight jogging shoes, waterproof jogging shoes with white sole, work shoes with quick closure, men's trekking shoes, barefoot shoes, men's sports shoes, barefoot shoes with laces men 93 green",
+            "men's trainers, size 8, men's sports shoes, football shoes, leather leisure shoes, trekking shoes, men's hiking shoes, wide hiking shoes, men's hiking shoes, men's summer shoes, lightweight summer shoes, men's sports shoes, men's sports shoes, men's hiking shoes, men's hiking shoes, men's hiking shoes, work shoes, lace-free, sports shoes, men's sports shoes, men's hiking shoes, work shoes, without laces, men's sports shoes, waterproof and lightweight work shoes, without laces. Lace-up - Black Shoes Shoes wide barefoot men 95 leather low shoes for men",
+            "men's winter walking shoes extra wide winter shoes leather shoes 45 casual shoes white with leather sole work shoes for men with rotary button trekking shoes with boa closure leisure shoes men's sports shoes without heel low shoes men's running shoes black leather running shoes men's waterproof hiking shoes hiking shoes 39 football boots 44 grey leather shoes mens leather shoes mens running",
+            "men's sports shoes non-slip sneakers low leather shoes brown suede casual shoes men's casual shoes with closure barefoot shoes for spring outdoor shoes waterproof running shoes thin running shoes with high cushioning running shoes men walking shoes for men trekking shoes without lace-up leisure shoes with rotary button breathable low shoes with heel 37 men's jogging shoes waterproof shoes men's waterproof shoes"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61p-boZOrsL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0FMYSMDLW"
+      }
+    },
+    {
+      "asin": "B0FL2HMK84",
+      "csi_title": "Kraftpaid Baskets Dos Nu pour Homme,Baskets Ouvertes Arri&#232;Re Homme,Pantoufles De Sport D&apos;&#233;T&#233; &#224; Enfiler pour Homme,Chaussures D&apos;Ext&#233;Rieur D&#233;Contract&#233;Es &#224; Dos Ouvert,L&#233;G&#232;Res,pour La Marche",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_305::{",
+          "size_map": "47 EU",
+          "additional_sizes_detected": [
+            "numeric_47,",
+            "47 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_47",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "adult",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 47
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_47",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 47
+        },
+        "age_range": {
+          "raw_values": [],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "1. Légères et respirantes : Ces Baskets Dos Nu Pour Homme sont dotées d'une tige douce et respirante pour un confort optimal et une longue durée de vie. Leur design à enfiler et leur doublure rafraîchissante gardent les pieds au sec.",
+            "2. Maintien stable : Ces Baskets Dos Nu Pour Homme sont dotées d'une semelle plate en caoutchouc antidérapante avec une semelle alvéolée pour une meilleure adhérence et une meilleure résistance à l'usure, tout en offrant un amorti élastique pour réduire la pression du pied.",
+            "3. Faciles à enfiler et à retirer : Ces Baskets Dos Nu Pour Homme sont lacets pour un look simple et facile à enfiler. Leur design à lacets ajoute une touche d'élégance tout en conservant le côté pratique du chaussant, parfait pour un style de vie actif.",
+            "4. Style polyvalent et décontracté : Le design simple et moderne de ces Baskets Dos Nu Pour Homme s'adapte facilement à de nombreuses occasions, d'une promenade dans le jardin à une séance de sport légère, ajoutant une touche décontractée et élégante à votre look.",
+            "5. Polyvalentes : Conçues pour un confort quotidien, ces Baskets Dos Nu Pour Homme sont légères et respirantes, idéales pour un port prolongé. Parfaits pour une utilisation intérieure et extérieure, ils constituent le choix idéal pour les hommes apprécient la commodité et le style.",
+            "4. VERSATILE & CASUAL STYLE - The simple and modern design of these Men's Halter Sneaker easily fits many occasions, from a walk in the garden to a light workout, adding a casual and stylish touch to your look.",
+            "5. VERSATILE: Designed for everyday comfort, these men's halter trainers are lightweight and breathable, ideal for extended wear. Perfect for indoor and outdoor use, they are the ideal choice for men who appreciate convenience and style."
+          ],
+          "other": [
+            "1. LIGHTWEIGHT AND BREATHABLE: These men's halter trainers feature a soft, breathable upper for optimal comfort and durability. Their slip-on design and cooling lining keep feet dry.",
+            "2. STABLE FIT: These men's halter trainers feature a flat non-slip rubber sole with a honeycomb sole for better grip and wear resistance, while providing elastic cushioning to reduce foot pressure.",
+            "3. EASY ON AND OFF: These men's halter neck sneakers are lace up for a simple look that is easy to put on. Their lace-up design adds a touch of elegance while retaining the practicality of the shoe, perfect for an active lifestyle."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61SB-Hm3LZL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0FL2HMK84"
+      }
+    },
+    {
+      "asin": "B0F8NZZGV4",
+      "csi_title": "POIUIYQA Chaussures Orthop&#233;diques pour Femme, Chaussures sans Lacets Antid&#233;rapantes avec Maille pour Femme, Basket de Marche &#192; Plateforme Orthop&#233;dique L&#233;g&#232;res et Confortables",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_124::{",
+          "size_map": "40 EU",
+          "additional_sizes_detected": [
+            "numeric_40,",
+            "40 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_40",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "adult",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 40
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_40",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 40
+        },
+        "age_range": {
+          "raw_values": [
+            "adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": "Polyester + coton",
+          "normalized": "Polyester + coton"
+        },
+        "bullet_points": {
+          "fr": [
+            "Confortables et respirantes : Ces chaussures orthopédiques pour femmes sont fabriquées dans une matière supérieure en tricot doux, léger et respirant, douce pour la peau et qui ne chauffe pas les pieds.",
+            "Soulage la pression du pied : Nos chaussures de marche orthopédiques, dotées d'une triple voûte plantaire amortissante et amortissante, répartissent uniformément le poids et réduisent la pression exercée sur vos pieds. Le coussin et la cale offrent un soutien supplémentaire pour soulager la pression du pied, rendant chaque pas confortable.",
+            "Antidérapantes : Pour éviter les chutes sur sol glissant, ces chaussures de marche pour femmes sont dotées d'une semelle imprimée en relief qui augmente la friction entre la chaussure et le sol.",
+            "Chaussures à enfiler et à retirer rapidement : Ces chaussures s'enfilent et se retirent en un clin d'œil. Leur ouverture élastique épouse parfaitement la forme du pied et offre un ajustement confortable et stable. Sans lacets, aucun problème.",
+            "Largement utilisées : Nos chaussures de marche orthopédiques sont parfaites pour les promenades tranquilles, la salle de sport, les entraînements intenses, le camping et même les longs voyages."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/51YXd-1T6BL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0F8NZZGV4"
+      }
+    },
+    {
+      "asin": "B0F8NZ617R",
+      "csi_title": "POIUIYQA Chaussures Orthop&#233;diques pour Femme, Chaussures sans Lacets Antid&#233;rapantes avec Maille pour Femme, Basket de Marche &#192; Plateforme Orthop&#233;dique L&#233;g&#232;res et Confortables",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_124::{",
+          "size_map": "38 EU",
+          "additional_sizes_detected": [
+            "numeric_38,",
+            "38 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_38",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "adult",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 38
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_38",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 38
+        },
+        "age_range": {
+          "raw_values": [
+            "adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": "Polyester + coton",
+          "normalized": "Polyester + coton"
+        },
+        "bullet_points": {
+          "fr": [
+            "Confortables et respirantes : Ces chaussures orthopédiques pour femmes sont fabriquées dans une matière supérieure en tricot doux, léger et respirant, douce pour la peau et qui ne chauffe pas les pieds.",
+            "Soulage la pression du pied : Nos chaussures de marche orthopédiques, dotées d'une triple voûte plantaire amortissante et amortissante, répartissent uniformément le poids et réduisent la pression exercée sur vos pieds. Le coussin et la cale offrent un soutien supplémentaire pour soulager la pression du pied, rendant chaque pas confortable.",
+            "Antidérapantes : Pour éviter les chutes sur sol glissant, ces chaussures de marche pour femmes sont dotées d'une semelle imprimée en relief qui augmente la friction entre la chaussure et le sol.",
+            "Chaussures à enfiler et à retirer rapidement : Ces chaussures s'enfilent et se retirent en un clin d'œil. Leur ouverture élastique épouse parfaitement la forme du pied et offre un ajustement confortable et stable. Sans lacets, aucun problème.",
+            "Largement utilisées : Nos chaussures de marche orthopédiques sont parfaites pour les promenades tranquilles, la salle de sport, les entraînements intenses, le camping et même les longs voyages."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/71P5wHUlQNL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0F8NZ617R"
+      }
+    },
+    {
+      "asin": "B0F8NYMD3C",
+      "csi_title": "POIUIYQA Chaussures Orthop&#233;diques pour Femme, Chaussures sans Lacets Antid&#233;rapantes avec Maille pour Femme, Basket de Marche &#192; Plateforme Orthop&#233;dique L&#233;g&#232;res et Confortables",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_124::{",
+          "size_map": "38 EU",
+          "additional_sizes_detected": [
+            "numeric_38,",
+            "38 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_38",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "adult",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 38
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_38",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 38
+        },
+        "age_range": {
+          "raw_values": [
+            "adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": "Polyester + coton",
+          "normalized": "Polyester + coton"
+        },
+        "bullet_points": {
+          "fr": [
+            "Confortables et respirantes : Ces chaussures orthopédiques pour femmes sont fabriquées dans une matière supérieure en tricot doux, léger et respirant, douce pour la peau et qui ne chauffe pas les pieds.",
+            "Soulage la pression du pied : Nos chaussures de marche orthopédiques, dotées d'une triple voûte plantaire amortissante et amortissante, répartissent uniformément le poids et réduisent la pression exercée sur vos pieds. Le coussin et la cale offrent un soutien supplémentaire pour soulager la pression du pied, rendant chaque pas confortable.",
+            "Antidérapantes : Pour éviter les chutes sur sol glissant, ces chaussures de marche pour femmes sont dotées d'une semelle imprimée en relief qui augmente la friction entre la chaussure et le sol.",
+            "Chaussures à enfiler et à retirer rapidement : Ces chaussures s'enfilent et se retirent en un clin d'œil. Leur ouverture élastique épouse parfaitement la forme du pied et offre un ajustement confortable et stable. Sans lacets, aucun problème.",
+            "Largement utilisées : Nos chaussures de marche orthopédiques sont parfaites pour les promenades tranquilles, la salle de sport, les entraînements intenses, le camping et même les longs voyages."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/51YXd-1T6BL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0F8NYMD3C"
+      }
+    },
+    {
+      "asin": "B0F8NZBW7K",
+      "csi_title": "POIUIYQA Chaussures Orthop&#233;diques pour Femme, Chaussures sans Lacets Antid&#233;rapantes avec Maille pour Femme, Basket de Marche &#192; Plateforme Orthop&#233;dique L&#233;g&#232;res et Confortables",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_124::{",
+          "size_map": "41 EU",
+          "additional_sizes_detected": [
+            "numeric_41,",
+            "41 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_41",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "adult",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 41
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_41",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 41
+        },
+        "age_range": {
+          "raw_values": [
+            "kid"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": "Polyester + coton",
+          "normalized": "Polyester + coton"
+        },
+        "bullet_points": {
+          "fr": [
+            "Confortables et respirantes : Ces chaussures orthopédiques pour femmes sont fabriquées dans une matière supérieure en tricot doux, léger et respirant, douce pour la peau et qui ne chauffe pas les pieds.",
+            "Soulage la pression du pied : Nos chaussures de marche orthopédiques, dotées d'une triple voûte plantaire amortissante et amortissante, répartissent uniformément le poids et réduisent la pression exercée sur vos pieds. Le coussin et la cale offrent un soutien supplémentaire pour soulager la pression du pied, rendant chaque pas confortable.",
+            "Antidérapantes : Pour éviter les chutes sur sol glissant, ces chaussures de marche pour femmes sont dotées d'une semelle imprimée en relief qui augmente la friction entre la chaussure et le sol.",
+            "Chaussures à enfiler et à retirer rapidement : Ces chaussures s'enfilent et se retirent en un clin d'œil. Leur ouverture élastique épouse parfaitement la forme du pied et offre un ajustement confortable et stable. Sans lacets, aucun problème.",
+            "Largement utilisées : Nos chaussures de marche orthopédiques sont parfaites pour les promenades tranquilles, la salle de sport, les entraînements intenses, le camping et même les longs voyages."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/610VW1-U0oL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0F8NZBW7K"
+      }
+    },
+    {
+      "asin": "B0CW9YMZ4G",
+      "csi_title": "Jana Baskets Slip on Femme &#224; Enfiler Vegan, Black/Gold, 41 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": null,
+          "additional_sizes_detected": [
+            "41 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"9.5\"",
+            "legacy_unit": "womens_us"
+          }
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "ÉLÉGANTES ET FONCTIONNELLES : Ces sneakers slip-on séduisent non seulement par leur design tendance, mais aussi par leur fonctionnalité qui vous prépare parfaitement à toutes les situations du quotidien.",
+            "VÉGANES : Ces sneakers sont fabriquées à 100 % avec des matériaux d’origine non animale, utilisant des tissus véganes de haute qualité qui ne laissent rien à désirer en termes de finition.",
+            "AJUSTEMENT OPTIMAL : Grâce à leur largeur H, ces chaussures conviennent particulièrement aux pieds larges. Elles s’adaptent parfaitement à la forme du pied pour un confort sans pression.",
+            "CONFORT : Ces sneakers sont parfaites pour des looks décontractés. Avec leur design sportif et leur confort agréable, elles offrent un confort maximal au quotidien tout en affirmant un style tendance.",
+            "JANA : Des designs tendance réalisés dans des matériaux de qualité à des prix attractifs – voilà ce qui caractérise les chaussures confortables de Jana. Ces modèles polyvalents allient un confort agréable grâce à leur coupe soignée et des technologies innovantes aux tendances actuelles de la mode.",
+            "COMFORT: These sneakers are perfect for casual looks. With their sporty design and pleasant wearing comfort, they offer maximum comfort in everyday life and at the same time affirm a fashionable style."
+          ],
+          "en": [
+            "JANA : Fashionable designs made from high quality materials at attractive prices – this is what characterises the comfortable shoes from Jana. These versatile models combine pleasant wearing comfort thanks to their careful cut and innovative technologies with current fashion trends."
+          ],
+          "other": [
+            "Elegant and functional: These slip-on sneakers impress not only with their trendy design, but also with their functionality that perfectly prepares you for any everyday situation.",
+            "VEGANS: These sneakers are made from 100% non-animal materials, using high quality vegan fabrics that leave nothing to be desired in terms of finishing.",
+            "Optimal fit: Thanks to the H-width, these shoes are particularly suitable for wide feet. They adapt perfectly to the shape of the foot for pressure-free comfort."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61NdWxUfFAL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0CW9YMZ4G"
+      }
+    },
+    {
+      "asin": "B0F8NZHYVZ",
+      "csi_title": "POIUIYQA Chaussures Orthop&#233;diques pour Femme, Chaussures sans Lacets Antid&#233;rapantes avec Maille pour Femme, Basket de Marche &#192; Plateforme Orthop&#233;dique L&#233;g&#232;res et Confortables",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_124::{",
+          "size_map": "43 EU",
+          "additional_sizes_detected": [
+            "numeric_43,",
+            "43 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_43",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "adult",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 43
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_43",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 43
+        },
+        "age_range": {
+          "raw_values": [
+            "kid"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": "Polyester + coton",
+          "normalized": "Polyester + coton"
+        },
+        "bullet_points": {
+          "fr": [
+            "Confortables et respirantes : Ces chaussures orthopédiques pour femmes sont fabriquées dans une matière supérieure en tricot doux, léger et respirant, douce pour la peau et qui ne chauffe pas les pieds.",
+            "Soulage la pression du pied : Nos chaussures de marche orthopédiques, dotées d'une triple voûte plantaire amortissante et amortissante, répartissent uniformément le poids et réduisent la pression exercée sur vos pieds. Le coussin et la cale offrent un soutien supplémentaire pour soulager la pression du pied, rendant chaque pas confortable.",
+            "Antidérapantes : Pour éviter les chutes sur sol glissant, ces chaussures de marche pour femmes sont dotées d'une semelle imprimée en relief qui augmente la friction entre la chaussure et le sol.",
+            "Chaussures à enfiler et à retirer rapidement : Ces chaussures s'enfilent et se retirent en un clin d'œil. Leur ouverture élastique épouse parfaitement la forme du pied et offre un ajustement confortable et stable. Sans lacets, aucun problème.",
+            "Largement utilisées : Nos chaussures de marche orthopédiques sont parfaites pour les promenades tranquilles, la salle de sport, les entraînements intenses, le camping et même les longs voyages."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61PRx9PodRL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0F8NZHYVZ"
+      }
+    },
+    {
+      "asin": "B0F8P3N48V",
+      "csi_title": "POIUIYQA Chaussures Orthop&#233;diques pour Femme, Chaussures sans Lacets Antid&#233;rapantes avec Maille pour Femme, Basket de Marche &#192; Plateforme Orthop&#233;dique L&#233;g&#232;res et Confortables",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_124::{",
+          "size_map": "38 EU",
+          "additional_sizes_detected": [
+            "numeric_38,",
+            "38 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_38",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "adult",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 38
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_38",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 38
+        },
+        "age_range": {
+          "raw_values": [
+            "adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": "Polyester + coton",
+          "normalized": "Polyester + coton"
+        },
+        "bullet_points": {
+          "fr": [
+            "Confortables et respirantes : Ces chaussures orthopédiques pour femmes sont fabriquées dans une matière supérieure en tricot doux, léger et respirant, douce pour la peau et qui ne chauffe pas les pieds.",
+            "Soulage la pression du pied : Nos chaussures de marche orthopédiques, dotées d'une triple voûte plantaire amortissante et amortissante, répartissent uniformément le poids et réduisent la pression exercée sur vos pieds. Le coussin et la cale offrent un soutien supplémentaire pour soulager la pression du pied, rendant chaque pas confortable.",
+            "Antidérapantes : Pour éviter les chutes sur sol glissant, ces chaussures de marche pour femmes sont dotées d'une semelle imprimée en relief qui augmente la friction entre la chaussure et le sol.",
+            "Chaussures à enfiler et à retirer rapidement : Ces chaussures s'enfilent et se retirent en un clin d'œil. Leur ouverture élastique épouse parfaitement la forme du pied et offre un ajustement confortable et stable. Sans lacets, aucun problème.",
+            "Largement utilisées : Nos chaussures de marche orthopédiques sont parfaites pour les promenades tranquilles, la salle de sport, les entraînements intenses, le camping et même les longs voyages."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/71MByLcq-SL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0F8P3N48V"
+      }
+    },
+    {
+      "asin": "B0F8P12TZ3",
+      "csi_title": "POIUIYQA Chaussures Orthop&#233;diques pour Femme, Chaussures sans Lacets Antid&#233;rapantes avec Maille pour Femme, Basket de Marche &#192; Plateforme Orthop&#233;dique L&#233;g&#232;res et Confortables",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_124::{",
+          "size_map": "37 EU",
+          "additional_sizes_detected": [
+            "numeric_37,",
+            "37 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_37",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "adult",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 37
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_37",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 37
+        },
+        "age_range": {
+          "raw_values": [
+            "kid"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": "Polyester + coton",
+          "normalized": "Polyester + coton"
+        },
+        "bullet_points": {
+          "fr": [
+            "Confortables et respirantes : Ces chaussures orthopédiques pour femmes sont fabriquées dans une matière supérieure en tricot doux, léger et respirant, douce pour la peau et qui ne chauffe pas les pieds.",
+            "Soulage la pression du pied : Nos chaussures de marche orthopédiques, dotées d'une triple voûte plantaire amortissante et amortissante, répartissent uniformément le poids et réduisent la pression exercée sur vos pieds. Le coussin et la cale offrent un soutien supplémentaire pour soulager la pression du pied, rendant chaque pas confortable.",
+            "Antidérapantes : Pour éviter les chutes sur sol glissant, ces chaussures de marche pour femmes sont dotées d'une semelle imprimée en relief qui augmente la friction entre la chaussure et le sol.",
+            "Chaussures à enfiler et à retirer rapidement : Ces chaussures s'enfilent et se retirent en un clin d'œil. Leur ouverture élastique épouse parfaitement la forme du pied et offre un ajustement confortable et stable. Sans lacets, aucun problème.",
+            "Largement utilisées : Nos chaussures de marche orthopédiques sont parfaites pour les promenades tranquilles, la salle de sport, les entraînements intenses, le camping et même les longs voyages."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/71P5wHUlQNL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0F8P12TZ3"
+      }
+    },
+    {
+      "asin": "B0F8NZ2HLC",
+      "csi_title": "POIUIYQA Chaussures Orthop&#233;diques pour Femme, Chaussures sans Lacets Antid&#233;rapantes avec Maille pour Femme, Basket de Marche &#192; Plateforme Orthop&#233;dique L&#233;g&#232;res et Confortables",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_124::{",
+          "size_map": "41 EU",
+          "additional_sizes_detected": [
+            "numeric_41,",
+            "41 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_41",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "adult",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 41
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_41",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 41
+        },
+        "age_range": {
+          "raw_values": [
+            "kid"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": "Polyester + coton",
+          "normalized": "Polyester + coton"
+        },
+        "bullet_points": {
+          "fr": [
+            "Confortables et respirantes : Ces chaussures orthopédiques pour femmes sont fabriquées dans une matière supérieure en tricot doux, léger et respirant, douce pour la peau et qui ne chauffe pas les pieds.",
+            "Soulage la pression du pied : Nos chaussures de marche orthopédiques, dotées d'une triple voûte plantaire amortissante et amortissante, répartissent uniformément le poids et réduisent la pression exercée sur vos pieds. Le coussin et la cale offrent un soutien supplémentaire pour soulager la pression du pied, rendant chaque pas confortable.",
+            "Antidérapantes : Pour éviter les chutes sur sol glissant, ces chaussures de marche pour femmes sont dotées d'une semelle imprimée en relief qui augmente la friction entre la chaussure et le sol.",
+            "Chaussures à enfiler et à retirer rapidement : Ces chaussures s'enfilent et se retirent en un clin d'œil. Leur ouverture élastique épouse parfaitement la forme du pied et offre un ajustement confortable et stable. Sans lacets, aucun problème.",
+            "Largement utilisées : Nos chaussures de marche orthopédiques sont parfaites pour les promenades tranquilles, la salle de sport, les entraînements intenses, le camping et même les longs voyages."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/71P5wHUlQNL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0F8NZ2HLC"
+      }
+    },
+    {
+      "asin": "B0F8NY3G6G",
+      "csi_title": "POIUIYQA Chaussures Orthop&#233;diques pour Femme, Chaussures sans Lacets Antid&#233;rapantes avec Maille pour Femme, Basket de Marche &#192; Plateforme Orthop&#233;dique L&#233;g&#232;res et Confortables",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_148::{",
+          "size_map": "39 EU",
+          "additional_sizes_detected": [
+            "numeric_39,",
+            "39 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_39",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "adult",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 39
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_39",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 39
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Confortables et respirantes : Ces chaussures orthopédiques pour femmes sont fabriquées dans une matière supérieure en tricot doux, léger et respirant, douce pour la peau et qui ne chauffe pas les pieds.",
+            "Soulage la pression du pied : Nos chaussures de marche orthopédiques, dotées d'une triple voûte plantaire amortissante et amortissante, répartissent uniformément le poids et réduisent la pression exercée sur vos pieds. Le coussin et la cale offrent un soutien supplémentaire pour soulager la pression du pied, rendant chaque pas confortable.",
+            "Antidérapantes : Pour éviter les chutes sur sol glissant, ces chaussures de marche pour femmes sont dotées d'une semelle imprimée en relief qui augmente la friction entre la chaussure et le sol.",
+            "Chaussures à enfiler et à retirer rapidement : Ces chaussures s'enfilent et se retirent en un clin d'œil. Leur ouverture élastique épouse parfaitement la forme du pied et offre un ajustement confortable et stable. Sans lacets, aucun problème.",
+            "Largement utilisées : Nos chaussures de marche orthopédiques sont parfaites pour les promenades tranquilles, la salle de sport, les entraînements intenses, le camping et même les longs voyages."
+          ],
+          "other": [
+            "COMFORTABLE AND BREATHABLE: These orthopedic shoes for women are made of soft knit upper material, lightweight and breathable, skin-friendly and does not heat the feet.",
+            "Relieve Foot Pressure: Our orthopaedic walking shoes with a cushioning and cushioning triple arch, distribute weight evenly and reduce pressure on your feet. Cushion and wedge provide extra support to relieve foot pressure, making every step comfortable.",
+            "ANTI-SLIP - To prevent falls on slippery ground, these women walking shoes feature a embossed printed sole that increases the friction between the shoe and the floor.",
+            "QUICK ON AND OFF SHOES - These shoes can be put on and taken off in a snap. The elastic opening fits perfectly to the foot and provides a comfortable and stable fit. No laces, no problem.",
+            "Widely Used Our orthopedic walking shoes are perfect for leisurely walks, gym, intense workouts, camping and even long trips."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/71RMPUd3PmL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0F8NY3G6G"
+      }
+    },
+    {
+      "asin": "B0DDC9RSMM",
+      "csi_title": "NATURINO CORKEL VL Chausson pour Nourrisson, Rosa, 23 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_265::{",
+          "size_map": "23 EU",
+          "additional_sizes_detected": [
+            "numeric_23,",
+            "23 EU"
+          ],
+          "structured_size": {
+            "gender": "women",
+            "size": "numeric_23",
+            "age_group": "little_kid",
+            "size_system": "eu_footwear_size_system",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 23
+          }
+        },
+        "footwear_size": {
+          "gender": "women",
+          "size": "numeric_23",
+          "age_group": "little_kid",
+          "size_system": "eu_footwear_size_system",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 23
+        },
+        "age_range": {
+          "raw_values": [
+            "Enfant",
+            "Kid"
+          ],
+          "normalized": "little_kid"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "other": [
+            "Baskets pour fille, baskets Naturino, chaussures pour fille, chaussures premiers pas fille",
+            "Girls' trainers, Naturino trainers, girl's shoes, girl's first step shoes"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/71XgZRtMYZL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0DDC9RSMM"
+      }
+    },
+    {
+      "asin": "B0DN6XYBF9",
+      "csi_title": "ALTRA Chaussures de trail Lone Peak 9 pour femme, noir fonc&#233;, 10",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": null,
+          "additional_sizes_detected": [
+            "42 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"10\"",
+            "legacy_unit": "womens_us"
+          }
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Superpositions sans couture et tige en maille indéchirable 100 % recyclée, conçue pour une durabilité élevée",
+            "Semelle extérieure MaxTrac améliorée, conçue pour une meilleure adhérence sous le pied et une durabilité accrue",
+            "Semelle intermédiaire ALTRA EGO en mousse, conçue pour le confort et la connexion au sol",
+            "Altra Sensation zéro goutte et notre boîte d'orteils la plus spacieuse"
+          ],
+          "other": [
+            "Seamless overlays and 100% recycled ripstop mesh upper, designed for high durability",
+            "Improved MaxTrac outsole, designed for underfoot grip and durability",
+            "ALTRA EGO foam midsole, designed for comfort and ground connection",
+            "Altra Zero drip feel and our most spacious toe box"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/41kH3IXGXeL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0DN6XYBF9"
+      }
+    },
+    {
+      "asin": "B0F8P2S7NQ",
+      "csi_title": "POIUIYQA Chaussures Orthop&#233;diques pour Femme, Chaussures sans Lacets Antid&#233;rapantes avec Maille pour Femme, Basket de Marche &#192; Plateforme Orthop&#233;dique L&#233;g&#232;res et Confortables",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_148::{",
+          "size_map": "39 EU",
+          "additional_sizes_detected": [
+            "numeric_39,",
+            "39 EU",
+            "39"
+          ],
+          "structured_size": {
+            "size": "numeric_39",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "adult",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 39
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_39",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 39
+        },
+        "age_range": {
+          "raw_values": [
+            "kid"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Confortables et respirantes : Ces chaussures orthopédiques pour femmes sont fabriquées dans une matière supérieure en tricot doux, léger et respirant, douce pour la peau et qui ne chauffe pas les pieds.",
+            "Soulage la pression du pied : Nos chaussures de marche orthopédiques, dotées d'une triple voûte plantaire amortissante et amortissante, répartissent uniformément le poids et réduisent la pression exercée sur vos pieds. Le coussin et la cale offrent un soutien supplémentaire pour soulager la pression du pied, rendant chaque pas confortable.",
+            "Antidérapantes : Pour éviter les chutes sur sol glissant, ces chaussures de marche pour femmes sont dotées d'une semelle imprimée en relief qui augmente la friction entre la chaussure et le sol.",
+            "Chaussures à enfiler et à retirer rapidement : Ces chaussures s'enfilent et se retirent en un clin d'œil. Leur ouverture élastique épouse parfaitement la forme du pied et offre un ajustement confortable et stable. Sans lacets, aucun problème.",
+            "Largement utilisées : Nos chaussures de marche orthopédiques sont parfaites pour les promenades tranquilles, la salle de sport, les entraînements intenses, le camping et même les longs voyages."
+          ],
+          "other": [
+            "COMFORTABLE AND BREATHABLE: These orthopedic shoes for women are made of soft knit upper material, lightweight and breathable, skin-friendly and does not heat the feet.",
+            "Relieve Foot Pressure: Our orthopaedic walking shoes with a cushioning and cushioning triple arch, distribute weight evenly and reduce pressure on your feet. Cushion and wedge provide extra support to relieve foot pressure, making every step comfortable.",
+            "ANTI-SLIP - To prevent falls on slippery ground, these women walking shoes feature a embossed printed sole that increases the friction between the shoe and the floor.",
+            "QUICK ON AND OFF SHOES - These shoes can be put on and taken off in a snap. The elastic opening fits perfectly to the foot and provides a comfortable and stable fit. No laces, no problem.",
+            "Widely Used Our orthopedic walking shoes are perfect for leisurely walks, gym, intense workouts, camping and even long trips."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/71P5wHUlQNL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0F8P2S7NQ"
+      }
+    },
+    {
+      "asin": "B0F8NZRZK3",
+      "csi_title": "POIUIYQA Chaussures Orthop&#233;diques pour Femme, Chaussures sans Lacets Antid&#233;rapantes avec Maille pour Femme, Basket de Marche &#192; Plateforme Orthop&#233;dique L&#233;g&#232;res et Confortables",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_124::{",
+          "size_map": "41 EU",
+          "additional_sizes_detected": [
+            "numeric_41,",
+            "41 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_41",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "adult",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 41
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_41",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 41
+        },
+        "age_range": {
+          "raw_values": [
+            "kid"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": "Polyester + coton",
+          "normalized": "Polyester + coton"
+        },
+        "bullet_points": {
+          "fr": [
+            "Confortables et respirantes : Ces chaussures orthopédiques pour femmes sont fabriquées dans une matière supérieure en tricot doux, léger et respirant, douce pour la peau et qui ne chauffe pas les pieds.",
+            "Soulage la pression du pied : Nos chaussures de marche orthopédiques, dotées d'une triple voûte plantaire amortissante et amortissante, répartissent uniformément le poids et réduisent la pression exercée sur vos pieds. Le coussin et la cale offrent un soutien supplémentaire pour soulager la pression du pied, rendant chaque pas confortable.",
+            "Antidérapantes : Pour éviter les chutes sur sol glissant, ces chaussures de marche pour femmes sont dotées d'une semelle imprimée en relief qui augmente la friction entre la chaussure et le sol.",
+            "Chaussures à enfiler et à retirer rapidement : Ces chaussures s'enfilent et se retirent en un clin d'œil. Leur ouverture élastique épouse parfaitement la forme du pied et offre un ajustement confortable et stable. Sans lacets, aucun problème.",
+            "Largement utilisées : Nos chaussures de marche orthopédiques sont parfaites pour les promenades tranquilles, la salle de sport, les entraînements intenses, le camping et même les longs voyages."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/71RMPUd3PmL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0F8NZRZK3"
+      }
+    },
+    {
+      "asin": "B0F7RS5QB7",
+      "csi_title": "Hommes Femmes Chaussures D&apos;Athl&#233;tisme, Filles Gar&#231;ons 8 Pointes Course Baskets Ext&#233;rieur Professionnel Sprint Course Saut Chaussures De Comp&#233;tition,Blanc,38 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_100::{",
+          "size_map": "38 EU",
+          "additional_sizes_detected": [
+            "numeric_38,",
+            "38 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_38",
+            "age_group": "adult",
+            "size_system": "eu_footwear_size_system",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 38
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_38",
+          "age_group": "adult",
+          "size_system": "eu_footwear_size_system",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 38
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "male",
+        "material": {
+          "raw": "Caoutchouc",
+          "normalized": "Rubber"
+        },
+        "bullet_points": {
+          "fr": [
+            "Respirant : Les chaussures à crampons sont faites d'une tige en maille respirante. Cette conception peut garder vos pieds au sec pendant l'exercice.",
+            "Les chaussures Field&Track avec des semelles en caoutchouc, résistantes à l'usure et antidérapantes, offrant plus de traction dans les courses compétitives et les entraînements.",
+            "Professionnel : L'avant-pied est équipé de 8 clous de chaussures, maintient une grande stabilité et plus rapide lors du démarrage, de l'accélération et des virages. .",
+            "Les chaussures Track Spike sont idéales pour le sprint, la course de distance, le lancer, la compétition, le saut, les haies, l'entraînement et plus encore. S'adapte sur prairie, plastique.",
+            "Les accessoires comprennent : 2 jeux de pointes, 1 clé, 1 sac. S'il manque l'ongle, veuillez nous contacter par e-mail et nous vous le renverrons dans les plus brefs délais."
+          ],
+          "en": [
+            "BREATHABLE: Cleats are made of breathable mesh upper. This design can keep your feet dry during exercise."
+          ],
+          "other": [
+            "Field&Track shoes with rubber soles, wear-resistant and non-slip, providing more traction in competitive races and workouts.",
+            "Professional: The forefoot is equipped with 8 shoe nails, maintains great stability and faster when starting, accelerating and turning. .",
+            "Track Spike shoes are ideal for sprinting, distance running, throwing, competition, jumping, hurdles, training and more. Fits on meadow, plastic.",
+            "Accessories include: 2 sets of tips, 1 key, 1 bag. If the nail is missing, please contact us by email and we will return it to you as soon as possible."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/51LujpUMToL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0F7RS5QB7"
+      }
+    },
+    {
+      "asin": "B0CW9YL1CB",
+      "csi_title": "Jana Baskets Slip on Femme &#224; Enfiler Vegan, Black/Gold, 36 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": "36 EU",
+          "additional_sizes_detected": [
+            "$additional_links_augmentor_364::{",
+            "numeric_36,",
+            "36 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"5.5\"",
+            "legacy_unit": "womens_us"
+          }
+        },
+        "footwear_size": {
+          "gender": "women",
+          "size": "numeric_36",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 36
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "ÉLÉGANTES ET FONCTIONNELLES : Ces sneakers slip-on séduisent non seulement par leur design tendance, mais aussi par leur fonctionnalité qui vous prépare parfaitement à toutes les situations du quotidien.",
+            "VÉGANES : Ces sneakers sont fabriquées à 100 % avec des matériaux d’origine non animale, utilisant des tissus véganes de haute qualité qui ne laissent rien à désirer en termes de finition.",
+            "AJUSTEMENT OPTIMAL : Grâce à leur largeur H, ces chaussures conviennent particulièrement aux pieds larges. Elles s’adaptent parfaitement à la forme du pied pour un confort sans pression.",
+            "CONFORT : Ces sneakers sont parfaites pour des looks décontractés. Avec leur design sportif et leur confort agréable, elles offrent un confort maximal au quotidien tout en affirmant un style tendance.",
+            "JANA : Des designs tendance réalisés dans des matériaux de qualité à des prix attractifs – voilà ce qui caractérise les chaussures confortables de Jana. Ces modèles polyvalents allient un confort agréable grâce à leur coupe soignée et des technologies innovantes aux tendances actuelles de la mode."
+          ],
+          "other": [
+            "Comfortable extra width - ideal for all feet",
+            "Vegan"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61NdWxUfFAL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0CW9YL1CB"
+      }
+    },
+    {
+      "asin": "B0CPPX99ZB",
+      "csi_title": "Geox B&#233;b&#233; Fille B Gisli Girl, Rose, 24 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "24 EU",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Kid"
+          ],
+          "normalized": "kid"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Chaussures faciles à enfiler",
+            "Semelle intérieure amovible"
+          ],
+          "other": [
+            "Fermeture Velcro unique",
+            "Respirant",
+            "Slip-On Shoes",
+            "Unique Velcro closure",
+            "Removable insole",
+            "Breathable"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/51wSyp7hj5L.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0CPPX99ZB"
+      }
+    },
+    {
+      "asin": "B0CW9YPLDV",
+      "csi_title": "Jana Baskets Slip on Femme &#224; Enfiler Vegan, Black/Gold, 40 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "40 EU",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "ÉLÉGANTES ET FONCTIONNELLES : Ces sneakers slip-on séduisent non seulement par leur design tendance, mais aussi par leur fonctionnalité qui vous prépare parfaitement à toutes les situations du quotidien.",
+            "VÉGANES : Ces sneakers sont fabriquées à 100 % avec des matériaux d’origine non animale, utilisant des tissus véganes de haute qualité qui ne laissent rien à désirer en termes de finition.",
+            "AJUSTEMENT OPTIMAL : Grâce à leur largeur H, ces chaussures conviennent particulièrement aux pieds larges. Elles s’adaptent parfaitement à la forme du pied pour un confort sans pression.",
+            "CONFORT : Ces sneakers sont parfaites pour des looks décontractés. Avec leur design sportif et leur confort agréable, elles offrent un confort maximal au quotidien tout en affirmant un style tendance.",
+            "JANA : Des designs tendance réalisés dans des matériaux de qualité à des prix attractifs – voilà ce qui caractérise les chaussures confortables de Jana. Ces modèles polyvalents allient un confort agréable grâce à leur coupe soignée et des technologies innovantes aux tendances actuelles de la mode.",
+            "COMFORT: These sneakers are perfect for casual looks. With their sporty design and pleasant wearing comfort, they offer maximum comfort in everyday life and at the same time affirm a fashionable style."
+          ],
+          "en": [
+            "JANA : Fashionable designs made from high quality materials at attractive prices – this is what characterises the comfortable shoes from Jana. These versatile models combine pleasant wearing comfort thanks to their careful cut and innovative technologies with current fashion trends."
+          ],
+          "other": [
+            "Elegant and functional: These slip-on sneakers impress not only with their trendy design, but also with their functionality that perfectly prepares you for any everyday situation.",
+            "VEGANS: These sneakers are made from 100% non-animal materials, using high quality vegan fabrics that leave nothing to be desired in terms of finishing.",
+            "Optimal fit: Thanks to the H-width, these shoes are particularly suitable for wide feet. They adapt perfectly to the shape of the foot for pressure-free comfort."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61NdWxUfFAL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0CW9YPLDV"
+      }
+    },
+    {
+      "asin": "B0F8NXK8GX",
+      "csi_title": "POIUIYQA Chaussures Orthop&#233;diques pour Femme, Chaussures sans Lacets Antid&#233;rapantes avec Maille pour Femme, Basket de Marche &#192; Plateforme Orthop&#233;dique L&#233;g&#232;res et Confortables",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_124::{",
+          "size_map": "39 EU",
+          "additional_sizes_detected": [
+            "numeric_39,",
+            "39 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_39",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "adult",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 39
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_39",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 39
+        },
+        "age_range": {
+          "raw_values": [
+            "adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": "Polyester + coton",
+          "normalized": "Polyester + coton"
+        },
+        "bullet_points": {
+          "fr": [
+            "Confortables et respirantes : Ces chaussures orthopédiques pour femmes sont fabriquées dans une matière supérieure en tricot doux, léger et respirant, douce pour la peau et qui ne chauffe pas les pieds.",
+            "Soulage la pression du pied : Nos chaussures de marche orthopédiques, dotées d'une triple voûte plantaire amortissante et amortissante, répartissent uniformément le poids et réduisent la pression exercée sur vos pieds. Le coussin et la cale offrent un soutien supplémentaire pour soulager la pression du pied, rendant chaque pas confortable.",
+            "Antidérapantes : Pour éviter les chutes sur sol glissant, ces chaussures de marche pour femmes sont dotées d'une semelle imprimée en relief qui augmente la friction entre la chaussure et le sol.",
+            "Chaussures à enfiler et à retirer rapidement : Ces chaussures s'enfilent et se retirent en un clin d'œil. Leur ouverture élastique épouse parfaitement la forme du pied et offre un ajustement confortable et stable. Sans lacets, aucun problème.",
+            "Largement utilisées : Nos chaussures de marche orthopédiques sont parfaites pour les promenades tranquilles, la salle de sport, les entraînements intenses, le camping et même les longs voyages."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61sTtzN9NsL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0F8NXK8GX"
+      }
+    },
+    {
+      "asin": "B0F8NZ4WS1",
+      "csi_title": "POIUIYQA Chaussures Orthop&#233;diques pour Femme, Chaussures sans Lacets Antid&#233;rapantes avec Maille pour Femme, Basket de Marche &#192; Plateforme Orthop&#233;dique L&#233;g&#232;res et Confortables",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_124::{",
+          "size_map": "40 EU",
+          "additional_sizes_detected": [
+            "numeric_40,",
+            "40 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_40",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "adult",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 40
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_40",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 40
+        },
+        "age_range": {
+          "raw_values": [
+            "adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": "Polyester + coton",
+          "normalized": "Polyester + coton"
+        },
+        "bullet_points": {
+          "fr": [
+            "Confortables et respirantes : Ces chaussures orthopédiques pour femmes sont fabriquées dans une matière supérieure en tricot doux, léger et respirant, douce pour la peau et qui ne chauffe pas les pieds.",
+            "Soulage la pression du pied : Nos chaussures de marche orthopédiques, dotées d'une triple voûte plantaire amortissante et amortissante, répartissent uniformément le poids et réduisent la pression exercée sur vos pieds. Le coussin et la cale offrent un soutien supplémentaire pour soulager la pression du pied, rendant chaque pas confortable.",
+            "Antidérapantes : Pour éviter les chutes sur sol glissant, ces chaussures de marche pour femmes sont dotées d'une semelle imprimée en relief qui augmente la friction entre la chaussure et le sol.",
+            "Chaussures à enfiler et à retirer rapidement : Ces chaussures s'enfilent et se retirent en un clin d'œil. Leur ouverture élastique épouse parfaitement la forme du pied et offre un ajustement confortable et stable. Sans lacets, aucun problème.",
+            "Largement utilisées : Nos chaussures de marche orthopédiques sont parfaites pour les promenades tranquilles, la salle de sport, les entraînements intenses, le camping et même les longs voyages."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61okaH13ZJL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0F8NZ4WS1"
+      }
+    },
+    {
+      "asin": "B0F8NZGS3S",
+      "csi_title": "POIUIYQA Chaussures Orthop&#233;diques pour Femme, Chaussures sans Lacets Antid&#233;rapantes avec Maille pour Femme, Basket de Marche &#192; Plateforme Orthop&#233;dique L&#233;g&#232;res et Confortables",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_124::{",
+          "size_map": "38 EU",
+          "additional_sizes_detected": [
+            "numeric_38,",
+            "38 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_38",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "adult",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 38
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_38",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 38
+        },
+        "age_range": {
+          "raw_values": [
+            "adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": "Polyester + coton",
+          "normalized": "Polyester + coton"
+        },
+        "bullet_points": {
+          "fr": [
+            "Confortables et respirantes : Ces chaussures orthopédiques pour femmes sont fabriquées dans une matière supérieure en tricot doux, léger et respirant, douce pour la peau et qui ne chauffe pas les pieds.",
+            "Soulage la pression du pied : Nos chaussures de marche orthopédiques, dotées d'une triple voûte plantaire amortissante et amortissante, répartissent uniformément le poids et réduisent la pression exercée sur vos pieds. Le coussin et la cale offrent un soutien supplémentaire pour soulager la pression du pied, rendant chaque pas confortable.",
+            "Antidérapantes : Pour éviter les chutes sur sol glissant, ces chaussures de marche pour femmes sont dotées d'une semelle imprimée en relief qui augmente la friction entre la chaussure et le sol.",
+            "Chaussures à enfiler et à retirer rapidement : Ces chaussures s'enfilent et se retirent en un clin d'œil. Leur ouverture élastique épouse parfaitement la forme du pied et offre un ajustement confortable et stable. Sans lacets, aucun problème.",
+            "Largement utilisées : Nos chaussures de marche orthopédiques sont parfaites pour les promenades tranquilles, la salle de sport, les entraînements intenses, le camping et même les longs voyages."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/71RMPUd3PmL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0F8NZGS3S"
+      }
+    },
+    {
+      "asin": "B0CW9Y99CV",
+      "csi_title": "Jana Baskets Slip on Femme &#224; Enfiler Vegan, Black/Gold, 42 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": "42 EU",
+          "additional_sizes_detected": [
+            "$additional_links_augmentor_315::{",
+            "numeric_42,",
+            "42 EU"
+          ],
+          "structured_size": {
+            "fit_size": "\"11\"",
+            "legacy_unit": "womens_us"
+          }
+        },
+        "footwear_size": {
+          "gender": "women",
+          "size": "numeric_42",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 42
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "ÉLÉGANTES ET FONCTIONNELLES : Ces sneakers slip-on séduisent non seulement par leur design tendance, mais aussi par leur fonctionnalité qui vous prépare parfaitement à toutes les situations du quotidien.",
+            "VÉGANES : Ces sneakers sont fabriquées à 100 % avec des matériaux d’origine non animale, utilisant des tissus véganes de haute qualité qui ne laissent rien à désirer en termes de finition.",
+            "AJUSTEMENT OPTIMAL : Grâce à leur largeur H, ces chaussures conviennent particulièrement aux pieds larges. Elles s’adaptent parfaitement à la forme du pied pour un confort sans pression.",
+            "CONFORT : Ces sneakers sont parfaites pour des looks décontractés. Avec leur design sportif et leur confort agréable, elles offrent un confort maximal au quotidien tout en affirmant un style tendance.",
+            "JANA : Des designs tendance réalisés dans des matériaux de qualité à des prix attractifs – voilà ce qui caractérise les chaussures confortables de Jana. Ces modèles polyvalents allient un confort agréable grâce à leur coupe soignée et des technologies innovantes aux tendances actuelles de la mode."
+          ],
+          "other": [
+            "Comfortable extra width - ideal for all feet",
+            "Vegan"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61NdWxUfFAL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0CW9Y99CV"
+      }
+    },
+    {
+      "asin": "B08336G4N7",
+      "csi_title": "Camper 80212-077 gar&#231;on Basket, Blue, 21 EU",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "21 EU",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Bébé",
+            "Baby"
+          ],
+          "normalized": "bébé"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Doublure : 57 % peau de porc, 33 % textile (PET 100 % recyclé) 10 % peau de porc avec finition piégée",
+            "Semelle extérieure : 100 % caoutchouc vulcanisé",
+            "Semelle intérieure : 85 % peau de porc, 15 % peau de porc avec finition piégée"
+          ],
+          "other": [
+            "Dessus : 100 % cuir de vache",
+            "Lacets",
+            "Upper: 100% Cowhide Leather",
+            "Lining: 57% Pigskin, 33% Textile (PET 100% Recycled) 10% Pig Skin with Trapped Finish",
+            "Outsole: 100% vulcanised rubber",
+            "Insole: 85% pigskin, 15% pigskin with trapped finish",
+            "Laces"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/71ada3UMeOL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B08336G4N7"
+      }
+    },
+    {
+      "asin": "B0F8NXKRHY",
+      "csi_title": "POIUIYQA Chaussures Orthop&#233;diques pour Femme, Chaussures sans Lacets Antid&#233;rapantes avec Maille pour Femme, Basket de Marche &#192; Plateforme Orthop&#233;dique L&#233;g&#232;res et Confortables",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_124::{",
+          "size_map": "39 EU",
+          "additional_sizes_detected": [
+            "numeric_39,",
+            "39 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_39",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "adult",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 39
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_39",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 39
+        },
+        "age_range": {
+          "raw_values": [
+            "kid"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": "Polyester + coton",
+          "normalized": "Polyester + coton"
+        },
+        "bullet_points": {
+          "fr": [
+            "Confortables et respirantes : Ces chaussures orthopédiques pour femmes sont fabriquées dans une matière supérieure en tricot doux, léger et respirant, douce pour la peau et qui ne chauffe pas les pieds.",
+            "Soulage la pression du pied : Nos chaussures de marche orthopédiques, dotées d'une triple voûte plantaire amortissante et amortissante, répartissent uniformément le poids et réduisent la pression exercée sur vos pieds. Le coussin et la cale offrent un soutien supplémentaire pour soulager la pression du pied, rendant chaque pas confortable.",
+            "Antidérapantes : Pour éviter les chutes sur sol glissant, ces chaussures de marche pour femmes sont dotées d'une semelle imprimée en relief qui augmente la friction entre la chaussure et le sol.",
+            "Chaussures à enfiler et à retirer rapidement : Ces chaussures s'enfilent et se retirent en un clin d'œil. Leur ouverture élastique épouse parfaitement la forme du pied et offre un ajustement confortable et stable. Sans lacets, aucun problème.",
+            "Largement utilisées : Nos chaussures de marche orthopédiques sont parfaites pour les promenades tranquilles, la salle de sport, les entraînements intenses, le camping et même les longs voyages."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/51YXd-1T6BL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0F8NXKRHY"
+      }
+    },
+    {
+      "asin": "B09RQK7BR4",
+      "csi_title": "TIMBERLAND - Men&apos;s nubuck Chelsea boots - Number 44",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_13::{",
+          "size_map": "Medium",
+          "additional_sizes_detected": [
+            "$additional_links_augmentor_326::{",
+            "numeric_44,",
+            "$additional_links_augmentor_349::{",
+            "Medium"
+          ],
+          "structured_size": {
+            "fit_size": "\"10\"",
+            "legacy_unit": "mens_us"
+          }
+        },
+        "footwear_size": {
+          "gender": "men",
+          "size": "numeric_44",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 44
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte",
+            "Adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Bottines et Chaussures de Randonnée pour Homme"
+          ],
+          "en": [
+            "Article original avec garantie du fabricant",
+            "Original item with manufacturer's warranty"
+          ],
+          "other": [
+            "Timberland",
+            "Men's Hiking Boots and Shoes"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/81ZqZwZaBdL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B09RQK7BR4"
+      }
+    },
+    {
+      "asin": "B0F8P1MVXZ",
+      "csi_title": "POIUIYQA Chaussures Orthop&#233;diques pour Femme, Chaussures sans Lacets Antid&#233;rapantes avec Maille pour Femme, Basket de Marche &#192; Plateforme Orthop&#233;dique L&#233;g&#232;res et Confortables",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_124::{",
+          "size_map": "37 EU",
+          "additional_sizes_detected": [
+            "numeric_37,",
+            "37 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_37",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "adult",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 37
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_37",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 37
+        },
+        "age_range": {
+          "raw_values": [
+            "kid"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": "Polyester + coton",
+          "normalized": "Polyester + coton"
+        },
+        "bullet_points": {
+          "fr": [
+            "Confortables et respirantes : Ces chaussures orthopédiques pour femmes sont fabriquées dans une matière supérieure en tricot doux, léger et respirant, douce pour la peau et qui ne chauffe pas les pieds.",
+            "Soulage la pression du pied : Nos chaussures de marche orthopédiques, dotées d'une triple voûte plantaire amortissante et amortissante, répartissent uniformément le poids et réduisent la pression exercée sur vos pieds. Le coussin et la cale offrent un soutien supplémentaire pour soulager la pression du pied, rendant chaque pas confortable.",
+            "Antidérapantes : Pour éviter les chutes sur sol glissant, ces chaussures de marche pour femmes sont dotées d'une semelle imprimée en relief qui augmente la friction entre la chaussure et le sol.",
+            "Chaussures à enfiler et à retirer rapidement : Ces chaussures s'enfilent et se retirent en un clin d'œil. Leur ouverture élastique épouse parfaitement la forme du pied et offre un ajustement confortable et stable. Sans lacets, aucun problème.",
+            "Largement utilisées : Nos chaussures de marche orthopédiques sont parfaites pour les promenades tranquilles, la salle de sport, les entraînements intenses, le camping et même les longs voyages."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61PRx9PodRL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0F8P1MVXZ"
+      }
+    },
+    {
+      "asin": "B0F8NWV1RZ",
+      "csi_title": "POIUIYQA Chaussures Orthop&#233;diques pour Femme, Chaussures sans Lacets Antid&#233;rapantes avec Maille pour Femme, Basket de Marche &#192; Plateforme Orthop&#233;dique L&#233;g&#232;res et Confortables",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_124::{",
+          "size_map": "38 EU",
+          "additional_sizes_detected": [
+            "numeric_38,",
+            "38 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_38",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "adult",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 38
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_38",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 38
+        },
+        "age_range": {
+          "raw_values": [
+            "adult"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": "Polyester + coton",
+          "normalized": "Polyester + coton"
+        },
+        "bullet_points": {
+          "fr": [
+            "Confortables et respirantes : Ces chaussures orthopédiques pour femmes sont fabriquées dans une matière supérieure en tricot doux, léger et respirant, douce pour la peau et qui ne chauffe pas les pieds.",
+            "Soulage la pression du pied : Nos chaussures de marche orthopédiques, dotées d'une triple voûte plantaire amortissante et amortissante, répartissent uniformément le poids et réduisent la pression exercée sur vos pieds. Le coussin et la cale offrent un soutien supplémentaire pour soulager la pression du pied, rendant chaque pas confortable.",
+            "Antidérapantes : Pour éviter les chutes sur sol glissant, ces chaussures de marche pour femmes sont dotées d'une semelle imprimée en relief qui augmente la friction entre la chaussure et le sol.",
+            "Chaussures à enfiler et à retirer rapidement : Ces chaussures s'enfilent et se retirent en un clin d'œil. Leur ouverture élastique épouse parfaitement la forme du pied et offre un ajustement confortable et stable. Sans lacets, aucun problème.",
+            "Largement utilisées : Nos chaussures de marche orthopédiques sont parfaites pour les promenades tranquilles, la salle de sport, les entraînements intenses, le camping et même les longs voyages."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/619F24bLPtL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0F8NWV1RZ"
+      }
+    },
+    {
+      "asin": "B0F8NXRSJ4",
+      "csi_title": "POIUIYQA Chaussures Orthop&#233;diques pour Femme, Chaussures sans Lacets Antid&#233;rapantes avec Maille pour Femme, Basket de Marche &#192; Plateforme Orthop&#233;dique L&#233;g&#232;res et Confortables",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_124::{",
+          "size_map": "43 EU",
+          "additional_sizes_detected": [
+            "numeric_43,",
+            "43 EU"
+          ],
+          "structured_size": {
+            "size": "numeric_43",
+            "size_system": "eu_footwear_size_system",
+            "age_group": "adult",
+            "width": "medium",
+            "size_class": "numeric",
+            "numeric_size": 43
+          }
+        },
+        "footwear_size": {
+          "size": "numeric_43",
+          "size_system": "eu_footwear_size_system",
+          "age_group": "adult",
+          "width": "medium",
+          "size_class": "numeric",
+          "numeric_size": 43
+        },
+        "age_range": {
+          "raw_values": [
+            "kid"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": "Polyester + coton",
+          "normalized": "Polyester + coton"
+        },
+        "bullet_points": {
+          "fr": [
+            "Confortables et respirantes : Ces chaussures orthopédiques pour femmes sont fabriquées dans une matière supérieure en tricot doux, léger et respirant, douce pour la peau et qui ne chauffe pas les pieds.",
+            "Soulage la pression du pied : Nos chaussures de marche orthopédiques, dotées d'une triple voûte plantaire amortissante et amortissante, répartissent uniformément le poids et réduisent la pression exercée sur vos pieds. Le coussin et la cale offrent un soutien supplémentaire pour soulager la pression du pied, rendant chaque pas confortable.",
+            "Antidérapantes : Pour éviter les chutes sur sol glissant, ces chaussures de marche pour femmes sont dotées d'une semelle imprimée en relief qui augmente la friction entre la chaussure et le sol.",
+            "Chaussures à enfiler et à retirer rapidement : Ces chaussures s'enfilent et se retirent en un clin d'œil. Leur ouverture élastique épouse parfaitement la forme du pied et offre un ajustement confortable et stable. Sans lacets, aucun problème.",
+            "Largement utilisées : Nos chaussures de marche orthopédiques sont parfaites pour les promenades tranquilles, la salle de sport, les entraînements intenses, le camping et même les longs voyages."
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/61okaH13ZJL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0F8NXRSJ4"
+      }
+    },
+    {
+      "asin": "B0G43JL6X5",
+      "csi_title": "KASANOVA Chaussons d&#8217;Hiver Style Sneakers &#171; Fat Man &#187; &#8211; Taille Unique Unisexe, Chauds et Confortables, Semelle Antid&#233;rapante, Lavables (Bleu et Noir)",
+      "csi_status": "Not Discoverable",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_169::{",
+          "size_map": "Taille unique Large",
+          "additional_sizes_detected": [
+            "one_size,",
+            "Taille unique Large"
+          ],
+          "structured_size": {
+            "size": "one_size",
+            "age_group": "adult",
+            "size_system": "eu_footwear_size_system",
+            "width": "wide",
+            "size_class": "alpha"
+          }
+        },
+        "footwear_size": {
+          "size": "one_size",
+          "age_group": "adult",
+          "size_system": "eu_footwear_size_system",
+          "width": "wide",
+          "size_class": "alpha"
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "👟 Style sneaker original – Design « Fat Man » pour les fans de baskets, même à la maison.",
+            "🔥 Chauds et ultra confortables – Idéals pour l’automne et l’hiver, ils enveloppent le pied et le gardent au chaud.",
+            "🧑‍🤝‍🧑 Taille unique unisexe – Convient aux hommes et aux femmes, s’adapte à différentes pointures.",
+            "🦶 Semelle antidérapante – Sécurité accrue sur les sols et surfaces domestiques.",
+            "🧼 Matériaux résistants et lavables – Mélange de fibres de qualité pour une utilisation durable et pratique.",
+            "Original, warm and comfortable, these are the winter slippers from KASANOVA They always keep your feet warm in the house, accompany with the best comfort and style your moments of relaxation. The size is suitable for both men and women."
+          ],
+          "other": [
+            "Product size: L. 16 cm x H. 12 x 31 cm",
+            "Colour:",
+            "Material: Fiber"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/81KwR7WERzL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0G43JL6X5"
+      }
+    },
+    {
+      "asin": "B0G43HNCTK",
+      "csi_title": "KASANOVA Chaussons d&#8217;Hiver Style Sneakers &#171; Fat Man &#187; &#8211; Taille Unique Unisexe, Chauds et Confortables, Semelle Antid&#233;rapante, Lavables (Rouge et Blanc)",
+      "csi_status": "Not Discoverable",
+      "attributes": {
+        "size_info": {
+          "size": "$additional_links_augmentor_189::{",
+          "size_map": "Taille unique Large",
+          "additional_sizes_detected": [
+            "one_size,",
+            "Taille unique Large"
+          ],
+          "structured_size": {
+            "size": "one_size",
+            "age_group": "adult",
+            "size_system": "eu_footwear_size_system",
+            "width": "wide",
+            "size_class": "alpha"
+          }
+        },
+        "footwear_size": {
+          "size": "one_size",
+          "age_group": "adult",
+          "size_system": "eu_footwear_size_system",
+          "width": "wide",
+          "size_class": "alpha"
+        },
+        "age_range": {
+          "raw_values": [
+            "Adulte"
+          ],
+          "normalized": "adult"
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "👟 Style sneaker original – Design « Fat Man » pour les fans de baskets, même à la maison.",
+            "🔥 Chauds et ultra confortables – Idéals pour l’automne et l’hiver, ils enveloppent le pied et le gardent au chaud.",
+            "🧑‍🤝‍🧑 Taille unique unisexe – Convient aux hommes et aux femmes, s’adapte à différentes pointures.",
+            "🦶 Semelle antidérapante – Sécurité accrue sur les sols et surfaces domestiques.",
+            "🧼 Matériaux résistants et lavables – Mélange de fibres de qualité pour une utilisation durable et pratique.",
+            "Original, warm and comfortable, these are the winter slippers from KASANOVA They always keep your feet warm in the house, accompany with the best comfort and style your moments of relaxation. The size is suitable for both men and women."
+          ],
+          "other": [
+            "Product size: L. 16 cm x H. 12 x 31 cm",
+            "Colour:",
+            "Material: Fiber"
+          ]
+        }
+      },
+      "dp": {
+        "image": "https://m.media-amazon.com/images/I/81IJLKMJgcL.jpg",
+        "fr_dp_url": "https://www.amazon.fr/dp/B0G43HNCTK"
+      }
+    }
+  ],
+  "stats": {
+    "asin_blocks_found": 58,
+    "records_extracted": 58,
+    "records_skipped_no_csi": 0
+  }
+}
