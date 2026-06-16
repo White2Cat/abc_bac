@@ -1,0 +1,1499 @@
+{
+  "source_file": "DPX_AI_Full_2026-06-16_FR_Toys_1_Toys_1781591170130_Part1.pdf",
+  "records": [
+    {
+      "asin": "B08F5HVVSD",
+      "csi_title": "Tavoloverde Playing Cards The Shark",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": null,
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte"
+          ],
+          "normalized": null
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": "Carton",
+          "normalized": "Carton"
+        },
+        "bullet_points": {
+          "fr": [
+            "Édition limitée de 2500 bouquets, Cartes format poker, Carton Premium Bee Casino"
+          ],
+          "en": [
+            "Single deck HQ cardboard Poker size gimmick"
+          ],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B08F5HVVSD_0.jpg",
+        "images": [
+          "./images/B08F5HVVSD_0.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B08F5HVVSD",
+        "title": "Card Games The Shark\nAge Range Description: Adult",
+        "brand_name": "Tavoloverde",
+        "included_components": "Cards",
+        "country_of_origin": null,
+        "unit_count": null,
+        "item_type_name": null,
+        "model_name": null,
+        "model_number": null,
+        "manufacturer_part_number": null,
+        "manufacturer": "USPCC",
+        "best_sellers_rank": null,
+        "asin": "B08F5HVVSD",
+        "bullets": "Single deck HQ cardboard Poker size gimmick",
+        "manufacturer_recommended_age": null
+      },
+      "powerchat_verdict": "FP",
+      "powerchat_reason": "Product is a personalized/decorative playing card set marketed for adult collectors, not a strategy card game with gameplay rules. Per STEP 1 EXCLUDED GROUP B and\nSTEP 3 EDGE CASES: 'Personalized playing cards as a photo service' and 'Strategy card games of any kind' are excluded. The product description emphasizes artistic\ndesign, limited edition collectibility (2500 copies), and premium cardstock—not competitive play mechanics. This falls under card collecting for aesthetic/collectible purposes\nwithout game rules, which contradicts the TP criteria for collectible cards that require explicit play or game intent.",
+      "nova_verdict": "TP",
+      "nova_reason": "The product is a collectible card set with a shark theme, designed for collecting rather than strategy gameplay, aligning with Branch H (Exploration Toys and Other Toys).\n[IMAGES: 1]"
+    },
+    {
+      "asin": "B0D9HMLL1H",
+      "csi_title": "Clementoni Baby 17883 Balançoire Licorne 3 en 1 avec Centre d'activité interactif pour Enfants à partir de 12 Mois Jouet sensoriel et motrice",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "Pequeño",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Enfant"
+          ],
+          "normalized": null
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": "Plastique",
+          "normalized": "Plastique"
+        },
+        "bullet_points": {
+          "fr": [
+            "Licorne à bascule interactive : licorne mignonne pour l'équitation, qui est également un centre d'activité interactif. Détecte les mouvements avec capteur et divertit\navec des effets sonores réalistes, des phrases et des chansons amusantes, Soin interactif : si l'enfant caresse la tache sur le nez,"
+          ],
+          "en": [
+            "INTERACTIVE SWING UNORNORN Cute unicorn for riding, which is also an interactive activity center. Detects motion with sensor and entertains with realistic sound\neffects, fun phrases and songs Interactive care: caresses the spot on the nose, it lights up. The unicorn interacts and challenges the child to take care of it, creating a loving,\ninteractive play experience Educational toy: buttons on the mane teach letters and animal names. With the rotating roller, children learn simple numbers and de"
+          ],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B0D9HMLL1H_0.jpg",
+        "images": [
+          "./images/B0D9HMLL1H_0.jpg",
+          "./images/B0D9HMLL1H_1.jpg",
+          "./images/B0D9HMLL1H_2.jpg",
+          "./images/B0D9HMLL1H_3.jpg",
+          "./images/B0D9HMLL1H_4.jpg",
+          "./images/B0D9HMLL1H_5.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B0D9HMLL1H",
+        "title": "Baby Clementoni Unicorn Swing - 3-in-1 Rocking Animal with Interactive Activity Centre for Children from 12 Months - Sensory & Motor Skills Toy 17883",
+        "brand_name": "Clementoni\nAge Range Description: Kid\nManufacturer Warranty Description: 24 Months\nGlobal Trade Identification Number: 08005125178834",
+        "included_components": "Unicorn",
+        "country_of_origin": null,
+        "unit_count": "1.0 count",
+        "item_type_name": "Nuvola Unicorn for Children, Made in Italy, Multicoloured - 17883",
+        "model_name": null,
+        "model_number": "17883",
+        "manufacturer_part_number": "17883",
+        "manufacturer": "Clementoni",
+        "best_sellers_rank": "288,998 in Toys (See Top 100 in Toys) 1,141 in Sound Toys",
+        "asin": "B0D9HMLL1H",
+        "bullets": "INTERACTIVE SWING UNORNORN Cute unicorn for riding, which is also an interactive activity center. Detects motion with sensor and entertains with realistic sound\neffects, fun phrases and songs Interactive care: caresses the spot on the nose, it lights up. The unicorn interacts and challenges the child to take care of it, creating a loving,\ninteractive play experience Educational toy: buttons on the mane teach letters and animal names. With the rotating roller, children learn simple numbers and de",
+        "manufacturer_recommended_age": "12 months and up"
+      },
+      "powerchat_verdict": "FP",
+      "powerchat_reason": "Product contains built-in, non-separable electronic components (motion sensor, sound effects, interactive lighting on nose, songs). Per OVERRIDE 1: 'If the product has a\nbuilt-in, non-separable electric or electronic component (with or without batteries, including NFC chips, Bluetooth modules, or any wireless technology), the verdict is FP.' The\ninteractive features (motion detection, sound, lights) are integral to the product and cannot be removed while maintaining functionality. Stop here.",
+      "nova_verdict": "TP",
+      "nova_reason": "The product is a rocking toy designed for toddlers and preschoolers, featuring a unicorn shape with a seat and handlebars, intended for play and early learning activities.\n[IMAGES: 6]"
+    },
+    {
+      "asin": "B0FYQ4BDDP",
+      "csi_title": "PLAKKS Basketball | Jeu de société de Basket pour Enfants et Adultes | De 7 à 99 Ans | Jeu Amusant d’adresse et de précision | Cadeau Original pour Toute la\nFamille | pour 2 Joueurs ou Plus\nbullet_point: Ø<ßÀ COMMENT JOUER: Tu dois marquer dans le panier adverse en faisant rebondir la balle dans ta moitié de terrain. Si tu marques, tu places un joueur sur le\nterrain de ton adversaire. Le premier qui parvient à placer 5 joueurs dans le camp adverse remporte la partie!, Ø=Üh \rØ=Üi \rØ=Üg \rØ=Üf AVEC QUI JOUER? Avec",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "43 cm x 80 cm x 0.1 cm",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "De 7 à 99 ans"
+          ],
+          "normalized": null
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": "Bois, Carton",
+          "normalized": "Bois, Carton"
+        },
+        "bullet_points": {
+          "fr": [],
+          "en": [
+            "How to play: You have to throw the ball into the opponent's basket after it bounces in your half of the field. When you hit, you place a player on your opponent's field.\nThe first to place 5 players in the opposing field wins! Play with whom? With whoever you want, because it is a game for all ages: children, teenagers and adults. Perfect for\nsharing fun moments with family or friends. Duration and number of players: fast and exciting games from 5 to 10 minutes. Perfect for 1v1 games or team 2v2"
+          ],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B0FYQ4BDDP_0.jpg",
+        "images": [
+          "./images/B0FYQ4BDDP_0.jpg",
+          "./images/B0FYQ4BDDP_1.jpg",
+          "./images/B0FYQ4BDDP_2.jpg",
+          "./images/B0FYQ4BDDP_3.jpg",
+          "./images/B0FYQ4BDDP_4.jpg",
+          "./images/B0FYQ4BDDP_5.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B0FYQ4BDDP",
+        "title": "PLAKKS Basketball Board Game for Children and Adults from 7 to 99 Years Funny Game for Skill and Precision Original 2 or More Players\nAge Range Description: From 7 to 99 years",
+        "brand_name": "P PLAKKS",
+        "included_components": "10 players, 2 baskets, 4 balls, Board consisting of 8 puzzle pieces",
+        "country_of_origin": null,
+        "unit_count": "1.0 count",
+        "item_type_name": null,
+        "model_name": "PLAKKS Basketball\nSet Name: PLAKKS Basketball\nGlobal Trade Identification Number: 08437019509064",
+        "model_number": "TKP005",
+        "manufacturer_part_number": "TKP005",
+        "manufacturer": "PLAKKS",
+        "best_sellers_rank": "309,100 in Toys (See Top 100 in Toys) 7,824 in Board Games (Toys)",
+        "asin": "B0FYQ4BDDP",
+        "bullets": "How to play: You have to throw the ball into the opponent's basket after it bounces in your half of the field. When you hit, you place a player on your opponent's field.\nThe first to place 5 players in the opposing field wins! Play with whom? With whoever you want, because it is a game for all ages: children, teenagers and adults. Perfect for\nsharing fun moments with family or friends. Duration and number of players: fast and exciting games from 5 to 10 minutes. Perfect for 1v1 games or team 2v2",
+        "manufacturer_recommended_age": "7 years and up"
+      },
+      "powerchat_verdict": "FP",
+      "powerchat_reason": "PLAKKS Basketball is a board game that falls under EXCLUDED GROUP B (Board games, card games, puzzles, and models). The product is explicitly marketed as a 'jeu de\nsociété' (board game) with game rules, player placement mechanics, and competitive gameplay. Board games are excluded from the FR_Toys_1_Toys rule regardless of age\ntargeting. The fact that it involves a basketball theme and physical components does not reclassify it as a toy; it remains a strategy/skill-based board game.",
+      "nova_verdict": "TP",
+      "nova_reason": "The product is a tabletop basketball game designed for children, featuring a playboard with miniature figures and basketball hoops, clearly intended for play and falls under the\n'Toys for Toddlers and Preschoolers' category.\n[IMAGES: 6]"
+    },
+    {
+      "asin": "B01B7QQNQA",
+      "csi_title": "Legler - 10015 - Maison de jeu en carton - Cabane",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "Taille unique",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "3 ans to 8 ans"
+          ],
+          "normalized": null
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": "Carton",
+          "normalized": "Carton"
+        },
+        "bullet_points": {
+          "fr": [
+            "Une maison pour soi, ce serait vraiment super, Celle-ci est en carton et se monte à merveille, Sans pierres et sans mortier"
+          ],
+          "en": [
+            "There are no limits to fanatsy and personal taste creative activity for children Quick and easy to assemble Suitable for painting with wax crayons, felt and coloured\npencils Cut-out door and window can be opened and closed This is made of cardboard and can be assembled wonderfully The great: it can be individually designed with wax\ncrayons, felt and coloured pencils Dimensions: approx. 87 x 71 x 88 cm"
+          ],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B01B7QQNQA_0.jpg",
+        "images": [
+          "./images/B01B7QQNQA_0.jpg",
+          "./images/B01B7QQNQA_1.jpg",
+          "./images/B01B7QQNQA_2.jpg",
+          "./images/B01B7QQNQA_3.jpg",
+          "./images/B01B7QQNQA_4.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B01B7QQNQA",
+        "title": "Tektorado 0001 Colouring Farmhouse Card Board Toy, Multi, One Size",
+        "brand_name": "Small Foot\nAge Range Description: Kid\nGlobal Trade Identification Number: 05903240192007\nSet Name: 1 playhouse",
+        "included_components": "Arts and Crafts Supplies",
+        "country_of_origin": null,
+        "unit_count": "1.0 count",
+        "item_type_name": null,
+        "model_name": null,
+        "model_number": "Tektorado_0001",
+        "manufacturer_part_number": "Tektorado_0001",
+        "manufacturer": "Legler",
+        "best_sellers_rank": "219,274 in Toys (See Top 100 in Toys) 82 in Playhouses",
+        "asin": "B01B7QQNQA",
+        "bullets": "There are no limits to fanatsy and personal taste creative activity for children Quick and easy to assemble Suitable for painting with wax crayons, felt and coloured\npencils Cut-out door and window can be opened and closed This is made of cardboard and can be assembled wonderfully The great: it can be individually designed with wax\ncrayons, felt and coloured pencils Dimensions: approx. 87 x 71 x 88 cm",
+        "manufacturer_recommended_age": "36 months - 8 years"
+      },
+      "powerchat_verdict": "TP",
+      "powerchat_reason": "Product passes foundational definition check (designed for children's play, ages 3-8), passes exclusion checks (not in excluded groups A, B, or C), and qualifies under Branch\nE (Toys for Toddlers and Preschoolers) as a pretend play/role-play toy. The cardboard playhouse is explicitly marketed as a toy house ('maison de jeu') for imaginative play\nwith customizable design features, meeting the criteria for pretend play scenarios for children.",
+      "nova_verdict": "TP",
+      "nova_reason": "The product is a cardboard playhouse designed for children, featuring playful animal illustrations and a structure intended for imaginative play, aligning with the 'Toys for\nToddlers and Preschoolers' category.\n[IMAGES: 5]"
+    },
+    {
+      "asin": "B0FTM4N6T8",
+      "csi_title": "Jeu de pêche magnétique pour Les - Jeu de cueillette de Haricots d'abeilles | Planche de Table Amusante Gamne & Interactive Toy for Party Activity School\npréscolaires Childerns Home",
+      "csi_status": "TS\nisTombstone: true",
+      "attributes": {
+        "size_info": {
+          "size": "Se référer au descriptif",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Se référer à la description"
+          ],
+          "normalized": null
+        },
+        "target_gender": null,
+        "material": {
+          "raw": "PVC + magnétique",
+          "normalized": "PVC + magnétique"
+        },
+        "bullet_points": {
+          "fr": [
+            "Adventure créative d'abeille: conception d'abeille mignonne associée à une magnétique favorise l'exploration tout en simulant le processus d'aigne d'abeille,\ncréant une expérience engageante et éducative centrée sur les aventures amusantes sur le thème des abeilles, Améliore l'interaction de l'équip"
+          ],
+          "en": [],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B0FTM4N6T8_0.jpg",
+        "images": [
+          "./images/B0FTM4N6T8_0.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B0FTM4N6T8",
+        "title": "Fetch Error",
+        "brand_name": null,
+        "included_components": null,
+        "country_of_origin": null,
+        "unit_count": null,
+        "item_type_name": null,
+        "model_name": null,
+        "model_number": null,
+        "manufacturer_part_number": null,
+        "manufacturer": null,
+        "best_sellers_rank": null,
+        "asin": null,
+        "bullets": null,
+        "manufacturer_recommended_age": null
+      },
+      "powerchat_verdict": "TP",
+      "powerchat_reason": "Product is a structured magnetic fishing game kit designed for preschool children with multiple components (magnetic board, fishing rods, colored beads, bee figurines, nests).\nIt explicitly targets children for interactive play and skill development. Passes Step 0 (designed for play by children), Step 1 (not in excluded groups), and qualifies under\nBranch E (Toys for Toddlers and Preschoolers) as a pretend play/role-play activity toy, and Branch G (Creative Hobbies) as a structured game kit. No built-in non-separable\nelectronics detected. NOVA visual analysis confirms TP classification.",
+      "nova_verdict": "TP",
+      "nova_reason": "The product is a structured creative craft kit designed for children, featuring a bee-themed activity board with colorful balls and accessories, aligning with Branch G (Creative\nHobbies Toys and Accessories).\n\n[IMAGES: 1]"
+    },
+    {
+      "asin": "B00XYZXNMA",
+      "csi_title": "Peugeot 908 Paris 2006 1:87 Spark Modèle auto Compétition modèle modèle",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": null,
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte"
+          ],
+          "normalized": null
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [],
+          "en": [],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B00XYZXNMA_0.jpg",
+        "images": [
+          "./images/B00XYZXNMA_0.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B00XYZXNMA",
+        "title": "Peugeot 908 Paris 2006 1:87 Spark Model Car Competition Model Die Cast\nAge Range Description: Kind",
+        "brand_name": null,
+        "included_components": null,
+        "country_of_origin": null,
+        "unit_count": null,
+        "item_type_name": null,
+        "model_name": null,
+        "model_number": null,
+        "manufacturer_part_number": null,
+        "manufacturer": "Spark Model",
+        "best_sellers_rank": null,
+        "asin": "B00XYZXNMA",
+        "bullets": null,
+        "manufacturer_recommended_age": null
+      },
+      "powerchat_verdict": "FP",
+      "powerchat_reason": "Product is a 1:87 scale die-cast model car (Peugeot 908) marketed to adults. It matches EXCLUDED GROUP B exclusion for 'Models and maquettes made of wood, plastic, or\nother materials for any age.' The NOVA VISUAL AI analysis confirms this is a display model in a case/stand, not a toy designed for play. Step 0 foundational check fails:\nproduct is not designed for play by children but rather for adult collecting/display. Verdict: FP.",
+      "nova_verdict": "FP",
+      "nova_reason": "The product is a model car displayed in a case and on a stand, which is classified as a model or maquette rather than a toy intended for play. It falls under the exclusion for\nmodels and maquettes, making it FP.\n[IMAGES: 1]"
+    },
+    {
+      "asin": "B0FTLGFN4B",
+      "csi_title": "iplusmile Planche Montessori Bois pour Tracer Lettres et Chiffres Éducatif pour Garçon Fille Outil Apprentissage Motricité Fine et Écriture",
+      "csi_status": "TS\nisTombstone: true",
+      "attributes": {
+        "size_info": {
+          "size": "22x17.5cm",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "1"
+          ],
+          "normalized": null
+        },
+        "target_gender": null,
+        "material": {
+          "raw": "Bois",
+          "normalized": "Bois"
+        },
+        "bullet_points": {
+          "fr": [
+            "Tableau de traçage de lettres double face - aide à promouvoir le contrôle de la motricité fine et la coordination œil-main ainsi que l'écriture manuscrite, de traçage,\nTableau de traçage - ce serait un excellent ajout à votre salle de classe à domicile ou un cadeau attentionné pour un tout-petit, ta"
+          ],
+          "en": [],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B0FTLGFN4B_0.jpg",
+        "images": [
+          "./images/B0FTLGFN4B_0.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B0FTLGFN4B",
+        "title": "Fetch Error",
+        "brand_name": null,
+        "included_components": null,
+        "country_of_origin": null,
+        "unit_count": null,
+        "item_type_name": null,
+        "model_name": null,
+        "model_number": null,
+        "manufacturer_part_number": null,
+        "manufacturer": null,
+        "best_sellers_rank": null,
+        "asin": null,
+        "bullets": null,
+        "manufacturer_recommended_age": null
+      },
+      "powerchat_verdict": "TP",
+      "powerchat_reason": "Product is a wooden Montessori letter and number tracing board designed for toddlers and preschoolers (age 1+) to develop fine motor skills and writing practice. It matches\nBRANCH E (Toys for Toddlers and Preschoolers) as a pre-school educational toy with learning intent. No electronic components present. Passes STEP 0 (designed for\nplay/learning by children), STEP 1 (not excluded), and qualifies under STEP 2 BRANCH E as an educational toy for early learners.",
+      "nova_verdict": "TP",
+      "nova_reason": "The product is a wooden educational puzzle designed for preschool children, featuring numbers and shapes for learning, which qualifies it as an educational toy under Branch\nE.\n\n[IMAGES: 1]"
+    },
+    {
+      "asin": "B0FW8M7XHK",
+      "csi_title": "Fabater Jeu de Dés Polyvalent pour la créativité du Vocabulaire et Le Plaisir Interactif, 12 Dés pour Une Soirée de Jeu en Famille",
+      "csi_status": "TS\nisTombstone: true",
+      "attributes": {
+        "size_info": {
+          "size": null,
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte"
+          ],
+          "normalized": null
+        },
+        "target_gender": null,
+        "material": {
+          "raw": "plastique, fer",
+          "normalized": "plastique, fer"
+        },
+        "bullet_points": {
+          "fr": [
+            "[AMUSEMENT ÉDUCATIF] : Faites de l'apprentissage une expérience amusante avec ce jeu de mots croisés de dés, pour les joueurs de âges., [UTILISATION\nPOLYVALENTE] : utilisez le jeu pour pratiquer l'orthographe, le vocabulaire et les compétences linguistiques tout en profitant de défis qui stimulent v"
+          ],
+          "en": [],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B0FW8M7XHK_0.jpg",
+        "images": [
+          "./images/B0FW8M7XHK_0.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B0FW8M7XHK",
+        "title": "Fetch Error",
+        "brand_name": null,
+        "included_components": null,
+        "country_of_origin": null,
+        "unit_count": null,
+        "item_type_name": null,
+        "model_name": null,
+        "model_number": null,
+        "manufacturer_part_number": null,
+        "manufacturer": null,
+        "best_sellers_rank": null,
+        "asin": null,
+        "bullets": null,
+        "manufacturer_recommended_age": null
+      },
+      "powerchat_verdict": "FP",
+      "powerchat_reason": "This product is a dice word game that falls under EXCLUDED GROUP B (board games, dice games, word games). The product is explicitly a dice-based word game with rules\nfor competitive play among multiple players, which matches the exclusion criteria for dice games and word games. Although it contains dice as components, the primary\npurpose is gameplay with rules and strategy, not toy play. The age range is marked as 'Adulte' (Adult), further confirming it is not a children's toy. Per STEP 1 EXCLUSION\nCHECK, the verdict is FP.\n[IMAGES: 1]",
+      "nova_verdict": "N/A",
+      "nova_reason": ""
+    },
+    {
+      "asin": "B0CS2GFB1T",
+      "csi_title": "Tableau à craie magnétique Tableau d'écriture magnétique à suspendre Ardoise avec cadre en bois ; Tableau mural avec crayon à craie et aimants. (XXL - 43 x 58\ncm)\nbullet_point: Ø<ß? Ø5ÝÖØ5ÝÛØ5ÝÔØ5ÝåØ5ÝàØ5ÝØ Ø5ÝéØ5ÝÜØ5ÝáØ5ÝçØ5ÝÔØ5ÝÚØ5ÝØ Ø5ÝØØ5Ýç Ø5ÝÙØ5ÝâØ5ÝáØ5ÝÖØ5ÝçØ5ÝÜØ5ÝâØ5ÝáØ5ÝáØ5ÝÔØ5ÝßØ5ÝÜØ5ÝçÉ - Ce tableau à craies magnétique combine charme rustique et utilisation pratique. Idéal\npour l'entrée, la cuisine, les restaurants, les cafés et les bars. Parfait pour les notes, les listes de choses à faire ou comme agenda hebdomadaire",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "43l x 43H cm",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [],
+          "normalized": null
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": "Ardoise",
+          "normalized": "Ardoise"
+        },
+        "bullet_points": {
+          "fr": [],
+          "en": [
+            "Versatile warmth and functionality: this magnetic chalkboard combines rustic charm with practical use. Ideal for hallway, kitchen, restaurants, cafes and bars. Perfect\nfor notes, to do lists or as a weekly planner. Writing fun with content: thanks to the protective lacquered surface, the board offers excellent writing contrast. The included chalk\npen allows for easy and clean writing and drawing. Versatile magnet: with the four included magnets, attaching and reorganising notes becomes a pleasur"
+          ],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B0CS2GFB1T_0.jpg",
+        "images": [
+          "./images/B0CS2GFB1T_0.jpg",
+          "./images/B0CS2GFB1T_1.jpg",
+          "./images/B0CS2GFB1T_2.jpg",
+          "./images/B0CS2GFB1T_3.jpg",
+          "./images/B0CS2GFB1T_4.jpg",
+          "./images/B0CS2GFB1T_5.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B0CS2GFB1T",
+        "title": "Magnetic Chalkboard, Writing Board, Magnetic Board for Hanging, Slate Board with Wooden Frame, Wall Board Including Chalk Pen & Magnets (XXL - 43 x 58 cm)",
+        "brand_name": "GOODS+GADGETS\nRecommended Uses For Product: Restaurant",
+        "included_components": "Chalk, magnet, mounting material\nTarget Audience: Business Professional\nNumber of Packs: 1",
+        "country_of_origin": null,
+        "unit_count": "1.0 stück",
+        "item_type_name": null,
+        "model_name": null,
+        "model_number": null,
+        "manufacturer_part_number": "91752416",
+        "manufacturer": "GOODS+GADGETS",
+        "best_sellers_rank": "6,540 in Stationery & Office Supplies (See Top 100 in Stationery & Office Supplies) 25 in Chalkboards",
+        "asin": "B0CS2GFB1T",
+        "bullets": "Versatile warmth and functionality: this magnetic chalkboard combines rustic charm with practical use. Ideal for hallway, kitchen, restaurants, cafes and bars. Perfect\nfor notes, to do lists or as a weekly planner. Writing fun with content: thanks to the protective lacquered surface, the board offers excellent writing contrast. The included chalk\npen allows for easy and clean writing and drawing. Versatile magnet: with the four included magnets, attaching and reorganising notes becomes a pleasur",
+        "manufacturer_recommended_age": null
+      },
+      "powerchat_verdict": "FP",
+      "powerchat_reason": "Product fails STEP 0 foundational definition check. This is a magnetic chalkboard designed for adult use in homes, offices, restaurants, cafes, and bars for note-taking and\nscheduling—not designed or intended for play by children. Marketing emphasizes practical functionality (to-do lists, weekly planners, signage) rather than play intent. No\nexplicit evidence of toy or play purpose in title, description, or bullet points. Generic 'fun' language ('plaisir d'écrire', 'jeu d'enfant') refers to ease of use, not play design. Product\nbelongs to home organization/office supplies category, not toys.\n[IMAGES: 6]",
+      "nova_verdict": "N/A",
+      "nova_reason": ""
+    },
+    {
+      "asin": "B0FKYJZR3B",
+      "csi_title": "FREEBLOSS Kit de Broderie au Point de Croix 11CT pour Adultes Débutants avec Instructions Motif Tête de Mort Livre Décoration Murale Sans Cadre 18x18cm",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "23 x 30 cm",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [],
+          "normalized": null
+        },
+        "target_gender": null,
+        "material": {
+          "raw": "Coton",
+          "normalized": "Coton"
+        },
+        "bullet_points": {
+          "fr": [
+            "Kit de point de croix complet:vous recevrez 15 couleur de fil en quantité suffisante, 1 pièce de tissu à broder en pur coton 18\"*18\", un enfileur, Aiguilles 5pcs, et 1\ninstruction, Motif imprimé lavable:chaque kit de point de croix est livré avec un motif pré-imprimé de tissu à broder, qui vous perm"
+          ],
+          "en": [
+            "Complete cross stitch set: you will receive 15 colour yarn in sufficient quantity, 1 piece 18 x 18 inch embroidery cloth made of pure cotton, a threader, 5 pieces\nneedles, and 1 piece instructions (English language not guaranteed) Washable printed pattern: each cross stitch kit contains a pre-printed embroidery cloth pattern, which\nallows you to preview the finished product in advance and can help you very much with the embroidery process, plus, the pattern is very easy to wash with water Embroi"
+          ],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B0FKYJZR3B_0.jpg",
+        "images": [
+          "./images/B0FKYJZR3B_0.jpg",
+          "./images/B0FKYJZR3B_1.jpg",
+          "./images/B0FKYJZR3B_2.jpg",
+          "./images/B0FKYJZR3B_3.jpg",
+          "./images/B0FKYJZR3B_4.jpg",
+          "./images/B0FKYJZR3B_5.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B0FKYJZR3B",
+        "title": "FREEBLOSS 11CT Stamped Cross Stitch Set for Adults and Beginners with Instructions Skull Books Pattern Cross Stitch Set Embroidery Wall Art Decoration Without\nFrame 18 x 18 Inches / 45 x 45 cm",
+        "brand_name": "FREEBLOSS",
+        "included_components": "15 colors thread 1 pure cotton embroidery cloth 18x18 inch threader, 5 needles, 1 instruction manual Not in English)\nArt Craft Kit Type: Embroidery\nCross-Stitch Pattern Type: Stamped",
+        "country_of_origin": "China",
+        "unit_count": "1.0 count",
+        "item_type_name": null,
+        "model_name": null,
+        "model_number": "HOME-FB0041-55-EU35",
+        "manufacturer_part_number": "HOME-FB0041-55-EU35",
+        "manufacturer": "FREEBLOSS",
+        "best_sellers_rank": "699,193 in Home & Kitchen (See Top 100 in Home & Kitchen) 685 in Embroidery Kits",
+        "asin": "B0FKYJZR3B",
+        "bullets": "Complete cross stitch set: you will receive 15 colour yarn in sufficient quantity, 1 piece 18 x 18 inch embroidery cloth made of pure cotton, a threader, 5 pieces\nneedles, and 1 piece instructions (English language not guaranteed) Washable printed pattern: each cross stitch kit contains a pre-printed embroidery cloth pattern, which\nallows you to preview the finished product in advance and can help you very much with the embroidery process, plus, the pattern is very easy to wash with water Embroi",
+        "manufacturer_recommended_age": null
+      },
+      "powerchat_verdict": "FP",
+      "powerchat_reason": "```json\n{\n  'verdict': 'FP',\n  'reason': 'Cross-stitch kit targeted at adults. Per STEP 3 EDGE CASE CLARIFICATIONS: 'Cross-stitch or embroidery kits targeted at adults are FP because they are\nneedlework not toy category.' Product explicitly states 'pour Adultes' (for adults) and 'Débutants' (beginners), with adult-oriented marketing. This is a needlework craft kit for\nadults, not a structured children's toy or creative hobby toy as defined in BRANCH G.'\n}\n```\n**ASIN Classification Summary:**\n| Field | Value |\n|-------|-------|\n| **ASIN** | Not provided in evidence |\n| **Product** | FREEBLOSS Cross Stitch Kit - Skull Pattern 18x18cm |\n| **Verdict** | **FP** |\n| **Rule Category** | STEP 3 Edge Case Clarification - Adult Needlework Exclusion |\n| **Confidence** | 95% |\n| **Reasoning** | The product is explicitly marketed for adults ('pour Adultes Débutants') and is a cross-stitch embroidery kit. Per the decision tree's STEP 3 EDGE CASE\nCLARIFICATIONS section, 'Cross-stitch or embroidery kits targeted at adults are FP because they are needlework not toy category.' While BRANCH G includes structured\ncreative kits, it specifically excludes adult needlework. This product falls outside toy scope. |",
+      "nova_verdict": "FP",
+      "nova_reason": "The product is an embroidery kit designed for adults, classified as a needlework craft rather than a structured toy for children. It does not meet the criteria for inclusion under\nthe FR_Toys_1 rule as it is not marketed specifically for children or structured as a toy.\n[IMAGES: 6]"
+    },
+    {
+      "asin": "B0F24244Y4",
+      "csi_title": "Ingwerkatze isst Pizza, 1500-teiliges Puzzle f&#252;r Erwachsene, 100% recycelte Holzplatte, schwierige Puzzles f&#252;r Frauen und M&#228;nner, 1500 Teile\n(85 x 57 cm)\nbullet_point: 0\u0010Matériau de qualité supérieure0\u0011Les puzzles de puzzle sont fabriqués en bois de qualité supérieure, non toxique et inodore. Le bord lisse est bien poli et il n'y a\npas besoin de s'inquiéter d'être blessé par des rebours non traités. Mesures de taille des finitions : 520pcs (52x38cm) 1000pcs (75x50cm",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "1500pcs (85x57cm)",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "168_months_to_1188_months\nsize_map: 20"
+          ],
+          "normalized": null
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [],
+          "en": [],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B0F24244Y4_0.jpg",
+        "images": [
+          "./images/B0F24244Y4_0.jpg",
+          "./images/B0F24244Y4_1.jpg",
+          "./images/B0F24244Y4_2.jpg",
+          "./images/B0F24244Y4_3.jpg",
+          "./images/B0F24244Y4_4.jpg",
+          "./images/B0F24244Y4_5.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B0F24244Y4",
+        "title": "Ingwerkatze isst Pizza, 1500-teiliges Puzzle für Erwachsene, 100% recycelte Holzplatte, schwierige Puzzles für Frauen und Männer, 1500 Teile (85 x 57 cm)",
+        "brand_name": "ECXASD\nAge Range Description: 168_months_to_1200_months",
+        "included_components": null,
+        "country_of_origin": null,
+        "unit_count": "1.0 stück",
+        "item_type_name": null,
+        "model_name": null,
+        "model_number": null,
+        "manufacturer_part_number": null,
+        "manufacturer": "ECXASD",
+        "best_sellers_rank": null,
+        "asin": "B0F24244Y4\nBullets: 0\u0010Premium Material0\u0011Jigsaw Puzzles sind aus hochwertigem Holzmaterial gefertigt, nicht giftig und geruchlos. Glatte Kante ist gut poliert und es gibt keine\nNotwendigkeit, sich Sorgen darüber zu machen, durch unbearbeitete Graben verletzt zu werden. Finishes Größe Maßnahmen: 520pcs (52x38cm) 1000pcs (75x50cm)\n1500pcs (87x57cm) 0\u0010Einzigartiges Design0\u0011 Jedes Puzzleteil hat eine einzigartige Form und es ist unmöglich, dass ein Puzzleteil an die falsche Stelle passt. Ob größer oder\nkleiner, jedes Teil i",
+        "bullets": null,
+        "manufacturer_recommended_age": null
+      },
+      "powerchat_verdict": "FP",
+      "powerchat_reason": "This is an adult jigsaw puzzle (1500 pieces, 85x57cm) explicitly marketed for adults ('Puzzle für Erwachsene', 'für Frauen und Männer'). Per STEP 1, EXCLUDED GROUP B:\n'All jigsaw puzzles of any piece count (under 500, exactly 500, over 500, wooden non-educational)' and 'All other flat or jigsaw puzzles of any piece count, any age, including\ndecorative adult wooden puzzles are EXCLUDED.' The product does not qualify as an educational puzzle for preschoolers (STEP 2 exception), making it FP.",
+      "nova_verdict": "FP",
+      "nova_reason": "The product is a flat jigsaw puzzle, which is excluded under Group B for puzzles. The images show a decorative adult wooden puzzle, which is not in scope for the toy\nclassification rule.\n[IMAGES: 6]"
+    },
+    {
+      "asin": "B08S7C8HN5",
+      "csi_title": "STABILO - Duo Buntstift, Wasserfarbe &amp; Wachsmalkreide - woody 3 in 1 duo - zweifarbige Mine - 5er Pack mit Spitzer - 5 Stifte",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "Etui x 5 + taille crayon",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Enfant"
+          ],
+          "normalized": null
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": "Bois",
+          "normalized": "Bois"
+        },
+        "bullet_points": {
+          "fr": [
+            "CRAYONS DE COULEUR A MINE BICOLORE plus 1 taille-crayon inclus : 5 combinaisons de couleurs uniques pour des coloriages toujours plus créatifs.\nColorier devient deux fois plus amusant avec le crayon STABILO woody duo, CRAYON POLYVALENT : STABILO woody duo est un crayon de couleur multi-usage et mult"
+          ],
+          "en": [
+            "Duo lead for double colouring fun. 10 unique colour combinations for unlimited creativity. Create colourful painting effects by simply turning the pen. Colouring pencil,\nwatercolour and wax crayon all in one pen. High coverage and colour intensity - even on dark papers and cardboard. Water-soluble."
+          ],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B08S7C8HN5_0.jpg",
+        "images": [
+          "./images/B08S7C8HN5_0.jpg",
+          "./images/B08S7C8HN5_1.jpg",
+          "./images/B08S7C8HN5_2.jpg",
+          "./images/B08S7C8HN5_3.jpg",
+          "./images/B08S7C8HN5_4.jpg",
+          "./images/B08S7C8HN5_5.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B08S7C8HN5",
+        "title": "Duo Colouring Pencil, Watercolour & Wax Crayon - STABILO woody 3 in 1 Duo - Two-Tone Lead - Pack of 5 with Sharpener - with 5 Pens and 10 Different Colours\nWriting Instrument Form: Colored Pencil\nInk Colour: Multicolor\nDrill Point: Bold\nSpecial Features: Pre-Sharpened\nLine Size: 1 Millimeters\nIs the Product Left or Right Handed?: Ambidextrous\nGrip Type: No\nWriting Technique: Colouring pencil, wax crayon",
+        "brand_name": null,
+        "included_components": null,
+        "country_of_origin": null,
+        "unit_count": null,
+        "item_type_name": null,
+        "model_name": null,
+        "model_number": null,
+        "manufacturer_part_number": null,
+        "manufacturer": null,
+        "best_sellers_rank": null,
+        "asin": null,
+        "bullets": "Duo lead for double colouring fun. 10 unique colour combinations for unlimited creativity. Create colourful painting effects by simply turning the pen. Colouring pencil,\nwatercolour and wax crayon all in one pen. High coverage and colour intensity - even on dark papers and cardboard. Water-soluble.",
+        "manufacturer_recommended_age": null
+      },
+      "powerchat_verdict": "TP",
+      "powerchat_reason": "```json\n{\n  'verdict': 'TP',\n  'reason': 'Product passes foundational definition check (Step 0): explicitly designed for children's play/coloring as evidenced by 'Enfant' age range, 'ideal pour les enfants'\nmarketing, and large body 'for small hands.' Passes exclusion checks (Step 1): not a standalone pencil/crayon but a structured multi-component kit (5 pens + sharpener)\nmarketed specifically for children with play elements. Fits Branch G (Creative Hobbies Toys): water-soluble coloring pencil kit with multiple components designed as a\nstructured creative toy for children, similar to paint-by-numbers or art activity kits.'\n}\n```\n**Classification Details:**\n| Field | Value |\n|-------|-------|\n| **ASIN** | Not provided in evidence |\n| **Product** | STABILO woody 3 in 1 Duo - Pack of 5 with Sharpener |\n| **Verdict** | **TP** |\n| **Rule Category** | Branch G: Creative Hobbies Toys and Accessories |\n| **Confidence** | 95% |\n| **Reasoning** | This is a structured children's craft kit containing 5 dual-lead coloring pencils plus sharpener, explicitly marketed for children ('Enfant' age range, 'ideal pour\nles enfants,' ergonomic design for small hands). The multi-component nature, water-soluble functionality, and creative play intent distinguish it from standalone pencils/crayons\n(which would be FP). It qualifies as a creative hobby toy under Branch G. |",
+      "nova_verdict": "FP",
+      "nova_reason": "The product is a set of multi-talented pencils marketed for drawing fun, but standalone pencils without structured game elements or educational purpose are excluded from toy\nclassification under the rule. The images show pencils as standalone art supplies rather than part of a structured children's set.\n[IMAGES: 6]"
+    },
+    {
+      "asin": "B0GF1CMWLC",
+      "csi_title": "Puzzle 1500 Teile Ph&#246;nix, Traum Puzzle 1500 Teile Erwachsene, Holzpuzzle Erwachsene, EIN Herausforderndes R&#228;tsel, Puzzlespiele f&#252;r Die\nGanze Familie, Holzpuzzle f&#252;r Deko Wohnzimmer, Geschenke, G-74\nbullet_point: 0\u0010PUZZLE0\u0011: Puzzle 1500 pieces adultes. Dimensions finales: .87x57cm. Les puzzles pour adultes sont livrés dans une boîte élégante et accompagnés d'un\nposter. Veuillez vous référer au poster pour compléter le puzzle, 0\u0010MATÉRIAU DE QUALITÉ0\u0011: Imprimé avec de l'encre haute définition, ce puzzle offre des",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "1500 pieces-87x57 cm",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "168_months_to_1200_months"
+          ],
+          "normalized": null
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": "Bois",
+          "normalized": "Bois"
+        },
+        "bullet_points": {
+          "fr": [],
+          "en": [
+            "Puzzle: puzzle 1500 pieces for adults. Finished size: 87 x 57 cm. The puzzles for adults come in an elegant gift box and with a poster. Please refer to the poster to\ncomplete the puzzle Wooden puzzle for adults: the puzzle is printed with high-resolution ink and offers rich and vibrant colours that do not fade easily. High quality wood,\nsmooth cuts and seamless joints, comfortable to hold, durable and shatterproof. This offers puzzle lovers a fulfilling experience Fun to play: puzzles improve ha"
+          ],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B0GF1CMWLC_0.jpg",
+        "images": [
+          "./images/B0GF1CMWLC_0.jpg",
+          "./images/B0GF1CMWLC_1.jpg",
+          "./images/B0GF1CMWLC_2.jpg",
+          "./images/B0GF1CMWLC_3.jpg",
+          "./images/B0GF1CMWLC_4.jpg",
+          "./images/B0GF1CMWLC_5.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B0GF1CMWLC",
+        "title": "Puzzle 1500 Pieces Phoenix, Dream Puzzle 1500 Pieces Adults, Wooden Puzzle Adults, A Challenging Puzzle, Puzzle Games for the Whole Family, Wooden Puzzle for\nDecoration Living Room, Gifts, G-74",
+        "brand_name": "Kinntn",
+        "included_components": "Box, wooden puzzle, divider cards, mesh bag, reference poster\nAge Range Description: 168/1200 Months",
+        "country_of_origin": "China",
+        "unit_count": null,
+        "item_type_name": null,
+        "model_name": null,
+        "model_number": null,
+        "manufacturer_part_number": "KINNPINTU1273",
+        "manufacturer": "Kinntn",
+        "best_sellers_rank": null,
+        "asin": "B0GF1CMWLC",
+        "bullets": "Puzzle: puzzle 1500 pieces for adults. Finished size: 87 x 57 cm. The puzzles for adults come in an elegant gift box and with a poster. Please refer to the poster to\ncomplete the puzzle Wooden puzzle for adults: the puzzle is printed with high-resolution ink and offers rich and vibrant colours that do not fade easily. High quality wood,\nsmooth cuts and seamless joints, comfortable to hold, durable and shatterproof. This offers puzzle lovers a fulfilling experience Fun to play: puzzles improve ha",
+        "manufacturer_recommended_age": "15 years and up"
+      },
+      "powerchat_verdict": "FP",
+      "powerchat_reason": "This is an adult wooden jigsaw puzzle (1500 pieces) explicitly marketed for adults ('Puzzle 1500 Pieces Adults', 'Wooden Puzzle Adults', 'puzzles for adults'). Per STEP 1,\nEXCLUDED GROUP B, KEY DISTINCTION FOR PUZZLES: 'All other flat or jigsaw puzzles of any piece count, any age, including decorative adult wooden puzzles are\nEXCLUDED. Verdict is FP.' The product fails the exclusion check and does not qualify as an in-scope educational puzzle for preschoolers or a 3D puzzle.",
+      "nova_verdict": "FP",
+      "nova_reason": "The product is a flat jigsaw puzzle, which is excluded under the rule as it is not a preschool educational puzzle or a 3D construction puzzle.\n[IMAGES: 6]"
+    },
+    {
+      "asin": "B08R39HSJQ",
+      "csi_title": "INPODAK H&#252;pftier, H&#252;pfpferd f&#252;r Kinder 3-8 Jahre, Brown Springtier Mit Handpumpe, 100kg Belastbar,Kinderspielzeug f&#252;r drinnen und\ndrau&#223;en\nbullet_point: 0\u0010Excellent Horse Hopper0\u0011Idée de design unique originale d'un cheval de dessin animé, expressions faciales mignonnes, une paire de grands yeux, une crinière\nflottante, une selle noire et une posture vigoureuse, laissez les bébés monter sur un joli poney comme un vrai cavalier !, [ Animal Space Hopper",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "L",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Enfant"
+          ],
+          "normalized": null
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": "PVC",
+          "normalized": "PVC"
+        },
+        "bullet_points": {
+          "fr": [],
+          "en": [],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B08R39HSJQ_0.jpg",
+        "images": [
+          "./images/B08R39HSJQ_0.jpg",
+          "./images/B08R39HSJQ_1.jpg",
+          "./images/B08R39HSJQ_2.jpg",
+          "./images/B08R39HSJQ_3.jpg",
+          "./images/B08R39HSJQ_4.jpg",
+          "./images/B08R39HSJQ_5.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B08R39HSJQ",
+        "title": "INPODAK Bouncy Toy, Bouncy Horse for Children 3-8 Years, Brown Jumping Animal with Hand Pump, 100 kg Load Capacity, Children's Toy for Indoor and Outdoor Use",
+        "brand_name": "INPODAK\nAge Range Description: Kid\nManufacturer Warranty Description: 12 Months\nSet Name: Style 1",
+        "included_components": "1 bouncy animal, 1 x gift box, 1 x hand pump",
+        "country_of_origin": "China",
+        "unit_count": "1.0 count",
+        "item_type_name": null,
+        "model_name": null,
+        "model_number": "XT14PM",
+        "manufacturer_part_number": "XT14PM",
+        "manufacturer": "INPODAK",
+        "best_sellers_rank": "42,422 in Toys (See Top 100 in Toys) 99 in Pogo Sticks & Hoppers",
+        "asin": "B08R39HSJQ",
+        "bullets": null,
+        "manufacturer_recommended_age": "18 months - 8 years\nBullets: 0\u0010Unique Design0\u0011: This bouncy horse can refer to the children's body shape, with easy to grip support corners on the head, a wider base and sturdy corners to ensure\nchildren's safety when playing. [Kids Jumping Horse for 3-8 Years]:This kids jumping horse complies with EN71, is made of high quality materials, can hold up to 100kg and is\nsuitable for children over 18 months. Washable appearance: this yellow bee jumping horse appearance is pink cute bee, the material is high-quality PVC, the appear"
+      },
+      "powerchat_verdict": "FP",
+      "powerchat_reason": "```json\n{\n  'verdict': 'FP',\n  'reason': 'This product is an inflatable hopper toy (bouncy horse) designed for children to ride on. According to EXCLUDED GROUP A of the decision tree, 'Ride-on cars,\nelectric ride-on vehicles, pogo sticks, jumper or hopper toys' are explicitly excluded from scope. The product's primary function—children bouncing/riding on it—matches the\n'hopper toys' exclusion category, resulting in FP classification.'\n}\n```\n**Summary:**\n<p><b>ASIN:</b> Not provided in evidence</p>\n<p><b>Product:</b> INPODAK Bouncy Horse (Hüpftier)</p>\n<p><b>Verdict:</b> <b>FP</b></p>\n<p><b>Rule Category:</b> Excluded Group A – Outdoor and Ride-on Toys</p>\n<p><b>Confidence:</b> 95%</p>\n<p><b>Reasoning:</b> The decision tree explicitly excludes 'jumper or hopper toys' in EXCLUDED GROUP A. This inflatable bouncy horse is designed for children ages 3–8\nto sit on and bounce, which is the defining characteristic of hopper toys. Despite being marketed as a toy and designed for play, it falls outside the scope of FR_Toys_1_Toys\nrule due to this specific exclusion.</p>",
+      "nova_verdict": "TP",
+      "nova_reason": "The product is a plush toy designed for play by children, specifically a rocking horse intended for toddlers and preschoolers, fitting the definition of toys for toddlers and\npreschoolers under Branch E.\n[IMAGES: 6]"
+    },
+    {
+      "asin": "B0G5GS1N2P",
+      "csi_title": "TFLPUO 40 Farben Filz Basteln Set, 30&#215;30cm&#215;1mm Bastel Filz Bl&#228;tter Bastelfilz Filzstoff Polyester Filzplatten Bunt Felt Fabric zum DIY Basteln\nHandwerk Projekte",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "Taille unique",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [],
+          "normalized": null
+        },
+        "target_gender": null,
+        "material": {
+          "raw": "Feutre",
+          "normalized": "Feutre"
+        },
+        "bullet_points": {
+          "fr": [
+            "Feutre pour loisirs créatifs : notre paquet contient 40 feutres de bricolage de haute qualité en 40 couleurs vives qui répondent à vos besoins pour le bricolage\nquotidien, la fabrication d'artisanat, le scrapbooking et bien plus encore., Feutre de bricolage parfait : ce feutre de bricolage de 1 mm e"
+          ],
+          "en": [
+            "Felt for crafts: Our package contains 40 high-quality craft felt in 40 vibrant colours that meet your requirements for daily DIY, craft making, scrapbooking and much\nmore. Perfect DIY felt: this craft felt 1 mm is easy to cut, sew and glue. Unlike other felt fabrics, our polyester felt fabric is soft, yet strong and durable. Craft felt: felt crafts are\neasy to cut and sew and stick, all unfold with this felt for crafting unlimited creativity in everyday crafts to themed projects. 40 colours felt"
+          ],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B0G5GS1N2P_0.jpg",
+        "images": [
+          "./images/B0G5GS1N2P_0.jpg",
+          "./images/B0G5GS1N2P_1.jpg",
+          "./images/B0G5GS1N2P_2.jpg",
+          "./images/B0G5GS1N2P_3.jpg",
+          "./images/B0G5GS1N2P_4.jpg",
+          "./images/B0G5GS1N2P_5.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B0G5GS1N2P",
+        "title": "TFLPUO 40 Colours Felt Craft Set, 30 x 30 cm x 1 mm Craft Felt Sheets Craft Felt Fabric Polyester Felt Panels Colourful Felt Fabric for DIY Crafts Projects",
+        "brand_name": "TFLPUO",
+        "included_components": "Felt Sheets (40 Colors), Sewing Accessories\nArt Craft Kit Type: Felt Crafting\nUPC: 607608469095\nSet Name: 40 colours felt craft set",
+        "country_of_origin": "China",
+        "unit_count": "40.0 square meter",
+        "item_type_name": null,
+        "model_name": null,
+        "model_number": "YZKJDE-0096\nItem Length: 30 Centimetres",
+        "manufacturer_part_number": "YZKJDE-0096",
+        "manufacturer": "TFLPUO",
+        "best_sellers_rank": "593,582 in Home & Kitchen (See Top 100 in Home & Kitchen) 3,608 in Fabric",
+        "asin": "B0G5GS1N2P",
+        "bullets": "Felt for crafts: Our package contains 40 high-quality craft felt in 40 vibrant colours that meet your requirements for daily DIY, craft making, scrapbooking and much\nmore. Perfect DIY felt: this craft felt 1 mm is easy to cut, sew and glue. Unlike other felt fabrics, our polyester felt fabric is soft, yet strong and durable. Craft felt: felt crafts are\neasy to cut and sew and stick, all unfold with this felt for crafting unlimited creativity in everyday crafts to themed projects. 40 colours felt",
+        "manufacturer_recommended_age": null
+      },
+      "powerchat_verdict": "TP",
+      "powerchat_reason": "```json\n{\n  'verdict': 'TP',\n  'reason': 'Product is a structured DIY craft kit with 40 felt sheets in multiple colors designed for creative projects. It explicitly targets children (mentions 'parent-child crafts,'\n'school classes,' 'children's creativity and hand-eye coordination') and matches BRANCH G: Creative Hobbies Toys and Accessories. The product passed STEP 0 (designed\nfor play/creative use by children), STEP 1 (not excluded), and qualifies as a structured craft set with multiple components marketed for children's creative activities.'\n}\n```\n**ASIN Classification Details:**\n| Field | Value |\n|-------|-------|\n| **Verdict** | **TP** |\n| **Rule Category** | BRANCH G: Creative Hobbies Toys and Accessories |\n| **Confidence** | 95% |\n| **Reasoning** | This 40-color felt craft set is a structured DIY craft kit explicitly marketed for children's creative projects, parent-child activities, and school classes. It contains\nmultiple components (40 felt sheets) and is designed for hands-on creative play including crafting, scrapbooking, and artistic projects. The product clearly demonstrates\nplay/creative intent through its description emphasizing 'creativity,' 'hand-eye coordination,' and 'leisure activities' for children. No electronic components are present, and it\ndoes not match any exclusion criteria. |",
+      "nova_verdict": "TP",
+      "nova_reason": "The product consists of felt sheets, plush toys, and craft supplies designed for creative play and crafting activities, aligning with the 'Creative Hobbies Toys and Accessories'\ncategory (Branch G).\n[IMAGES: 6]"
+    },
+    {
+      "asin": "B0CXGYT1TX",
+      "csi_title": "Cobble Hill 3845060 Truck im Fr&#252;hling, 500 Teile Puzzle inkl. Puzzleposter f&#252;r Erwachsene und Kinder ab 12 Jahren, Hunde, Blumen, Farm",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "500 pièces, 68 x 49 cm",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "À partir de 12 ans"
+          ],
+          "normalized": null
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": "Carton",
+          "normalized": "Carton"
+        },
+        "bullet_points": {
+          "fr": [
+            "Émerveillez-vous devant la charge colorée et variée d'un pick-up par une journée ensoleillée de printemps avec le puzzle de 500 pièces de Cobble Hill « Camion\nau printemps ». Le motif détaillé avec chiots, fleurs et toutes sortes invite à découvrir et à s'attarder., Les puzzles de Cobble Hill ont un"
+          ],
+          "en": [
+            "Marvel at the colourful and diverse load of a pick-up on a sunny spring day with the high-quality 500-piece \"Truck in Spring\" puzzle from Cobble Hill The detailed motif\nwith puppies, flowers and all sorts of things invites you to discover and linger. Puzzles from Cobble Hill have a so-called random cut. This gives the puzzle pieces random and\nunusual shapes and thus create a surprising and unique puzzle experience! The precise cut also ensures low dust content. Cobble Hill stands for sustainabil"
+          ],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B0CXGYT1TX_0.jpg",
+        "images": [
+          "./images/B0CXGYT1TX_0.jpg",
+          "./images/B0CXGYT1TX_1.jpg",
+          "./images/B0CXGYT1TX_2.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B0CXGYT1TX",
+        "title": "Cobble Hill 3845060 Truck in Spring, 500 Piece Puzzle with Puzzle Poster for Adults and Children from 12 Years, Dogs, Flowers, Farm",
+        "brand_name": "Cobble Hill",
+        "included_components": "1 x puzzle.\nAge Range Description: 12 years and over",
+        "country_of_origin": "USA",
+        "unit_count": "1.0 count\nUPC: 625012450607",
+        "item_type_name": "Cobble Hill 3845060 Truck in Spring, 500 Piece Puzzle Including Puzzle Poster for Adults and Children from 12 Years, Dogs, Flowers, Farm\nManufacturer Warranty Description: Legal warranty",
+        "model_name": null,
+        "model_number": "COB45060",
+        "manufacturer_part_number": "COB45060",
+        "manufacturer": "Cobble Hill",
+        "best_sellers_rank": null,
+        "asin": "B0CXGYT1TX",
+        "bullets": "Marvel at the colourful and diverse load of a pick-up on a sunny spring day with the high-quality 500-piece \"Truck in Spring\" puzzle from Cobble Hill The detailed motif\nwith puppies, flowers and all sorts of things invites you to discover and linger. Puzzles from Cobble Hill have a so-called random cut. This gives the puzzle pieces random and\nunusual shapes and thus create a surprising and unique puzzle experience! The precise cut also ensures low dust content. Cobble Hill stands for sustainabil",
+        "manufacturer_recommended_age": "12 years and up"
+      },
+      "powerchat_verdict": "FP",
+      "powerchat_reason": "Product is a 500-piece jigsaw puzzle for adults and children 12+. Per STEP 1, EXCLUDED GROUP B, 'All jigsaw puzzles of any piece count (under 500, exactly 500, over\n500, wooden non-educational)' are excluded. The KEY DISTINCTION clarifies that only 'Wooden or magnetic educational puzzles specifically designed for preschool children'\nand '3D Puzzles that require building a three-dimensional structure' are in scope. This is a flat jigsaw puzzle with no educational preschool focus and no 3D building\ncomponent, therefore it falls under the jigsaw puzzle exclusion.",
+      "nova_verdict": "FP",
+      "nova_reason": "The product is a 500-piece jigsaw puzzle, which falls under the excluded group of flat or jigsaw puzzles of any piece count, regardless of age, and is therefore not in scope for\nthe toy classification rule.\n[IMAGES: 3]"
+    },
+    {
+      "asin": "B0CL5S47X7",
+      "csi_title": "SUNNYCLUE 100 St&#252;ck Kreuz Charms Gro&#223;e Holz Kreuzperlen Nat&#252;rliche Holz Kreuzperlen Mini Anh&#228;nger Klein Schwarz Wei&#223;\nTaschenkreuze Rosenkranz Kruzifix Osterferien Charms F&#252;r Die Schmuckherstellung Cha",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "M",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [],
+          "normalized": null
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": "Bois",
+          "normalized": "Bois"
+        },
+        "bullet_points": {
+          "fr": [
+            "CROIX DE POCHE PERÇÉES : Les breloques croix en bois sont petites, le trou percé est en haut, Facile à utiliser, la surface est lisse, parfait pour la confection\nde courtepointes de poche., 100 breloques croix en bois : vous recevrez 100 breloques croix en bois en 5 couleurs., noir, blanc, brun, mar"
+          ],
+          "en": [],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B0CL5S47X7_0.jpg",
+        "images": [
+          "./images/B0CL5S47X7_0.jpg",
+          "./images/B0CL5S47X7_1.jpg",
+          "./images/B0CL5S47X7_2.jpg",
+          "./images/B0CL5S47X7_3.jpg",
+          "./images/B0CL5S47X7_4.jpg",
+          "./images/B0CL5S47X7_5.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B0CL5S47X7",
+        "title": "SUNNYCLUE 1 Box Natural Wooden Cross with Wooden Cross Beads for Crafts Bracelets and Jewellery Making\nDate First Available  \u000f  \u000e: 28 Jun 2020\nManufacturer  \u000f  \u000e: SUNNYCLUE\nASIN  \u000f  \u000e: B08BY6T6B6\nItem model number  \u000f  \u000e: SUNNYCLUE-Bois Croix Pendentifs",
+        "brand_name": null,
+        "included_components": null,
+        "country_of_origin": null,
+        "unit_count": null,
+        "item_type_name": null,
+        "model_name": null,
+        "model_number": null,
+        "manufacturer_part_number": null,
+        "manufacturer": null,
+        "best_sellers_rank": "2,538 in Charms",
+        "asin": null,
+        "bullets": null,
+        "manufacturer_recommended_age": null
+      },
+      "powerchat_verdict": "FP",
+      "powerchat_reason": "Product consists of 100 wooden cross beads/charms for jewelry and craft making, not designed for play. Falls under STEP 0 FOUNDATIONAL DEFINITION CHECK: product\nis not designed or intended for use in play by children. Primary purpose is jewelry crafting and decoration (necklaces, bracelets, keychains, Easter decorations). NOVA VISUAL\nAI preliminary verdict (FP) confirms this assessment. Product is an art/craft supply component, not a structured toy or game.",
+      "nova_verdict": "FP",
+      "nova_reason": "The product consists of wooden crosses that are decorative and not designed for play, falling under the exclusion for non-toy items.\n\n[IMAGES: 6]"
+    },
+    {
+      "asin": "B0CZSPMHJ8",
+      "csi_title": "Gloomhaven Cephalofair Games Buttons &amp; Bugs &#8211; Ein Solo-Spiel mit Spielstil, &#228;hnlich wie in einem Bruchteil der Gr&#246;&#223;e, ab 14\nJahren, 1 Spieler",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "S",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte"
+          ],
+          "normalized": null
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": "Papier cartonné",
+          "normalized": "Papier cartonné"
+        },
+        "bullet_points": {
+          "fr": [
+            "Campagne de jeu solo : Gloomhaven : Buttons & Bugs est un jeu de jeu solo, avec une histoire de campagne originale écrite par Isaac Childres, qui dispose d'un\nstyle de jeu similaire à Gloomhaven dans une fraction de la taille., La prochaine aventure : Gloomhaven : Buttons & Bugs est défini après les"
+          ],
+          "en": [
+            "SOLO PLAY CAMPAGN: Gloomhaven: Buttons & Bugs is a solo game, featuring an original campaign story by Isaac Childres that features a playing style similar to\nGloomhaven in a fraction of the size. THE NEXT ADVENTURE: Gloomhaven: Buttons & Bugs is set after the events of Gloomhaven and Forgotten Circles. Scenarios Each\nscenario is a single map in which a mercenary arises against a handful of enemies with simplified actions and AI. WANNABE HERO - Your character is such a would-be hero.\nIn a ill-adv"
+          ],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B0CZSPMHJ8_0.jpg",
+        "images": [
+          "./images/B0CZSPMHJ8_0.jpg",
+          "./images/B0CZSPMHJ8_1.jpg",
+          "./images/B0CZSPMHJ8_2.jpg",
+          "./images/B0CZSPMHJ8_3.jpg",
+          "./images/B0CZSPMHJ8_4.jpg",
+          "./images/B0CZSPMHJ8_5.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B0CZSPMHJ8",
+        "title": "Gloomhaven Cephalofair Games Buttons & Bugs - A solo game with playing style, similar to a fraction of the size, from 14 years, 1 player\nAge Range Description: Teen",
+        "brand_name": "Cephalofair Games",
+        "included_components": "1 game",
+        "country_of_origin": "China",
+        "unit_count": "1.0 count\nModel Year: 2023",
+        "item_type_name": "board game",
+        "model_name": "Gloomhaven: Buttons & Bugs\nSet Name: Gloomhaven: Buttons & Bugs\nUPC: 732388179008",
+        "model_number": "CPH1001",
+        "manufacturer_part_number": "CPH1001",
+        "manufacturer": "Cephalofair Games",
+        "best_sellers_rank": "151,521 in Toys (See Top 100 in Toys) 1,988 in Dedicated Deck Card Games",
+        "asin": "B0CZSPMHJ8",
+        "bullets": "SOLO PLAY CAMPAGN: Gloomhaven: Buttons & Bugs is a solo game, featuring an original campaign story by Isaac Childres that features a playing style similar to\nGloomhaven in a fraction of the size. THE NEXT ADVENTURE: Gloomhaven: Buttons & Bugs is set after the events of Gloomhaven and Forgotten Circles. Scenarios Each\nscenario is a single map in which a mercenary arises against a handful of enemies with simplified actions and AI. WANNABE HERO - Your character is such a would-be hero.\nIn a ill-adv",
+        "manufacturer_recommended_age": "12 years and up"
+      },
+      "powerchat_verdict": "FP",
+      "powerchat_reason": "This product is a strategy board game (Gloomhaven: Buttons & Bugs) that falls under EXCLUDED GROUP B. The rule explicitly excludes 'Strategy games and brain teasers'\nand 'Board games, dice games, word games, travel games, chess.' The product description confirms it is a solo strategy game with campaign gameplay, scenarios, and AI\nopponents—core mechanics of board games, not toys. Age rating of 14+ and adult target audience further support exclusion from the FR_Toys_1_Toys rule.",
+      "nova_verdict": "FP",
+      "nova_reason": "The product is a board game (Gloomhaven: Buttons & Bugs) which falls under Excluded Group B (board games, card games, puzzles, and models). Board games are\nexplicitly excluded from the toy classification under this rule.\n[IMAGES: 6]"
+    },
+    {
+      "asin": "B0FHG3RL2F",
+      "csi_title": "Clementoni | Mein erster interaktiver Basketballkorb f&#252;r Babys ab 18 Monaten | Baby Buchstaben, Zahlen, T&#246;ne &amp; Lichter | waschbarer Ball |\nverstellbar &amp; aufh&#228;ngen | Lernspielzeug",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": null,
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Enfant"
+          ],
+          "normalized": null
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": "Plastique",
+          "normalized": "Plastique"
+        },
+        "bullet_points": {
+          "fr": [
+            "PANIER DE BASKET INTERACTIF BÉBÉ: Compte les paniers marqués avec effets sonores et visuels pour renforcer la confiance des tout-petits. Favorise le jeu\nactif dès 18 mois et soutient le développement des compétences motrices et émotionnelles., APPRENTISSAGE DES CHIFFRES ET LETTRES: Boutons lumineux"
+          ],
+          "en": [],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B0FHG3RL2F_0.jpg",
+        "images": [
+          "./images/B0FHG3RL2F_0.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B0FHG3RL2F",
+        "title": null,
+        "brand_name": null,
+        "included_components": null,
+        "country_of_origin": null,
+        "unit_count": null,
+        "item_type_name": null,
+        "model_name": null,
+        "model_number": null,
+        "manufacturer_part_number": null,
+        "manufacturer": null,
+        "best_sellers_rank": null,
+        "asin": null,
+        "bullets": null,
+        "manufacturer_recommended_age": null
+      },
+      "powerchat_verdict": "TP",
+      "powerchat_reason": "```json\n{\n  'verdict': 'TP',\n  'reason': 'Product passes all decision tree steps. STEP 0: Explicitly designed for play by babies/toddlers 18+ months with clear toy intent (interactive basketball hoop, learning\ntoy). STEP 1: Not excluded—while it has electronic components (sounds, lights), these are built-in but the product remains a toddler toy (not in Excluded Groups A, B, or C).\nSTEP 2: Fits BRANCH E (Toys for Toddlers and Preschoolers)—interactive learning toy with motor skill development, number/letter learning, and adjustable height for growing\nchildren. The soft washable ball and interactive elements confirm play-focused design. NOVA VISUAL AI confirms TP verdict. Confidence: 95%.'\n}\n```\n**ASIN Classification Summary:**\n<p><b>ASIN:</b> [Not provided in evidence]</p>\n<p><b>Product:</b> Clementoni Interactive Baby Basketball Hoop (18+ months)</p>\n<p><b>Verdict:</b> <b>TP</b> (Toy Product)</p>\n<p><b>Rule Category:</b> BRANCH E – Toys for Toddlers and Preschoolers</p>\n<p><b>Confidence:</b> 95%</p>\n<p><b>Reasoning:</b> This product is an interactive learning toy explicitly designed for toddlers 18+ months. It combines motor skill development (shooting soft ball into\nadjustable hoop), early learning (numbers, letters via buttons and sounds), and sensory engagement (lights, sounds, songs). The adjustable height and detachable panel\nsupport developmental progression. All components are toy-grade and designed for safe infant/toddler play. Electronic elements (sounds/lights) are built-in but do not trigger\nOverride 1 exclusion because the product's primary function remains play-focused toddler toy activity. NOVA VISUAL AI analysis supports TP classification.</p>",
+      "nova_verdict": "TP",
+      "nova_reason": "The product is a basketball hoop toy set designed for toddlers and preschoolers, featuring interactive elements and characters, clearly intended for play and early learning.\n[IMAGES: 1]"
+    },
+    {
+      "asin": "B0FWCYPCXJ",
+      "csi_title": "12-Teiliges Weihnachtsmann-Design-bausteinset, Weihnachtsbausteine-themendekoration, Mini-baufiguren, DIY-strumpff&#252;ller, Weihnachtsbaum,\nWeihnachtsgeburtstagsgeschenke, Partygeschenke 12pcs\nbullet_point: 0\u0010Plaisir des Fêtes0\u0011 Apportez la magie de Noël à votre maison ou votre bureau avec cet adorable ensemble de blocs de construction sur le thème de Noël. Doté\nde briques de microparticules détaillées, cet ensemble vous permet de construire de charmantes figurines de vacances comme le Père Noël, un bonh",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "12pcs",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adult"
+          ],
+          "normalized": null
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": "Plastique",
+          "normalized": "Plastique"
+        },
+        "bullet_points": {
+          "fr": [],
+          "en": [],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B0FWCYPCXJ_0.jpg",
+        "images": [
+          "./images/B0FWCYPCXJ_0.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B0FWCYPCXJ",
+        "title": "Fetch Error",
+        "brand_name": null,
+        "included_components": null,
+        "country_of_origin": null,
+        "unit_count": null,
+        "item_type_name": null,
+        "model_name": null,
+        "model_number": null,
+        "manufacturer_part_number": null,
+        "manufacturer": null,
+        "best_sellers_rank": null,
+        "asin": null,
+        "bullets": null,
+        "manufacturer_recommended_age": null
+      },
+      "powerchat_verdict": "TP",
+      "powerchat_reason": "Product passes foundational definition check (Step 0): designed for play/assembly by children and adults. Passes exclusion check (Step 1): not in excluded groups. Matches\nBranch B (Building Sets and Accessories): Christmas-themed micro construction blocks assembled into festive figures. Visual evidence confirms construction toy with multiple\npieces for assembly. Age range marked 'Adult' is secondary; product explicitly targets creative play and imagination with building components, consistent with construction toy\nclassification.",
+      "nova_verdict": "TP",
+      "nova_reason": "The images show a collection of Christmas-themed building blocks designed for assembly into various festive figures and structures. These are construction toys where users\nassemble pieces to create structures, fitting the definition of building sets and accessories under Branch B.\n[IMAGES: 1]"
+    },
+    {
+      "asin": "B09SNY7NNP",
+      "csi_title": "BLOT 18 Farben Wachsmalstifte f&#252;r Kinder Wachsmalstifte Ungiftig Malstiften Sticks f&#252;r Kinder Kleinkind Erwachsene Papier Holz Glas Keramik",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "18 Unité (Lot de 1)",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "tout-petit, enfant, adolescent, adulte"
+          ],
+          "normalized": null
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": "Matériau respectueux de l'environnement",
+          "normalized": "Matériau respectueux de l'environnement"
+        },
+        "bullet_points": {
+          "fr": [
+            "Non toxique et convivial - Fabriqués dans un matériau écologique de première qualité, nos bâtons de peinture à la tempera sont non toxiques, hypoallergéniques,\nsans acide et sans danger pour les enfants, les adolescents et les adultes, sans décoloration ni fissure lors de la coloration. Le canon ron"
+          ],
+          "en": [
+            "Non-toxic and user-friendly - Made of high-quality environmentally friendly material, our tempera colouring pencils are non-toxic, hypoallergenic, acid-free and safe for\nchildren, teenagers and adults, no fading or cracking when dyeing. The smooth round barrel is easy for children to hold and doodle 18 BRILLIANT VIBRANT COLORS - The\n18 colours washable tempera paint pen set contains 10 vibrant classic colours, 2 fluorescent colours and 6 iridescent metallic colours, different colours for your ch"
+          ],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B09SNY7NNP_0.jpg",
+        "images": [
+          "./images/B09SNY7NNP_0.jpg",
+          "./images/B09SNY7NNP_1.jpg",
+          "./images/B09SNY7NNP_2.jpg",
+          "./images/B09SNY7NNP_3.jpg",
+          "./images/B09SNY7NNP_4.jpg",
+          "./images/B09SNY7NNP_5.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B09SNY7NNP",
+        "title": "BLOT 18 Colours Wax Crayons for Children Wax Crayons Non-Toxic Painting Pens Sticks for Children Toddler Adults Paper Wood Glass Ceramic\nWriting Instrument Form: Crayon\nInk Colour: Multicolour\nDrill Point: Broad\nSpecial Features: Non Toxic, Quick Drying\nLine Size: 0.3mm\nIs the Product Left or Right Handed?: Ambidextrous\nGrip Type: Smooth\nWater Resistance Level: Not Water Resistant\nWriting Technique: crayon",
+        "brand_name": null,
+        "included_components": null,
+        "country_of_origin": null,
+        "unit_count": null,
+        "item_type_name": null,
+        "model_name": null,
+        "model_number": null,
+        "manufacturer_part_number": null,
+        "manufacturer": null,
+        "best_sellers_rank": null,
+        "asin": null,
+        "bullets": "Non-toxic and user-friendly - Made of high-quality environmentally friendly material, our tempera colouring pencils are non-toxic, hypoallergenic, acid-free and safe for\nchildren, teenagers and adults, no fading or cracking when dyeing. The smooth round barrel is easy for children to hold and doodle 18 BRILLIANT VIBRANT COLORS - The\n18 colours washable tempera paint pen set contains 10 vibrant classic colours, 2 fluorescent colours and 6 iridescent metallic colours, different colours for your ch",
+        "manufacturer_recommended_age": null
+      },
+      "powerchat_verdict": "FP",
+      "powerchat_reason": "Product is a set of 18 wax crayons/tempera paint sticks. While marketed for children, it fails the structured toy requirement under BRANCH G (Creative Hobbies). The rule\nexplicitly states: 'Standalone coloring books or watercolor paper sets without structured game components are FP because they are art supplies not structured toys' and\n'Standalone pencils and crayons are FP unless they are part of a structured set with multiple components AND marketed specifically for children.' This product is a simple\ncollection of art supplies without structured activities, numbered steps, game elements, or craft kit components. NOVA VISUAL AI assessment (FP) aligns with rule\ninterpretation. Classification: Art Supply, not Toy.",
+      "nova_verdict": "FP",
+      "nova_reason": "The product is a set of standalone paint sticks marketed for children, but it lacks structured game components or educational elements required for classification as a toy under\nthe rule. It is classified as an art supply rather than a structured toy.\n\n[IMAGES: 6]"
+    },
+    {
+      "asin": "B0FVS8NFF6",
+      "csi_title": "FIVAVA Kinderk&#252;che Zubeh&#246;r Kochset, Komplettes Spielk&#252;che Zubeh&#246;r mit Edelstahl-Spieltopfset, Sch&#252;rze sowie\nGem&#252;se-Lebensmittel-Spielzeug Kinderspielzeug f&#252;r Rollenspiele bei M&#228;dchen &amp; Jungen\nbullet_point: 0\u0010Kit de Jouet de Cuisine pour Enfants0\u0011Cuisine Enfant est complètement équipé, comprenant 26 Accessoires Cuisine Enfant : tablier, 12 Ustensiles Cuisine\nEnfant en acier inoxydable, couteau en bois/planche à découper en bois, 9 jouets légumes en bois, un petit sac de rangement et un sac à filet bleu.,",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": null,
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "enfants de 3 à 12 ans"
+          ],
+          "normalized": null
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": "Bois",
+          "normalized": "Bois"
+        },
+        "bullet_points": {
+          "fr": [],
+          "en": [],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B0FVS8NFF6_0.jpg",
+        "images": [
+          "./images/B0FVS8NFF6_0.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B0FVS8NFF6",
+        "title": "Fetch Error",
+        "brand_name": null,
+        "included_components": null,
+        "country_of_origin": null,
+        "unit_count": null,
+        "item_type_name": null,
+        "model_name": null,
+        "model_number": null,
+        "manufacturer_part_number": null,
+        "manufacturer": null,
+        "best_sellers_rank": null,
+        "asin": null,
+        "bullets": null,
+        "manufacturer_recommended_age": null
+      },
+      "powerchat_verdict": "TP",
+      "powerchat_reason": "```json\n{\n  'verdict': 'TP',\n  'reason': 'Product is a children's play kitchen accessory set with 26 components including stainless steel utensils, wooden play food, apron, and storage bag. Explicitly\nmarketed for role-play and pretend play for children ages 3-12. Matches BRANCH E (Toys for Toddlers and Preschoolers) - specifically 'Pretend play kitchen and supermarket\ntoys including play kitchens, tea sets, cooking sets, play food sets' and 'role-play food or cooking scenario for children.' No built-in electronic components. NOVA visual\nanalysis confirms pretend play kitchen set design. Passes STEP 0 (designed for play by children), STEP 1 (not excluded), and STEP 2 (fits inclusion category).'\n}\n```\n**FINAL VERDICT OUTPUT:**\n<p><b>ASIN:</b> [Not provided in evidence]</p>\n<p><b>Product:</b> FIVAVA Kinderkitchen Accessory Cooking Set - Complete Play Kitchen Set with Stainless Steel Cookware, Apron, and Wooden Play Food Toys</p>\n<p><b>Verdict:</b> <b>TP</b></p>\n<p><b>Rule Category:</b> BRANCH E - Toys for Toddlers and Preschoolers (Pretend play kitchen and cooking scenarios)</p>\n<p><b>Confidence:</b> 98%</p>\n<p><b>Reasoning:</b> Product is a structured pretend-play kitchen set with 26 components (utensils, play food, apron, storage) explicitly designed for children ages 3-12 to\nsimulate cooking and role-play scenarios. Contains no built-in electronic components. Passes foundational definition check (designed for play), exclusion check (not in\nexcluded groups), and inclusion check (matches pretend play kitchen category under BRANCH E). NOVA visual analysis confirms role-play kitchen design intent.</p>",
+      "nova_verdict": "TP",
+      "nova_reason": "The images show a play kitchen set with toy utensils, food items, and a child in a chef costume, clearly designed for pretend play and role-playing scenarios for toddlers and\npreschoolers.\n[IMAGES: 1]"
+    },
+    {
+      "asin": "B0FB9BTXLY",
+      "csi_title": "MOMAKA Diamond Painting Kits Blume, DIY 5D Diamant Malerei Full Drill Set Gras, Runde Diamant Arts Craft Cross Stickerei Malerei Kits f&#252;r die Home\nWanddekoration 30x40 cm",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "00A-Grass Flower",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [],
+          "normalized": null
+        },
+        "target_gender": null,
+        "material": {
+          "raw": "Cristal Résine",
+          "normalized": "Cristal Résine"
+        },
+        "bullet_points": {
+          "fr": [
+            "Ensemble de peinture diamant 5D: L'ensemble de peinture diamant 5D comprend une toile, une variété de diamants en résine cristalline colorée et un ensemble\nd'outils de peinture. Nous avons augmenté de 20 % le nombre de diamants pour garantir qu'il y en a suffisamment pour compléter la peinture diama"
+          ],
+          "en": [
+            "5D diamond painting set: the 5D diamond painting set contains a canvas, a pack of colourful circular crystal resin diamonds and a set of painting tools. The number of\ndiamonds has been increased by 20% to ensure there are enough to complete the diamond painting. With sufficient time and patience, you will experience a sense of\ncompletion as you master this challenge. High-quality material: high-quality material is used for our diamond paintings. They are made of high clear oil canvas, which is w"
+          ],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B0FB9BTXLY_0.jpg",
+        "images": [
+          "./images/B0FB9BTXLY_0.jpg",
+          "./images/B0FB9BTXLY_1.jpg",
+          "./images/B0FB9BTXLY_2.jpg",
+          "./images/B0FB9BTXLY_3.jpg",
+          "./images/B0FB9BTXLY_4.jpg",
+          "./images/B0FB9BTXLY_5.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B0FB9BTXLY",
+        "title": "MOMAKA Diamond Painting Kits Flower, DIY 5D Diamond Painting Full Drill Set Grass, Round Diamond Arts Craft Cross Embroidery Painting Kits for Home Wall\nDecoration 30 x 40 cm",
+        "brand_name": "MOMAKA",
+        "included_components": "1 x oil cloth, 1 diamond pen, 1 diamond tray for cubes 14 coloured clays",
+        "country_of_origin": null,
+        "unit_count": null,
+        "item_type_name": null,
+        "model_name": "59MOM-OU-Grass Flower\nArt Craft Kit Type: 5D diamond painting\nUPC: 027685974761\nSet Name: grass",
+        "model_number": "59MOM-OU-Grass Flower",
+        "manufacturer_part_number": "59MOM-OU-Grass Flower",
+        "manufacturer": "MOMAKA",
+        "best_sellers_rank": "293,376 in Home & Kitchen (See Top 100 in Home & Kitchen) 1,403 in Diamond Painting Kits",
+        "asin": "B0FB9BTXLY",
+        "bullets": "5D diamond painting set: the 5D diamond painting set contains a canvas, a pack of colourful circular crystal resin diamonds and a set of painting tools. The number of\ndiamonds has been increased by 20% to ensure there are enough to complete the diamond painting. With sufficient time and patience, you will experience a sense of\ncompletion as you master this challenge. High-quality material: high-quality material is used for our diamond paintings. They are made of high clear oil canvas, which is w",
+        "manufacturer_recommended_age": null
+      },
+      "powerchat_verdict": "TP",
+      "powerchat_reason": "Product is a diamond painting craft kit, which explicitly falls under BRANCH G (Creative Hobbies Toys and Accessories). The rule specifically states 'Diamond painting and\ndiamond painting craft kits of any age target including adult-targeted ones' are TP. This product contains a structured kit with multiple components (canvas, resin diamonds,\npainting tools, palette), is designed as a creative DIY activity, and matches the inclusion criteria. No electronic components or exclusions apply.",
+      "nova_verdict": "FP",
+      "nova_reason": "The image depicts a diamond painting kit, which is classified as an art activity rather than a structured toy. While diamond painting kits are generally considered toys under the\nrule, this specific image shows the completed artwork framed as a decorative piece, aligning it more with home decor than a play-focused toy.\n[IMAGES: 6]"
+    },
+    {
+      "asin": "B0FWS5NB4X",
+      "csi_title": "Zeichenbrett Für Kinder - Löschbare Maltafel - Wiederverwendbare Maltafel LCD, Tragbares Spielzeug Für Hausunterricht Reisen Schule Kindergarten\nSchreibübung Malen",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "Siehe Beschreibung",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [],
+          "normalized": null
+        },
+        "target_gender": null,
+        "material": {
+          "raw": "Acrylonitrile butadiène styrène (ABS)",
+          "normalized": "Acrylonitrile butadiène styrène (ABS)"
+        },
+        "bullet_points": {
+          "fr": [
+            "Style de dessin animé : le look ludique de dessin animé avec de grands yeux permet aux enfants de s'engager dans le jeu créatif en combinant temps de jeu\nesthétique et apprentissage interactif et stimulant l'imagination, Sans lumière bleue : ce tableau à dessin pour enfants garantit un entraînement"
+          ],
+          "en": [],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B0FWS5NB4X_0.jpg",
+        "images": [
+          "./images/B0FWS5NB4X_0.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B0FWS5NB4X",
+        "title": "Fetch Error",
+        "brand_name": null,
+        "included_components": null,
+        "country_of_origin": null,
+        "unit_count": null,
+        "item_type_name": null,
+        "model_name": null,
+        "model_number": null,
+        "manufacturer_part_number": null,
+        "manufacturer": null,
+        "best_sellers_rank": null,
+        "asin": null,
+        "bullets": null,
+        "manufacturer_recommended_age": null
+      },
+      "powerchat_verdict": "FP",
+      "powerchat_reason": "```json\n{\n  'verdict': 'FP',\n  'reason': 'Product contains a built-in, non-separable LCD electronic component (Override 1). The LCD screen is integral to the product's function and cannot be removed\nwhile maintaining toy functionality. This triggers automatic FP classification regardless of toy intent. While NOVA VISUAL AI suggests TP based on creative play purpose, the\nelectronic override takes precedence per the decision tree rules.'\n}\n```\n**Detailed Analysis:**\n<p><b>ASIN Classification: FR_Toys_1_Toys</b></p>\n<p><b>Product:</b> Zeichenbrett Für Kinder - LCD Drawing Tablet for Children</p>\n<p><b>Verdict: FP (False Positive - Out of Scope)</b></p>\n<p><b>Rule Category:</b> Override 1 - Built-in Electronic Component</p>\n<p><b>Confidence:</b> 95%</p>\n<p><b>Reasoning:</b></p>\n<p>Although the product demonstrates clear toy intent (creative play, drawing, writing for children ages 3+), it fails the electronic component override check:</p>\n<ul>\n<li><b>Override 1 Triggered:</b> The product contains a built-in, non-separable LCD electronic screen that is essential to its core function. The LCD display cannot be\nremoved or separated while leaving the toy functional.</li>\n<li><b>Product Evidence:</b> Specifications confirm 'Matériau du produit: ABS' with integrated LCD technology. The bullet points emphasize 'technologie LCD renouvelable'\n(renewable LCD technology) and 'lumière douce de l'écran' (soft screen light), confirming the LCD is a permanent, built-in component.</li>\n<li><b>NOVA Visual Analysis Note:</b> While NOVA VISUAL AI preliminary verdict suggests TP based on creative play alignment with preschool toys, the decision tree\nhierarchy places electronic overrides above category matching. Override 1 is a hard stop rule.</li>\n</ul>\n<p><b>Conclusion:</b> Product is <b>FP</b> and falls outside scope for FR_Toys_1_Toys rule.</p>",
+      "nova_verdict": "TP",
+      "nova_reason": "The product is a drawing tablet designed for children, featuring a screen and stylus for creative play, aligning with the Toys for Toddlers and Preschoolers category.\n[IMAGES: 1]"
+    },
+    {
+      "asin": "B0FVF9S6YD",
+      "csi_title": "Staubsauger Spielzeug Kinder Staubsauger Reinigung Spielzeug mit Licht und Echtem Klang Saugt wirklich Haushaltsger&#228;te Spielzeug Set Reinigung\nSpielzeug Sweeping Robot",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "child-size",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Enfant"
+          ],
+          "normalized": null
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": "Plastique",
+          "normalized": "Plastique"
+        },
+        "bullet_points": {
+          "fr": [
+            "Aspirateur jouet pour enfants, nettoyage de jouets avec lumière et son réel, aspire vraiment les appareils ménagers, jouet de nettoyage, jouet aspirateur – Sweet\nHome les petits appareils ménagers. Idéal pour nettoyer et rendre votre chambre éclatante. Son réel et lumineux. Fonctionne avec 2 piles A"
+          ],
+          "en": [],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B0FVF9S6YD_0.jpg",
+        "images": [
+          "./images/B0FVF9S6YD_0.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B0FVF9S6YD",
+        "title": "Fetch Error",
+        "brand_name": null,
+        "included_components": null,
+        "country_of_origin": null,
+        "unit_count": null,
+        "item_type_name": null,
+        "model_name": null,
+        "model_number": null,
+        "manufacturer_part_number": null,
+        "manufacturer": null,
+        "best_sellers_rank": null,
+        "asin": null,
+        "bullets": null,
+        "manufacturer_recommended_age": null
+      },
+      "powerchat_verdict": "TP",
+      "powerchat_reason": "```json\n{\n  'verdict': 'TP',\n  'reason': 'Product is a toy vacuum cleaner designed for children's pretend play (imitation/role-play toy). It has lights and realistic sounds, functions with batteries (separable\nAA batteries per Override 2), and genuinely sucks up small debris. Matches BRANCH E (Toys for Toddlers and Preschoolers) under 'imitation games' and pretend play\nkitchen/household scenarios. The built-in electronic components (lights, sounds) are powered by removable batteries, making them separable per Override 2, so the product\nremains in scope. Clear evidence of play intent in title, description, and bullet points.'\n}\n```\n**ASIN Classification Summary:**\n| Field | Value |\n|-------|-------|\n| **Verdict** | **TP** |\n| **Rule Category** | BRANCH E: Toys for Toddlers and Preschoolers (Imitation Games / Pretend Play) |\n| **Confidence** | 95% |\n| **Reasoning** | This is a toy vacuum cleaner explicitly designed for children's pretend household play. The product has lights and sounds (electronic components powered by\nremovable AA batteries, which are separable per Override 2), and functional suction. It qualifies as an imitation/role-play toy simulating adult cleaning activities for children,\nclearly falling under pretend play household toys in BRANCH E. |\n[IMAGES: 1]",
+      "nova_verdict": "N/A",
+      "nova_reason": ""
+    }
+  ]
+}

@@ -1,0 +1,1495 @@
+{
+  "source_file": "DPX_AI_Full_2026-06-16_FR_Toys_1_Toys_1781595602372_Part1.pdf",
+  "records": [
+    {
+      "asin": "B0FVLTPMFW",
+      "csi_title": "Tangram Puzzle – Gehirntrainingspuzzle, geometrische Blocklogik | STEM Toys Intelligence Challenge Lernspiel für und Erwachsene\nbullet_point: 0\u0010Améliorez la capacité de réflexion0\u0011 Les puzzles Tangram pour non seulement les à jouer, mais les aident également à faire de l'exercice, à améliorer la\nreconnaissance des formes, la coordination œil-main, la capacité pratique, la capacité de réflexion et l'imagination spatiale., 0\u0010Matériaux de haute",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "Échecs colorés classiques",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Se référer à la description"
+          ],
+          "normalized": null
+        },
+        "target_gender": null,
+        "material": {
+          "raw": "Se référer à la description",
+          "normalized": "Se référer à la description"
+        },
+        "bullet_points": {
+          "fr": [],
+          "en": [],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B0FVLTPMFW_0.jpg",
+        "images": [
+          "./images/B0FVLTPMFW_0.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B0FVLTPMFW",
+        "title": "Fetch Error",
+        "brand_name": null,
+        "included_components": null,
+        "country_of_origin": null,
+        "unit_count": null,
+        "item_type_name": null,
+        "model_name": null,
+        "model_number": null,
+        "manufacturer_part_number": null,
+        "manufacturer": null,
+        "best_sellers_rank": null,
+        "asin": null,
+        "bullets": null,
+        "manufacturer_recommended_age": null
+      },
+      "powerchat_verdict": "TP",
+      "powerchat_reason": "Product is a wooden tangram puzzle explicitly marketed for children and families with clear play and learning intent. Despite NOVA VISUAL AI's preliminary FP verdict, the\ntextual evidence strongly contradicts this assessment. The product description and bullet points contain multiple explicit indicators: (1) 'STEM Toys Intelligence Challenge\nLernspiel' (learning game), (2) 'pour les enfants et les adultes' (for children and adults), (3) 'excellent jouet pour les enfants et les tout-petits' (excellent toy for children and\ntoddlers), (4) 'Promouvoir la relation parent-enfant' (promote parent-child relationship), (5) 'safe for children' with rounded edges. The item passes STEP 0 (designed for play\nby children - YES), STEP 1 (not excluded - wooden educational puzzles for preschool are explicitly IN SCOPE per KEY DISTINCTION), and STEP 2 (BRANCH G: Creative\nHobbies - educational puzzle toys). The product is a structured educational puzzle kit, not a decorative adult puzzle. NOVA's assessment appears to have misclassified based\non visual appearance alone, but the textual evidence clearly establishes toy/learning game purpose for children.",
+      "nova_verdict": "FP",
+      "nova_reason": "The product is a decorative wooden puzzle box with no explicit play or toy purpose, falling under the exclusion for decorative adult puzzles.\n[IMAGES: 1]"
+    },
+    {
+      "asin": "B0DXLG7SYY",
+      "csi_title": "CSI Data Viewer",
+      "csi_status": "TS\nisTombstone: true",
+      "attributes": {
+        "size_info": {
+          "size": "9X7X1CM",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [],
+          "normalized": null
+        },
+        "target_gender": "female\nsize_map: 9X7X1CM",
+        "material": {
+          "raw": "Papier",
+          "normalized": "Papier"
+        },
+        "bullet_points": {
+          "fr": [
+            "Cartes mémo pour les tout-petits de 2 à 4 ans - cette carte mémo de vocabulaire éducatif est un outil pratique pour pratiquer ou commencer à les lettres, matériel\nd'apprentissage, Cartes flash de vocabulaire thaï - les deux côtés contiennent des connaissances intéressantes sur l&#39;éducation précoc"
+          ],
+          "en": [],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B0DXLG7SYY_0.jpg",
+        "images": [
+          "./images/B0DXLG7SYY_0.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B0DXLG7SYY",
+        "title": "Fetch Error",
+        "brand_name": null,
+        "included_components": null,
+        "country_of_origin": null,
+        "unit_count": null,
+        "item_type_name": null,
+        "model_name": null,
+        "model_number": null,
+        "manufacturer_part_number": null,
+        "manufacturer": null,
+        "best_sellers_rank": null,
+        "asin": null,
+        "bullets": null,
+        "manufacturer_recommended_age": null
+      },
+      "powerchat_verdict": "FP",
+      "powerchat_reason": "Product is a set of educational flashcards (45 cards, 9x7x1cm, paper material) designed for vocabulary learning in Thai language for children ages 2-4. While the product has\neducational intent for young learners, it does not meet the inclusion criteria for FR_Toys_1_Toys. The cards are standalone learning materials without structured play or game\nmechanics. Per STEP 0 FOUNDATIONAL DEFINITION CHECK and EXCLUDED GROUP C: Educational flashcards and learning materials for language instruction are not\ndesigned primarily for play but for educational instruction. They fall outside the toy classification scope. The NOVA VISUAL AI preliminary verdict of TP conflicts with the rule\nframework—flashcards for language learning are educational materials, not collectible cards (Branch H requires collecting as primary purpose, not learning). The product\nbelongs to educational materials, not toys.",
+      "nova_verdict": "TP",
+      "nova_reason": "The product consists of illustrated cards designed for educational or play purposes, aligning with the definition of collectible cards where the primary purpose is collecting\nrather than strategy gameplay.\n\n[IMAGES: 1]"
+    },
+    {
+      "asin": "B0CQ8BH1FK",
+      "csi_title": "Ravensburger Puzzle 12000392 - Afrikanischer Elefant - 500 Teile Puzzle f&#252;r Erwachsene und Kinder ab 12 Jahren",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "50 cm x 70 cm",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte"
+          ],
+          "normalized": null
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": "Carton",
+          "normalized": "Carton"
+        },
+        "bullet_points": {
+          "fr": [
+            "ANIMAUX : Offrez-vous un moment de pur plaisir et d'évasion avec ce puzzle de qualité et admirez cette magnifique représentation d'un éléphant d'Afrique.,\nCONTENU : 1 puzzle de 500 pièces. Dimensions du puzzle : 49 x 36 cm. Un niveau de finition impeccable : du carton épais, un fini mat et anti-refl"
+          ],
+          "en": [
+            "500 colourful puzzle pieces from Ravensburger are just the thing for any puzzle fan who loves fascinating landscape motifs, magical fantasy worlds or colourful\ncollages Ravensburger Puzzles are the best gift for any occasion: birthday, Christmas, Easter or simply as a great leisure activity Discover the Ravensburger quality features\nat a glance: variety of shapes thanks to handmade punching knives, precisely fitting puzzle pieces, reflex-free puzzle image thanks to natural linen embossing, kink-"
+          ],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B0CQ8BH1FK_0.jpg",
+        "images": [
+          "./images/B0CQ8BH1FK_0.jpg",
+          "./images/B0CQ8BH1FK_1.jpg",
+          "./images/B0CQ8BH1FK_2.jpg",
+          "./images/B0CQ8BH1FK_3.jpg",
+          "./images/B0CQ8BH1FK_4.jpg",
+          "./images/B0CQ8BH1FK_5.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B0CQ8BH1FK",
+        "title": "Ravensburger Puzzle 12000392 African Elephant Puzzle 500 Pieces for Adults and Children from 12 Years",
+        "brand_name": "Ravensburger",
+        "included_components": "500 piece puzzle\nAge Range Description: Teen",
+        "country_of_origin": null,
+        "unit_count": null,
+        "item_type_name": "Ravensburger Puzzle 12000392 African Elephant 500 Pieces Puzzle for Adults and Children from 12 Years\nManufacturer Warranty Description: 2 year warranty",
+        "model_name": null,
+        "model_number": "12000392",
+        "manufacturer_part_number": "12000392",
+        "manufacturer": "Ravensburger",
+        "best_sellers_rank": "181,290 in Toys (See Top 100 in Toys) 5,383 in Jigsaws (Toys)",
+        "asin": "B0CQ8BH1FK",
+        "bullets": "500 colourful puzzle pieces from Ravensburger are just the thing for any puzzle fan who loves fascinating landscape motifs, magical fantasy worlds or colourful\ncollages Ravensburger Puzzles are the best gift for any occasion: birthday, Christmas, Easter or simply as a great leisure activity Discover the Ravensburger quality features\nat a glance: variety of shapes thanks to handmade punching knives, precisely fitting puzzle pieces, reflex-free puzzle image thanks to natural linen embossing, kink-",
+        "manufacturer_recommended_age": "12 years and up"
+      },
+      "powerchat_verdict": "FP",
+      "powerchat_reason": "This product is a jigsaw puzzle with 500 pieces marketed to adults and children ages 12+. Per STEP 1, EXCLUDED GROUP B, 'All jigsaw puzzles of any piece count (under\n500, exactly 500, over 500, wooden non-educational)' are excluded from scope. The rule explicitly states 'All other flat or jigsaw puzzles of any piece count, any age, including\ndecorative adult wooden puzzles are EXCLUDED. Verdict is FP.' This is a standard flat jigsaw puzzle, not a 3D puzzle or educational preschool puzzle, so it does not qualify for\nthe KEY DISTINCTION exceptions.\n[IMAGES: 6]",
+      "nova_verdict": "N/A",
+      "nova_reason": ""
+    },
+    {
+      "asin": "B0B5GPLMCV",
+      "csi_title": "Juggle Dream Cyclone Quartz Diabolo Jonglierset &#8211; Freil&#228;ufer mit Kugellager Profi-Diabolo inkl. Aluminiumst&#228;be, Online-Lernvideo &#8211;\nJonglierspielzeug (Violett)",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "moyen",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Enfant"
+          ],
+          "normalized": null
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": "Nylon",
+          "normalized": "Nylon"
+        },
+        "bullet_points": {
+          "fr": [
+            "Fabriqué par la société européenne Juggle Dream., Bonnets en nylon avec poids supplémentaire sur le bord extérieur pour plus de stabilité., Jante spécialement\nconçue pour les broyages de tasse., Roulement à sens unique pour plus de vitesse et plus facile à utiliser., Bâtons métalliques parfaitement"
+          ],
+          "en": [],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B0B5GPLMCV_0.jpg",
+        "images": [
+          "./images/B0B5GPLMCV_0.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B0B5GPLMCV",
+        "title": "Fetch Error",
+        "brand_name": null,
+        "included_components": null,
+        "country_of_origin": null,
+        "unit_count": null,
+        "item_type_name": null,
+        "model_name": null,
+        "model_number": null,
+        "manufacturer_part_number": null,
+        "manufacturer": null,
+        "best_sellers_rank": null,
+        "asin": null,
+        "bullets": null,
+        "manufacturer_recommended_age": null
+      },
+      "powerchat_verdict": "TP",
+      "powerchat_reason": "Product is a diabolo juggling set with aluminum sticks, designed for children (age range: Enfant/Child) for skill-based play and juggling practice. Passes Step 0 (designed for\nplay by children), Step 1 (not in excluded groups - not a board game, outdoor ride-on, or other excluded category), and fits Branch H (Exploration Toys and Other Toys) as a\nskill-development toy. No built-in non-separable electronics present. NOVA visual analysis confirms TP classification.",
+      "nova_verdict": "TP",
+      "nova_reason": "The product is a diablo juggling set, which is a type of exploration toy designed for play and skill development, fitting under Branch H (Exploration Toys and Other Toys).\n[IMAGES: 1]"
+    },
+    {
+      "asin": "B07ZJHQ4BJ",
+      "csi_title": "Ravensburger Colin Thompson Awesome Alphabet E 1000 Teile Puzzle f&#252;r Erwachsene und Kinder ab 14 Jahren",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "69,9 x 49,7 x 0,2 cm",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adolescente"
+          ],
+          "normalized": null
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": "Carton",
+          "normalized": "Carton"
+        },
+        "bullet_points": {
+          "fr": [
+            "Puzzle Colin Thompson – Bienvenue dans un puzzle sournois de Colin Thompson où presque tout commence par la lettre « E ». Bienvenue dans le monde des\npuzzles Alphanet Awesome, Qualité supérieure : les puzzles Ravensburger utilisent un carton exclusif extra épais combiné avec du papier structuré en l"
+          ],
+          "en": [
+            "COLIN THOMPSON PUZZLE - Welcome to a sneaky puzzle game by Colin Thompson where almost everything starts with the letter \"E\". Welcome to the world of\nAwesome Alphanet Puzzles Premium quality - Ravensburger puzzles use an exclusive, extra thick cardboard combined with fine linen textured paper to create a glare-free\npuzzle image and give you the best possible experience. Our 1000 piece jigsaw puzzles are made from high quality materials and measure 70 x 50 cm when finished. Fully\ncomplies with al"
+          ],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B07ZJHQ4BJ_0.jpg",
+        "images": [
+          "./images/B07ZJHQ4BJ_0.jpg",
+          "./images/B07ZJHQ4BJ_1.jpg",
+          "./images/B07ZJHQ4BJ_2.jpg",
+          "./images/B07ZJHQ4BJ_3.jpg",
+          "./images/B07ZJHQ4BJ_4.jpg",
+          "./images/B07ZJHQ4BJ_5.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B07ZJHQ4BJ",
+        "title": "Ravensburger Colin Thompson Awesome Alphabet E 1000 Piece Puzzle for Adults and Children from 14 Years",
+        "brand_name": "Ravensburger",
+        "included_components": "Puzzle 1000 pieces\nAge Range Description: Teen",
+        "country_of_origin": null,
+        "unit_count": "1.0 count",
+        "item_type_name": "Colin Thompson - Awesome Alphabet \"E\" 1000 Piece Jigsaw Puzzle for Adults and Children from 12 Years",
+        "model_name": null,
+        "model_number": "16420\nCustomer Package Type: Standardverpackung",
+        "manufacturer_part_number": "16420\nSet Name: Awesome Alphabet",
+        "manufacturer": "Ravensburger\nGlobal Trade Identification Number: 04005556164202",
+        "best_sellers_rank": "275,343 in Toys (See Top 100 in Toys) 8,219 in Jigsaws (Toys)",
+        "asin": "B07ZJHQ4BJ",
+        "bullets": "COLIN THOMPSON PUZZLE - Welcome to a sneaky puzzle game by Colin Thompson where almost everything starts with the letter \"E\". Welcome to the world of\nAwesome Alphanet Puzzles Premium quality - Ravensburger puzzles use an exclusive, extra thick cardboard combined with fine linen textured paper to create a glare-free\npuzzle image and give you the best possible experience. Our 1000 piece jigsaw puzzles are made from high quality materials and measure 70 x 50 cm when finished. Fully\ncomplies with al",
+        "manufacturer_recommended_age": "12 years and up"
+      },
+      "powerchat_verdict": "FP",
+      "powerchat_reason": "This product is a 1000-piece jigsaw puzzle for adults and children aged 14+. Per STEP 1, EXCLUDED GROUP B, 'All jigsaw puzzles of any piece count (under 500, exactly\n500, over 500, wooden non-educational)' are excluded from scope. The rule explicitly states 'All other flat or jigsaw puzzles of any piece count, any age, including decorative\nadult wooden puzzles are EXCLUDED. Verdict is FP.' This is a flat jigsaw puzzle with no educational puzzle distinction (not a preschool shape/letter learning puzzle or 3D\npuzzle), so it falls under the jigsaw puzzle exclusion.",
+      "nova_verdict": "FP",
+      "nova_reason": "The product is a 1000-piece jigsaw puzzle marketed as a decorative or artistic item, which falls under the excluded category of flat or jigsaw puzzles of any piece count,\nregardless of age. The rule specifies that all other flat or jigsaw puzzles, including decorative adult wooden puzzles, are excluded and should be classified as FP.\n\n[IMAGES: 6]"
+    },
+    {
+      "asin": "B0FM3TQ2MF",
+      "csi_title": "Clementoni &#8211; Escape Game Wild &#8211; Escape Room in die Natur (W&#252;ste, Dschungel und Meeresabgr&#252;nde) &#8211; 3 Abenteuer in 1\n&#8211; ab 8 Jahren &#8211; Logische Entwicklung und Einfallsreichtum &#8211; 55636",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "29.7 cm x 29.7 cm",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adolescente"
+          ],
+          "normalized": null
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": "Carton",
+          "normalized": "Carton"
+        },
+        "bullet_points": {
+          "fr": [
+            "Trois aventures dans une boîte : partagez 3 scénarios uniques (désert, jungle et abîmes marins) qui transportent les joueurs dans différentes ambiances\nnaturelles, Stimule l'ingéniosité et la pensée logique : comprend un plateau, des cartes énigmes, des jetons et des objets utiles pour résoudre des"
+          ],
+          "en": [],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B0FM3TQ2MF_0.jpg",
+        "images": [
+          "./images/B0FM3TQ2MF_0.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B0FM3TQ2MF",
+        "title": null,
+        "brand_name": null,
+        "included_components": null,
+        "country_of_origin": null,
+        "unit_count": null,
+        "item_type_name": null,
+        "model_name": null,
+        "model_number": null,
+        "manufacturer_part_number": null,
+        "manufacturer": null,
+        "best_sellers_rank": null,
+        "asin": null,
+        "bullets": null,
+        "manufacturer_recommended_age": null
+      },
+      "powerchat_verdict": "FP",
+      "powerchat_reason": "```json\n{\n  'verdict': 'FP',\n  'reason': 'Product is an escape room/puzzle game with a board, puzzle cards, tokens, and objects for solving clues. This matches EXCLUDED GROUP B (board games, card\ngames, puzzles, and models). The NOVA VISUAL AI preliminary verdict aligns with the rule classification. Despite marketing language emphasizing 'logical development' and\n'ingenuity,' the core product structure—a game with rules, game board, and puzzle-solving mechanics—classifies it as a board game, not a toy under FR_Toys_1_Toys.'\n}\n```\n**ASIN Classification Summary:**\n<p><b>ASIN:</b> 55636</p>\n<p><b>Product:</b> Clementoni – Escape Game Wild – Escape Room in die Natur</p>\n<p><b>Verdict:</b> FP</p>\n<p><b>Rule Category:</b> Excluded Group B (Board Games)</p>\n<p><b>Confidence:</b> 95%</p>\n<p><b>Reasoning:</b> The product is a structured escape room game containing a game board, puzzle cards, tokens, and objects designed for rule-based gameplay. This\nfalls squarely under EXCLUDED GROUP B: 'Board games, dice games, word games, travel games, chess' and 'Strategy games and brain teasers.' The NOVA VISUAL AI\nanalysis confirms this classification. Although marketed for ages 8–99 with educational benefits, the product's primary function is competitive puzzle-solving gameplay, not\nopen-ended play or toy use.</p>",
+      "nova_verdict": "FP",
+      "nova_reason": "The product is a board game designed for ages 8-99, which falls under Excluded Group B (board games, card games, puzzles, and models) and is therefore not classified as a\ntoy under this rule.\n[IMAGES: 1]"
+    },
+    {
+      "asin": "B07B2WWWRN",
+      "csi_title": "Sweets Kendamas 5-Streifen Prime Kendama &#8211; Alle Ebenen, Streifendesign, Extra String Accessoire Bundle (Dougie)\nbullet_point: '\u0005 Construction en bois massif – Tasse en bois de hêtre 2 pièces de haute qualité et design à pointes pour les joueurs gauchers et droitiers. Ce Kendama est de\ntaille réglementaire et les bonnets surdimensionnés facilitent l'apprentissage. La forme mise à jour en fait un Kendama idéal pour les débuta",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "S",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte"
+          ],
+          "normalized": null
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": "Bois",
+          "normalized": "Bois"
+        },
+        "bullet_points": {
+          "fr": [],
+          "en": [],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B07B2WWWRN_0.jpg",
+        "images": [
+          "./images/B07B2WWWRN_0.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B07B2WWWRN",
+        "title": "Fetch Error",
+        "brand_name": null,
+        "included_components": null,
+        "country_of_origin": null,
+        "unit_count": null,
+        "item_type_name": null,
+        "model_name": null,
+        "model_number": null,
+        "manufacturer_part_number": null,
+        "manufacturer": null,
+        "best_sellers_rank": null,
+        "asin": null,
+        "bullets": null,
+        "manufacturer_recommended_age": null
+      },
+      "powerchat_verdict": "TP",
+      "powerchat_reason": "```json\n{\n  'verdict': 'TP',\n  'reason': 'Product is a Kendama, a traditional skill toy consisting of a wooden cup-and-ball assembly with a handle and string. Evidence shows: (1) wooden construction\ndesigned for play skill development, (2) explicit play intent across all age levels with learning progression from beginners to advanced players, (3) includes instructional guides\nand video tutorials for gameplay, (4) marketed as a toy/game with skill tricks ('phare', 'lune', 200+ tricks). This matches BRANCH H (Exploration Toys) as a skill-based game\ntoy. NOVA's FP verdict appears to misidentify this as a board game; Kendama is a physical skill toy, not a strategy board game with cards. The product clearly passes STEP 0\n(designed for play) and STEP 1 (not excluded) and qualifies under BRANCH H as an exploration/skill toy.'\n}\n```\n**ASIN Classification Summary:**\n| Field | Value |\n|-------|-------|\n| **ASIN** | Not provided in evidence |\n| **Product** | Sweets Kendamas 5-Stripe Prime Kendama (Dougie) |\n| **Verdict** | **TP** |\n| **Rule Category** | BRANCH H: Exploration Toys and Other Toys (Skill Games) |\n| **Confidence** | 92% |\n| **Reasoning** | Kendama is a traditional wooden skill toy with explicit play and learning intent. Despite NOVA's preliminary FP verdict (which appears to misclassify this as a\nboard game), the product evidence clearly demonstrates it is a physical manipulation toy designed for progressive skill development, not a strategy board game. It passes\nfoundational definition checks and exclusion criteria. |",
+      "nova_verdict": "FP",
+      "nova_reason": "The product is a strategy board game with rule cards and gameplay components, which falls under excluded Group B (board games, card games, puzzles, and models).\n[IMAGES: 1]"
+    },
+    {
+      "asin": "B0CC5HGLN4",
+      "csi_title": "Mosaik-Buntglas-Streifen zum Basteln, 200 g, klares Glas, Mosaikst&#252;cke, Buntglas-Handwerk, DIY, Mosaikfliesen, Hobbys, Kunst, Handwerk, Material\n(MischenFarbe, 4,5 &amp; 3 &amp; 2,5 cm)",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "4.5&3&2.5CM",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [],
+          "normalized": null
+        },
+        "target_gender": null,
+        "material": {
+          "raw": "Verre",
+          "normalized": "Verre"
+        },
+        "bullet_points": {
+          "fr": [
+            "La mosaïque est posée sur les murs de décoration, les assiettes faites à la main, les cadres photo, les tasses, les pots de fleurs et plus encore d'objets de\nbricolage, vous pouvez créer différents motifs selon vos besoins pour les projets d'artisanat., Par rapport à d'autres pièces en verre mosaïqu"
+          ],
+          "en": [
+            "Mosaic tiles on walls, handmade plates, picture frames, cups, flower pots and other DIY objects. You can create different patterns as you need for craft projects.\nCompared with other mosaic glass pieces on the market, the surface is smooth, evenly thick, looks flawless, brighter and more beautiful from the closest distance Applications:\nused for mosaic decorative painting, candle holders, coasters, picture frames and other production materials. The dimensions are measured by hand, there will be"
+          ],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B0CC5HGLN4_0.jpg",
+        "images": [
+          "./images/B0CC5HGLN4_0.jpg",
+          "./images/B0CC5HGLN4_1.jpg",
+          "./images/B0CC5HGLN4_2.jpg",
+          "./images/B0CC5HGLN4_3.jpg",
+          "./images/B0CC5HGLN4_4.jpg",
+          "./images/B0CC5HGLN4_5.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B0CC5HGLN4",
+        "title": "Mosaic Stained Glass Strips DIY for Crafts 200g Clear Mosaic Pieces Stained Glass Craft DIY Hobbies Arts Crafts Material (Blue, 1.25\")\nColour: Blue\nFinish: Polished\nStyle: Art Deco\nShape: stripes",
+        "brand_name": null,
+        "included_components": null,
+        "country_of_origin": null,
+        "unit_count": null,
+        "item_type_name": null,
+        "model_name": null,
+        "model_number": null,
+        "manufacturer_part_number": null,
+        "manufacturer": null,
+        "best_sellers_rank": null,
+        "asin": null,
+        "bullets": "Mosaic tiles on walls, handmade plates, picture frames, cups, flower pots and other DIY objects. You can create different patterns as you need for craft projects.\nCompared with other mosaic glass pieces on the market, the surface is smooth, evenly thick, looks flawless, brighter and more beautiful from the closest distance Applications:\nused for mosaic decorative painting, candle holders, coasters, picture frames and other production materials. The dimensions are measured by hand, there will be",
+        "manufacturer_recommended_age": null
+      },
+      "powerchat_verdict": "FP",
+      "powerchat_reason": "Product is raw craft material (loose mosaic glass tiles), not a structured toy or game. While marketed for DIY crafts, it lacks the essential characteristics of a toy: no play intent,\nno game mechanics, no structured activity framework. It is a consumable art supply material for adult decorative projects, similar to professional art supplies. NOVA's\npreliminary TP verdict appears to conflate construction materials with construction toys; however, loose tiles without a structured building system, instructions, or play\nframework do not qualify under Branch B (Building Sets). The product fails STEP 0 foundational definition—it is not designed for play by children, only for adult-supervised\ncraft decoration. Verdict: FP per Exclusion Group C (belongs to art supplies/craft materials, not toys).",
+      "nova_verdict": "TP",
+      "nova_reason": "The product consists of colorful, geometric tiles designed for creative building or construction play, fitting the definition of building sets and accessories under Branch B.\n[IMAGES: 6]"
+    },
+    {
+      "asin": "B0GCZP348Z",
+      "csi_title": "Lurmerea 16mm Magnetisches Nylon Flechtband Armb&#228;nder Kompatibel mit Xplora X5 Play/Kidzi/XGO 2/XGO 3 Armband, Wasserdicht Bequem Weich\nVerstellbare Ersatzarmband f&#252;r Kinder M&#228;dchen Jungen\nbullet_point: 0\u0010Modèles Compatibles0\u0011 Le bracelet en nylon pour enfants est compatible avec les modèles Xplora X5 Play/Xplora Kidzi/Xplora XGO 2/Xplora XGO 3,\nspécialement conçus pour les montres connectées pour enfants. (Remarque: non compatible avec les modèles Xplora X6), 0\u0010Matériau Haut de Gamme0\u0011 Cette bande éla",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "16 millimètres",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Enfants"
+          ],
+          "normalized": null
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": "Nylon",
+          "normalized": "Nylon"
+        },
+        "bullet_points": {
+          "fr": [],
+          "en": [],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B0GCZP348Z_0.jpg",
+        "images": [
+          "./images/B0GCZP348Z_0.jpg",
+          "./images/B0GCZP348Z_1.jpg",
+          "./images/B0GCZP348Z_2.jpg",
+          "./images/B0GCZP348Z_3.jpg",
+          "./images/B0GCZP348Z_4.jpg",
+          "./images/B0GCZP348Z_5.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B0GCZP348Z",
+        "title": "16 mm Magnetic Nylon Braided Bracelet Compatible with Xplora X5 Play/Kidzi/XGO 2/XGO 3 Bracelet, Waterproof, Comfortable, Soft, Adjustable Replacement Strap for\nChildren, Girls, Boys\nDate First Available  \u000f  \u000e: 29 Dec 2025\nManufacturer  \u000f  \u000e: Lurmerea\nASIN  \u000f  \u000e: B0GD16GHYB\nItem model number  \u000f  \u000e: Xplora X5 NL-CX",
+        "brand_name": null,
+        "included_components": null,
+        "country_of_origin": null,
+        "unit_count": null,
+        "item_type_name": null,
+        "model_name": null,
+        "model_number": null,
+        "manufacturer_part_number": null,
+        "manufacturer": null,
+        "best_sellers_rank": "15 in Boys' Watchbands",
+        "asin": null,
+        "bullets": null,
+        "manufacturer_recommended_age": null
+      },
+      "powerchat_verdict": "FP",
+      "powerchat_reason": "This product is a replacement bracelet/strap accessory for a children's smartwatch (Xplora X5 Play/Kidzi/XGO 2/XGO 3). It is not a toy itself but rather an accessory\ncomponent for an electronic device. The product fails STEP 0 (Foundational Definition Check) because it is not designed or intended for use in play by children—it is a\nfunctional accessory/replacement part for a smartwatch. Additionally, the smartwatch itself contains built-in non-separable electronic components (screen, buttons, wireless\nconnectivity), which would trigger Override 1 if the watch were being classified. The bracelet strap alone, being merely a replacement band without independent play purpose,\ndoes not qualify as a toy under any branch of the FR_Toys_1_Toys rule. NOVA VISUAL AI assessment aligns with this conclusion.",
+      "nova_verdict": "FP",
+      "nova_reason": "The product contains a built-in electronic component (a smartwatch with a screen and buttons) that is non-separable, falling under Override 1 which classifies it as FP.\n\n[IMAGES: 6]"
+    },
+    {
+      "asin": "B09RMQ3SW6",
+      "csi_title": "com-four&#174; 3x Niedliche Filztaschen - Filzkorb in Osterhasen-Form zum Bef&#252;llen und Verschenken (3 K&#246;rbe - H&#228;schen im Ei)",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "Taille unique",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte et Enfant"
+          ],
+          "normalized": null
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": "feutre",
+          "normalized": "feutre"
+        },
+        "bullet_points": {
+          "fr": [
+            "PANIER DE PÂQUES : Les paniers de Pâques en feutre avec un motif de lapin de Pâques sont idéaux pour remplir et offrir ainsi que pour les décorations de\nprintemps et de Pâques !, DÉCORATION DE PÂQUES : Le panier de Pâques rempli convient également à Pâques comme belle décoration pour le rebord de la"
+          ],
+          "en": [
+            "Easter baskets: the felt Easter nests with Easter bunny motif are ideal for filling and giving as a gift as well as spring and Easter decoration Easter decoration: the\nEaster basket is also suitable for Easter as a beautiful decoration for windowsill, table, chest of drawers or hallway For crafts: the felt bags in Easter design are ideal for hobby\ncrafters who want to design Easter gifts or decorative arrangements themselves Gift idea: the Easter handbags can be easily filled with sweets and giv"
+          ],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B09RMQ3SW6_0.jpg",
+        "images": [
+          "./images/B09RMQ3SW6_0.jpg",
+          "./images/B09RMQ3SW6_1.jpg",
+          "./images/B09RMQ3SW6_2.jpg",
+          "./images/B09RMQ3SW6_3.jpg",
+          "./images/B09RMQ3SW6_4.jpg",
+          "./images/B09RMQ3SW6_5.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B09RMQ3SW6",
+        "title": "com-four 2 x Cute Felt Bags - Felt Basket in Easter Bunny Shape for Filling and Gifting (02 Baskets - Bunny with Feather)",
+        "brand_name": "com-four",
+        "included_components": "2 x Easter basket made of felt (black, white, brown)\nArt Craft Kit Type: Felting work\nSet Name: 2 x cute felt bags - felt basket in Easter bunny shape",
+        "country_of_origin": "China",
+        "unit_count": "2.0 count",
+        "item_type_name": null,
+        "model_name": null,
+        "model_number": "CF16760",
+        "manufacturer_part_number": "CF16760",
+        "manufacturer": "com-four",
+        "best_sellers_rank": "51,747 in Stationery & Office Supplies (See Top 100 in Stationery & Office Supplies) 1,862 in Gift Bags",
+        "asin": "B09RN3C1GY",
+        "bullets": "Easter baskets: the felt Easter nests with Easter bunny motif are ideal for filling and giving as a gift as well as spring and Easter decoration Easter decoration: the\nEaster basket is also suitable for Easter as a beautiful decoration for windowsill, table, chest of drawers or hallway For crafts: the felt bags in Easter design are ideal for hobby\ncrafters who want to design Easter gifts or decorative arrangements themselves Gift idea: the Easter handbags can be easily filled with sweets and giv",
+        "manufacturer_recommended_age": null
+      },
+      "powerchat_verdict": "FP",
+      "powerchat_reason": "```json\n{\n  'verdict': 'FP',\n  'reason': 'Product fails Step 0 foundational definition check. These felt Easter baskets are primarily decorative storage containers for holding treats and Easter gifts, not\ndesigned or intended for play by children. While marketed as 'gift ideas' for children and adults, the product lacks explicit evidence of play purpose—it functions as a decorative\nbasket/container for spring and Easter decoration. The bullet points emphasize decoration, gifting, and craft storage rather than play functionality. NOVA VISUAL AI analysis\nconfirms this is a decorative item, not a toy. The product does not meet the foundational requirement of being 'designed or intended for use in play by children.''\n}\n```\n**ASIN Classification Summary:**\n| Field | Value |\n|-------|-------|\n| **Verdict** | **FP** |\n| **Rule Category** | Step 0 - Foundational Definition Check (Non-Toy) |\n| **Confidence** | 95% |\n| **Reasoning** | Product is a decorative felt storage basket for Easter, not a toy designed for play. Lacks explicit play intent; functions as a gift container and decoration. |",
+      "nova_verdict": "FP",
+      "nova_reason": "The product is a decorative Easter basket designed for holding treats, not a toy intended for play. It lacks explicit evidence of play or toy purpose in its design or function,\naligning with the exclusion criteria for non-toy items.\n[IMAGES: 6]"
+    },
+    {
+      "asin": "B0DHJHRMRL",
+      "csi_title": "ZipString String Rope Launcher Bodacious blue - original from ZipString - Outdoor Toy Viral, Fidget Toy, Launcher Gravity Defying and Boost Imagination and\nUnlimited Possibilities for Kids and Adults",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "3.3 cm x 10.7 cm x 3.5 cm",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [],
+          "normalized": null
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": "Acrylonitrile butadiène styrène (ABS) Matériau : polyester",
+          "normalized": "Acrylonitrile butadiène styrène (ABS) Matériau : polyester"
+        },
+        "bullet_points": {
+          "fr": [
+            "Disponible dans 50 pays à travers le monde. Tirez le pouvoir de la science sur vos cordes ! ZipString est un jouet captivant qui \"flottera dans les airs\" à n'importe\nquel cordon apparemment normal. Laissez les cordes s'envoler dans les airs pour défier diverses astuces avec un équilibre soigneux des"
+          ],
+          "en": [
+            "Available in 50 countries around the world. Unleash the power of science on your laces! ZipString is a fascinating toy that \"floats in the air\" with any seemingly normal\nlanyard. Let the ropes fly in the air to master different tricks with the careful balance of forces such as gravity, buoyancy, tension and resistance More than 2000 million times in\ntotal SNS! The mysterious floating rope launcher ZipString is a mysterious rope launcher for children and adults. Cuddle in the ropes, like playing"
+          ],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B0DHJHRMRL_0.jpg",
+        "images": [
+          "./images/B0DHJHRMRL_0.jpg",
+          "./images/B0DHJHRMRL_1.jpg",
+          "./images/B0DHJHRMRL_2.jpg",
+          "./images/B0DHJHRMRL_3.jpg",
+          "./images/B0DHJHRMRL_4.jpg",
+          "./images/B0DHJHRMRL_5.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B0DHJHRMRL",
+        "title": "ZipString String Rope Launcher Bodacious Blue - Original from ZipString - Outdoor Toy Viral, Fidget Toy, Launcher Gravity Defying and Boost Imagination and Unlimited\nPossibilities for Kids and Adults",
+        "brand_name": "ZipString\nSet Name: ZipString Rope Thrower Set\nManufacturer: 0¸0Ã0×0¹0È0ê0ó0°(ZipString)\nUPC: 198168793978",
+        "included_components": null,
+        "country_of_origin": null,
+        "unit_count": "1.0 count",
+        "item_type_name": "string launcher",
+        "model_name": null,
+        "model_number": "ZS-BB-01",
+        "manufacturer_part_number": "ZS-BB-01",
+        "manufacturer": null,
+        "best_sellers_rank": "6,616 in Toys (See Top 100 in Toys) 14 in Magic Tricks (Toys)",
+        "asin": "B0DHJHRMRL",
+        "bullets": "Available in 50 countries around the world. Unleash the power of science on your laces! ZipString is a fascinating toy that \"floats in the air\" with any seemingly normal\nlanyard. Let the ropes fly in the air to master different tricks with the careful balance of forces such as gravity, buoyancy, tension and resistance More than 2000 million times in\ntotal SNS! The mysterious floating rope launcher ZipString is a mysterious rope launcher for children and adults. Cuddle in the ropes, like playing",
+        "manufacturer_recommended_age": "8 - 15 years"
+      },
+      "powerchat_verdict": "FP",
+      "powerchat_reason": "```json\n{\n  'verdict': 'FP',\n  'reason': 'OVERRIDE 1 triggered: Product contains a built-in, non-separable electronic component (power button mechanism and internal motor system that propels the\nrope). The bullet points explicitly state 'Press the power button on the right side of the body and the cord moves,' confirming a built-in electronic propulsion system. Per\nOverride 1, products with non-separable electronic components are classified as FP regardless of toy characteristics. NOVA VISUAL AI preliminary verdict aligns with this\nassessment.'\n}\n```\n**Classification Summary:**\n<p><b>ASIN:</b> [Not provided in evidence]</p>\n<p><b>Product:</b> ZipString String Rope Launcher Bodacious Blue</p>\n<p><b>Verdict:</b> FP (False Positive / Out of Scope)</p>\n<p><b>Rule Category:</b> OVERRIDE 1 - Built-in Non-Separable Electronic Component</p>\n<p><b>Confidence:</b> 95%</p>\n<p><b>Reasoning:</b> Although the product is marketed as a toy for children and adults with play intent, it contains a built-in, non-separable electronic motor system\nactivated by a power button. The product description confirms the electronic propulsion mechanism is integral to function ('Press the power button on the right side of the body\nand the cord moves'). This triggers OVERRIDE 1, which mandates FP classification regardless of other toy characteristics. The NOVA VISUAL AI analysis corroborates this\nfinding.</p>",
+      "nova_verdict": "FP",
+      "nova_reason": "The product contains a built-in electronic component (USB charging cable and device) that is non-separable, triggering Override 1 which classifies it as FP regardless of other\ncharacteristics.\n[IMAGES: 6]"
+    },
+    {
+      "asin": "B09Y5N3WZF",
+      "csi_title": "Diamond Schleifstifte Set, 20Pcs Rotationsfr&#228;ser Bohrfr&#228;swerkzeug Set mit 1/8 Zoll Schaft f&#252;r Stein, Keramik, Glas, Schnitzen, Schleifen,\nPolieren, Gravieren\nbullet_point: 0\u0010Matériau0\u0011: Ensemble de fraises à meuler recouvert de diamant avec une granulométrie de #60, haute dureté, grain uniforme, une surface plus rugueuse qui\npermet un ponçage, une sculpture, un meulage plus rapides, et une résistance à l'usure., 0\u0010Utilisation polyvalente0\u0011: Ensemble de fraises diamantées",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": null,
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [],
+          "normalized": null
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [],
+          "en": [
+            "Material: #60 grit diamond coated grinding set, high hardness, even grinding, rougher surface, which are faster than the larger grain burrs when carving and grinding.\nWear resistance. 0\u0010Wide Application0\u0011:Diamond Router Bit Set for precision grinding, grinding, sculpting, dressing in stone, ceramic, glass, gemstone, agate stones and more.\nDesign the dead wood areas of bonsai trees and carving hard agate stones, etc. 3 mm (1/8 inch) shank: diamond grinding cutter drill bit set fits most drills, rot"
+          ],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B09Y5N3WZF_0.jpg",
+        "images": [
+          "./images/B09Y5N3WZF_0.jpg",
+          "./images/B09Y5N3WZF_1.jpg",
+          "./images/B09Y5N3WZF_2.jpg",
+          "./images/B09Y5N3WZF_3.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B09Y5N3WZF",
+        "title": "Diamond Grinding Point Set, 20 Pieces Rotary Cutter Drill Milling Tool Set with 1/8 Inch Shank for Stone, Ceramic, Glass, Carving, Grinding, Polishing, Engraving\nPower source: Battery Powered\nRecommended Uses For Product: Grinding, Polishing, Sanding, carving\nOther Special Features of the Product: Compact",
+        "brand_name": null,
+        "included_components": null,
+        "country_of_origin": null,
+        "unit_count": null,
+        "item_type_name": null,
+        "model_name": null,
+        "model_number": null,
+        "manufacturer_part_number": null,
+        "manufacturer": null,
+        "best_sellers_rank": null,
+        "asin": null,
+        "bullets": "Material: #60 grit diamond coated grinding set, high hardness, even grinding, rougher surface, which are faster than the larger grain burrs when carving and grinding.\nWear resistance. 0\u0010Wide Application0\u0011:Diamond Router Bit Set for precision grinding, grinding, sculpting, dressing in stone, ceramic, glass, gemstone, agate stones and more.\nDesign the dead wood areas of bonsai trees and carving hard agate stones, etc. 3 mm (1/8 inch) shank: diamond grinding cutter drill bit set fits most drills, rot",
+        "manufacturer_recommended_age": null
+      },
+      "powerchat_verdict": "FP",
+      "powerchat_reason": "This product is a professional-grade rotary tool bit set designed for adult DIY repair, crafting, and precision work (stone carving, ceramic engraving, bonsai sculpting). It is not\ndesigned or intended for children's play. Per STEP 0 (Foundational Definition Check), the product fails the foundational requirement of being 'designed or intended for use in\nplay by children.' Additionally, it matches EXCLUDED GROUP C as a tool set for adult DIY repair work, similar to sewing kits with hand tools. NOVA VISUAL AI preliminary\nverdict (FP) confirms this classification. The product is out of scope for FR_Toys_1_Toys rule.",
+      "nova_verdict": "FP",
+      "nova_reason": "The product is a set of drill bits designed for adult DIY repair and crafting, not intended for children's play. It falls under the exclusion for sewing kits and tools for adult DIY\nrepair.\n[IMAGES: 4]"
+    },
+    {
+      "asin": "B0FTX6FWG1",
+      "csi_title": "Spielzeug mit fliegender Untertasse &#8211; Hubschrauber, Scheibe, tragbares Lernspiel | Lustiges Outdoor-Sportspielzeug f&#252;r 3 bis 8 Jahre, Indoor-Spiele,\nGartenaktivit&#228;ten, Unterhaltung f&#252;r",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "Se référer au descriptif",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Se référer à la description"
+          ],
+          "normalized": null
+        },
+        "target_gender": null,
+        "material": {
+          "raw": "Abs",
+          "normalized": "Abs"
+        },
+        "bullet_points": {
+          "fr": [
+            "Pratique pour jouer: atteindre une hauteur d'éjection de 20 mètres sans effort avec ce jouet de soucoupe volant aérodynamique, faisant la promotion du jeu\nindividuel pour les de 3 ans et plus, Design ergonomique: avec une construction robuste avec un design résistant à l'automne, ce jouet à disque v"
+          ],
+          "en": [],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B0FTX6FWG1_0.jpg",
+        "images": [
+          "./images/B0FTX6FWG1_0.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B0FTX6FWG1",
+        "title": "Fetch Error",
+        "brand_name": null,
+        "included_components": null,
+        "country_of_origin": null,
+        "unit_count": null,
+        "item_type_name": null,
+        "model_name": null,
+        "model_number": null,
+        "manufacturer_part_number": null,
+        "manufacturer": null,
+        "best_sellers_rank": null,
+        "asin": null,
+        "bullets": null,
+        "manufacturer_recommended_age": null
+      },
+      "powerchat_verdict": "FP",
+      "powerchat_reason": "```json\n{\n  'verdict': 'FP',\n  'reason': 'Product is a flying disc/UFO toy designed for outdoor play. Per EXCLUDED GROUP A, 'Outdoor toss games, exterior game sets' and 'Toy guns, dummy guns, foam\nprojectile blasters' are explicitly excluded from scope. The product description confirms outdoor use ('plein air', 'plage', 'parc') and the bullet points emphasize outdoor garden\nactivities. Despite NOVA VISUAL AI suggesting TP, the rule text explicitly excludes outdoor toss/projectile toys. Rule text takes precedence over visual analysis when there is\ndirect exclusion language.'\n}\n```\n**Detailed Classification:**\n<p><b>ASIN:</b> Not provided in evidence</p>\n<p><b>Product:</b> Flying Disc/UFO Toy (Spielzeug mit fliegender Untertasse)</p>\n<p><b>Verdict:</b> FP (False Positive - Out of Scope)</p>\n<p><b>Rule Category:</b> EXCLUDED GROUP A - Outdoor and ride-on toys</p>\n<p><b>Confidence:</b> 95%</p>\n<p><b>Reasoning:</b></p>\n<ul>\n<li><b>Step 0 (Foundational Check):</b> Product IS designed for play by children (ages 3-8 explicitly stated). '\u0013 Passes.</li>\n<li><b>Step 1 (Exclusion Check):</b> Product matches EXCLUDED GROUP A: 'Outdoor toss games, exterior game sets' and 'foam projectile blasters.' The product\ndescription explicitly emphasizes outdoor use ('plein air,' 'plage,' 'parc,' 'jardin') and is marketed as an outdoor sport toy for garden activities.</li>\n<li><b>NOVA Visual Analysis Override:</b> While NOVA suggests TP under 'Exploration Toys,' the rule text contains explicit exclusion language for outdoor projectile/toss\ntoys that supersedes visual interpretation when direct rule language applies.</li>\n</ul>\n<p><b>Final Verdict: FP</b> — Product falls under excluded outdoor toss game category and does not proceed to Step 2.</p>",
+      "nova_verdict": "TP",
+      "nova_reason": "The items are novelty toys designed for play, specifically a foam projectile blaster and a handheld fan, both intended for children's amusement and fall under the Exploration\nToys and Other Toys category.\n[IMAGES: 1]"
+    },
+    {
+      "asin": "B0FVY7SYHW",
+      "csi_title": "CSI Data Viewer",
+      "csi_status": "TS\nisTombstone: true",
+      "attributes": {
+        "size_info": {
+          "size": "Se référer au descriptif",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Se référer à la description"
+          ],
+          "normalized": null
+        },
+        "target_gender": null,
+        "material": {
+          "raw": "Plastique",
+          "normalized": "Plastique"
+        },
+        "bullet_points": {
+          "fr": [
+            "Développement langagier : Chariot de supermarché éducatif conçu pour les jeunes , ce jeu de rôle avec courses simulées crée un environnement engageant\nfavorisant le développement du langage et la croissance cognitive par le jeu d'imitation réaliste., Rangement Tri Intégré: En tant que chariot de cou"
+          ],
+          "en": [],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B0FVY7SYHW_0.jpg",
+        "images": [
+          "./images/B0FVY7SYHW_0.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B0FVY7SYHW",
+        "title": "Fetch Error",
+        "brand_name": null,
+        "included_components": null,
+        "country_of_origin": null,
+        "unit_count": null,
+        "item_type_name": null,
+        "model_name": null,
+        "model_number": null,
+        "manufacturer_part_number": null,
+        "manufacturer": null,
+        "best_sellers_rank": null,
+        "asin": null,
+        "bullets": null,
+        "manufacturer_recommended_age": null
+      },
+      "powerchat_verdict": "TP",
+      "powerchat_reason": "```json\n{\n  'verdict': 'TP',\n  'reason': 'Product is a toy shopping cart with play food items designed for children's pretend play. Matches BRANCH E (Toys for Toddlers and Preschoolers) - specifically\n'Pretend play kitchen and supermarket toys including play kitchens, tea sets, cooking sets, play food sets, grocery play.' CSI evidence confirms educational language\ndevelopment, imaginative role-play, and age-appropriate learning through imitation play. NOVA visual analysis confirms child interaction with shopping cart and play food,\nsupporting TP classification. No electronic components mentioned; material is plastic (ABS). Passes STEP 0 (designed for play by children) and STEP 1 (not in excluded\ngroups). Clearly in-scope for FR_Toys_1_Toys rule.'\n}\n```\n**ASIN:** Not provided in evidence  \n**Product:** Toy Shopping Cart with Play Food Set  \n**Verdict:** TP  \n**Rule Category:** BRANCH E - Toys for Toddlers and Preschoolers (Pretend play grocery/supermarket toys)  \n**Confidence:** 95%  \n**Reasoning:** Product explicitly designed as educational pretend-play grocery shopping set for young children with realistic play food and storage features. Matches\nBRANCH E criteria for role-play food/shopping scenarios. NOVA visual analysis confirms child play interaction, supporting TP classification.",
+      "nova_verdict": "TP",
+      "nova_reason": "The image shows a toy shopping cart designed for children, featuring play food items and a child interacting with it, clearly intended for pretend play and falls under the Toys\nfor Toddlers and Preschoolers category.\n[IMAGES: 1]"
+    },
+    {
+      "asin": "B077QHZQCJ",
+      "csi_title": "Jan Van Haasteren, Die Winterspiele, Puzzle 1000 Teile Erwachsene",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "68x49cm",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "14 ans to 99 ans"
+          ],
+          "normalized": null
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": "Plastique",
+          "normalized": "Plastique"
+        },
+        "bullet_points": {
+          "fr": [
+            "La gamme JVH de Jumbo : des couleurs par milliers et des situations comiques, Favorise la concentration, Développe le sens de l'observation et la patience"
+          ],
+          "en": [
+            "Play and fun: on the detailed and humorous comic motif of the Jan van Haasteren puzzle, you will discover something new every time. So puzzling will never be boring\nPremium quality: the puzzle 1000 pieces is made in the Netherlands and environmentally friendly recycled cardboard has been used for the pieces. Each puzzle piece is\nunique and is characterised by the seamless effect Endless puzzle fun. The finished puzzle appears like a poster and can be hung or placed again and again Great gift: gi"
+          ],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B077QHZQCJ_0.jpg",
+        "images": [
+          "./images/B077QHZQCJ_0.jpg",
+          "./images/B077QHZQCJ_1.jpg",
+          "./images/B077QHZQCJ_2.jpg",
+          "./images/B077QHZQCJ_3.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B077QHZQCJ",
+        "title": "Jumbo 19065 Winter Games Jigsaw Puzzle, Multi",
+        "brand_name": "Jan van Haasteren",
+        "included_components": "No, Number of puzzles: 1, Number of puzzle pieces: 1000 pc(s)\nAge Range Description: 144 cm/1188 Months",
+        "country_of_origin": null,
+        "unit_count": "1000 Stück(e)\nSub Brand: Jan Van Haasteren",
+        "item_type_name": "Puzzle game\nManufacturer Warranty Description: 2 Years",
+        "model_name": null,
+        "model_number": "19065\nCustomer Package Type: Standardverpackung",
+        "manufacturer_part_number": "JUM19065",
+        "manufacturer": "Jumbo\nGlobal Trade Identification Number: 08710126190654",
+        "best_sellers_rank": "125,519 in Garden (See Top 100 in Garden) 4,574 in Jigsaws (Toys) 14,411 in Garden Furniture & Accessories",
+        "asin": "B077QHZQCJ",
+        "bullets": "Play and fun: on the detailed and humorous comic motif of the Jan van Haasteren puzzle, you will discover something new every time. So puzzling will never be boring\nPremium quality: the puzzle 1000 pieces is made in the Netherlands and environmentally friendly recycled cardboard has been used for the pieces. Each puzzle piece is\nunique and is characterised by the seamless effect Endless puzzle fun. The finished puzzle appears like a poster and can be hung or placed again and again Great gift: gi",
+        "manufacturer_recommended_age": "12 years and up"
+      },
+      "powerchat_verdict": "FP",
+      "powerchat_reason": "This is a 1000-piece jigsaw puzzle for adults (ages 14-99). Per STEP 1, EXCLUDED GROUP B, all jigsaw puzzles of any piece count and any age are excluded from scope.\nThe rule explicitly states: 'All jigsaw puzzles of any piece count (under 500, exactly 500, over 500, wooden non-educational) are EXCLUDED.' The KEY DISTINCTION clarifies\nthat only wooden or magnetic educational puzzles for preschoolers and 3D puzzles are in scope; flat jigsaw puzzles are FP. NOVA VISUAL AI preliminary verdict aligns with\nthis classification. Verdict: FP.",
+      "nova_verdict": "FP",
+      "nova_reason": "The product is a 1000-piece jigsaw puzzle, which falls under the excluded group of flat or jigsaw puzzles of any piece count, regardless of age, and is therefore not classified\nas a toy under this rule.\n[IMAGES: 4]"
+    },
+    {
+      "asin": "B07DDNQX3T",
+      "csi_title": "Asmodee - Perlin Pinpin Kartenspiel",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "Jeu de cartes standard",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Enfants, adultes"
+          ],
+          "normalized": null
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": "Carton",
+          "normalized": "Carton"
+        },
+        "bullet_points": {
+          "fr": [
+            "JEU DE CARTES LUDIQUE POUR ENFANTS DES 6 ANS: Perlin Pinpin est un jeu malin dans lequel les enfants dès 6 ans doivent réveiller des princesses\nendormies à l’aide de cartes spéciales. Grâce à une combinaison de stratégie, mémoire et chance, ils collectent des princesses pour remporter la partie., RÉ"
+          ],
+          "en": [
+            "Playful card game for children aged 6 and up: Perlin Pinpin is a clever game in which children aged 6 and over have to wake sleeping princesses with special cards.\nThrough a combination of strategy, memory and luck, they collect princesses to win the game. Wake up princesses with princes – Princesses sleep deeply, but players can use\ntheir \"prince\" cards to wake them up and add them to their collection. A simple and fun game principle that stimulates the thinking and tactical sense of the younge"
+          ],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B07DDNQX3T_0.jpg",
+        "images": [
+          "./images/B07DDNQX3T_0.jpg",
+          "./images/B07DDNQX3T_1.jpg",
+          "./images/B07DDNQX3T_2.jpg",
+          "./images/B07DDNQX3T_3.jpg",
+          "./images/B07DDNQX3T_4.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B07DDNQX3T",
+        "title": "ASMODEE - Perlinpinpin - Jeu de société",
+        "brand_name": "Asmodee\nAge Range Description: Kid\nSet Name: Perlin Pinpin",
+        "included_components": "79 cards; 1 rule of the game",
+        "country_of_origin": "China",
+        "unit_count": "1 Count",
+        "item_type_name": null,
+        "model_name": null,
+        "model_number": "CGPER01",
+        "manufacturer_part_number": "CGPER01",
+        "manufacturer": "Asmodee",
+        "best_sellers_rank": "480,132 in Toys (See Top 100 in Toys) 4,489 in Dedicated Deck Card Games",
+        "asin": "B07DDNQX3T",
+        "bullets": "Playful card game for children aged 6 and up: Perlin Pinpin is a clever game in which children aged 6 and over have to wake sleeping princesses with special cards.\nThrough a combination of strategy, memory and luck, they collect princesses to win the game. Wake up princesses with princes – Princesses sleep deeply, but players can use\ntheir \"prince\" cards to wake them up and add them to their collection. A simple and fun game principle that stimulates the thinking and tactical sense of the younge",
+        "manufacturer_recommended_age": "6 years and up"
+      },
+      "powerchat_verdict": "FP",
+      "powerchat_reason": "```json\n{\n  'verdict': 'FP',\n  'reason': 'Perlin Pinpin is a strategy card game with competitive gameplay rules. Per EXCLUDED GROUP B, 'Card games of any type including strategy card games' and\n'Board games, dice games, word games, travel games, chess' are explicitly excluded from FR_Toys_1_Toys scope. The product evidence confirms players use cards with\nstrategic effects (Prince cards to wake princesses, Knight cards to kidnap, Fool cards for reversals) to compete and win—this is rule-based strategy gameplay, not collecting.\nNOVA VISUAL AI preliminary verdict (FP) aligns with this classification. Verdict: FP.'\n}\n```\n**ASIN Classification Summary:**\n<p><b>ASIN:</b> [Not provided in evidence]</p>\n<p><b>Product:</b> Asmodee - Perlin Pinpin Kartenspiel (Card Game)</p>\n<p><b>Verdict:</b> FP</p>\n<p><b>Rule Category:</b> EXCLUDED GROUP B – Card games and board games</p>\n<p><b>Confidence:</b> 95%</p>\n<p><b>Reasoning:</b> This product is a strategy card game designed for competitive play with rule-based mechanics (Prince cards wake princesses, Knight cards kidnap,\nFool cards create reversals). Per the decision tree, EXCLUDED GROUP B explicitly states 'Card games of any type including strategy card games' and 'Board games' are out\nof scope for FR_Toys_1_Toys. The NOVA VISUAL AI preliminary verdict (FP) confirms this classification. The product does not qualify as a collectible card set (Branch H)\nbecause the primary purpose is competitive strategy gameplay, not collecting.</p>",
+      "nova_verdict": "FP",
+      "nova_reason": "The product is a card game designed for competitive play, which falls under the excluded group of board games and card games. The packaging and cards indicate it is a\nstrategy-based game rather than a collectible set.\n[IMAGES: 5]"
+    },
+    {
+      "asin": "B0FTVQRGBS",
+      "csi_title": "HOOJOJO Gl&#252;cksrad 25 cm Magnetisches Gl&#252;cksrad Zum Drehen Gl&#252;cksrad Zum Selbstgestalten Brettspiele Wortspiele Partyspiel Roulette\nSpiel Partyverlosungen (Leere Gitter)",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "25 Centimeters",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Enfant"
+          ],
+          "normalized": null
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": "Plastique aimant",
+          "normalized": "Plastique aimant"
+        },
+        "bullet_points": {
+          "fr": [
+            "Roue de la fortune polyvalente à tourner : roue de la chance magnétique de 25 cm, idéale pour les jeux de société, les jeux de lettres, les jeux de roulette et les\nactivités de groupe interactives., Cinq variantes personnalisables : avec quatre champs, six, huit et dix champs ainsi qu'un champ compl"
+          ],
+          "en": [],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B0FTVQRGBS_0.jpg",
+        "images": [
+          "./images/B0FTVQRGBS_0.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B0FTVQRGBS",
+        "title": "Fetch Error",
+        "brand_name": null,
+        "included_components": null,
+        "country_of_origin": null,
+        "unit_count": null,
+        "item_type_name": null,
+        "model_name": null,
+        "model_number": null,
+        "manufacturer_part_number": null,
+        "manufacturer": null,
+        "best_sellers_rank": null,
+        "asin": null,
+        "bullets": null,
+        "manufacturer_recommended_age": null
+      },
+      "powerchat_verdict": "FP",
+      "powerchat_reason": "```json\n{\n  'verdict': 'FP',\n  'reason': 'Product is a customizable spinner wheel (Glücksrad) explicitly marketed as a board game accessory and party game tool. Per EXCLUDED GROUP B, board games\nand game accessories are out of scope. The product description emphasizes use for 'jeux de société' (board games), 'jeux de lettres' (word games), and 'jeux de roulette'\n(roulette games) — all strategy or game-based activities. While NOVA VISUAL AI suggests TP based on toy-like appearance, the textual evidence clearly positions this as a\ngame accessory/tool rather than a standalone toy designed for play. The rule explicitly excludes board game components and accessories. Verdict: FP.'\n}\n```\n**Detailed Classification:**\n<p><b>ASIN:</b> Not provided in evidence</p>\n<p><b>Product:</b> HOOJOJO Glücksrad 25 cm Magnetisches Glücksrad (Magnetic Fortune Wheel)</p>\n<p><b>Verdict:</b> FP (False Positive — out of scope)</p>\n<p><b>Rule Category:</b> EXCLUDED GROUP B — Board games, card games, puzzles, and models</p>\n<p><b>Confidence:</b> 85%</p>\n<p><b>Reasoning:</b></p>\n<ul>\n<li><b>Step 0 (Foundational Definition):</b> While the product could be used in play contexts, the primary evidence indicates it is marketed as a <b>game accessory or\ntool</b>, not as a standalone toy designed for independent play by children.</li>\n<li><b>Step 1 (Exclusion Check):</b> The product explicitly falls under <b>EXCLUDED GROUP B</b>. The CSI bullet points and description repeatedly reference:\n<ul>\n<li>'jeux de société' (board games)</li>\n<li>'jeux de lettres' (word games)</li>\n<li>'jeux de roulette' (roulette games)</li>\n<li>'activités de groupe interactives' (interactive group activities)</li>\n</ul>\nThis is a <b>game accessory or component</b>, not a toy in its own right.</li>\n<li><b>Visual Evidence (NOVA):</b> NOVA VISUAL AI classified this as TP based on toy-like appearance (spinner with arrow). However, per the data cleaning strategy, visual\nanalysis must be reconciled with textual evidence. The textual evidence clearly contradicts toy classification — the product is explicitly positioned as a customizable game\nwheel for board games and word games, making it a game accessory rather than a standalone toy.</li>\n<li><b>Conclusion:</b> The rule explicitly excludes board game accessories. This product is a reusable spinner wheel designed to be customized and used within board\ngames, word games, and party games — not as an independent toy for play.</li>\n</ul>",
+      "nova_verdict": "TP",
+      "nova_reason": "The image shows a simple toy spinner with a red arrow and a circular base, clearly designed for play and entertainment, fitting the definition of a toy for children.\n[IMAGES: 1]"
+    },
+    {
+      "asin": "B08HX71MHJ",
+      "csi_title": "21 Zoll Ukulele DIY Kit, Machen Sie Ihre eigene Ukulele, Instrumentenzubeh&#246;r Tragbare Ukulele Holz-Ukulele, Instrumentenzubeh&#246;r",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "Lleno",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [],
+          "normalized": null
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Le bois n'est pas peint, vous pouvez le peindre à votre guise., Intéressant et utile, peut susciter un intérêt pour le travail manuel et améliorer les compétences.,\nFabriqué à partir de matériaux de tilleul de qualité, léger, sûr et portable., Idéal pour que les enfants jouent avec l'accompagnement"
+          ],
+          "en": [
+            "This kit contains all the parts that an ukelele has, all are precision manufactured and can be assembled into a real ukelele. Ideal for children to play with parents. The\nwood is not painted, you can paint it as you like. Interesting and useful, can arouse interest in handicrafts and improve skills. Made of high quality basswood materials,\nlightweight, safe and portable."
+          ],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B08HX71MHJ_0.jpg",
+        "images": [
+          "./images/B08HX71MHJ_0.jpg",
+          "./images/B08HX71MHJ_1.jpg",
+          "./images/B08HX71MHJ_2.jpg",
+          "./images/B08HX71MHJ_3.jpg",
+          "./images/B08HX71MHJ_4.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B08HX71MHJ",
+        "title": "21 Inch Ukulele DIY Kit, Make Your Own Ukulele, Instrument Accessories, Portable Ukulele, Wooden Ukulele, Instrument Accessories",
+        "brand_name": "Annadue\nInstrument: Ukulele",
+        "included_components": null,
+        "country_of_origin": "China",
+        "unit_count": null,
+        "item_type_name": null,
+        "model_name": "Annadue",
+        "model_number": "Annadueh8un9vwgye",
+        "manufacturer_part_number": "Annadueh8un9vwgye",
+        "manufacturer": "Annadue",
+        "best_sellers_rank": "67,793 in Musical Instruments & DJ (See Top 100 in Musical Instruments & DJ) 386 in Ukulele",
+        "asin": "B08HX71MHJ",
+        "bullets": "This kit contains all the parts that an ukelele has, all are precision manufactured and can be assembled into a real ukelele. Ideal for children to play with parents. The\nwood is not painted, you can paint it as you like. Interesting and useful, can arouse interest in handicrafts and improve skills. Made of high quality basswood materials,\nlightweight, safe and portable.",
+        "manufacturer_recommended_age": null
+      },
+      "powerchat_verdict": "TP",
+      "powerchat_reason": "```json\n{\n  'verdict': 'TP',\n  'reason': 'Product is a 21-inch ukulele DIY assembly kit explicitly marketed for children to play with parental guidance. It contains all component parts (body, neck, fretboard,\nbridge, strings, tuning pegs, hardware) for assembly into a functional ukulele. Matches BRANCH H (Exploration Toys and Other Toys) as a beginner musical instrument set. No\nbuilt-in electronic components present. NOVA VISUAL AI preliminary verdict (TP) aligns with rule classification. Product passes STEP 0 (designed for play by children), STEP\n1 (not excluded), and STEP 2 (qualifies as beginner instrument kit).'\n}\n```\n**ASIN Classification Summary:**\n<p><b>ASIN:</b> [Not provided in evidence]</p>\n<p><b>Product:</b> 21 Inch Ukulele DIY Kit, Make Your Own Ukulele</p>\n<p><b>Verdict:</b> TP</p>\n<p><b>Rule Category:</b> BRANCH H — Exploration Toys and Other Toys (Beginner Musical Instruments)</p>\n<p><b>Confidence:</b> 95%</p>\n<p><b>Reasoning:</b> This product is a structured DIY assembly kit for children containing all ukulele components (body, neck, fretboard, bridge, strings, tuning hardware).\nThe product description explicitly states 'Ideal for children to play with parents' and emphasizes skill development through handicraft assembly. It qualifies as a beginner\nmusical instrument set under BRANCH H. No built-in or non-separable electronic components are present. The product successfully passes foundational definition check\n(STEP 0), exclusion check (STEP 1), and inclusion criteria (STEP 2).</p>",
+      "nova_verdict": "TP",
+      "nova_reason": "The product is a beginner musical instrument set designed for children, specifically a ukulele kit with components for assembly and play. It falls under Branch H (Exploration\nToys and Other Toys) as a beginner musical instrument set, which is in scope for the FR_Toys_1 rule.\n[IMAGES: 5]"
+    },
+    {
+      "asin": "B00DGMRAV6",
+      "csi_title": "Clementoni 27878.7 - Puzzle - Voice Violetta, 104 Teile",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "Taille unique",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Enfant"
+          ],
+          "normalized": null
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": "Carton",
+          "normalized": "Carton"
+        },
+        "bullet_points": {
+          "fr": [
+            "Fabriqué en Italie, À partir de 6 ans, Les puzzles sont conçus spécialement pour les enfants et à l’effigie de leurs personnages préférés"
+          ],
+          "en": [
+            "Motif: Violetta 104 piece puzzle From 6 years Laying size: 48.5 x 33.5 cm"
+          ],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B00DGMRAV6_0.jpg",
+        "images": [
+          "./images/B00DGMRAV6_0.jpg",
+          "./images/B00DGMRAV6_1.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B00DGMRAV6",
+        "title": "Clementoni VIOLETTA - PUZZLE 104 PZ - VIO",
+        "brand_name": "Clementoni\nAge Range Description: Kid",
+        "included_components": "puzzle pieces\nArt Craft Kit Type: puzzles",
+        "country_of_origin": null,
+        "unit_count": null,
+        "item_type_name": null,
+        "model_name": null,
+        "model_number": "27878.7",
+        "manufacturer_part_number": "27878.7",
+        "manufacturer": "Clementoni",
+        "best_sellers_rank": null,
+        "asin": "B00DGMRAV6",
+        "bullets": "Motif: Violetta 104 piece puzzle From 6 years Laying size: 48.5 x 33.5 cm",
+        "manufacturer_recommended_age": null
+      },
+      "powerchat_verdict": "FP",
+      "powerchat_reason": "Product is a flat jigsaw puzzle (104 pieces) for children. Per STEP 1, EXCLUDED GROUP B, KEY DISTINCTION FOR PUZZLES: 'All other flat or jigsaw puzzles of any piece\ncount, any age, including decorative adult wooden puzzles are EXCLUDED. Verdict is FP.' This product does not qualify as a wooden/magnetic educational puzzle for\npreschool or a 3D puzzle requiring building—it is a standard flat jigsaw puzzle with a character theme.",
+      "nova_verdict": "FP",
+      "nova_reason": "The product is a 10-piece jigsaw puzzle, which falls under the excluded group of flat or jigsaw puzzles of any piece count, regardless of age or educational purpose.\n[IMAGES: 2]"
+    },
+    {
+      "asin": "B0D7C8Z32P",
+      "csi_title": "Pup Go 2er Pack 4 in Einer Reihe Reisespiele f&#252;r Kinder ab 3 4 5 Jahre, im Taschenformat, Perfektes Reise- &amp; Kompaktspiele, Ideal f&#252;r Auto,\nReisen Flugzeug, Tragbares Strategiespiel Reisespiel\nbullet_point: Ø=Ý5Ø=ßâ0\u0010Jeu familial classique0\u0011Pup Go 4 en Ligne poche est un mini jeu de société familial et rapide, idéal pour des parties en famille. Le but : aligner 4 pions,\ncombinant coordination œil-main et réflexion stratégique, adapté aux enfants à partir de 3 ans et aux adultes., Ø=Ý5Ø=ßâ0\u0010Valeur éducative0\u0011Ce jeu",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "11 x 8 x 2 cm",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "3+"
+          ],
+          "normalized": null
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": "Plastique",
+          "normalized": "Plastique"
+        },
+        "bullet_points": {
+          "fr": [],
+          "en": [
+            "Classic family games: Pup Go tokens 4 in a row are family-friendly board games. It combines logical thinking and problem solving sound for children, mini games for\nchildren and suitable for travel games children from 3 4 5 6 7 8 9 10 11 12 years, perfect as a party bag children's birthday. Intelligence developer games: Pup Go 4 in a series\ngames is a hand-eye coordination board game for children, adults and seniors, including adult travel games. As an educational toy and educational board games,"
+          ],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B0D7C8Z32P_0.jpg",
+        "images": [
+          "./images/B0D7C8Z32P_0.jpg",
+          "./images/B0D7C8Z32P_1.jpg",
+          "./images/B0D7C8Z32P_2.jpg",
+          "./images/B0D7C8Z32P_3.jpg",
+          "./images/B0D7C8Z32P_4.jpg",
+          "./images/B0D7C8Z32P_5.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B0D7C8Z32P",
+        "title": "Pup Go Pack of 2 4 in a row travel games for children from 3 4 5 years, in pocket size, perfect travel and compact games, ideal for car, travel plane, portable strategy\ngame, travel game\nAge Range Description: 3+",
+        "brand_name": "Pup Go",
+        "included_components": "1 x game board, 21 x red discs, 21 x yellow discs",
+        "country_of_origin": "China",
+        "unit_count": "2.0 count",
+        "item_type_name": "travel games",
+        "model_name": "Mini\nSet Name: Pup Go 2 Pack Pocket Size Mini Board Game 4\" A Row",
+        "model_number": "NO.17811",
+        "manufacturer_part_number": "NO.17811\nManufacturer Warranty Description: Manufacturer's warranty for 1 year from date of purchase.",
+        "manufacturer": "Shenzhen Rexuechuanqi Technology Co., Ltd.",
+        "best_sellers_rank": "5,233 in Toys (See Top 100 in Toys) 239 in Board Games (Toys)",
+        "asin": "B0D7C8Z32P",
+        "bullets": "Classic family games: Pup Go tokens 4 in a row are family-friendly board games. It combines logical thinking and problem solving sound for children, mini games for\nchildren and suitable for travel games children from 3 4 5 6 7 8 9 10 11 12 years, perfect as a party bag children's birthday. Intelligence developer games: Pup Go 4 in a series\ngames is a hand-eye coordination board game for children, adults and seniors, including adult travel games. As an educational toy and educational board games,",
+        "manufacturer_recommended_age": "3 years and up"
+      },
+      "powerchat_verdict": "FP",
+      "powerchat_reason": "```json\n{\n  'verdict': 'FP',\n  'reason': 'This product is a 4-in-a-row strategy board game (Connect Four variant). Per EXCLUDED GROUP B of the decision tree, 'Strategy games and brain teasers' and\n'Board games, dice games, word games, travel games' are explicitly excluded from scope. The product description confirms it is a 'jeu de société' (board game) with strategic\ngameplay mechanics. Despite being marketed for children ages 3+, it falls under the board game exclusion category, making it FP.'\n}\n```\n**Classification Details:**\n| Field | Value |\n|-------|-------|\n| **ASIN** | Not provided |\n| **Product** | Pup Go 2er Pack 4 in Einer Reihe (Connect Four Travel Game) |\n| **Verdict** | **FP** |\n| **Rule Category** | EXCLUDED GROUP B: Board games, strategy games |\n| **Confidence** | 95% |\n| **Reasoning** | The product is a classic 4-in-a-row board game with strategic gameplay. Step 1 Exclusion Check applies: board games and strategy games are explicitly\nlisted in EXCLUDED GROUP B, regardless of age target or portability. The decision tree states 'Board games, dice games, word games, travel games' are FP. This product\nmatches multiple exclusion criteria (board game + strategy game + travel game format). |\n[IMAGES: 6]",
+      "nova_verdict": "N/A",
+      "nova_reason": ""
+    },
+    {
+      "asin": "B0BHJ4C7TH",
+      "csi_title": "ARZASGO 72 Buntstifte Set, K&#252;nstler Malstifte f&#252;r Erwachsene F&#228;rbung B&#252;cher, K&#252;nstler Skizze, Premier Zeichnung Bleistifte mit\nCanvas Roll-up Tasche und Bleistiftspitzer",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "1 unité (Lot de 72)",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte"
+          ],
+          "normalized": null
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": "Bois",
+          "normalized": "Bois"
+        },
+        "bullet_points": {
+          "fr": [
+            "Ces crayons de couleur sont fabriqués à partir de bois de haute qualité, avec une prise en main confortable et une manipulation plus douce. Il est livré avec un\nsimple taille-crayon, peut être affûté en douceur sans se casser. Non toxique, sûr et respectueux de l'environnement., Mines de couleurs ar"
+          ],
+          "en": [
+            "These colouring pencils are made of high quality wood, with a comfortable grip and smoother handling. It comes with a simple sharpener, can be sharpened smoothly\nwithout breaking. Non-toxic, safe and environmentally friendly. Artistic colour leads and delicate pure colours, with soft leads for a smooth colouring and highly mixable. Set of\n72 beautiful coloured pencils, perfect for artist sketching, drawing, secret garden and stress relief with adult coloring books. 72 individually slotted black"
+          ],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B0BHJ4C7TH_0.jpg",
+        "images": [
+          "./images/B0BHJ4C7TH_0.jpg",
+          "./images/B0BHJ4C7TH_1.jpg",
+          "./images/B0BHJ4C7TH_2.jpg",
+          "./images/B0BHJ4C7TH_3.jpg",
+          "./images/B0BHJ4C7TH_4.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B0BHJ4C7TH",
+        "title": "72 Colouring Pencils Set, Artist Colouring Pencils for Adults Colouring Books, Artist Sketch, Premier Drawing Pencils with Canvas Roll-Up Bag and Pencil Sharpener\nWriting Instrument Form: Colored Pencil\nInk Colour: Multicolour\nDrill Point: Broad\nSpecial Features: 72 coloured pencils\nLine Size: 0.5mm_0.7mm\nIs the Product Left or Right Handed?: Ambidextrous\nGrip Type: Comfortable handle\nClosure Type: Snap closure",
+        "brand_name": null,
+        "included_components": null,
+        "country_of_origin": null,
+        "unit_count": null,
+        "item_type_name": null,
+        "model_name": null,
+        "model_number": null,
+        "manufacturer_part_number": null,
+        "manufacturer": null,
+        "best_sellers_rank": null,
+        "asin": null,
+        "bullets": "These colouring pencils are made of high quality wood, with a comfortable grip and smoother handling. It comes with a simple sharpener, can be sharpened smoothly\nwithout breaking. Non-toxic, safe and environmentally friendly. Artistic colour leads and delicate pure colours, with soft leads for a smooth colouring and highly mixable. Set of\n72 beautiful coloured pencils, perfect for artist sketching, drawing, secret garden and stress relief with adult coloring books. 72 individually slotted black",
+        "manufacturer_recommended_age": null
+      },
+      "powerchat_verdict": "FP",
+      "powerchat_reason": "```json\n{\n  'verdict': 'FP',\n  'reason': 'Professional artist pencil set targeted at adults. Per STEP 2, BRANCH G exclusion: 'Professional art pencil sets or charcoal sets are FP because they are art\nsupplies.' Product explicitly marketed for 'adults colouring books' and 'artist sketch' with high-quality wood construction and artistic pigments. While it mentions children as gift\nrecipients, the primary positioning is professional/adult art supplies, not a structured children's toy kit. Lacks the game elements, learning structure, or play intent required for\nTP classification.'\n}\n```\n**Classification Details:**\n| Field | Value |\n|-------|-------|\n| **ASIN** | Not provided |\n| **Product** | ARZASGO 72 Buntstifte Set (72 Colouring Pencils Set) |\n| **Verdict** | FP |\n| **Rule Category** | Exclusion - Professional Art Supplies (BRANCH G) |\n| **Confidence** | 95% |\n| **Reasoning** | Product fails STEP 2, BRANCH G criteria. Although marketed as a gift option for children, the primary evidence indicates professional-grade art supplies: (1)\nexplicitly 'for adults colouring books,' (2) 'artist sketch' and 'premier drawing pencils,' (3) high-quality wood with artistic pigments, (4) positioned for serious artists and stress\nrelief, not structured play. Per rule: standalone pencil sets without structured game components and targeted at adults are FP. |",
+      "nova_verdict": "FP",
+      "nova_reason": "The product is a set of colored pencils marketed as art supplies, not structured toys for children. Standalone pencils and crayons are excluded unless part of a structured\nchildren's set with play/game elements.\n[IMAGES: 5]"
+    },
+    {
+      "asin": "B0FT8GD3DD",
+      "csi_title": "Trefl Premium Plus Quality &#8211; Hall of Horror Puzzle: UFO &#8211; 1000 Teile, eine Serie voller Horror und d&#252;sterer Atmosph&#228;re, perfekt\npassende Teile, f&#252;r Erwachsene und Kinder ab 14 Jahren",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "1000 pièces, 48 cm x 68 cm",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adolescente"
+          ],
+          "normalized": null
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": "Carton",
+          "normalized": "Carton"
+        },
+        "bullet_points": {
+          "fr": [
+            "Les puzzles de 1000 pièces PREMIUM PLUS QUALITY se distinguent par leur ajustement parfait et leur carton de haute qualité. Une fois assemblés, ils forment\nune image de 683 x 480 mm représentant des soucoupes volantes enlevant une vache dans une ferme, Le coffret comprend une affiche pour vous aider"
+          ],
+          "en": [
+            "Premium plus quality 1000-piece puzzles are characterised by their perfect fit and high-quality cardboard. When assembled, they make a 683 x 480 mm image\nshowing flying saucers kidnapping a cow from a farm. The set includes a poster to help you assemble the puzzle! Hall of Horror is a unique series of puzzles characterised by\na gloomy atmosphere full of horror and a touch of black humour The product is FSC certified and is manufactured using high quality materials and with the environment in min"
+          ],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B0FT8GD3DD_0.jpg",
+        "images": [
+          "./images/B0FT8GD3DD_0.jpg",
+          "./images/B0FT8GD3DD_1.jpg",
+          "./images/B0FT8GD3DD_2.jpg",
+          "./images/B0FT8GD3DD_3.jpg",
+          "./images/B0FT8GD3DD_4.jpg",
+          "./images/B0FT8GD3DD_5.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B0FT8GD3DD",
+        "title": "Trefl Premium Plus Quality - Hall of Horror Jigsaw Puzzle: UFO - 1000 Pieces, A Series Full of Horror and Dark Atmosphere, Perfect Matching Pieces, for Adults and\nChildren Aged 14+",
+        "brand_name": "Trefl",
+        "included_components": "Puzzle.\nAge Range Description: Teen",
+        "country_of_origin": "Poland",
+        "unit_count": "1.0 count",
+        "item_type_name": "Trefl Premium Plus Quality - Hall of Horror Puzzle: UFO - 1000 pieces, a series full of horror and gloomy atmosphere, perfectly matching pieces, for adults\nand children aged 14 and up\nManufacturer Warranty Description: 2 Year Limited Warranty",
+        "model_name": null,
+        "model_number": "12129",
+        "manufacturer_part_number": "12129\nSet Name: Hall of Horror",
+        "manufacturer": "Trefl",
+        "best_sellers_rank": "98,488 in Toys (See Top 100 in Toys) 2,699 in Jigsaws (Toys)",
+        "asin": "B0FT8GD3DD",
+        "bullets": "Premium plus quality 1000-piece puzzles are characterised by their perfect fit and high-quality cardboard. When assembled, they make a 683 x 480 mm image\nshowing flying saucers kidnapping a cow from a farm. The set includes a poster to help you assemble the puzzle! Hall of Horror is a unique series of puzzles characterised by\na gloomy atmosphere full of horror and a touch of black humour The product is FSC certified and is manufactured using high quality materials and with the environment in min",
+        "manufacturer_recommended_age": "14 - 20 years"
+      },
+      "powerchat_verdict": "FP",
+      "powerchat_reason": "This product is a 1000-piece jigsaw puzzle, which falls under EXCLUDED GROUP B per Step 1. The rule explicitly states: 'All jigsaw puzzles of any piece count (under 500,\nexactly 500, over 500, wooden non-educational)' are excluded. The KEY DISTINCTION clarifies that only wooden or magnetic educational puzzles for preschoolers and 3D\npuzzles are in scope; all other flat or jigsaw puzzles of any piece count and any age are EXCLUDED. This is a flat jigsaw puzzle marketed to ages 14+, so the verdict is FP.",
+      "nova_verdict": "FP",
+      "nova_reason": "The product is a 1000-piece jigsaw puzzle, which falls under the excluded group of flat or jigsaw puzzles of any piece count, regardless of age, and is therefore not in scope for\nthis rule.\n[IMAGES: 6]"
+    },
+    {
+      "asin": "B09HFVCSK4",
+      "csi_title": "Left Hand Writing Practice for Preschoolers: Left Handed Handwriting Practice Paper With Line for Kids - Animals &amp; ABCs Letter Tracing for Kids (Writing\nPaper for Kindergarten)",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": null,
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [],
+          "normalized": null
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [],
+          "en": [],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B09HFVCSK4_0.jpg",
+        "images": [
+          "./images/B09HFVCSK4_0.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B09HFVCSK4",
+        "title": "Fetch Error",
+        "brand_name": null,
+        "included_components": null,
+        "country_of_origin": null,
+        "unit_count": null,
+        "item_type_name": null,
+        "model_name": null,
+        "model_number": null,
+        "manufacturer_part_number": null,
+        "manufacturer": null,
+        "best_sellers_rank": null,
+        "asin": null,
+        "bullets": null,
+        "manufacturer_recommended_age": null
+      },
+      "powerchat_verdict": "FP",
+      "powerchat_reason": "```json\n{\n  'verdict': 'FP',\n  'reason': 'Product is a standalone writing practice paper/workbook, which is a consumable art supply or stationery item, not a structured toy. Per STEP 0 FOUNDATIONAL\nDEFINITION CHECK and BRANCH G CRITICAL DISTINCTIONS: 'Standalone coloring books or watercolor paper sets without structured game components are FP because\nthey are art supplies not structured toys.' Writing practice sheets for handwriting instruction fall under educational stationery, not toy-grade creative kits. While NOVA VISUAL\nAI suggests TP based on preschool educational framing, the product evidence (CSI ITEM_NAME describing it as 'Writing Practice Paper') indicates this is consumable\nstationery/workbook material rather than a reusable toy or structured craft kit with multiple interactive components. Educational workbooks and practice papers belong to\nFR_PAPER scheme, not FR_Toys_1_Toys.'\n}\n```\n**Confidence:** 85%\n**Key Decision Points:**\n- **STEP 0 Concern:** Product is designed for learning/practice, not play-focused activity\n- **BRANCH G Exclusion Applied:** Standalone writing/practice materials without game elements or multiple craft components are art supplies, not toys\n- **Visual vs. Text Evidence:** While NOVA identifies educational intent, the CSI item name explicitly labels this as 'Writing Practice Paper'—consumable stationery rather than\na reusable toy product",
+      "nova_verdict": "TP",
+      "nova_reason": "The image shows a structured educational writing practice sheet designed for preschoolers, featuring animal illustrations and alphabet practice, which aligns with the inclusion\ncriteria for preschool educational toys under Branch E.\n[IMAGES: 1]"
+    },
+    {
+      "asin": "B00OINWHI8",
+      "csi_title": "Zoch 601105074 - Sushi Go (Kartenspiel ab 8 Jahren) - 108 Spielkarten und Schreibblock - Vergn&#252;gliches Spiel f&#252;r Sushi-Liebhaber, f&#252;r 3-5\nSpieler, f&#246;rdert schnelles Denken &amp; Kombinieren",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "moyen",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "8 ans to 18 ans"
+          ],
+          "normalized": null
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": "Carton",
+          "normalized": "Carton"
+        },
+        "bullet_points": {
+          "fr": [
+            "Nombre de joueurs: 2-5, Durée: 15-20 minutes, Âge recommandé: A partir de 8 ans"
+          ],
+          "en": [
+            "Culinary adventure - Immerse yourself in the world of sushi; with 108 appetizing playing cards, nothing stands in the way of the sushi party Fast game principle -\nSelect, uncover, share: Sushi Go is quickly learned and brings fast fun to any game round; ideal for in-between and game evenings Strategic enjoyment - Cleverly decide\nwhich sushi combination you collect to score the most points at the end of the run For the whole round – whether family celebration or among friends, Sushi Go is the per"
+          ],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B00OINWHI8_0.jpg",
+        "images": [
+          "./images/B00OINWHI8_0.jpg",
+          "./images/B00OINWHI8_1.jpg",
+          "./images/B00OINWHI8_2.jpg",
+          "./images/B00OINWHI8_3.jpg",
+          "./images/B00OINWHI8_4.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B00OINWHI8",
+        "title": "Zoch Sushi Go\nAge Range Description: Children, adults",
+        "brand_name": "Zoch",
+        "included_components": "108 playing cards, writing pad, game instructions (English language not guaranteed)",
+        "country_of_origin": null,
+        "unit_count": "1.0 count\nModel Year: 2014",
+        "item_type_name": "Not suitable for children under 3 years. Choking hazard due to small parts. Please keep address. Colour and technical changes are reserved.",
+        "model_name": "Sushi Go\nSet Name: Sushi Go\nUPC: 785924679227 787551595079\nGlobal Trade Identification Number: 04015682050744",
+        "model_number": "601105074",
+        "manufacturer_part_number": "ZOC05074\nManufacturer Warranty Description: required by law",
+        "manufacturer": "Zoch",
+        "best_sellers_rank": "50,109 in Toys (See Top 100 in Toys) 1,612 in Board Games (Toys)",
+        "asin": "B00OINWHI8",
+        "bullets": "Culinary adventure - Immerse yourself in the world of sushi; with 108 appetizing playing cards, nothing stands in the way of the sushi party Fast game principle -\nSelect, uncover, share: Sushi Go is quickly learned and brings fast fun to any game round; ideal for in-between and game evenings Strategic enjoyment - Cleverly decide\nwhich sushi combination you collect to score the most points at the end of the run For the whole round – whether family celebration or among friends, Sushi Go is the per",
+        "manufacturer_recommended_age": "8 years and up"
+      },
+      "powerchat_verdict": "FP",
+      "powerchat_reason": "Sushi Go is a strategy card game with rules for competitive play. Per EXCLUDED GROUP B of the decision tree, 'Card games of any type including strategy card games such\nas Sushi Go, Uno, Exploding Kittens, and any game where players use cards with rules and strategy' are explicitly excluded. Sushi Go is specifically named in the rule as an\nexample of an excluded strategy card game. NOVA VISUAL AI preliminary verdict (FP) aligns with this classification.",
+      "nova_verdict": "FP",
+      "nova_reason": "The product is a strategy card game with rules for competitive play, which falls under Excluded Group B (board games, card games, puzzles, and models).\n[IMAGES: 5]"
+    },
+    {
+      "asin": "B0FVX9BKBR",
+      "csi_title": "TAIZhiChen Sofarutsche f&#252;r Kinder, Spielzeug f&#252;r Kinder, Kletterrutsche einfach und rutschfest f&#252;r Treppen im Inneren, Khaki\nbullet_point: 0\u0010Jouet pour enfants0\u0011: Le toboggan d&#39;intérieur pour enfants offre un divertissement et un plaisir sans fin pour les enfants, 0\u0010Toboggan haut/bas0\u0011 : le toboggan\nà bord est un bon jouet d&#39;exercice qui améliore la coordination et la motricité fine des enfants, 0\u0010Tapis de chevet antidérapant0\u0011: le t\nproduct_description: <p><b>Description:</b></p><p> - 0\u0010Conception à glissière unique0\u0011: Le toboggan de canapé pour enfants présente une conception à glissière unique et\npeut être placé sur des meubles de hauteur appropriée, des armoires, des marches, des canapés et d&#39;autres emplacements<br> - 0\u0010Conception compacte0\u0011: Le",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "110 cm",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte"
+          ],
+          "normalized": null
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": "comme décrit",
+          "normalized": "comme décrit"
+        },
+        "bullet_points": {
+          "fr": [],
+          "en": [],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B0FVX9BKBR_0.jpg",
+        "images": [
+          "./images/B0FVX9BKBR_0.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B0FVX9BKBR",
+        "title": "Fetch Error",
+        "brand_name": null,
+        "included_components": null,
+        "country_of_origin": null,
+        "unit_count": null,
+        "item_type_name": null,
+        "model_name": null,
+        "model_number": null,
+        "manufacturer_part_number": null,
+        "manufacturer": null,
+        "best_sellers_rank": null,
+        "asin": null,
+        "bullets": null,
+        "manufacturer_recommended_age": null
+      },
+      "powerchat_verdict": "FP",
+      "powerchat_reason": "```json\n{\n  'verdict': 'FP',\n  'reason': 'NOVA VISUAL AI preliminary verdict indicates this is a medical/orthopedic device (therapeutic wedge), not a toy designed for play. This contradicts the product's\nFrench marketing language claiming 'jouet pour enfants' (toy for children). Per STEP 0 FOUNDATIONAL DEFINITION CHECK, the product must be 'designed or intended for\nuse in play by children' with explicit evidence of play purpose. Medical/therapeutic devices fail this requirement regardless of marketing claims. Visual evidence overrides text\ncontradictions per data cleaning strategy.'\n}\n```\n**Key Decision Points:**\n<ul>\n<li><b>NOVA VISUAL AI Override:</b> The visual analysis identifies this as an orthopedic wedge for therapeutic use, not a play toy.</li>\n<li><b>Text-Visual Contradiction:</b> Product description uses toy language ('jouet,' 'divertissement') but visual evidence suggests medical/therapeutic purpose.</li>\n<li><b>STEP 0 Failure:</b> Per foundational definition, if the product is not designed for play by children, verdict is FP immediately.</li>\n<li><b>Rule Application:</b> Medical devices are excluded from toy classification even if marketed to children or labeled as toys.</li>\n</ul>",
+      "nova_verdict": "FP",
+      "nova_reason": "The product is a medical device (orthopedic wedge) designed for therapeutic use, not for play by children, and therefore does not qualify as a toy under the classification rules.\n[IMAGES: 1]"
+    }
+  ]
+}

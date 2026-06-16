@@ -1,0 +1,801 @@
+ASIN,TID,Verdict,Submit_Status,Reason
+B0FVLTPMFW,015a0991-d48a-442e-9452-cc1d82efdc08,TP,SUCCESS,Product is a wooden tangram puzzle explicitly marketed for children and families with clear play and learning intent. Despite NOVA VISUAL AI's preliminary FP verdict, the textual evidence strongly contradicts this assessment. The product description and bullet points contain multiple explicit indicators: (1) 'STEM Toys Intelligence Challenge Lernspiel' (learning game), (2) 'pour les enfants et les adultes' (for children and adults), (3) 'excellent jouet pour les enfants et les tout-petits' (excellent toy for children and toddlers), (4) 'Promouvoir la relation parent-enfant' (promote parent-child relationship), (5) 'safe for children' with rounded edges. The item passes STEP 0 (designed for play by children - YES), STEP 1 (not excluded - wooden educational puzzles for preschool are explicitly IN SCOPE per KEY DISTINCTION), and STEP 2 (BRANCH G: Creative Hobbies - educational puzzle toys). The product is a structured educational puzzle kit, not a decorative adult puzzle. NOVA's assessment appears to have misclassified based on visual appearance alone, but the textual evidence clearly establishes toy/learning game purpose for children.
+B0DXLG7SYY,01b15272-6070-434e-a7cd-671351716a4a,FP,SUCCESS,Product is a set of educational flashcards (45 cards, 9x7x1cm, paper material) designed for vocabulary learning in Thai language for children ages 2-4. While the product has educational intent for young learners, it does not meet the inclusion criteria for FR_Toys_1_Toys. The cards are standalone learning materials without structured play or game mechanics. Per STEP 0 FOUNDATIONAL DEFINITION CHECK and EXCLUDED GROUP C: Educational flashcards and learning materials for language instruction are not designed primarily for play but for educational instruction. They fall outside the toy classification scope. The NOVA VISUAL AI preliminary verdict of TP conflicts with the rule framework—flashcards for language learning are educational materials, not collectible cards (Branch H requires collecting as primary purpose, not learning). The product belongs to educational materials, not toys.
+B0CQ8BH1FK,038c6657-fa93-48c1-a5e4-023288d15a9c,FP,SUCCESS,This product is a jigsaw puzzle with 500 pieces marketed to adults and children ages 12+. Per STEP 1, EXCLUDED GROUP B, 'All jigsaw puzzles of any piece count (under 500, exactly 500, over 500, wooden non-educational)' are excluded from scope. The rule explicitly states 'All other flat or jigsaw puzzles of any piece count, any age, including decorative adult wooden puzzles are EXCLUDED. Verdict is FP.' This is a standard flat jigsaw puzzle, not a 3D puzzle or educational preschool puzzle, so it does not qualify for the KEY DISTINCTION exceptions.
+B0B5GPLMCV,05a50f2f-65ba-4090-8417-3fb5eee8af03,TP,SUCCESS,Product is a diabolo juggling set with aluminum sticks, designed for children (age range: Enfant/Child) for skill-based play and juggling practice. Passes Step 0 (designed for play by children), Step 1 (not in excluded groups - not a board game, outdoor ride-on, or other excluded category), and fits Branch H (Exploration Toys and Other Toys) as a skill-development toy. No built-in non-separable electronics present. NOVA visual analysis confirms TP classification.
+B07ZJHQ4BJ,0603153c-31d8-4b6a-bce6-d192a01646a5,FP,SUCCESS,This product is a 1000-piece jigsaw puzzle for adults and children aged 14+. Per STEP 1, EXCLUDED GROUP B, 'All jigsaw puzzles of any piece count (under 500, exactly 500, over 500, wooden non-educational)' are excluded from scope. The rule explicitly states 'All other flat or jigsaw puzzles of any piece count, any age, including decorative adult wooden puzzles are EXCLUDED. Verdict is FP.' This is a flat jigsaw puzzle with no educational puzzle distinction (not a preschool shape/letter learning puzzle or 3D puzzle), so it falls under the jigsaw puzzle exclusion.
+B0FM3TQ2MF,0672e637-c878-4217-a2da-d435b9bcd4b8,FP,SUCCESS,```json
+{
+  'verdict': 'FP',
+  'reason': 'Product is an escape room/puzzle game with a board, puzzle cards, tokens, and objects for solving clues. This matches EXCLUDED GROUP B (board games, card games, puzzles, and models). The NOVA VISUAL AI preliminary verdict aligns with the rule classification. Despite marketing language emphasizing 'logical development' and 'ingenuity,' the core product structure—a game with rules, game board, and puzzle-solving mechanics—classifies it as a board game, not a toy under FR_Toys_1_Toys.'
+}
+```
+
+**ASIN Classification Summary:**
+
+<p><b>ASIN:</b> 55636</p>
+<p><b>Product:</b> Clementoni – Escape Game Wild – Escape Room in die Natur</p>
+<p><b>Verdict:</b> FP</p>
+<p><b>Rule Category:</b> Excluded Group B (Board Games)</p>
+<p><b>Confidence:</b> 95%</p>
+<p><b>Reasoning:</b> The product is a structured escape room game containing a game board, puzzle cards, tokens, and objects designed for rule-based gameplay. This falls squarely under EXCLUDED GROUP B: 'Board games, dice games, word games, travel games, chess' and 'Strategy games and brain teasers.' The NOVA VISUAL AI analysis confirms this classification. Although marketed for ages 8–99 with educational benefits, the product's primary function is competitive puzzle-solving gameplay, not open-ended play or toy use.</p>
+B07B2WWWRN,09777b7a-f75a-410c-89ca-f3307d142ad1,TP,SUCCESS,```json
+{
+  'verdict': 'TP',
+  'reason': 'Product is a Kendama, a traditional skill toy consisting of a wooden cup-and-ball assembly with a handle and string. Evidence shows: (1) wooden construction designed for play skill development, (2) explicit play intent across all age levels with learning progression from beginners to advanced players, (3) includes instructional guides and video tutorials for gameplay, (4) marketed as a toy/game with skill tricks ('phare', 'lune', 200+ tricks). This matches BRANCH H (Exploration Toys) as a skill-based game toy. NOVA's FP verdict appears to misidentify this as a board game; Kendama is a physical skill toy, not a strategy board game with cards. The product clearly passes STEP 0 (designed for play) and STEP 1 (not excluded) and qualifies under BRANCH H as an exploration/skill toy.'
+}
+```
+
+**ASIN Classification Summary:**
+
+| Field | Value |
+|-------|-------|
+| **ASIN** | Not provided in evidence |
+| **Product** | Sweets Kendamas 5-Stripe Prime Kendama (Dougie) |
+| **Verdict** | **TP** |
+| **Rule Category** | BRANCH H: Exploration Toys and Other Toys (Skill Games) |
+| **Confidence** | 92% |
+| **Reasoning** | Kendama is a traditional wooden skill toy with explicit play and learning intent. Despite NOVA's preliminary FP verdict (which appears to misclassify this as a board game), the product evidence clearly demonstrates it is a physical manipulation toy designed for progressive skill development, not a strategy board game. It passes foundational definition checks and exclusion criteria. |
+B0CC5HGLN4,09eb50ea-0091-4382-8ca6-c62e298d3209,FP,SUCCESS,Product is raw craft material (loose mosaic glass tiles), not a structured toy or game. While marketed for DIY crafts, it lacks the essential characteristics of a toy: no play intent, no game mechanics, no structured activity framework. It is a consumable art supply material for adult decorative projects, similar to professional art supplies. NOVA's preliminary TP verdict appears to conflate construction materials with construction toys; however, loose tiles without a structured building system, instructions, or play framework do not qualify under Branch B (Building Sets). The product fails STEP 0 foundational definition—it is not designed for play by children, only for adult-supervised craft decoration. Verdict: FP per Exclusion Group C (belongs to art supplies/craft materials, not toys).
+B0GCZP348Z,0f1c09c2-b72b-4982-b8fb-55777eac0b37,FP,SUCCESS,This product is a replacement bracelet/strap accessory for a children's smartwatch (Xplora X5 Play/Kidzi/XGO 2/XGO 3). It is not a toy itself but rather an accessory component for an electronic device. The product fails STEP 0 (Foundational Definition Check) because it is not designed or intended for use in play by children—it is a functional accessory/replacement part for a smartwatch. Additionally, the smartwatch itself contains built-in non-separable electronic components (screen, buttons, wireless connectivity), which would trigger Override 1 if the watch were being classified. The bracelet strap alone, being merely a replacement band without independent play purpose, does not qualify as a toy under any branch of the FR_Toys_1_Toys rule. NOVA VISUAL AI assessment aligns with this conclusion.
+B09RMQ3SW6,13d1d8df-e4fa-459a-b75d-722a3035682a,FP,SUCCESS,```json
+{
+  'verdict': 'FP',
+  'reason': 'Product fails Step 0 foundational definition check. These felt Easter baskets are primarily decorative storage containers for holding treats and Easter gifts, not designed or intended for play by children. While marketed as 'gift ideas' for children and adults, the product lacks explicit evidence of play purpose—it functions as a decorative basket/container for spring and Easter decoration. The bullet points emphasize decoration, gifting, and craft storage rather than play functionality. NOVA VISUAL AI analysis confirms this is a decorative item, not a toy. The product does not meet the foundational requirement of being 'designed or intended for use in play by children.''
+}
+```
+
+**ASIN Classification Summary:**
+
+| Field | Value |
+|-------|-------|
+| **Verdict** | **FP** |
+| **Rule Category** | Step 0 - Foundational Definition Check (Non-Toy) |
+| **Confidence** | 95% |
+| **Reasoning** | Product is a decorative felt storage basket for Easter, not a toy designed for play. Lacks explicit play intent; functions as a gift container and decoration. |
+B0DHJHRMRL,1717bbcf-fb86-4ef0-92b3-b957e57dc81f,FP,SUCCESS,```json
+{
+  'verdict': 'FP',
+  'reason': 'OVERRIDE 1 triggered: Product contains a built-in, non-separable electronic component (power button mechanism and internal motor system that propels the rope). The bullet points explicitly state 'Press the power button on the right side of the body and the cord moves,' confirming a built-in electronic propulsion system. Per Override 1, products with non-separable electronic components are classified as FP regardless of toy characteristics. NOVA VISUAL AI preliminary verdict aligns with this assessment.'
+}
+```
+
+**Classification Summary:**
+
+<p><b>ASIN:</b> [Not provided in evidence]</p>
+<p><b>Product:</b> ZipString String Rope Launcher Bodacious Blue</p>
+<p><b>Verdict:</b> FP (False Positive / Out of Scope)</p>
+<p><b>Rule Category:</b> OVERRIDE 1 - Built-in Non-Separable Electronic Component</p>
+<p><b>Confidence:</b> 95%</p>
+
+<p><b>Reasoning:</b> Although the product is marketed as a toy for children and adults with play intent, it contains a built-in, non-separable electronic motor system activated by a power button. The product description confirms the electronic propulsion mechanism is integral to function ('Press the power button on the right side of the body and the cord moves'). This triggers OVERRIDE 1, which mandates FP classification regardless of other toy characteristics. The NOVA VISUAL AI analysis corroborates this finding.</p>
+B09Y5N3WZF,1ac82030-f2e0-44f3-8e4f-aa7427739924,FP,SUCCESS,This product is a professional-grade rotary tool bit set designed for adult DIY repair, crafting, and precision work (stone carving, ceramic engraving, bonsai sculpting). It is not designed or intended for children's play. Per STEP 0 (Foundational Definition Check), the product fails the foundational requirement of being 'designed or intended for use in play by children.' Additionally, it matches EXCLUDED GROUP C as a tool set for adult DIY repair work, similar to sewing kits with hand tools. NOVA VISUAL AI preliminary verdict (FP) confirms this classification. The product is out of scope for FR_Toys_1_Toys rule.
+B0FTX6FWG1,1b3c5583-9477-4868-847d-76b898246f70,FP,SUCCESS,```json
+{
+  'verdict': 'FP',
+  'reason': 'Product is a flying disc/UFO toy designed for outdoor play. Per EXCLUDED GROUP A, 'Outdoor toss games, exterior game sets' and 'Toy guns, dummy guns, foam projectile blasters' are explicitly excluded from scope. The product description confirms outdoor use ('plein air', 'plage', 'parc') and the bullet points emphasize outdoor garden activities. Despite NOVA VISUAL AI suggesting TP, the rule text explicitly excludes outdoor toss/projectile toys. Rule text takes precedence over visual analysis when there is direct exclusion language.'
+}
+```
+
+**Detailed Classification:**
+
+<p><b>ASIN:</b> Not provided in evidence</p>
+
+<p><b>Product:</b> Flying Disc/UFO Toy (Spielzeug mit fliegender Untertasse)</p>
+
+<p><b>Verdict:</b> FP (False Positive - Out of Scope)</p>
+
+<p><b>Rule Category:</b> EXCLUDED GROUP A - Outdoor and ride-on toys</p>
+
+<p><b>Confidence:</b> 95%</p>
+
+<p><b>Reasoning:</b></p>
+<ul>
+<li><b>Step 0 (Foundational Check):</b> Product IS designed for play by children (ages 3-8 explicitly stated). ✓ Passes.</li>
+<li><b>Step 1 (Exclusion Check):</b> Product matches EXCLUDED GROUP A: 'Outdoor toss games, exterior game sets' and 'foam projectile blasters.' The product description explicitly emphasizes outdoor use ('plein air,' 'plage,' 'parc,' 'jardin') and is marketed as an outdoor sport toy for garden activities.</li>
+<li><b>NOVA Visual Analysis Override:</b> While NOVA suggests TP under 'Exploration Toys,' the rule text contains explicit exclusion language for outdoor projectile/toss toys that supersedes visual interpretation when direct rule language applies.</li>
+</ul>
+
+<p><b>Final Verdict: FP</b> — Product falls under excluded outdoor toss game category and does not proceed to Step 2.</p>
+B0FVY7SYHW,1e4b7e46-23be-46d7-a342-7a958b9a9538,TP,SUCCESS,```json
+{
+  'verdict': 'TP',
+  'reason': 'Product is a toy shopping cart with play food items designed for children's pretend play. Matches BRANCH E (Toys for Toddlers and Preschoolers) - specifically 'Pretend play kitchen and supermarket toys including play kitchens, tea sets, cooking sets, play food sets, grocery play.' CSI evidence confirms educational language development, imaginative role-play, and age-appropriate learning through imitation play. NOVA visual analysis confirms child interaction with shopping cart and play food, supporting TP classification. No electronic components mentioned; material is plastic (ABS). Passes STEP 0 (designed for play by children) and STEP 1 (not in excluded groups). Clearly in-scope for FR_Toys_1_Toys rule.'
+}
+```
+
+**ASIN:** Not provided in evidence  
+**Product:** Toy Shopping Cart with Play Food Set  
+**Verdict:** TP  
+**Rule Category:** BRANCH E - Toys for Toddlers and Preschoolers (Pretend play grocery/supermarket toys)  
+**Confidence:** 95%  
+**Reasoning:** Product explicitly designed as educational pretend-play grocery shopping set for young children with realistic play food and storage features. Matches BRANCH E criteria for role-play food/shopping scenarios. NOVA visual analysis confirms child play interaction, supporting TP classification.
+B077QHZQCJ,1edadef5-3f47-46c9-a88c-4a5be974d451,FP,SUCCESS,This is a 1000-piece jigsaw puzzle for adults (ages 14-99). Per STEP 1, EXCLUDED GROUP B, all jigsaw puzzles of any piece count and any age are excluded from scope. The rule explicitly states: 'All jigsaw puzzles of any piece count (under 500, exactly 500, over 500, wooden non-educational) are EXCLUDED.' The KEY DISTINCTION clarifies that only wooden or magnetic educational puzzles for preschoolers and 3D puzzles are in scope; flat jigsaw puzzles are FP. NOVA VISUAL AI preliminary verdict aligns with this classification. Verdict: FP.
+B07DDNQX3T,1efe8314-5d84-4402-a429-a640d6aba1ed,FP,SUCCESS,```json
+{
+  'verdict': 'FP',
+  'reason': 'Perlin Pinpin is a strategy card game with competitive gameplay rules. Per EXCLUDED GROUP B, 'Card games of any type including strategy card games' and 'Board games, dice games, word games, travel games, chess' are explicitly excluded from FR_Toys_1_Toys scope. The product evidence confirms players use cards with strategic effects (Prince cards to wake princesses, Knight cards to kidnap, Fool cards for reversals) to compete and win—this is rule-based strategy gameplay, not collecting. NOVA VISUAL AI preliminary verdict (FP) aligns with this classification. Verdict: FP.'
+}
+```
+
+**ASIN Classification Summary:**
+
+<p><b>ASIN:</b> [Not provided in evidence]</p>
+<p><b>Product:</b> Asmodee - Perlin Pinpin Kartenspiel (Card Game)</p>
+<p><b>Verdict:</b> FP</p>
+<p><b>Rule Category:</b> EXCLUDED GROUP B – Card games and board games</p>
+<p><b>Confidence:</b> 95%</p>
+<p><b>Reasoning:</b> This product is a strategy card game designed for competitive play with rule-based mechanics (Prince cards wake princesses, Knight cards kidnap, Fool cards create reversals). Per the decision tree, EXCLUDED GROUP B explicitly states 'Card games of any type including strategy card games' and 'Board games' are out of scope for FR_Toys_1_Toys. The NOVA VISUAL AI preliminary verdict (FP) confirms this classification. The product does not qualify as a collectible card set (Branch H) because the primary purpose is competitive strategy gameplay, not collecting.</p>
+B0FTVQRGBS,205de72b-2e69-4788-bac8-04c9d1404378,FP,SUCCESS,```json
+{
+  'verdict': 'FP',
+  'reason': 'Product is a customizable spinner wheel (Glücksrad) explicitly marketed as a board game accessory and party game tool. Per EXCLUDED GROUP B, board games and game accessories are out of scope. The product description emphasizes use for 'jeux de société' (board games), 'jeux de lettres' (word games), and 'jeux de roulette' (roulette games) — all strategy or game-based activities. While NOVA VISUAL AI suggests TP based on toy-like appearance, the textual evidence clearly positions this as a game accessory/tool rather than a standalone toy designed for play. The rule explicitly excludes board game components and accessories. Verdict: FP.'
+}
+```
+
+**Detailed Classification:**
+
+<p><b>ASIN:</b> Not provided in evidence</p>
+
+<p><b>Product:</b> HOOJOJO Glücksrad 25 cm Magnetisches Glücksrad (Magnetic Fortune Wheel)</p>
+
+<p><b>Verdict:</b> FP (False Positive — out of scope)</p>
+
+<p><b>Rule Category:</b> EXCLUDED GROUP B — Board games, card games, puzzles, and models</p>
+
+<p><b>Confidence:</b> 85%</p>
+
+<p><b>Reasoning:</b></p>
+
+<ul>
+<li><b>Step 0 (Foundational Definition):</b> While the product could be used in play contexts, the primary evidence indicates it is marketed as a <b>game accessory or tool</b>, not as a standalone toy designed for independent play by children.</li>
+
+<li><b>Step 1 (Exclusion Check):</b> The product explicitly falls under <b>EXCLUDED GROUP B</b>. The CSI bullet points and description repeatedly reference:
+<ul>
+<li>'jeux de société' (board games)</li>
+<li>'jeux de lettres' (word games)</li>
+<li>'jeux de roulette' (roulette games)</li>
+<li>'activités de groupe interactives' (interactive group activities)</li>
+</ul>
+This is a <b>game accessory or component</b>, not a toy in its own right.</li>
+
+<li><b>Visual Evidence (NOVA):</b> NOVA VISUAL AI classified this as TP based on toy-like appearance (spinner with arrow). However, per the data cleaning strategy, visual analysis must be reconciled with textual evidence. The textual evidence clearly contradicts toy classification — the product is explicitly positioned as a customizable game wheel for board games and word games, making it a game accessory rather than a standalone toy.</li>
+
+<li><b>Conclusion:</b> The rule explicitly excludes board game accessories. This product is a reusable spinner wheel designed to be customized and used within board games, word games, and party games — not as an independent toy for play.</li>
+</ul>
+B08HX71MHJ,22f4809a-5b3a-468a-9f03-3be1cdc455f1,TP,SUCCESS,```json
+{
+  'verdict': 'TP',
+  'reason': 'Product is a 21-inch ukulele DIY assembly kit explicitly marketed for children to play with parental guidance. It contains all component parts (body, neck, fretboard, bridge, strings, tuning pegs, hardware) for assembly into a functional ukulele. Matches BRANCH H (Exploration Toys and Other Toys) as a beginner musical instrument set. No built-in electronic components present. NOVA VISUAL AI preliminary verdict (TP) aligns with rule classification. Product passes STEP 0 (designed for play by children), STEP 1 (not excluded), and STEP 2 (qualifies as beginner instrument kit).'
+}
+```
+
+**ASIN Classification Summary:**
+
+<p><b>ASIN:</b> [Not provided in evidence]</p>
+
+<p><b>Product:</b> 21 Inch Ukulele DIY Kit, Make Your Own Ukulele</p>
+
+<p><b>Verdict:</b> TP</p>
+
+<p><b>Rule Category:</b> BRANCH H — Exploration Toys and Other Toys (Beginner Musical Instruments)</p>
+
+<p><b>Confidence:</b> 95%</p>
+
+<p><b>Reasoning:</b> This product is a structured DIY assembly kit for children containing all ukulele components (body, neck, fretboard, bridge, strings, tuning hardware). The product description explicitly states 'Ideal for children to play with parents' and emphasizes skill development through handicraft assembly. It qualifies as a beginner musical instrument set under BRANCH H. No built-in or non-separable electronic components are present. The product successfully passes foundational definition check (STEP 0), exclusion check (STEP 1), and inclusion criteria (STEP 2).</p>
+B00DGMRAV6,23f47d5e-a41c-4a4d-ae7b-7ab51915af8a,FP,SUCCESS,Product is a flat jigsaw puzzle (104 pieces) for children. Per STEP 1, EXCLUDED GROUP B, KEY DISTINCTION FOR PUZZLES: 'All other flat or jigsaw puzzles of any piece count, any age, including decorative adult wooden puzzles are EXCLUDED. Verdict is FP.' This product does not qualify as a wooden/magnetic educational puzzle for preschool or a 3D puzzle requiring building—it is a standard flat jigsaw puzzle with a character theme.
+B0D7C8Z32P,246708dc-ec18-4f47-9f6b-9a1f5a856cef,FP,SUCCESS,```json
+{
+  'verdict': 'FP',
+  'reason': 'This product is a 4-in-a-row strategy board game (Connect Four variant). Per EXCLUDED GROUP B of the decision tree, 'Strategy games and brain teasers' and 'Board games, dice games, word games, travel games' are explicitly excluded from scope. The product description confirms it is a 'jeu de société' (board game) with strategic gameplay mechanics. Despite being marketed for children ages 3+, it falls under the board game exclusion category, making it FP.'
+}
+```
+
+**Classification Details:**
+
+| Field | Value |
+|-------|-------|
+| **ASIN** | Not provided |
+| **Product** | Pup Go 2er Pack 4 in Einer Reihe (Connect Four Travel Game) |
+| **Verdict** | **FP** |
+| **Rule Category** | EXCLUDED GROUP B: Board games, strategy games |
+| **Confidence** | 95% |
+| **Reasoning** | The product is a classic 4-in-a-row board game with strategic gameplay. Step 1 Exclusion Check applies: board games and strategy games are explicitly listed in EXCLUDED GROUP B, regardless of age target or portability. The decision tree states 'Board games, dice games, word games, travel games' are FP. This product matches multiple exclusion criteria (board game + strategy game + travel game format). |
+B0BHJ4C7TH,289bd75b-c286-42b2-afd4-154d39d640d9,FP,SUCCESS,```json
+{
+  'verdict': 'FP',
+  'reason': 'Professional artist pencil set targeted at adults. Per STEP 2, BRANCH G exclusion: 'Professional art pencil sets or charcoal sets are FP because they are art supplies.' Product explicitly marketed for 'adults colouring books' and 'artist sketch' with high-quality wood construction and artistic pigments. While it mentions children as gift recipients, the primary positioning is professional/adult art supplies, not a structured children's toy kit. Lacks the game elements, learning structure, or play intent required for TP classification.'
+}
+```
+
+**Classification Details:**
+
+| Field | Value |
+|-------|-------|
+| **ASIN** | Not provided |
+| **Product** | ARZASGO 72 Buntstifte Set (72 Colouring Pencils Set) |
+| **Verdict** | FP |
+| **Rule Category** | Exclusion - Professional Art Supplies (BRANCH G) |
+| **Confidence** | 95% |
+| **Reasoning** | Product fails STEP 2, BRANCH G criteria. Although marketed as a gift option for children, the primary evidence indicates professional-grade art supplies: (1) explicitly 'for adults colouring books,' (2) 'artist sketch' and 'premier drawing pencils,' (3) high-quality wood with artistic pigments, (4) positioned for serious artists and stress relief, not structured play. Per rule: standalone pencil sets without structured game components and targeted at adults are FP. |
+B0FT8GD3DD,29aedbe6-e92f-46a9-a2ec-80cec39b3a46,FP,SUCCESS,This product is a 1000-piece jigsaw puzzle, which falls under EXCLUDED GROUP B per Step 1. The rule explicitly states: 'All jigsaw puzzles of any piece count (under 500, exactly 500, over 500, wooden non-educational)' are excluded. The KEY DISTINCTION clarifies that only wooden or magnetic educational puzzles for preschoolers and 3D puzzles are in scope; all other flat or jigsaw puzzles of any piece count and any age are EXCLUDED. This is a flat jigsaw puzzle marketed to ages 14+, so the verdict is FP.
+B09HFVCSK4,2ed4b961-8516-46f9-86ca-b4789e577cde,FP,SUCCESS,```json
+{
+  'verdict': 'FP',
+  'reason': 'Product is a standalone writing practice paper/workbook, which is a consumable art supply or stationery item, not a structured toy. Per STEP 0 FOUNDATIONAL DEFINITION CHECK and BRANCH G CRITICAL DISTINCTIONS: 'Standalone coloring books or watercolor paper sets without structured game components are FP because they are art supplies not structured toys.' Writing practice sheets for handwriting instruction fall under educational stationery, not toy-grade creative kits. While NOVA VISUAL AI suggests TP based on preschool educational framing, the product evidence (CSI ITEM_NAME describing it as 'Writing Practice Paper') indicates this is consumable stationery/workbook material rather than a reusable toy or structured craft kit with multiple interactive components. Educational workbooks and practice papers belong to FR_PAPER scheme, not FR_Toys_1_Toys.'
+}
+```
+
+**Confidence:** 85%
+
+**Key Decision Points:**
+- **STEP 0 Concern:** Product is designed for learning/practice, not play-focused activity
+- **BRANCH G Exclusion Applied:** Standalone writing/practice materials without game elements or multiple craft components are art supplies, not toys
+- **Visual vs. Text Evidence:** While NOVA identifies educational intent, the CSI item name explicitly labels this as 'Writing Practice Paper'—consumable stationery rather than a reusable toy product
+B00OINWHI8,2f1f5b93-e217-42aa-be11-b64f11c4abc0,FP,SUCCESS,Sushi Go is a strategy card game with rules for competitive play. Per EXCLUDED GROUP B of the decision tree, 'Card games of any type including strategy card games such as Sushi Go, Uno, Exploding Kittens, and any game where players use cards with rules and strategy' are explicitly excluded. Sushi Go is specifically named in the rule as an example of an excluded strategy card game. NOVA VISUAL AI preliminary verdict (FP) aligns with this classification.
+B0FVX9BKBR,3111cacc-16d9-4e86-b8aa-2087d8c3f48e,FP,SUCCESS,```json
+{
+  'verdict': 'FP',
+  'reason': 'NOVA VISUAL AI preliminary verdict indicates this is a medical/orthopedic device (therapeutic wedge), not a toy designed for play. This contradicts the product's French marketing language claiming 'jouet pour enfants' (toy for children). Per STEP 0 FOUNDATIONAL DEFINITION CHECK, the product must be 'designed or intended for use in play by children' with explicit evidence of play purpose. Medical/therapeutic devices fail this requirement regardless of marketing claims. Visual evidence overrides text contradictions per data cleaning strategy.'
+}
+```
+
+**Key Decision Points:**
+
+<ul>
+<li><b>NOVA VISUAL AI Override:</b> The visual analysis identifies this as an orthopedic wedge for therapeutic use, not a play toy.</li>
+<li><b>Text-Visual Contradiction:</b> Product description uses toy language ('jouet,' 'divertissement') but visual evidence suggests medical/therapeutic purpose.</li>
+<li><b>STEP 0 Failure:</b> Per foundational definition, if the product is not designed for play by children, verdict is FP immediately.</li>
+<li><b>Rule Application:</b> Medical devices are excluded from toy classification even if marketed to children or labeled as toys.</li>
+</ul>
+B0CZDV3L2M,319fd77f-2883-4c0d-b10b-7ec5e3d88620,TP,SUCCESS,```json
+{
+  'verdict': 'TP',
+  'reason': 'Product passes foundational definition check (Step 0): explicitly designed for children's play with clear toy purpose in title, description, and bullet points. Passes exclusion checks (Step 1): not an outdoor ride-on toy, board game, puzzle, or other excluded category. Matches Branch B (Building Sets and Accessories) as a construction toy where users assemble wooden pieces to create a functional catapult structure. Contains no built-in non-separable electronic components (Override 1 does not apply). NOVA visual analysis confirms TP classification. Verdict: TP.'
+}
+```
+
+**ASIN Classification Summary:**
+
+<p><b>ASIN:</b> BUKI 2171</p>
+<p><b>Product:</b> BUKI 2171 DIY Catapult 18 x 11 x 9 cm</p>
+<p><b>Verdict:</b> TP</p>
+<p><b>Rule Category:</b> Branch B – Building Sets and Accessories</p>
+<p><b>Confidence:</b> 95%</p>
+<p><b>Reasoning:</b> This product is a structured construction toy where children assemble wooden pieces without glue to build a functional catapult. It includes foam balls and castle targets for interactive play, plus educational content on the Middle Ages. The product explicitly targets children (age range: 'Enfant'), contains no built-in non-separable electronics, and clearly qualifies as a building/construction toy under Branch B of the FR_Toys_1_Toys rule.</p>
+B07RY3QSK5,33c32c0f-bfed-4898-8873-773eaa65b6f4,TP,SUCCESS,Product passes foundational definition check (Step 0): designed for play by children as evidenced by 'Jouet en bois' (wooden toy) and 'Spieluhr' (music box toy). No electronic overrides apply—music box mechanism is mechanical, not electronic. Matches Branch E (Toys for Toddlers and Preschoolers): music boxes are traditional infant/toddler toys with play intent. Material (wood), age range (Enfant/Child), and explicit toy designation confirm classification.
+B0FTRYCMKS,358fd6f5-c8f9-4502-aaae-25e25ef13286,FP,SUCCESS,```json
+{
+  'verdict': 'FP',
+  'reason': 'This product is a board game (Pop-up T-Rex, a variant of Pic Pirate) with game mechanics involving players taking turns inserting bones until the T-Rex pops. Board games are explicitly listed in EXCLUDED GROUP B and fall outside the scope of FR_Toys_1_Toys rule, regardless of the dinosaur theme or child age targeting (4+). The product's primary function is strategic gameplay with rules and turn-based mechanics, not play with toys.'
+}
+```
+
+**Classification Details:**
+
+<p><b>ASIN:</b> Not provided in evidence</p>
+<p><b>Product:</b> Pop up T-Rex Jurassic (Pic Pirate variant)</p>
+<p><b>Verdict:</b> FP</p>
+<p><b>Rule Category:</b> EXCLUDED GROUP B — Board games, dice games, word games</p>
+<p><b>Confidence:</b> 95%</p>
+<p><b>Reasoning:</b> The product is a turn-based game where 2–4 players insert bones into a barrel until the T-Rex pops, eliminating players. This is a board/party game with explicit rules and strategic gameplay mechanics. EXCLUDED GROUP B clearly states: 'Board games, dice games, word games, travel games, chess' and 'Strategy games and brain teasers' are FP. The dinosaur theme and child age rating (4+) do not override this exclusion. The rule explicitly warns against confusing play intent with toy classification—this is a game, not a toy.</p>
+B08ZT2N52W,38412002-4fa1-4de1-8dc0-6123befe4923,FP,SUCCESS,```json
+{
+  'verdict': 'FP',
+  'reason': 'This product is a strategy card game (Werewolves of Miller's Hollow) with competitive play rules, explicitly excluded under EXCLUDED GROUP B of the decision tree. The product features card-based gameplay with assigned roles, strategic decision-making phases (night/day cycles), and competitive elimination mechanics. Per the rule: 'Card games of any type including strategy card games...and any game where players use cards with rules and strategy' are FP. The NOVA VISUAL AI preliminary verdict aligns with this classification. The product fails Step 1 (Exclusion Check) and does not proceed to Step 2 (Inclusion Check).'
+}
+```
+
+**ASIN Classification Summary:**
+
+<p><b>ASIN:</b> Not provided in evidence</p>
+<p><b>Product:</b> Zygomatic, Werewolves of Miller's Hollow 2020 Edition, Card Game</p>
+<p><b>Verdict:</b> FP</p>
+<p><b>Rule Category:</b> EXCLUDED GROUP B – Board games, card games, puzzles, and models</p>
+<p><b>Confidence:</b> 99%</p>
+<p><b>Reasoning:</b> This is a strategy card game with explicit competitive play rules (role assignment, night/day phases, strategic elimination). Per the decision tree, 'Card games of any type including strategy card games...and any game where players use cards with rules and strategy' are excluded from FR_Toys_1_Toys scope. The product fails at Step 1 (Exclusion Check) and is classified as FP.</p>
+B0F2ZFKRR4,3a1682e4-737b-4d1b-b122-b1f0c83254af,FP,SUCCESS,```json
+{
+  'verdict': 'FP',
+  'reason': 'Product is a boomerang/return flight toy, not a musical instrument. NOVA visual analysis appears to contain an error (saxophone description contradicts boomerang evidence). Per STEP 1 EXCLUDED GROUP A, outdoor toss games and exterior game sets are explicitly excluded from FR_Toys_1_Toys scope. The product description confirms outdoor/toss gameplay ('vol de retour', 'boomerangs pour enfants', 'activités de plein air'). Despite toy intent for children, this falls under excluded outdoor toy category.'
+}
+```
+
+**Key Decision Points:**
+
+1. **STEP 0 - Foundational Check:** ✅ PASS - Product is designed for children's play (explicit evidence: 'pour enfants,' 'jeu,' 'boomerangs pour enfants')
+
+2. **STEP 1 - Exclusion Check:** ❌ FAIL - Matches **EXCLUDED GROUP A**: 'Outdoor toss games, exterior game sets' explicitly listed as out-of-scope
+
+3. **NOVA Visual Analysis Note:** The preliminary verdict conflicts with product evidence. The description clearly indicates a boomerang/return flight toy for outdoor play, not a saxophone. Visual analysis may have misidentified the product. Per your instruction, visual evidence receives high priority, but when it contradicts clear textual evidence (boomerang, outdoor, toss game), the exclusion rule takes precedence.
+
+**Verdict: FP** | **Rule Category:** Exclusion Group A (Outdoor and ride-on toys) | **Confidence:** 92%
+B0B9N8S3G2,44b88df8-656f-496b-9662-db1ba30fe83f,FP,SUCCESS,This is a flat jigsaw puzzle of 1000 pieces marketed primarily as decorative art and a personalization service. Per STEP 1, EXCLUDED GROUP B, all jigsaw puzzles of any piece count are excluded from scope. The product description emphasizes customization from personal photos, wall decoration, and gift-giving for adults and teenagers—not play or early learning. NOVA VISUAL AI confirms this is decorative art, not a preschool educational toy. The rule explicitly states: 'All other flat or jigsaw puzzles of any piece count, any age, including decorative adult wooden puzzles are EXCLUDED. Verdict is FP.' This product matches that exclusion.
+B0F66BYRT4,44dabafc-3cc6-4749-a4e5-24c3c110a697,TP,SUCCESS,Product is a wooden climbing arch/rocker designed for babies and toddlers (age 1+) to promote motor skills, balance, and gross motor development. It passes Step 0 (designed for play by children), Step 1 (not in excluded groups—it is not a ride-on toy, board game, or other excluded category), and qualifies under Branch E (Toys for Toddlers and Preschoolers) as a pretend play and motor development toy. The product contains no built-in electronic components, so Override 1 does not apply. Nova's visual analysis confirms TP classification. The multifunctional design (climbing arch, rocker, shelf) and Montessori-aligned motor skill focus align with early learning toys for infants and preschoolers.
+B084ZQK15Y,46ab85d0-1495-452f-bd34-44d221a0f2c3,TP,SUCCESS,```json
+{
+  'verdict': 'TP',
+  'reason': 'Product passes Step 0 (designed for children's play, ages 6+), Step 1 (not in excluded groups), and qualifies under Branch G (Creative Hobbies Toys). It is a structured DIY craft kit where children mix compounds and use stencils to create personalized erasers—a creative activity with multiple components (mass, activator, stencils, molds). The product explicitly markets creative play and craft-making as its primary purpose, meeting the criteria for toy classification.'
+}
+```
+
+**Summary:**
+
+| Field | Value |
+|-------|-------|
+| **ASIN** | 74-7401 |
+| **Product** | CRAYOLA Eraser Laboratory |
+| **Verdict** | **TP** |
+| **Rule Category** | Branch G: Creative Hobbies Toys and Accessories |
+| **Confidence** | 95% |
+| **Reasoning** | This is a structured DIY craft kit designed for children ages 6+ that combines multiple components (colored mass, activator, stencils, molds) to create functional erasers. It meets all criteria: (1) explicitly designed for children's play and creative activity; (2) not excluded under Groups A, B, or C; (3) qualifies as a creative hobby toy with structured game-like steps (select stencil → measure → mix → mold → dry). No built-in electronics present. |
+B0FVLPBY64,4a1d90bc-d478-4cba-8ede-bfd2b9909082,TP,SUCCESS,```json
+{
+  'verdict': 'TP',
+  'reason': 'Product is a 3D puzzle cube labyrinth designed to build/manipulate a three-dimensional structure. Per STEP 1, KEY DISTINCTION FOR PUZZLES: '3D Puzzles that require building a three-dimensional structure are IN SCOPE.' The product explicitly features a 3D maze structure with rotating/manipulable components, clear play intent for children and adults, and no built-in non-separable electronics. Aligns with BRANCH B (Building Sets) and BRANCH H (Exploration Toys - scientific/logic games). NOVA VISUAL AI preliminary verdict (TP) confirms classification. Confidence: 95%.'
+}
+```
+
+**Summary:**
+
+<p><b>ASIN Classification Result</b></p>
+
+<p><b>Verdict:</b> TP (Toy Product)</p>
+
+<p><b>Rule Category:</b> BRANCH B (Building Sets and Accessories) / BRANCH H (Exploration Toys - Scientific Games)</p>
+
+<p><b>Confidence:</b> 95%</p>
+
+<p><b>Reasoning:</b> The Puzzle Cube Labyrinth is a 3D puzzle requiring users to manipulate and solve a three-dimensional maze structure. Per the rule's KEY DISTINCTION FOR PUZZLES, '3D Puzzles that require building a three-dimensional structure are IN SCOPE.' The product passes all gates: (1) designed for play by children and adults (explicit in description), (2) no exclusions apply (not a board game, card game, or flat jigsaw puzzle), and (3) qualifies as a 3D construction/exploration toy. Material is polypropylene with no built-in electronics. NOVA VISUAL AI analysis supports TP classification.</p>
+B0BJYCYN12,4aea0ed8-b452-4215-95a6-8230dde52df5,FP,SUCCESS,```json
+{
+  'verdict': 'FP',
+  'reason': 'Product is a blank lined journal notebook, which belongs to FR_PAPER EPR scheme per STEP 1, EXCLUDED GROUP C. NOVA VISUAL AI confirms it is a decorative stationery item with dog illustration and floral design, lacking any play-oriented features or structured game elements. The product fails STEP 0 foundational definition check—it is not designed or intended for use in play by children, despite mentioning 'kids' in marketing copy. Generic 'gift for kids' language alone does not establish toy intent per the warning in STEP 0.'
+}
+```
+
+**ASIN Classification Summary:**
+
+<p><b>ASIN:</b> Not provided in evidence</p>
+<p><b>Product:</b> Just A Girl Who Loves Malinois: Malinois Lovers Blank Lined Journal Notebook for Women, Girls, and Kids</p>
+<p><b>Verdict:</b> FP</p>
+<p><b>Rule Category:</b> EXCLUDED GROUP C — Products belonging to other EPR schemes (FR_PAPER)</p>
+<p><b>Confidence:</b> 95%</p>
+<p><b>Reasoning:</b> This product is a blank lined journal/notebook that belongs to the FR_PAPER EPR scheme, not FR_Toys_1. NOVA VISUAL AI analysis confirms it is decorative stationery with a dog illustration and floral design—not a toy. The product fails the foundational definition check (STEP 0): it is not designed or intended for play by children. Mentioning 'kids' in the title does not establish toy intent; per the rule warning, generic phrases like 'gift for kids' alone do not make something a toy. The product contains no play-oriented features, structured game elements, or toy functionality.</p>
+B07DCYB7F9,4f6d2208-b8fc-48e3-b667-41f37fb59ee0,FP,SUCCESS,Glitter is a cosmetic and art supply product, not a toy. While the description mentions 'safe for children' and 'add something to their daily life,' these are generic safety assurances and marketing phrases, not evidence of play intent. The product is explicitly marketed for adult uses: wine glass decoration, makeup, nail art, body art, floral arrangements, wedding decor, and temporary tattoos. STEP 0 foundational check fails—the product is not designed or intended for play by children. It is a consumable craft/cosmetic supply. Generic phrases like 'safe for kids' do not establish toy purpose per the rule's WARNING section.
+B0DBDLL5QT,4f7aff5d-ee4e-49df-bcaf-c7adb67b7d4e,FP,SUCCESS,This product is a 1000-piece jigsaw puzzle marketed exclusively for adults (age range: 'Adulte'). Per STEP 1, EXCLUDED GROUP B, all jigsaw puzzles of any piece count are excluded from this rule. The product description emphasizes adult use, home decoration, and artistic value rather than play-focused intent for children. Verdict: FP.
+B0FTWBL6PL,4ff00f77-6b26-4cbb-a557-d2fafcd2327e,FP,SUCCESS,This product is a card game with strategic gameplay rules (families game, pairs game, action game, battle game). Per EXCLUDED GROUP B of the decision tree, 'Card games of any type including strategy card games' and 'Board games, dice games, word games, travel games, chess' are explicitly excluded from scope. The product's core purpose is competitive play with rules, not collecting. Verdict: FP at Step 1 Exclusion Check.
+B0F9W77Y7Y,51e449b1-e9ef-467b-b18b-0f9018abde0f,FP,SUCCESS,Product is a standalone colored pencil set marketed to adults (age 17+) for art and drawing purposes. Per STEP 0 FOUNDATIONAL DEFINITION CHECK and BRANCH G CRITICAL DISTINCTIONS: 'Standalone pencils and crayons are FP unless they are part of a structured set with multiple components AND marketed specifically for children.' This product, despite being a multi-box set, is explicitly targeted at adults (17+) for professional art use, not children's play. It lacks structured game or craft activity elements and functions as art supplies rather than a toy. Additionally, per STEP 3 EDGE CASE CLARIFICATIONS: 'Professional drawing pencil sets' and 'Adult art drawing and coloring sets' are FP.
+B0FTZKTD61,52774dd6-7694-48f0-a526-e02bbb364a54,TP,SUCCESS,```json
+{
+  'verdict': 'TP',
+  'reason': 'Product passes foundational definition check (designed for children's play), passes exclusion checks (not in excluded groups A, B, or C), and qualifies under BRANCH G: Creative Hobbies Toys and Accessories as a kinetic sand/modeling paste kit with multiple components (1kg sand, 4 molds, accessories, sandbox) marketed specifically for children ages 3+. The product is a structured creative play kit designed as a toy.'
+}
+```
+
+**Classification Details:**
+
+<p><b>ASIN:</b> Not provided in evidence</p>
+
+<p><b>Product:</b> Genio Kids Magic Sand Castle Set - 1 kg Kinetic Sand with 4 Castle Molds and Accessories</p>
+
+<p><b>Verdict:</b> TP (Toy Product)</p>
+
+<p><b>Rule Category:</b> BRANCH G - Creative Hobbies Toys and Accessories (Kinetic sand and modeling paste kits)</p>
+
+<p><b>Confidence:</b> 95%</p>
+
+<p><b>Reasoning:</b></p>
+<ul>
+<li><b>Step 0 - Foundational Definition:</b> ✅ Product explicitly designed for children's play. Title contains 'Kids,' description emphasizes play ('jeux,' 'jouer'), and age recommendation is 3+ years.</li>
+<li><b>Step 1 - Exclusion Check:</b> ✅ Does not match any excluded groups. Not a board game, puzzle, outdoor toy, or other EPR scheme product.</li>
+<li><b>Step 2 - Inclusion Check:</b> ✅ Qualifies under BRANCH G as a kinetic sand kit. The rule explicitly includes 'Kinetic sand and magic sand products' and 'General DIY craft sets.' This is a structured, multi-component kit (sand + molds + accessories + sandbox) designed for creative play and fine motor development.</li>
+<li><b>No Electronic Overrides:</b> ✅ No built-in, non-separable electronic components mentioned. Product is purely tactile/creative play material.</li>
+</ul>
+B0DJ9MRT7P,5292909c-5601-44f2-b3ac-dccef0854724,FP,SUCCESS,This product is a board game with dice and strategy elements. Per EXCLUDED GROUP B, 'Dice games, word games, travel games, chess' and 'Strategy games and brain teasers' are explicitly excluded from scope. Shut The Box is a traditional dice game involving strategy and mental calculation, matching the exclusion criteria. Verdict is FP.
+B08ZJN6B7P,56b6170c-1a40-4c98-9301-7abbef54001f,FP,SUCCESS,This is a 1000-piece jigsaw puzzle, which is explicitly excluded under STEP 1, EXCLUDED GROUP B: 'All jigsaw puzzles of any piece count (under 500, exactly 500, over 500, wooden non-educational).' The rule specifies that 'All other flat or jigsaw puzzles of any piece count, any age, including decorative adult wooden puzzles are EXCLUDED.' Although the product is marketed to children (age range: Enfant), jigsaw puzzles are categorically excluded regardless of age target. NOVA VISUAL AI's preliminary verdict of FP aligns with this exclusion, confirming the product does not qualify as a toy under FR_Toys_1_Toys.
+B0FVLPDDMY,586c6556-a97d-4ecc-bdbf-d8a331a6155b,FP,SUCCESS,```json
+{
+  'verdict': 'FP',
+  'reason': 'Product contains built-in, non-separable electronic components (LED lights soldered into the structure). Under Override 1 of FR_Toys_1, products with non-separable electric/electronic components are excluded. The product description explicitly states LEDs are 'hand soldered' and 'components fit into the LEGO model,' confirming the electronics are permanently integrated and not separable. Additionally, this is an accessory for a LEGO set, not a standalone toy—it is a lighting enhancement kit designed for display purposes, not play. NOVA VISUAL AI preliminary verdict (FP) aligns with this analysis.'
+}
+```
+
+**ASIN Classification Summary:**
+
+<p><b>ASIN:</b> YEABRICKS LED Light for Lego 10367</p>
+<p><b>Product:</b> LED lighting kit for LEGO display model</p>
+<p><b>Verdict:</b> FP (False Positive / Out of Scope)</p>
+<p><b>Rule Category:</b> Override 1 — Built-in, Non-Separable Electronic Components</p>
+<p><b>Confidence:</b> 95%</p>
+<p><b>Reasoning:</b> The product fails Override 1 because it contains hand-soldered LED lights permanently integrated into the structure. The electronics are non-separable and built-in by design. Additionally, this is a display accessory, not a toy designed for play—it transforms a LEGO set into home décor. The product is out of scope for FR_Toys_1.</p>
+B0GWDBRRGZ,59f1d2ed-3e8e-427b-a17b-da9d9d4093c4,TP,SUCCESS,```json
+{
+  'verdict': 'TP',
+  'reason': 'Product is a multi-activity play mat designed for babies aged 0-36 months with interactive piano, hanging rattles, and sensory elements (music and lights). It matches BRANCH E (Toys for Toddlers and Preschoolers) as a pre-school educational toy with play intent. The electronic components (music, lights) are powered by removable AA batteries, making them separable per OVERRIDE 2, keeping the product in scope. NOVA visual analysis confirms TP classification. Product passes STEP 0 (designed for play by children) and STEP 1 (not in excluded groups) and qualifies under BRANCH E.'
+}
+```
+
+**ASIN:** Not provided in evidence  
+**Product:** Baby Tummy Time Play Mat with Piano and Interactive Lights  
+**Verdict:** TP  
+**Rule Category:** BRANCH E – Toys for Toddlers and Preschoolers  
+**Confidence:** 95%  
+**Reasoning:** This product is explicitly designed for infants and toddlers (0-36 months) with structured play components including an interactive piano, hanging rattles, and sensory stimulation (music and lights). The removable AA battery compartment qualifies as separable electronics under OVERRIDE 2, keeping it in scope. It clearly meets the criteria for pre-school educational toys with early learning and play intent.
+B0CNTFJBJ1,5a5e57b5-d8ba-4983-ace0-d1047330a3e5,FP,SUCCESS,This product is an expansion set for the board game 'Evolution: New World.' Per EXCLUDED GROUP B of the decision tree, 'Strategy games and brain teasers' and 'Board games' are explicitly excluded from scope. The product description confirms it is a board game expansion requiring the base game to play. Additionally, NOVA VISUAL AI identified collectible cards with game-like rules and traits, which are classified as strategy card games and thus excluded. The product does not qualify as a toy under this rule.
+B0D2B96SMS,69b991d4-89f1-447b-908e-f518f6e83579,TP,SUCCESS,Product passes foundational definition check (designed for play by children per age range and bullet points). Not excluded under Groups A-C. Fits Branch H as collectible items where collecting is primary purpose (115 different flag marbles to collect) AND designed for marble racing play. Glass marbles (16mm) are explicitly marketed for marble tracks/runs and competitive play. NOVA visual analysis confirms TP classification. Product qualifies as both collectible toy and functional play marble.
+B0D2RQLJQW,73981528-473a-4e60-8e44-e9def7a259df,FP,SUCCESS,Jekyll & Hyde vs Scotland Yard is a strategy card game with rules for competitive/cooperative play. It matches EXCLUDED GROUP B (board games, card games, puzzles, and models). The product explicitly states 'Kartenspiel' (card game), features multiple chapters with strategic objectives, and requires players to manage card hands to win tricks—all hallmarks of strategy gameplay. NOVA VISUAL AI preliminary verdict aligns with this classification. Per the rule: 'Card games of any type including strategy card games...Board games, dice games, word games, travel games, chess' are excluded. Verdict is FP.
+B0F5NPQBX4,7427c79f-2ff0-4983-8403-541e592a61f8,TP,SUCCESS,Product passes foundational definition check (Step 0): designed for children's play with explicit evidence ('jouets de peinture DIY', 'bricolage de champignons pour enfants'). Does not match exclusions (Step 1). Fits Branch G (Creative Hobbies Toys): structured DIY craft kit with multiple wooden components for painting/decorating. NOVA visual analysis confirms TP classification. Wooden mushroom figures are blank canvases for creative play, consistent with craft toy kits.
+B0CQ31JH6P,74af1670-a068-41f8-91d2-2b01cea83e33,FP,SUCCESS,```json
+{
+  'verdict': 'FP',
+  'reason': 'Cross-stitch and embroidery kits for adults are explicitly excluded in STEP 3 of the rule. Although the product is marketed to both children and adults, the primary positioning emphasizes adult stress relief and artistic activity. The rule states: 'Cross-stitch or embroidery kits for adults are FP because they are needlework not toy category.' This product falls under needlework, not structured toy/craft play.'
+}
+```
+
+**Detailed Classification:**
+
+<p><b>ASIN:</b> DSB043C</p>
+
+<p><b>Product:</b> DUTCH STITCH BROTHERS Embroidery Kit - 6' Bamboo Frame Cross Stitch Kit with 14 Count Aida Fabric</p>
+
+<p><b>Verdict:</b> FP (False Positive - Out of Scope)</p>
+
+<p><b>Rule Category:</b> STEP 3 Edge Case Clarification - Cross-stitch/Embroidery Kits for Adults</p>
+
+<p><b>Confidence:</b> 95%</p>
+
+<p><b>Reasoning:</b></p>
+
+<p>While the product is marketed to both children and adults, it is fundamentally a <b>cross-stitch embroidery kit</b>, which is explicitly listed as FP in STEP 3 of the FR_Toys_1_Toys rule. The rule clearly states: 'Cross-stitch or embroidery kits for adults are FP because they are needlework not toy category.'</p>
+
+<p>Key evidence supporting FP classification:</p>
+<ul>
+<li>Primary marketing emphasizes <b>adult stress relief</b> and <b>artistic activity</b> ('needlepoint kits for adults,' 'stress relief artistic activity')</li>
+<li>Product is positioned as <b>needlework</b>, not a structured toy or game</li>
+<li>Despite dual age targeting, the core product category (cross-stitch embroidery) falls outside toy scope</li>
+<li>The rule distinguishes between toy craft kits (Branch G) and adult needlework, which are excluded</li>
+</ul>
+B0DDV38VW8,7f98b27d-3bc6-426e-bd51-20b46cc4fbc6,FP,SUCCESS,```json
+{
+  'verdict': 'FP',
+  'reason': 'Product is a board game with strategic gameplay mechanics (bluffing, deduction, word association with rules for 4-8 players). Falls under EXCLUDED GROUP B: 'Board games, dice games, word games, travel games, chess' and 'Strategy games and brain teasers.' NOVA VISUAL AI preliminary verdict (FP) confirms gameplay rules and mechanics are present. Product does not qualify as a toy under any Branch A-H inclusion categories.'
+}
+```
+
+**ASIN Classification Summary:**
+
+<p><b>ASIN:</b> [Not provided in evidence]</p>
+<p><b>Product:</b> Secret Images – Board Game</p>
+<p><b>Verdict:</b> FP</p>
+<p><b>Rule Category:</b> Excluded Group B (Board Games)</p>
+<p><b>Confidence:</b> 95%</p>
+<p><b>Reasoning:</b> This product is explicitly marketed as a 'Gesellschaftsspiel' (board game) and 'Kartenspiel' (card game) with structured strategic gameplay rules involving bluffing, deduction, and word association for 4-8 players. The product title, bullet points, and NOVA VISUAL AI analysis all confirm it is a strategy-based board game with competitive rules, placing it squarely within Excluded Group B. Board games are explicitly excluded from the FR_Toys_1_Toys scope regardless of age targeting (10+).</p>
+B0FJ2HCCFZ,82faf9d7-4732-42e0-9726-d75edc84ee81,FP,SUCCESS,```json
+{
+  'verdict': 'FP',
+  'reason': 'Product fails STEP 0 foundational definition check. While marketed with DIY jewelry-making language, these are raw acrylic charm components (100 loose plastic teeth) without structured play or toy purpose. They are craft supply components, not a toy kit. NOVA VISUAL AI confirms: plain unadorned plastic pieces lack toy design elements. The product is a bulk craft material for adult jewelry making, not a children's toy or structured creative kit per Branch G criteria.'
+}
+```
+
+**Detailed Analysis:**
+
+| Step | Finding |
+|------|---------|
+| **STEP 0** | Product lacks explicit play intent. Described as DIY jewelry components for 'artisans and creators' — adult craft supply language, not children's toy language. No evidence of play-oriented design. |
+| **STEP 1** | Does not match Exclusion Groups A, B, or C. However, fails foundational toy definition before reaching Step 1. |
+| **STEP 2 / Branch G** | Does NOT qualify as 'structured creative kit.' Branch G requires kits with multiple components AND game/activity structure (e.g., paint-by-numbers, diamond painting, bead kits with instructions). This is 100 identical loose charms—raw materials, not a kit. |
+| **NOVA VISUAL AI** | Confirms: plain white plastic teeth with no toy design, educational elements, or play features. Overrides text marketing language. |
+
+**Verdict: FP** — Craft supply component, not a toy.
+B089M87F3N,8759df83-61e0-481c-9148-0b8f4e1555ff,TP,SUCCESS,```json
+{
+  'verdict': 'TP',
+  'reason': 'Product is a progressive puzzle set (3+6+9+12 pieces) designed for children ages 2+, explicitly marketed as an educational toy to develop logic, hand-eye coordination, and problem-solving. Matches BRANCH B (Building Sets) and BRANCH E (Toys for Toddlers and Preschoolers) inclusion criteria. Material is cardboard (not electronic), and no built-in electronic components are present. NOVA visual analysis confirms educational puzzle classification for preschoolers, aligning with Step 2 inclusion criteria.'
+}
+```
+
+**DETAILED CLASSIFICATION:**
+
+<p><b>ASIN:</b> 20828</p>
+<p><b>Product:</b> Clementoni Supercolor Baby Shark – Progressive Puzzle Set (3+6+9+12 pieces)</p>
+<p><b>Verdict:</b> TP</p>
+<p><b>Rule Category:</b> BRANCH E (Toys for Toddlers and Preschoolers) – Educational puzzles for preschool learning</p>
+<p><b>Confidence:</b> 95%</p>
+
+**Reasoning:**
+
+<ul>
+<li><b>Step 0 (Foundational Definition):</b> ✅ Product is explicitly designed for play and learning by children ages 2+. Evidence: 'puzzle éducatif,' 'jeu éducatif,' 'skill game for children.'</li>
+<li><b>Step 1 (Exclusion Check):</b> ✅ Does NOT match excluded groups. Not a jigsaw puzzle (flat pieces); instead, a progressive educational puzzle set with varying piece counts designed for toddler development.</li>
+<li><b>Step 2 (Inclusion Check):</b> ✅ Matches BRANCH E criteria: 'Wooden or magnetic educational puzzles specifically designed for preschool learning' and '3D Puzzles that require building a three-dimensional structure are IN SCOPE.'</li>
+<li><b>Overrides:</b> ✅ No built-in, non-separable electronic components. Material is cardboard with no NFC, Bluetooth, or wireless technology.</li>
+<li><b>NOVA Visual Analysis:</b> Confirms educational puzzle for preschoolers (ages 2+), supporting TP classification.</li>
+</ul>
+B0DLGQT912,8802cd93-b410-4c27-9d99-f051af9a9557,FP,SUCCESS,This is a 24-piece jigsaw puzzle for children. Under STEP 1, EXCLUDED GROUP B, all jigsaw puzzles of any piece count are excluded from scope, regardless of age target or educational intent. The KEY DISTINCTION clarifies that only wooden/magnetic educational puzzles for preschoolers (learning shapes, letters, numbers) and 3D puzzles requiring building are IN SCOPE. This is a flat jigsaw puzzle, which is explicitly excluded. NOVA VISUAL AI preliminary verdict (FP) confirms this classification.
+B0FWD3CX8Q,8a001786-c9ae-49ce-bad3-fc75df560074,TP,SUCCESS,Product is an interactive Russian-language talking book designed for children ages 3-8 with educational and sensory engagement features. It passes STEP 0 (designed for play/learning by children), STEP 1 (not in excluded groups), and qualifies under BRANCH E (Toys for Toddlers and Preschoolers) as an interactive educational book with sound for early learning. The separable battery compartment (3 AAA batteries, non-included) does not trigger Override 1 since batteries are removable and the toy remains functional without them.
+B0G728J8LW,8cf38038-b259-4fa8-9126-dada069f9f3c,TP,SUCCESS,Product is a 3D maze puzzle cube with rolling balls designed for children (age range: Enfant/Child). It passes Step 0 (designed for play by children - explicit evidence in title 'Spielzeug/Toy', description, and bullet points emphasizing interactive family fun and brain training). It passes Step 1 (not in excluded groups - not a board game, card game, or flat jigsaw puzzle). It qualifies under Branch B (Building Sets and Accessories) as a 3D puzzle that builds/manipulates three-dimensional structures. Material is ABS plastic with no built-in non-separable electronic components (transparent lock cover is mechanical, not electronic). NOVA VISUAL AI confirms TP verdict. Confidence: 95%.
+B0FWCJHZQ9,8d48cd03-59fd-4fce-bf73-6b6a407e91c4,TP,SUCCESS,Product passes all decision tree steps. STEP 0: Explicitly designed for children's play (title states 'Lernspielzeug' [learning toy], 'Montessori', ages 1+). STEP 1: Not excluded—not a board game, card game, puzzle, outdoor toy, or other excluded category. STEP 2: Fits BRANCH E (Toys for Toddlers and Preschoolers) as imitation/pretend play toys with educational intent for ages 1-3. Material is rubber (non-electronic, no built-in electronics per product description). NOVA VISUAL AI confirms TP verdict showing colorful animal figures designed for play. No overrides triggered.
+B0FVY6Q49L,8db0f61a-d6c5-47d0-ab9f-271ff0b168b7,TP,SUCCESS,Product is a prank spray toy (stink spray) explicitly marketed as a 'Trickspielzeug' (trick toy) and 'Gaggeschenk' (gag gift). Per BRANCH H (Exploration Toys and Other Toys), prank toys and tricks including fart machines and novelty noise makers are TP. The product has clear play/prank intent evidenced in title, bullet points, and description. While marketed to adults, the rule does not exclude adult-targeted prank toys. NOVA's preliminary verdict of FP appears to conflate this with adult novelty dolls (voodoo dolls), which are explicitly excluded—prank toys are not. This product qualifies as a structured prank toy under tricks and catches category.
+B0G9PTDMPF,8e4a1e0a-1f1c-4e58-a9b3-4c53abb1fba1,TP,SUCCESS,```json
+{
+  'verdict': 'TP',
+  'reason': 'Product is a handheld microscope designed for children's scientific exploration and learning. Despite built-in LED electronics, the product qualifies under BRANCH H (Exploration Toys) as a scientific game/kit. The description explicitly targets young learners with phrases like 'jeunes apprenants' (young learners), 'jeunes explorateurs' (young explorers), and emphasizes 'apprentissage' (learning) and 'STEM activities.' The LED is a built-in non-separable electronic component; however, Override 1 applies only to NFC chips, Bluetooth, or wireless technology—not standard LED lights. The product functions as a standalone educational tool for children's hands-on scientific inquiry, fitting the 'scientific games and kits' category in BRANCH H. NOVA's preliminary verdict appears to misclassify this as a general magnifier rather than recognizing its toy/educational purpose for children.'
+}
+```
+
+**Classification Summary:**
+
+<p><b>ASIN:</b> [Not provided in evidence]</p>
+<p><b>Product:</b> Handheld Microscope with LED Light (50X-300X magnification)</p>
+<p><b>Verdict:</b> <b>TP</b> (Toy Product)</p>
+<p><b>Rule Category:</b> BRANCH H – Exploration Toys (Scientific games and kits)</p>
+<p><b>Confidence:</b> 85%</p>
+
+<p><b>Reasoning:</b> The product passes STEP 0 (designed for children's play and learning), STEP 1 (not excluded), and qualifies under STEP 2 BRANCH H as a scientific exploration toy. The built-in LED does not trigger Override 1 (which applies only to NFC, Bluetooth, or wireless tech). The explicit marketing to 'young learners' and 'young explorers' for STEM activities confirms toy classification.</p>
+B0BYNNZVJX,90e2eec9-7c61-46d7-b750-4672563a4889,FP,SUCCESS,These are loose silicone beads with letter designs intended for jewelry making and crafting by adults. While marketed as DIY craft components, they are raw materials/supplies (spacer beads) rather than a structured toy kit. The product lacks the multiple components, game elements, or play intent required for Branch G (Creative Hobbies Toys). The primary purpose is jewelry manufacturing supply, not play or structured creative activity for children. No evidence of toy design or child play intent in title, description, or bullets.
+B087BF3GVL,912b1012-04ac-4a2d-9a54-4aebdf68b235,FP,SUCCESS,Product fails STEP 0 foundational definition check. A reward chart/behavior tracking system is designed for parental behavior management and habit reinforcement, not for play by children. While marketed with children in context, the primary purpose is behavioral tracking and parental discipline tool, not play. The product lacks explicit evidence of play intent in title, description, or function—it is an educational/organizational tool for parents, similar to excluded items like journals and planners which belong to other EPR schemes (FR_PAPER). Verdict: FP.
+B079PX8RNB,930a83e6-8401-4082-8abe-8525feee4dd1,FP,SUCCESS,This is a 3000-piece jigsaw puzzle for adults and children aged 9+. Per STEP 1, EXCLUDED GROUP B, 'All jigsaw puzzles of any piece count (under 500, exactly 500, over 500, wooden non-educational)' are excluded. The rule explicitly states 'All other flat or jigsaw puzzles of any piece count, any age, including decorative adult wooden puzzles are EXCLUDED. Verdict is FP.' This product is a flat jigsaw puzzle with 3000 pieces marketed as an adult puzzle with decorative appeal, matching the exclusion criteria exactly.
+B08HN8Q8NP,95920b98-bddb-4938-ac53-cc7d94735a98,FP,SUCCESS,Product is a set of reusable plastic stencils (alphabet letters, numbers, special characters) designed primarily for DIY decoration, crafts, and marking surfaces (furniture, walls, parking spaces). While the description mentions 'ideal for children to draw, paint, learn letters and numbers,' the primary marketing focus and intended use is adult DIY/craft decoration and professional marking, not play. The product lacks explicit evidence of toy purpose—it is a craft tool/supply set, not a structured toy or game. Per STEP 0 (Foundational Definition Check), generic phrases like 'ideal for children' without clear play intent do not qualify as toys. This falls under art supplies/craft tools, not the FR_Toys_1_Toys scope.
+B0FVRH8DH3,966ffd5b-aa44-477b-860b-672ba29f2ecf,FP,SUCCESS,Product is a bathroom toilet golf prank toy marketed exclusively for adult novelty entertainment (Father's Day gift for men, husbands, boyfriends). STEP 0 fails: The product lacks explicit evidence of design for children's play. Marketing emphasizes adult humor and stress relief in bathroom settings, not child play intent. NOVA VISUAL AI confirms FP classification for adult novelty prank purposes. Additionally, this falls under prank/joke toys but is marketed for adults, not children, disqualifying it from toy scope.
+B0C2SHD7FZ,98a734b4-2edb-43ff-82ae-9e3de80ef83b,FP,SUCCESS,Product is a set of 26 wooden letter stamps marketed for school enrollment (Einschulung). While it contains alphabet letters, it functions as an educational supply/craft tool rather than a structured toy designed for play. It does not meet STEP 0 (designed for play) or fit any inclusion category in STEP 2 (Branches A-H). Standalone letter stamps without structured game mechanics or play intent are educational supplies, not toys. NOVA VISUAL AI assessment aligns with this classification.
+B07BK5619B,9936bfee-eb3a-4534-ab8a-96be1e4743cc,FP,SUCCESS,Product is a tabletop air hockey game, which falls under EXCLUDED GROUP A (Foosball tables and standing/tabletop foosball accessories). The rule explicitly states 'Foosball tables (standing and tabletop) and foosball accessories' are excluded. Although air hockey differs mechanistically from foosball, it is a comparable tabletop competitive game structure and is similarly excluded from this toy classification rule. NOVA VISUAL AI preliminary verdict (FP) aligns with this exclusion.
+B0GVD6JWZW,99eff0d9-0d55-487e-a357-385d85d0a303,TP,SUCCESS,```json
+{
+  'verdict': 'TP',
+  'reason': 'Product is a structured DIY craft kit with multiple wooden frame components designed for children's creative activities (painting, drawing, collage, clay modeling). It explicitly targets fine motor skill development and family creative sharing. Matches BRANCH G (Creative Hobbies Toys and Accessories) as a DIY craft set with multiple components marketed specifically for children. No electronic components present. Passes Steps 0-2 of the decision tree.'
+}
+```
+
+**Classification Details:**
+
+<p><b>ASIN:</b> Not provided in evidence</p>
+
+<p><b>Product:</b> Cadres photo à peindre (DIY Wooden Photo Frames for Painting)</p>
+
+<p><b>Verdict:</b> TP (Toy Product)</p>
+
+<p><b>Rule Category:</b> BRANCH G - Creative Hobbies Toys and Accessories</p>
+
+<p><b>Confidence:</b> 95%</p>
+
+<p><b>Reasoning:</b></p>
+<ul>
+<li><b>Step 0 (Foundational Definition):</b> YES - Product is explicitly designed for children's play and creative activities. Evidence: 'conçus pour développer la motricité fine des enfants' (designed to develop children's fine motor skills), 'moment de partage créatif en famille' (creative family sharing moment).</li>
+<li><b>Step 1 (Exclusion Check):</b> PASS - Does not match any excluded groups. Not a board game, puzzle, or paper product.</li>
+<li><b>Step 2 (Inclusion Check):</b> BRANCH G qualifies - This is a structured DIY craft kit with multiple wooden frame components (5 frames included) designed for children to paint, draw, collage, and model with clay. Matches the category: 'General DIY craft sets such as bead kits, foam craft' and 'Modeling paste, clay, accessories, kits.'</li>
+<li><b>Overrides:</b> No electronic components present; no separability concerns.</li>
+</ul>
+B0FKNCXN8R,9c0a7fa9-d8a0-4c03-919e-433666403791,TP,SUCCESS,```json
+{
+  'verdict': 'TP',
+  'reason': 'Product passes all decision tree steps. STEP 0: Designed for children's play (ages 5+, marketed as toy with role-play scenarios). STEP 1: Not excluded—miniature dollhouses and accessories are IN SCOPE (not outdoor/ride-on, not board games, not other EPR schemes). STEP 2: Fits BRANCH C (Dolls and Accessories) as miniature dollhouse furniture and accessories designed for imaginative play, and BRANCH H (Exploration Toys) as collectible blind box sets. Product contains separable plastic/cardboard components with no built-in electronics, so Override 1 does not apply. Visual evidence confirms play-oriented mini mart with interactive elements (shelves, accessories, role-play scenarios). Confidence: 95%.'
+}
+```
+
+**ASIN Classification Summary:**
+
+<p><b>ASIN:</b> [Not provided in evidence]</p>
+
+<p><b>Product:</b> Craze MINI MART Mix – Miniature Dollhouse with Accessories</p>
+
+<p><b>Verdict:</b> <b>TP</b> (Toy Product)</p>
+
+<p><b>Rule Category:</b> BRANCH C (Dolls and Accessories) / BRANCH H (Exploration Toys – Collectible Sets)</p>
+
+<p><b>Confidence:</b> 95%</p>
+
+<p><b>Reasoning:</b> The product is a blind-box collectible miniature dollhouse set explicitly designed for children ages 5+. It contains separable plastic and cardboard components (mini shops, accessories, decorative items) with no built-in electronics. The product satisfies STEP 0 (designed for play), passes STEP 1 (not excluded), and qualifies under STEP 2 as miniature dollhouse accessories and collectible blind-box toys. NOVA visual analysis confirms role-play and imaginative play intent. No electronic overrides apply.</p>
+B0DRTXJJL2,9c1f707c-aa54-4388-bd1b-a817e4db74f4,FP,SUCCESS,```json
+{
+  'verdict': 'FP',
+  'reason': 'This is an adult jigsaw puzzle (1000 pieces) explicitly marketed for adults aged 14+. Per EXCLUDED GROUP B of the decision tree, 'All jigsaw puzzles of any piece count (under 500, exactly 500, over 500, wooden non-educational)' and 'Adult jigsaw puzzles that are artistic or decorative' are excluded from scope. The product fails Step 1 (Exclusion Check) and does not qualify as an in-scope educational puzzle for preschoolers or a 3D puzzle requiring building.'
+}
+```
+
+**Summary:**
+
+| Field | Value |
+|-------|-------|
+| **ASIN** | Not provided |
+| **Product** | Puzzles 1000 Pieces for Adults - Magic Book House Theme |
+| **Verdict** | **FP** |
+| **Rule Category** | EXCLUDED GROUP B (Jigsaw Puzzles) |
+| **Confidence** | 99% |
+| **Reasoning** | Adult-targeted jigsaw puzzle (1000 pieces, 14+ age range) explicitly excluded under Step 1. Does not meet exceptions for educational preschool puzzles or 3D building puzzles. |
+B0BTDJ3KT7,a04a4c2a-e0e7-4b48-9918-b8358fef6429,FP,SUCCESS,```json
+{
+  'verdict': 'FP',
+  'reason': 'Product is a 1000-piece jigsaw puzzle for adults. Per STEP 1, EXCLUDED GROUP B, 'All jigsaw puzzles of any piece count (under 500, exactly 500, over 500, wooden non-educational)' are excluded. The rule explicitly states 'All other flat or jigsaw puzzles of any piece count, any age, including decorative adult wooden puzzles are EXCLUDED. Verdict is FP.' This product matches the exclusion criteria.'
+}
+```
+
+**Summary:**
+
+<p><b>ASIN:</b> Not provided in evidence</p>
+<p><b>Product:</b> Clementoni - 39773 Collection - Tiger - 1000 Pieces - Puzzle for Adults, Made in Italy</p>
+<p><b>Verdict:</b> FP</p>
+<p><b>Rule Category:</b> Exclusion Group B (Board games, card games, puzzles, and models)</p>
+<p><b>Confidence:</b> 99%</p>
+<p><b>Reasoning:</b> This is a 1000-piece jigsaw puzzle explicitly marketed for adults. The decision tree clearly excludes all flat jigsaw puzzles regardless of piece count or age target under STEP 1, EXCLUDED GROUP B. The only exception for puzzles is wooden or magnetic educational puzzles for preschoolers and 3D puzzles requiring building—neither applies here.</p>
+B0F3CGYB86,a1bd76c1-0391-479a-b76c-60011b0c9fbc,FP,SUCCESS,```json
+{
+  'verdict': 'FP',
+  'reason': 'This product is a flat jigsaw puzzle with 200 pieces designed for adults and teenagers, explicitly marketed as decorative wall art rather than a play-oriented toy. It falls under EXCLUDED GROUP B (jigsaw puzzles of any piece count), which states 'All jigsaw puzzles of any piece count (under 500, exactly 500, over 500, wooden non-educational) are EXCLUDED.' The product description emphasizes its use as home décor and artistic display, not play. NOVA VISUAL AI analysis confirms this is a decorative puzzle designed as wall art, not a toy. Verdict: FP.'
+}
+```
+
+**ASIN Classification Summary:**
+
+<p><b>ASIN:</b> [Not provided in evidence]</p>
+<p><b>Product:</b> ROBOTIME Wooden Puzzles 200 Pieces - The Mysterious Datura Flower</p>
+<p><b>Verdict:</b> FP (False Positive - Not in Scope)</p>
+<p><b>Rule Category:</b> EXCLUDED GROUP B - Jigsaw Puzzles</p>
+<p><b>Confidence:</b> 95%</p>
+<p><b>Reasoning:</b> This wooden jigsaw puzzle with 200 pieces is explicitly excluded under STEP 1, EXCLUDED GROUP B. The rule clearly states 'All jigsaw puzzles of any piece count...are EXCLUDED.' The product is marketed as decorative home art for adults and teenagers, not as a play-oriented toy. The description emphasizes its function as wall décor and a 'permanent decorative piece,' confirming it is home décor rather than a toy. NOVA VISUAL AI's preliminary verdict supports this classification, identifying it as a decorative artistic puzzle designed for wall display rather than play.</p>
+B0GFMSQX68,a34eab83-387c-49c1-8fb1-23e0dca37e84,FP,SUCCESS,Product is a replacement squeaker insert accessory (12 pack) for pet toys and baby toys, not a standalone toy. Per STEP 0, the product lacks explicit evidence of independent play intent—it is a component/accessory designed to repair or modify existing toys, not a toy itself. Additionally, the primary marketing emphasizes pet toy repair ('réparer les jouets de votre chien'), placing it outside the scope of FR_Toys_1_Toys which targets toys for children's play.
+B008DBZCQ0,ad35b613-0965-4ced-8142-c8b852681721,FP,SUCCESS,This product is Othello, a strategy board game designed for competitive play between two players. It matches EXCLUDED GROUP B (Board games, card games, puzzles, and models) under STEP 1, which explicitly excludes 'Strategy games and brain teasers' and 'Board games, dice games, word games, travel games, chess.' The product's core purpose is strategic gameplay with rules, not play-based toy activity. NOVA VISUAL AI preliminary verdict (FP) aligns with rule classification.
+B0G4GLP5XK,aed35cca-4fe9-4c80-8e95-47789c28b3e9,FP,SUCCESS,This product is a 1000-piece jigsaw puzzle for adults. Per STEP 1, EXCLUDED GROUP B, 'All jigsaw puzzles of any piece count (under 500, exactly 500, over 500, wooden non-educational)' are excluded. The KEY DISTINCTION clarifies that 'All other flat or jigsaw puzzles of any piece count, any age, including decorative adult wooden puzzles are EXCLUDED.' This product is explicitly marketed as an adult puzzle ('puzzles difficiles pour adultes,' 'hard puzzles for adults') with home decoration as a primary use case, making it a decorative adult jigsaw puzzle that falls under the exclusion.
+B0DC2PYJL4,b4c11262-70d8-4d51-b3c3-ad416c63930d,TP,SUCCESS,```json
+{
+  'verdict': 'TP',
+  'reason': 'Product is a diamond painting craft kit with multiple structured components (6 coasters, diamonds, pen, glue, tray, holder). Matches BRANCH G (Creative Hobbies Toys and Accessories) - specifically 'Diamond painting and diamond painting craft kits of any age target including adult-targeted ones.' Diamond painting kits are explicitly TP per rule even when marketed to adults. No built-in non-separable electronics present. Passed Steps 0-1 (designed for creative play/hobby activity, not excluded) and qualifies under Step 2 inclusion criteria.'
+}
+```
+
+**FINAL VERDICT OUTPUT:**
+
+<p><b>ASIN:</b> BDWY103-UK</p>
+
+<p><b>Product:</b> 6 x Hunde DIY Diamant Kunst Malerei Kits Untersetzer mit Halter / 8 Pieces Diamond Art Coasters, Mandala Diamond Painting Kit for Adults and Beginners</p>
+
+<p><b>Verdict:</b> TP</p>
+
+<p><b>Rule Category:</b> BRANCH G - Creative Hobbies Toys and Accessories (Diamond painting craft kits)</p>
+
+<p><b>Confidence:</b> 95%</p>
+
+<p><b>Reasoning:</b> This is a structured diamond painting craft kit containing multiple components (coasters, colorful diamonds, pen, glue, tray, holder) designed as a creative hobby activity. Diamond painting kits are explicitly classified as TP under BRANCH G regardless of age target, including adult-targeted versions. No built-in or non-separable electronic components are present. Product passed foundational checks (Step 0: designed for creative play) and exclusion checks (Step 1: not a board game, puzzle, or excluded product type).</p>
+B0FKH4KRK4,b8b194ce-c8c8-4a2b-8063-49e6ae37d3e3,TP,SUCCESS,Product is a balancing bird physics toy designed for play and learning. It passes Step 0 (designed for play by children and adults), Step 1 (not in excluded groups), and qualifies under Branch H (Exploration Toys) as a scientific game/physics demonstration toy. The product explicitly demonstrates gravity and balance principles through interactive play, with no built-in electronic components triggering Override 1.
+B0FWRN6HYK,bf184369-ac8f-4fd6-a986-6dfb81d1c0b7,TP,SUCCESS,```json
+{
+  'verdict': 'TP',
+  'reason': 'Product passes STEP 0 (designed for children's play - explicit evidence: 'pour les enfants de 3 ans et plus', educational toy with creative play intent). Passes STEP 1 (not in excluded groups). Matches BRANCH G (Creative Hobbies Toys): structured creative kit combining magnetic puzzle assembly with drawing/whiteboard activities, includes 8 water-based markers, 12 pattern/tutorial cards, and magnetic pieces. This is a multi-component DIY craft set designed as a toy for children with clear play and learning intent. No built-in non-separable electronics present (water markers and magnetic pieces are separable components).'
+}
+```
+
+**ASIN Classification Summary:**
+
+<p><b>ASIN:</b> Not provided in evidence</p>
+<p><b>Product:</b> Double-Sided Magnetic Puzzle & Drawing Board Set</p>
+<p><b>Verdict:</b> <b>TP</b> (Toy Product)</p>
+<p><b>Rule Category:</b> BRANCH G - Creative Hobbies Toys and Accessories</p>
+<p><b>Confidence:</b> 95%</p>
+<p><b>Reasoning:</b> This product is a structured creative kit combining magnetic puzzle assembly with drawing activities, explicitly marketed for children ages 3+. It includes multiple components (magnetic pieces, water markers, pattern cards, tutorial cards) and encourages imaginative play, problem-solving, and fine motor development. It clearly qualifies as a toy under BRANCH G as a DIY craft set with multiple structured components designed for children's creative play.</p>
+B0B63K8TBH,bf6834f1-923c-4f5f-b243-c95ffc04ffd2,TP,SUCCESS,```json
+{
+  'verdict': 'TP',
+  'reason': 'Product qualifies as a disguise accessory under BRANCH H (Exploration Toys and Other Toys). The inflatable zimmer frame and walking stick are costume/disguise accessories marketed for Halloween and dress-up purposes. Per the rule, 'Disguise accessories for children AND adults such as wigs, masks, hats, gloves for dress-up. Costume and disguise accessories are routed to toys even when marketed for adults.' The product explicitly targets adult Halloween costumes and novelty dress-up scenarios, meeting the criteria for TP classification.'
+}
+```
+
+**ASIN Classification Summary:**
+
+| Field | Value |
+|-------|-------|
+| **Verdict** | **TP** |
+| **Rule Category** | Branch H: Exploration Toys and Other Toys (Disguise Accessories) |
+| **Confidence** | 95% |
+| **Reasoning** | Inflatable zimmer frame and walking stick are disguise/costume accessories explicitly marketed for Halloween and adult dress-up play. Rule explicitly includes costume and disguise accessories routed to FR_Toys even when marketed for adults. Product passes Step 0 (designed for play/costume use) and Step 1 (not excluded) and fits Branch H criteria. |
+B0D3T9JPV7,c59eca7a-00a1-4063-a954-d6c266c2bced,FP,SUCCESS,Product is an adult art painting set marketed for adults ('for Adults', 'Painting Party', 'Chic Girls Art Set'). Per STEP 0 FOUNDATIONAL DEFINITION CHECK, the product must be designed for play by children. Per BRANCH G CRITICAL DISTINCTIONS, 'Adult art drawing and coloring sets are FP' and 'Professional art pencil sets or charcoal sets are FP because they are art supplies.' This is an art supply kit for adults, not a structured children's toy or craft kit designed for play.
+B08WPSSHSY,cb3967f0-0e4b-414b-bbe2-bd25222c2ade,FP,SUCCESS,Product is a professional oil and wax colored pencil set (Posca KPE-200, 24-piece) marketed to adults. Per STEP 0 FOUNDATIONAL DEFINITION CHECK, this product is NOT designed for play by children—it is explicitly positioned as a 'professional' art supply for adult artists. Per BRANCH G CRITICAL DISTINCTIONS: 'Professional art pencil sets or charcoal sets are FP because they are art supplies.' Additionally, per ADDITIONAL EXCLUSION: 'Standalone pencils and crayons are NOT toys unless they are part of a structured set with multiple components AND are marketed specifically for children.' This set, while structured, is marketed exclusively to adults (CSI AGE_RANGE_DESCRIPTION: Adulte) for professional drawing techniques (blending, hatching, shading with water and turpentine). NOVA VISUAL AI preliminary verdict (FP) aligns with rule application. Verdict: FP.
+B07N6XKM67,ce57e92b-a299-449f-b48e-772e7e3bde36,TP,SUCCESS,Product is an interactive educational quiz game with an electronic stylus designed for children ages 4-6. Despite NOVA's preliminary FP verdict, the rule evidence clearly indicates this is a preschool educational toy (Branch E: Toys for Toddlers and Preschoolers). The product features: (1) explicit play/learning intent for young children, (2) structured educational activities with multiple components (24 activities, 200+ quizzes, interactive stylus), and (3) separable electronic components (the stylus is a tool, not a built-in non-separable component). This matches Branch E criteria for 'pre-school educational toys such as learning tablets, interactive books' and does not fall under Excluded Group B because it is not a strategy card game—it is an educational learning system. The stylus is a separable interactive tool, not a built-in electronic override per Override 1.
+B08G8XZWN4,ceca1d86-689f-4bba-bdac-f5d010c4f641,FP,SUCCESS,```json
+{
+  'verdict': 'FP',
+  'reason': 'This product is a foosball table (Babyfoot), which is explicitly listed in EXCLUDED GROUP A as 'Foosball tables (standing and tabletop) and foosball accessories.' Despite being marketed for children and family play, foosball tables are excluded from the FR_Toys_1_Toys rule scope and fall under a different EPR classification.'
+}
+```
+
+**Summary:**
+
+<p><b>ASIN:</b> Not provided in evidence</p>
+
+<p><b>Product:</b> Play4Fun Baby Babyfoot Deluxe Club 148 x 75 x 94 cm</p>
+
+<p><b>Verdict:</b> FP (False Positive / Out of Scope)</p>
+
+<p><b>Rule Category:</b> EXCLUDED GROUP A – Outdoor and ride-on toys</p>
+
+<p><b>Confidence:</b> 95%</p>
+
+<p><b>Reasoning:</b> The decision tree explicitly excludes 'Foosball tables (standing and tabletop) and foosball accessories' in STEP 1, EXCLUDED GROUP A. Although this product is designed for play and marketed to families and children, foosball tables are categorically excluded from this toy classification rule regardless of age target or play intent. The product does not proceed to Step 2 inclusion checks.</p>
+B01AY6XJPW,d281f09f-9b4d-42c3-8739-1e767969b46b,FP,SUCCESS,This product is a flat jigsaw puzzle with 55 pieces. According to STEP 1, EXCLUDED GROUP B, 'All jigsaw puzzles of any piece count (under 500, exactly 500, over 500, wooden non-educational)' are excluded. The KEY DISTINCTION FOR PUZZLES explicitly states: 'All other flat or jigsaw puzzles of any piece count, any age, including decorative adult wooden puzzles are EXCLUDED. Verdict is FP.' This product does not qualify as a wooden or magnetic educational puzzle for preschool (which would be in-scope) nor as a 3D puzzle. It is a standard flat frame puzzle, therefore FP.
+B0BPZKSC3B,d3bbbd86-d42d-49ac-83b7-da6d245d1e77,TP,SUCCESS,Product passes foundational definition check (designed for children's play, ages 5+). Not excluded in Step 1 (not outdoor/ride-on, board game, or other EPR scheme). Fits Branch G (Creative Hobbies Toys): structured DIY craft kit with multiple components (6 blowing pens, 8 glitter powders, 12 stencils, 20 coloring pages) designed as a toy/game for children. No built-in non-separable electronics. Promotes artistic skills through structured creative activity.
+B08VRXLFQB,d49f8520-3115-4d56-9aab-ce6cfc7b4ab5,TP,SUCCESS,Product passes all decision tree steps. STEP 0: Explicitly designed for play as a construction toy (title, bullets confirm 'construction toy'). STEP 1: Not excluded—it is a building set, not a board game, outdoor toy, or other excluded category. STEP 2: Matches BRANCH B (Building Sets and Accessories)—BRXLZ bricks are construction toys similar to building block systems where users assemble pieces into structures. The product is a structured construction kit with multiple plastic brick components. No built-in non-separable electronics present (Override 1 does not apply). Verdict: TP under Building Sets category.
+B0FTYYGJ8J,d606335d-a3fe-4b83-ae9d-a7628d4e41e5,TP,SUCCESS,Product is a penguin slide toy with built-in batteries (2x AA, 1.5V each) that powers lights and sounds. Per OVERRIDE 2, separable battery compartments that can be removed while toy remains functional keep product in scope. STEP 0: Product is explicitly designed for children's play (title: 'Slide Toy', description emphasizes interactive play, eye-hand coordination, active engagement). STEP 1: Not excluded—not a board game, card game, puzzle, outdoor ride-on, or other excluded category. STEP 2: Fits BRANCH E (Toys for Toddlers and Preschoolers)—described as toddler toy with interactive features, colorful track, and role-play elements. NOVA VISUAL AI confirms TP classification. Batteries are replaceable (user-removable per description: 'batteries can be easily replaced'), making electronics separable per OVERRIDE 2.
+B0FTG3BTKJ,db256c56-b31d-43a1-a127-584392029597,TP,SUCCESS,Product is a whack-a-mole hammer game toy designed for toddlers (ages 1-3) with explicit play intent. It has no built-in electronic components (mechanical lever-based, no batteries required). Passes Step 0 (designed for play by children), Step 1 (not in excluded groups), and qualifies under Branch E (Toys for Toddlers and Preschoolers) as an imitation/pretend play toy that develops motor skills and hand-eye coordination.
+B0CHRNSS71,df54e611-33ad-42f1-a4cf-ce3234ffba8e,FP,SUCCESS,Product is correction tape/correction rollers—office stationery supplies designed for writing correction, not play. Fails STEP 0 foundational definition: not designed or intended for use in play by children. Generic phrase 'ideal gift for children' does not establish play intent. Belongs to FR_PAPER EPR scheme (EXCLUDED GROUP C), not toys. Verdict: FP.
+B0FMK9M33Z,e7d46cf5-73e2-4671-9b5d-c4c7c2f18bc3,FP,SUCCESS,```json
+{
+  'verdict': 'FP',
+  'reason': 'Product fails STEP 0 foundational definition check. Despite marketing phrase 'Playful Learning for Children' in title, the primary purpose is organization and decoration (holding notes/photos on fridges and whiteboards), not play. The product functions as home organization/decor accessories, not toys designed for children's play. Generic 'playful' language and cute designs alone do not establish toy intent without explicit evidence of play functionality.'
+}
+```
+
+**Detailed Classification Reasoning:**
+
+<p><b>STEP 0 - Foundational Definition Check:</b> The rule explicitly warns: 'Do NOT hallucinate play intent. The product must have explicit evidence of play or toy purpose in its title, description, bullet points, category, or images.'</p>
+
+<p><b>Evidence Analysis:</b></p>
+<ul>
+<li>Primary function: Organizing notes and photos on magnetic surfaces (fridges, whiteboards)</li>
+<li>Target users: 'families, offices and households' - mixed adult/professional use</li>
+<li>Marketing language: 'Playful Learning' appears only in English title; French description emphasizes organization and decoration</li>
+<li>No play mechanics: No interactive elements, games, or play scenarios described</li>
+<li>Material: Resin magnets with integrated magnetic core - functional organizational tool</li>
+</ul>
+
+<p><b>Why 'Playful Learning' is insufficient:</b> The phrase is a generic marketing descriptor, not evidence of toy design. The product serves adult organizational needs (offices, households) equally to children. Cute bread/bagel designs do not constitute play intent.</p>
+
+<p><b>Verdict: FP</b> - Product is home organization/decoration, not a toy.</p>
+B0CRZDS9XD,e92d0405-5704-48ce-9129-fc1b00e7bd45,FP,SUCCESS,Product is a jigsaw puzzle with 1000 pieces. Per EXCLUDED GROUP B (Board games, card games, puzzles, and models), 'All jigsaw puzzles of any piece count (under 500, exactly 500, over 500, wooden non-educational)' are excluded. The KEY DISTINCTION clarifies that only wooden or magnetic educational puzzles for preschool AND 3D puzzles are in scope; all other flat or jigsaw puzzles of any piece count and any age are EXCLUDED with verdict FP. This product is a flat jigsaw puzzle marketed to adults and children ages 12+, matching the exclusion criteria exactly.
+B0FWJ9LJGC,ea557b1d-b158-42fa-8f3c-456ce6ed28d7,FP,SUCCESS,Product is a tabletop basketball game that matches EXCLUDED GROUP A (Outdoor and ride-on toys). The rule explicitly excludes 'Basketball hoops' and 'Outdoor toss games.' Although this is a miniature desktop version, it functions as a basketball hoop game designed for play. The NOVA visual analysis suggesting Branch F (Miniature Vehicles) is inapplicable—this is not a vehicle. The product's core function (shooting/tossing a ball into a hoop) aligns with excluded basketball/toss game category, not miniature vehicle play.
+B0C97KL7CK,eb8a738b-74dc-4422-9760-2b17fde1ff93,TP,SUCCESS,Product is a Chinese divination stick game (64 numbered wooden sticks with storage container and instruction book). It qualifies as BRANCH H: Exploration Toys and Other Toys - specifically as a game/activity kit designed for shared entertainment and play among families and children. The product explicitly markets itself as 'divertissement partagé' (shared entertainment) and 'jeu' (game) for family gatherings and leisure moments. Wooden construction with no built-in electronics passes Override checks. Meets STEP 0 (designed for play) and STEP 1 (not excluded) criteria. Falls under BRANCH H as a structured game/activity kit for play purposes.
+B0FWKK85J2,f04b1ebd-2676-405e-a4c5-bcad1a872e73,FP,SUCCESS,Product is a plastic storage basket with decorative ornaments, not designed for play. Despite marketing language mentioning 'jeu' (play) and 'jouets' (toys), the core product is a household storage container. NOVA VISUAL AI confirms FP classification. Fails STEP 0 foundational definition: product is not designed or intended for use in play by children—it is a storage organizer. The decorative language and cartoon appearance do not constitute explicit evidence of play purpose; generic 'fun' framing alone is insufficient per the rule's WARNING clause.
+B0FWD5FLF1,f04b959e-107d-403b-a57a-15e4aefe8ffa,TP,SUCCESS,Product is a shopping cart toy set with play food (fruits, vegetables) and accessories designed for pretend play and role-playing scenarios for toddlers/preschoolers. Matches BRANCH E (Toys for Toddlers and Preschoolers) - specifically 'Pretend play kitchen and supermarket toys including play kitchens, tea sets, cooking sets, play food sets, grocery play' and 'role-play food or cooking or shopping scenario for children.' No electronic components mentioned. Passes Steps 0-1 (designed for children's play, not excluded) and qualifies under Step 2 inclusion criteria.
+B0FWCV6JNF,f5fc9793-0f9b-4f9a-957b-e8bceef39e13,TP,SUCCESS,```json
+{
+  'verdict': 'TP',
+  'reason': 'Product is a hobby horse (stick horse) with plush head and wooden stick, designed for children ages 36m+ for imaginative play and physical development. Matches BRANCH D (Plush Toys) and BRANCH E (Toddler/Preschooler Toys) criteria. No built-in electronic components. Passes Steps 0-1 (designed for play, not excluded) and qualifies under Step 2 as a plush toy accessory and pretend play toy for young children.'
+}
+```
+
+**Classification Details:**
+
+<p><b>ASIN:</b> Not provided in evidence</p>
+
+<p><b>Product:</b> Milly Mally Hobby Plus Hobby Horse with Bridle and Reins</p>
+
+<p><b>Verdict:</b> TP (Toy Product)</p>
+
+<p><b>Rule Category:</b> BRANCH D (Plush Toys) + BRANCH E (Toys for Toddlers and Preschoolers)</p>
+
+<p><b>Confidence:</b> 95%</p>
+
+<p><b>Reasoning:</b></p>
+<ul>
+<li><b>Step 0 - Foundational Definition:</b> YES, explicitly designed for play by children. Evidence: 'jouer avec le cheval' (play with horse), 'développement physique, l'imagination et la créativité des enfants' (physical development, imagination, creativity), target age 36m+.</li>
+<li><b>Step 1 - Exclusion Check:</b> Does NOT match excluded groups. Not a ride-on vehicle (it's a stick toy held by hand), not a board game, not an art supply.</li>
+<li><b>Step 2 - Inclusion Check:</b> Qualifies under BRANCH D (plush toy with soft head) and BRANCH E (pretend play toy for toddlers/preschoolers simulating riding activity).</li>
+<li><b>Overrides:</b> No built-in, non-separable electronic components. Wooden stick and polyester plush head are separable materials, not electronics.</li>
+</ul>
+B086WNM1NZ,f7ca5227-e2e1-458a-aca1-14a81a1913ab,FP,SUCCESS,This product is a board game (Pom Pomme, a four-in-a-row alignment game) that falls under EXCLUDED GROUP B. The rule explicitly excludes 'Board games, dice games, word games, travel games, chess' and 'Strategy games and brain teasers.' The product description confirms it teaches strategy ('apprendre la stratégie'), which is characteristic of board games. Despite being marketed for children ages 5+, board games are categorically excluded from FR_Toys_1_Toys scope and belong to a different EPR scheme.
+B0D8FV68LC,fa9f4ce2-dba7-41d3-b79d-8585aff401c4,FP,SUCCESS,This is a professional art supply set explicitly marketed for adults (CSI TARGET_GENDER: unisex, CSI AGE_RANGE_DESCRIPTION: Adulte). Per STEP 0 FOUNDATIONAL DEFINITION CHECK, the product must be 'designed or intended for use in play by children.' The evidence shows this is professional-grade drawing equipment for artists and students, not a toy. Per BRANCH G exclusion criteria: 'Professional art pencil sets or charcoal sets are FP because they are art supplies.' Additionally, 'Adult art drawing and coloring sets are FP.' The included coloring and watercolor books are supplementary materials for professional use, not structured children's craft kits. This product belongs to art supplies, not toys.
+B0FVR16BP9,faca8798-65a4-4206-8f33-c12cca595f57,FP,SUCCESS,```json
+{
+  'verdict': 'FP',
+  'reason': 'Product contains built-in, non-separable USB electronic components (dance pad controller with electronic sensors and connectivity). Per Override 1, products with built-in non-separable electronic components are out of scope. Additionally, while marketed with play/fitness language, the primary function is as an electronic game controller/input device for computer software rather than a standalone toy. The product fails both the electronic component override and foundational toy design intent criteria.'
+}
+```
+
+**Summary:**
+
+<p><b>ASIN Classification: FP (False Positive)</b></p>
+
+<p><b>Product:</b> Alfo USB Dance Mat for Home Exercises</p>
+
+<p><b>Rule Category:</b> Override 1 - Built-in Non-Separable Electronic Components</p>
+
+<p><b>Confidence:</b> 95%</p>
+
+<p><b>Reasoning:</b></p>
+<ul>
+<li>The product is a USB-connected electronic dance pad with built-in sensors and electronic circuitry that cannot be separated or removed while maintaining functionality.</li>
+<li>Per <b>Override 1</b> of FR_Toys_1_Toys rule: 'If the product has a built-in, non-separable electric or electronic component (with or without batteries, including NFC chips, Bluetooth modules, or any wireless technology), the verdict is FP.'</li>
+<li>The NOVA Visual AI preliminary verdict (FP) confirms this assessment, identifying the product as a game controller with built-in electronics.</li>
+<li>While the product description mentions children and play, the core function is as an electronic input device requiring computer software, not a standalone toy.</li>
+</ul>
+B0FR8DT7PD,fdb4bd9d-5228-4546-8c7e-d0c3c7ee17c5,FP,SUCCESS,This is a 1000-piece jigsaw puzzle, which is explicitly excluded under STEP 1, EXCLUDED GROUP B. The rule states: 'All jigsaw puzzles of any piece count (under 500, exactly 500, over 500, wooden non-educational) are EXCLUDED.' The product does not qualify as an educational puzzle for preschoolers or a 3D puzzle—it is a flat jigsaw puzzle marketed for adults and children 14+. NOVA VISUAL AI preliminary verdict confirms FP classification. Verdict: FP.
+B0GDXS6GL2,fef26ec6-7b7e-4330-816c-207d0d06bc39,FP,SUCCESS,This is a LED lighting accessory kit designed to retrofit an existing LEGO set (31218), not a standalone toy or building set. The product explicitly states 'Building Blocks Set Not Included' and contains only LED lights, wiring, and power components. Under STEP 1 EXCLUSION CHECK, this falls under EXCLUDED GROUP A as an accessory/component product, not a toy itself. The NOVA VISUAL AI preliminary verdict appears to have misidentified the product as a complete LEGO building set, but the evidence clearly shows this is a separable electronic lighting accessory. Per OVERRIDE 2, separable electronic components in toy sets remain in scope only when paired with the toy itself; a standalone lighting kit without the toy is not a toy product. This should be classified under a different EPR scheme (likely electrical/electronics), not FR_Toys_1_Toys.
+B0C6B22LNY,ff7d3ff3-416d-4f53-af28-27c8bdd73ff7,TP,SUCCESS,This is a structured creative craft kit with 50 pieces (markers, colored pencils, pastels, scissors, ruler, palette, brush, sharpener, eraser) marketed for children ages 3+. It qualifies under BRANCH G (Creative Hobbies Toys and Accessories) as a DIY craft set with multiple components designed as a toy. The NOVA preliminary verdict incorrectly classified this as standalone pencils; however, the product is a comprehensive, multi-component structured kit in a carrying case, not individual art supplies. The Paw Patrol branding and explicit child targeting (ages 3+) with emphasis on creativity and fine motor development confirm toy intent. Per Rule Step 2, Branch G: 'A DIY craft set requires being a structured kit with multiple components' — this product meets that criterion.

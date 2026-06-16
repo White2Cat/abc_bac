@@ -1,0 +1,1508 @@
+{
+  "source_file": "DPX_AI_Full_2026-06-16_FR_Toys_1_Toys_1781574423825_Part1.pdf",
+  "records": [
+    {
+      "asin": "B0DL5H68TB",
+      "csi_title": "Benutzerdefinierte Spielkarten, personalisierte Spielkarten mit Fotos, benutzerdefiniertes Kartendeck, Weihnachtsgeschenke, Familienfeierspiele von Custom\nSystem",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "Moyen",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [],
+          "normalized": null
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": "Papier",
+          "normalized": "Papier"
+        },
+        "bullet_points": {
+          "fr": [
+            "Cartes à jouer personnalisées : le dos d'une carte à jouer personnalisée peut être personnalisé avec vos photos, vous permettant de libérer votre imagination\nillimitée et de créer votre propre jeu de cartes unique. Améliorez le jeu de cartes traditionnel et ajoutez une touche fraîche et passionnante"
+          ],
+          "en": [
+            "PERSONALISED PLAYING CARDS The back of a custom playing card can be personalized with your photos, allowing you to let your limitless imagination run wild\nand create your own unique deck of cards. Elevate the traditional card game and add a fresh and exciting touch to family gatherings, camping trips or birthday parties Unleash\nyour creativity: individual playing cards. Take your card gaming experience to new heights by adding a personal touch. Express your creativity by customizing each card wi"
+          ],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B0DL5H68TB_0.jpg",
+        "images": [
+          "./images/B0DL5H68TB_0.jpg",
+          "./images/B0DL5H68TB_1.jpg",
+          "./images/B0DL5H68TB_2.jpg",
+          "./images/B0DL5H68TB_3.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B0DL5H68TB",
+        "title": "Custom Playing Cards, Personalised Playing Cards with Photos, Custom Deck of Cards, Christmas Gifts, Family Party Games",
+        "brand_name": "Custom System",
+        "included_components": "Case",
+        "country_of_origin": "China",
+        "unit_count": "1.0 count",
+        "item_type_name": "card game",
+        "model_name": "002",
+        "model_number": "002",
+        "manufacturer_part_number": "001",
+        "manufacturer": "Custom System",
+        "best_sellers_rank": "1,035,616 in Toys (See Top 100 in Toys) 8,223 in Dedicated Deck Card Games",
+        "asin": "B0DL5H68TB",
+        "bullets": "PERSONALISED PLAYING CARDS The back of a custom playing card can be personalized with your photos, allowing you to let your limitless imagination run wild\nand create your own unique deck of cards. Elevate the traditional card game and add a fresh and exciting touch to family gatherings, camping trips or birthday parties Unleash\nyour creativity: individual playing cards. Take your card gaming experience to new heights by adding a personal touch. Express your creativity by customizing each card wi",
+        "manufacturer_recommended_age": null
+      },
+      "powerchat_verdict": "FP",
+      "powerchat_reason": "Product is personalized playing cards with custom photos, not a toy. While the rule includes 'Card / stickers to collect - excluding strategy games,' this product is a novelty\ncustomization service for standard playing cards, not collectible cards or stickers. NOVA VISUAL AI confirms images show personalized playing cards that do not match any\nspecified toy categories. The product serves as a gift or promotional tool, not a toy for play or collection as defined in the rule knowledge.",
+      "nova_verdict": "FP",
+      "nova_reason": "The images depict personalized playing cards with photographs, which do not fall under any of the specified toy categories in the rule knowledge. These are not collectible\nfigures, action figures, or any other listed toy types; they are novelty cards designed for personal use.\n[IMAGES: 4]"
+    },
+    {
+      "asin": "B0FH6Z2FQL",
+      "csi_title": "KaayeeWood Katzen Holzpuzzle, Katzenliebhaber, Deko &amp; Familienspiel (Weihnachten, Flasche)\nbullet_point: '(0\u0010Forme unique de bouteille de Noël0\u0011 : ce charmant puzzle en bois de Noël est conçu en forme de bouteille festive avec un magnifique nœud en ruban. D'un vert\nprofond et festif, il n'est pas seulement un puzzle, mais aussi un objet décoratif qui attire le regard pendant la saison des fêtes. Parfait p",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "L",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Plus de 14 +ans"
+          ],
+          "normalized": null
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": "Bois",
+          "normalized": "Bois"
+        },
+        "bullet_points": {
+          "fr": [],
+          "en": [
+            "Cute cat shape challenge: this cat-shaped wooden puzzle with different cat puzzle pieces offers a unique twist to classic puzzles. The soothing colour palette creates\nartistic appeal - perfect for cat lovers looking for a special wooden puzzle for adults as a wall decoration. Premium craftsmanship: Made from sustainable wood, our cat puzzle\nguarantees precise laser cuts with smooth edges. Each piece blends seamlessly for long-lasting durability and a safe touch experience - ideal for wooden puzz"
+          ],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B0FH6Z2FQL_0.jpg",
+        "images": [
+          "./images/B0FH6Z2FQL_0.jpg",
+          "./images/B0FH6Z2FQL_1.jpg",
+          "./images/B0FH6Z2FQL_2.jpg",
+          "./images/B0FH6Z2FQL_3.jpg",
+          "./images/B0FH6Z2FQL_4.jpg",
+          "./images/B0FH6Z2FQL_5.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B0FH6Z2FQL",
+        "title": "Cat Wooden Puzzle, Cat Lovers, Decoration & Family Game (Christmas, Bottle)",
+        "brand_name": "KaayeeWood",
+        "included_components": "Puzzle.\nAge Range Description: Ages 14 and up",
+        "country_of_origin": null,
+        "unit_count": "235.0 count",
+        "item_type_name": null,
+        "model_name": null,
+        "model_number": "Christmas message in a bottle",
+        "manufacturer_part_number": "GZ-LZLPT1933\nSet Name: Single set\nManufacturer Warranty Description: NO",
+        "manufacturer": "KaayeeWood",
+        "best_sellers_rank": "272,993 in Toys (See Top 100 in Toys) 12,265 in Jigsaws & Puzzles",
+        "asin": "B0FH6Z2FQL",
+        "bullets": "Cute cat shape challenge: this cat-shaped wooden puzzle with different cat puzzle pieces offers a unique twist to classic puzzles. The soothing colour palette creates\nartistic appeal - perfect for cat lovers looking for a special wooden puzzle for adults as a wall decoration. Premium craftsmanship: Made from sustainable wood, our cat puzzle\nguarantees precise laser cuts with smooth edges. Each piece blends seamlessly for long-lasting durability and a safe touch experience - ideal for wooden puzz",
+        "manufacturer_recommended_age": "99 years and up"
+      },
+      "powerchat_verdict": "FP",
+      "powerchat_reason": "Despite product descriptions emphasizing puzzle gameplay for ages 14+, NOVA VISUAL AI analysis indicates the item is a decorative Christmas bottle puzzle designed\nprimarily as home decor rather than a toy. The visual evidence—a 3D puzzle in a festive glass jar setting—does not align with Rule categories, which specify educational\npuzzles, construction games, or play-focused items for children/preschoolers. This decorative adult puzzle falls outside the defined TP scope.",
+      "nova_verdict": "FP",
+      "nova_reason": "The images depict a decorative Christmas scene inside a glass jar and a 3D puzzle, which do not match any of the specified toy categories in the rule knowledge. The items\nare more akin to home decor or novelty gifts rather than toys.\n[IMAGES: 6]"
+    },
+    {
+      "asin": "B0F4KYNCXL",
+      "csi_title": "CSI Data Viewer",
+      "csi_status": "TS\nisTombstone: true",
+      "attributes": {
+        "size_info": {
+          "size": "Se référer au descriptif",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Se référer à la description"
+          ],
+          "normalized": null
+        },
+        "target_gender": null,
+        "material": {
+          "raw": "Se référer à la description",
+          "normalized": "Se référer à la description"
+        },
+        "bullet_points": {
+          "fr": [
+            "Eagle Toy: Balancing Bird Educational Touet Un jouet de Eagle amusant et ludique, Balancing Bird est équilibré sur le bout de vos doigts, adapté pour se placer\ndans le coin de la table ou sur les branches., Strong et durable: l'équilibre des jouets éducatifs d'oiseaux en matériau sûr et durable, Eag"
+          ],
+          "en": [],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B0F4KYNCXL_0.jpg",
+        "images": [
+          "./images/B0F4KYNCXL_0.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B0F4KYNCXL",
+        "title": "Fetch Error",
+        "brand_name": null,
+        "included_components": null,
+        "country_of_origin": null,
+        "unit_count": null,
+        "item_type_name": null,
+        "model_name": null,
+        "model_number": null,
+        "manufacturer_part_number": null,
+        "manufacturer": null,
+        "best_sellers_rank": null,
+        "asin": null,
+        "bullets": null,
+        "manufacturer_recommended_age": null
+      },
+      "powerchat_verdict": "TP",
+      "powerchat_reason": "Despite NOVA VISUAL AI's preliminary verdict of FP, the product evidence clearly matches the rule category 'All scientific games and kits' (Jeux scientifiques). The CSI data\nexplicitly describes this as a 'Jeux scientifiques amusants' (fun scientific game) that teaches balance and gravity principles. The product functions as an educational toy\ndemonstrating physics concepts, which aligns with the rule's inclusion of scientific games and experiment kits. Text evidence from official CSI product description overrides\nvisual interpretation when product intent and educational function are explicitly documented.",
+      "nova_verdict": "FP",
+      "nova_reason": "The image depicts decorative figurines (a bird and pyramids) that do not match any defined toy categories in the rule list. These appear to be artistic or collectible items rather\nthan functional toys for children.\n[IMAGES: 1]"
+    },
+    {
+      "asin": "B0FX9BY9MN",
+      "csi_title": "Personalisierbares Capybara-Food-Serie Spielset &#8222;Saft-Boutique&#8220; &#8211; Lern- &amp; Rollenspiel aus Holz &#8211; f&#252;r Kinder ab 3 Jahren\n&#8211; mit Namen personalisiert &#8211; TOPBRIGHT\nbullet_point: Ø>Ý« Série Capybara Food – Jeu « Boutique de Jus » – Jeu éducatif et de rôle en bois Ø>Ý« Dès 3 ans : stimule l’imagination, la communication et les premiers jeux\nde rôle – les enfants préparent leurs propres jus, servent les invités et découvrent de manière ludique les gestes du quotidien., Ø<ß Personna",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "Convient aux enfants",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Enfant"
+          ],
+          "normalized": null
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": "Bois, Plastique",
+          "normalized": "Bois, Plastique"
+        },
+        "bullet_points": {
+          "fr": [],
+          "en": [
+            "Capybara Food Series play set ‘Juice Boutique’ – Educational and role-playing game made of wood. Ages 3 and up: Stimulates imagination, communication and early\nrole-play – children mix their own juices, serve guests and learn about everyday routines in a playful way. Personalised – printed with name. Can be printed with name of your\nchoice – a unique gift for birthdays, Christmas or for little capybara and role-playing fans. Extensive wooden play accessories for juice fun. With lovingly designed"
+          ],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B0FX9BY9MN_0.jpg",
+        "images": [
+          "./images/B0FX9BY9MN_0.jpg",
+          "./images/B0FX9BY9MN_1.jpg",
+          "./images/B0FX9BY9MN_2.jpg",
+          "./images/B0FX9BY9MN_3.jpg",
+          "./images/B0FX9BY9MN_4.jpg",
+          "./images/B0FX9BY9MN_5.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B0FX9BY9MN",
+        "title": "Personalised Capybara Food Series \"Juice Boutique\" Playset - Wooden Learning & Role Play - for Children from 3 Years - Personalised with Name - TOPBRIGHT",
+        "brand_name": "Mainely\nAge Range Description: From 3 years",
+        "included_components": "1 gobelet, 1 menu card, 2 tranches d'orange, 2 tranches de fraise, 3 glaçons, 2 tranches de pomme, Bloc de jus jaune, Bloc de jus rouge, Machine à\njus / unité de blender (station de jeu principale)",
+        "country_of_origin": "China\nManufacturer Warranty Description: 24 Months",
+        "unit_count": "1.0 stück\nSet Name: juice boutique",
+        "item_type_name": null,
+        "model_name": null,
+        "model_number": "TB-121224",
+        "manufacturer_part_number": "TB-121224",
+        "manufacturer": "Topbright",
+        "best_sellers_rank": "28,290 in Toys (See Top 100 in Toys) 84 in Play Food",
+        "asin": "B0FX9BY9MN",
+        "bullets": "Capybara Food Series play set ‘Juice Boutique’ – Educational and role-playing game made of wood. Ages 3 and up: Stimulates imagination, communication and early\nrole-play – children mix their own juices, serve guests and learn about everyday routines in a playful way. Personalised – printed with name. Can be printed with name of your\nchoice – a unique gift for birthdays, Christmas or for little capybara and role-playing fans. Extensive wooden play accessories for juice fun. With lovingly designed",
+        "manufacturer_recommended_age": "36 months - 5 years"
+      },
+      "powerchat_verdict": "TP",
+      "powerchat_reason": "Product matches the rule category 'Pretend play kitchen / supermarket toys and games for preschool children' (FR: Jeux d'imitation cuisines / supermaché pré-scolaires). The\nCapybara Food Series 'Juice Boutique' is a wooden role-play set designed for children ages 3+, featuring a juice shop scenario with accessories (fruit pieces, cups, bottles,\nblender elements). This aligns with pretend play/imitation games for preschool children. NOVA VISUAL AI preliminary verdict (TP) confirms this classification.",
+      "nova_verdict": "TP",
+      "nova_reason": "The product is a pretend play kitchen/toy set designed for preschool children, matching the category 'Pretend play kitchen / supermarket toys and games for preschool\nchildren'.\n[IMAGES: 6]"
+    },
+    {
+      "asin": "B006FJKIOI",
+      "csi_title": "C&#233;moi Quadro Pocket",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "187 g (Lot de 1)",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "À partir de 3 ans"
+          ],
+          "normalized": null
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "CRAQUEZ AVEC LA GAUFRETTE QUADRO : Quadro de Cémoi, c'est l'explosion gourmande entre le croustillant de la gaufrette et la générosité du chocolat\npraliné. Une des recettes phares du Chocolatier français Cémoi, qui comble toute la famille !, L'INDISPENSABLE DE VOS PAUSES GOURMANDES : Grâce à son for"
+          ],
+          "en": [],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B006FJKIOI_0.jpg",
+        "images": [
+          "./images/B006FJKIOI_0.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B006FJKIOI",
+        "title": "Fetch Error",
+        "brand_name": null,
+        "included_components": null,
+        "country_of_origin": null,
+        "unit_count": null,
+        "item_type_name": null,
+        "model_name": null,
+        "model_number": null,
+        "manufacturer_part_number": null,
+        "manufacturer": null,
+        "best_sellers_rank": null,
+        "asin": null,
+        "bullets": null,
+        "manufacturer_recommended_age": null
+      },
+      "powerchat_verdict": "FP",
+      "powerchat_reason": "Cémoi Quadro Pocket is a food product (chocolate-covered waffle), not a toy. NOVA VISUAL AI confirms the images depict food packaging and product design that do not\nalign with any toy categories in the rule knowledge. The age range descriptor (À partir de 3 ans) and Amazon categorization do not override the fundamental fact that this is a\nconsumable food item, not a toy or game.",
+      "nova_verdict": "N/A",
+      "nova_reason": "Verdict: NS\nThe images depict Quadro Pocket chocolate-covered waffles, which are food products and not toys. The packaging and product design do not align with any of the toy\ncategories listed in the rule knowledge.\n[IMAGES: 1]"
+    },
+    {
+      "asin": "B0BD444WWH",
+      "csi_title": "Joozmui Juego Educativo 2 en 1 de N&#250;meros y Letras para Ni&#241;os DE 3-8 A&#241;os - Juegos y Regalos para Ni&#241;os (Versi&#243;n en\nEspa&#241;ol) (Blau)",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "A6",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Enfant"
+          ],
+          "normalized": null
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": "Cartes, Plastique",
+          "normalized": "Cartes, Plastique"
+        },
+        "bullet_points": {
+          "fr": [
+            "1"
+          ],
+          "en": [
+            "1"
+          ],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B0BD444WWH_0.jpg",
+        "images": [
+          "./images/B0BD444WWH_0.jpg",
+          "./images/B0BD444WWH_1.jpg",
+          "./images/B0BD444WWH_2.jpg",
+          "./images/B0BD444WWH_3.jpg",
+          "./images/B0BD444WWH_4.jpg",
+          "./images/B0BD444WWH_5.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B0BD444WWH",
+        "title": "Joozmui Juego Educativo 2 en 1 de Números y Letras para Niños DE 3-8 Años - Juegos y Regalos para Niños (Versión en Español) (Blue)",
+        "brand_name": "Joozmui\nEducational Objective: Language and Math Skills\nAge Range Description: Kid\nUPC: 768461423805\nSet Name: 1 set",
+        "included_components": "Tray, cards, letter cube, number blocks\nItem Weight: 0.29 Kilograms",
+        "country_of_origin": "China",
+        "unit_count": "1.0 stück",
+        "item_type_name": "2 En 1 Juego Educativo",
+        "model_name": null,
+        "model_number": "BK-QSK",
+        "manufacturer_part_number": "Non applicable\nManufacturer Warranty Description: Not applicable",
+        "manufacturer": "Shenzhen Kaize Trading Co., Ltd.",
+        "best_sellers_rank": "412,215 in Toys (See Top 100 in Toys) 193 in Spelling Aids for Kids",
+        "asin": "B0BD444WWH",
+        "bullets": "1",
+        "manufacturer_recommended_age": "36 months - 8 years"
+      },
+      "powerchat_verdict": "TP",
+      "powerchat_reason": "Product matches Rule categories: 'Pre-school educational toys' and 'Other writing / alphabet learning games.' The 2-in-1 educational game for ages 3-8 with numbers and\nletters aligns with preschool learning objectives. NOVA VISUAL AI confirms TP verdict based on letter/number blocks and interactive educational design for early learners.",
+      "nova_verdict": "TP",
+      "nova_reason": "The product is an educational toy designed for preschool children, featuring letter and number blocks, arithmetic cards, and animal-themed cards. It aligns with the category of\n'Other writing / alphabet learning games' and 'Pre-school educational toys' as it supports early learning through interactive play.\n\n[IMAGES: 6]"
+    },
+    {
+      "asin": "B08R9VNKDQ",
+      "csi_title": "Aquabeads 31766 M&#228;rchenwelt - Bastelset, &#8206;4.45 x 27.31 x 24.13 cm, Bunt",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "10 x 6 x 2 inches",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "De 4 à 99 ans"
+          ],
+          "normalized": null
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": "Plastique",
+          "normalized": "Plastique"
+        },
+        "bullet_points": {
+          "fr": [
+            "UN COFFRET DE PERLES AQUABEADS POUR RÉALISER DES ACCESSOIRES : Mes accessoires féériques à crér, c'est un kit de loisir créatif pour enfants 2\nen 1 ! Les enfants peuvent d'abord réaliser l'activité manuelle et faire toutes les créations proposées dans ce coffret. Dans un second temps, ils peuvent ut"
+          ],
+          "en": [
+            "Ergonomic design Ideal quality Flexible design Fairytale motifs such as unicorns or fairies Includes craft plate, creations decoration plates, jewellery adapters, sprayer\nand motif templates"
+          ],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B08R9VNKDQ_0.jpg",
+        "images": [
+          "./images/B08R9VNKDQ_0.jpg",
+          "./images/B08R9VNKDQ_1.jpg",
+          "./images/B08R9VNKDQ_2.jpg",
+          "./images/B08R9VNKDQ_3.jpg",
+          "./images/B08R9VNKDQ_4.jpg",
+          "./images/B08R9VNKDQ_5.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B08R9VNKDQ",
+        "title": "Aquabeads",
+        "brand_name": "Aquabeads\nNumber of Pieces: 800\nGlobal Trade Identification Number: 05054131317662",
+        "included_components": "Includes craft beads, craft plate, creations decoration plates, jewellery adapters, sprayer and motif templates\nProduct Warranty: 2 Year Limited Warranty",
+        "country_of_origin": "China",
+        "unit_count": "800.0 count",
+        "item_type_name": "Fairytale World",
+        "model_name": null,
+        "model_number": "31766",
+        "manufacturer_part_number": "AB31766",
+        "manufacturer": "EPOCH\nRecommended Uses For Product: Indoor\nUPC: 050541313176",
+        "best_sellers_rank": "173,473 in Toys (See Top 100 in Toys) 366 in Kids' Mosaic Kits",
+        "asin": "B08R9VNKDQ",
+        "bullets": "Ergonomic design Ideal quality Flexible design Fairytale motifs such as unicorns or fairies Includes craft plate, creations decoration plates, jewellery adapters, sprayer\nand motif templates",
+        "manufacturer_recommended_age": null
+      },
+      "powerchat_verdict": "TP",
+      "powerchat_reason": "Product matches 'DIY craft set' (FR: Set de bricolage DIY) category in the Rule Knowledge. The Aquabeads kit is a water-activated bead craft system for creating accessories,\naligning with DIY craft activities. NOVA VISUAL AI preliminary verdict (TP) confirms this classification. Product evidence shows it's a creative craft kit with beads, templates,\nand tools—core characteristics of TP toy categories.",
+      "nova_verdict": "TP",
+      "nova_reason": "The product is a DIY craft kit featuring water-activated beads (AquaBeads) used to create decorative designs, aligning with the category of 'DIY craft set' (FR: Set de bricolage\nDIY).\n[IMAGES: 6]"
+    },
+    {
+      "asin": "B0CKXS3S8B",
+      "csi_title": "BeeCreative Aquarell Ausmalbuch f&#252;r Kinder (V&#246;gel)",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "1 litre",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [],
+          "normalized": null
+        },
+        "target_gender": null,
+        "material": {
+          "raw": "Papier",
+          "normalized": "Papier"
+        },
+        "bullet_points": {
+          "fr": [
+            "Avec ce kit de coloriage, les enfants peuvent développer leur imagination et développer des compétences créatives sans avoir à regarder un écran. C'est une\nexcellente alternative au divertissement numérique., Notre kit a été spécialement conçu pour les déplacements. Il est léger et maniable, il se g"
+          ],
+          "en": [
+            "Colouring book"
+          ],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B0CKXS3S8B_0.jpg",
+        "images": [
+          "./images/B0CKXS3S8B_0.jpg",
+          "./images/B0CKXS3S8B_1.jpg",
+          "./images/B0CKXS3S8B_2.jpg",
+          "./images/B0CKXS3S8B_3.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B0CKXS3S8B",
+        "title": "BeeCreative Watercolour colouring book for children (birds)",
+        "brand_name": "BeeCreative\nAge Range Description: Kid",
+        "included_components": "Brush, Palette, Paper",
+        "country_of_origin": "China",
+        "unit_count": "20.0 stück",
+        "item_type_name": null,
+        "model_name": "Birds\nArt Craft Kit Type: paintings\nSet Name: Watercolour set for on the go - birds",
+        "model_number": "Vögel",
+        "manufacturer_part_number": "BC-100020003000",
+        "manufacturer": "BeeCreative",
+        "best_sellers_rank": "145,743 in Home & Kitchen (See Top 100 in Home & Kitchen) 676 in Paints",
+        "asin": "B0CKXS3S8B",
+        "bullets": "Colouring book",
+        "manufacturer_recommended_age": null
+      },
+      "powerchat_verdict": "FP",
+      "powerchat_reason": "Product is a watercolor coloring book for children, classified as an art supply/activity book rather than a toy. NOVA VISUAL AI confirms this is not a toy category (verdict: FP).\nThe rule knowledge specifies toy categories like construction games, dolls, plush toys, musical instruments, craft kits, and painting games—but does not include standalone\ncoloring books or watercolor sets as TP categories. While creative activities for children, coloring books fall outside the defined toy taxonomy.",
+      "nova_verdict": "FP",
+      "nova_reason": "The product is a set of watercolor paper with a brush, which does not fall under any of the specified toy categories in the rule knowledge. It is an art supply rather than a toy.\n[IMAGES: 4]"
+    },
+    {
+      "asin": "B0GK6H1CKV",
+      "csi_title": "AUNGCSHE Mini Notizblock Satz, Enthalten 12 Italian Brainrot Bleistifte 12 Notizblock Klein, Mini Notizbuch f&#252;r italian brainrot Geburtstag Party\nKlassenzimmer Party Mitgebsel (Braun)\nbullet_point: 0\u0010Thème Football0\u0011Ce kit de papeterie comprend 10 mini carnets ballons de football et 12 crayons à papier sur le même thème. Conçu pour les jeunes joueurs, les\nsupporters et les élèves, il est idéal pour éveiller la passion du sport et l'intérêt pour l'apprentissage, 0\u0010Matériaux de Qualité Supérieure0\u0011L",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": null,
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [],
+          "normalized": null
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [],
+          "en": [
+            "Football themed elements: this set of 12 mini notebooks with different Italian brain red, 12 pencils brain red. Vibrant and appealing patterns can instantly captivate\nchildren's attention and awaken their curiosity as well as their urge to discover. Football theme elements: this set of 12 mini notebook with different Italian brain red, 12 pencils\nbrain red. Vivid and appealing patterns can instantly captivate children's attention while awakening their curiosity and desire to discover High-qualit"
+          ],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B0GK6H1CKV_0.jpg",
+        "images": [
+          "./images/B0GK6H1CKV_0.jpg",
+          "./images/B0GK6H1CKV_1.jpg",
+          "./images/B0GK6H1CKV_2.jpg",
+          "./images/B0GK6H1CKV_3.jpg",
+          "./images/B0GK6H1CKV_4.jpg",
+          "./images/B0GK6H1CKV_5.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B0GK6H1CKV",
+        "title": "Mini Notepad Set, Includes 12 Italian Brain Red Pencils 12 Notepad Small, Mini Notebook for Italian Brain Red Birthday Party Classroom Party Bags (Brown)",
+        "brand_name": "AUNGCSHE",
+        "included_components": null,
+        "country_of_origin": "China",
+        "unit_count": "22.0 stück",
+        "item_type_name": null,
+        "model_name": null,
+        "model_number": null,
+        "manufacturer_part_number": null,
+        "manufacturer": "Perfect168",
+        "best_sellers_rank": "39,872 in Stationery & Office Supplies (See Top 100 in Stationery & Office Supplies) 860 in Memo Pads, Notepads & Scratch Pads",
+        "asin": "B0GK6H1CKV",
+        "bullets": "Football themed elements: this set of 12 mini notebooks with different Italian brain red, 12 pencils brain red. Vibrant and appealing patterns can instantly captivate\nchildren's attention and awaken their curiosity as well as their urge to discover. Football theme elements: this set of 12 mini notebook with different Italian brain red, 12 pencils\nbrain red. Vivid and appealing patterns can instantly captivate children's attention while awakening their curiosity and desire to discover High-qualit",
+        "manufacturer_recommended_age": null
+      },
+      "powerchat_verdict": "FP",
+      "powerchat_reason": "Product is a stationery set (mini notebooks + pencils with themed designs), not a toy. While marketed for children's parties and school use, it does not match any toy\ncategories in the Rule Knowledge. NOVA VISUAL AI confirms: pencils are writing instruments, not toys. The Rule Knowledge specifies toy categories (figures, dolls, plush\ntoys, construction games, musical instruments, craft kits, etc.), and stationery sets are excluded. Classification: False Positive.",
+      "nova_verdict": "FP",
+      "nova_reason": "The product is a set of pencils with cartoon character designs on the erasers, not a toy category listed in the rule knowledge. Pencils are writing instruments, not toys, and do\nnot fall under any of the specified toy categories such as collectible figures, action figures, or plush toys.\n[IMAGES: 6]"
+    },
+    {
+      "asin": "B0FLD9YQMB",
+      "csi_title": "AIRDEA Weihnachtsschneemann Diamond Painting Erwachsene, Winterkardin&#228;le Diamant Painting Bilder, DIY 5D Bastelset Erwachsene Frauen als Haus\nWanddeko 30x30 cm",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "30x30 cm",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [],
+          "normalized": null
+        },
+        "target_gender": null,
+        "material": {
+          "raw": "Toile, Acrylique",
+          "normalized": "Toile, Acrylique"
+        },
+        "bullet_points": {
+          "fr": [
+            "Diamond Painting colorée: les diamants inclus dans les kits de diamond painting adulte 5D sont taillés avec précision, brillants à la lumière ; chaque détail\ncomplexe de votre kit d'art diamant pour adultes est méticuleusement conçu, Superbe Toile: les kits de diamond painting adulte sont dotés de s"
+          ],
+          "en": [
+            "Double-sided design: this diamond painting window stickers on both sides shows the same motif on both sides - one side for placing the stones, the other smooth. A\nsparkling diamond painting pendant that impresses from every angle Complete DIY set: our diamond painting suncatcher craft kit contains everything you need: acrylic plate,\nchain, bowl, pen, wax and a selection of special rhinestones. Ideal as a creative gift or relaxing hobby project Shimmering 3D effect: the combination of round and t"
+          ],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B0FLD9YQMB_0.jpg",
+        "images": [
+          "./images/B0FLD9YQMB_0.jpg",
+          "./images/B0FLD9YQMB_1.jpg",
+          "./images/B0FLD9YQMB_2.jpg",
+          "./images/B0FLD9YQMB_3.jpg",
+          "./images/B0FLD9YQMB_4.jpg",
+          "./images/B0FLD9YQMB_5.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B0FLD9YQMB",
+        "title": "AIRDEA Blue Mushroom House Diamond Painting Window Pictures, 5D Brilliant Flower House Diamond Painting Window Pictures Double-Sided, Kits for Diamond\nPainting Suncatcher Adults",
+        "brand_name": "AIRDEA",
+        "included_components": null,
+        "country_of_origin": "China",
+        "unit_count": null,
+        "item_type_name": null,
+        "model_name": "REQ-12A04",
+        "model_number": null,
+        "manufacturer_part_number": "REQ-12A04",
+        "manufacturer": "AIRDEA",
+        "best_sellers_rank": "104,411 in Home & Kitchen (See Top 100 in Home & Kitchen) 421 in Diamond Painting Kits",
+        "asin": "B0G2539229",
+        "bullets": "Double-sided design: this diamond painting window stickers on both sides shows the same motif on both sides - one side for placing the stones, the other smooth. A\nsparkling diamond painting pendant that impresses from every angle Complete DIY set: our diamond painting suncatcher craft kit contains everything you need: acrylic plate,\nchain, bowl, pen, wax and a selection of special rhinestones. Ideal as a creative gift or relaxing hobby project Shimmering 3D effect: the combination of round and t",
+        "manufacturer_recommended_age": null
+      },
+      "powerchat_verdict": "TP",
+      "powerchat_reason": "Despite NOVA VISUAL AI's preliminary verdict of FP, the product matches the Rule Knowledge classification. The ASIN is a 'Diamond painting craft kit' (FR: Kit de bricolage\npeinture à diamants), which is explicitly listed in the Rule Knowledge as a toy category that should be classified as TP. The product includes all components of a DIY craft set\n(canvas, diamonds, tools, adhesive) and falls under 'DIY craft set' and 'Diamond painting craft kit' categories specified in the rule. NOVA's assessment appears to conflate\n'craft kit for adults' with 'not a toy,' but the Rule Knowledge explicitly includes adult-oriented diamond painting kits as TP-classified toys. The rule does not restrict toy\nclassification by age group for this category.",
+      "nova_verdict": "FP",
+      "nova_reason": "The product is a diamond painting kit featuring a decorative fairy house design, not a toy. It falls under the category of DIY craft kits rather than any toy category listed in the\nrule knowledge.\n[IMAGES: 6]"
+    },
+    {
+      "asin": "B0DZT14RNS",
+      "csi_title": "CSI Data Viewer",
+      "csi_status": "TS\nisTombstone: true",
+      "attributes": {
+        "size_info": {
+          "size": "Se référer au descriptif",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Se référer à la description"
+          ],
+          "normalized": null
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": "abdos",
+          "normalized": "abdos"
+        },
+        "bullet_points": {
+          "fr": [
+            "Pas facile à casser: notre table d'apprentissage pour est fabriquée à partir de matériel abs robuste, garantissant sa superbe ténacité et sa qualité résistante à\nl'usure. C'est bon pour une utilisation à long terme et peut résister à toute usure!, Apparence régulière: Les grandes jambes givrées de c"
+          ],
+          "en": [],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B0DZT14RNS_0.jpg",
+        "images": [
+          "./images/B0DZT14RNS_0.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B0DZT14RNS",
+        "title": "Fetch Error",
+        "brand_name": null,
+        "included_components": null,
+        "country_of_origin": null,
+        "unit_count": null,
+        "item_type_name": null,
+        "model_name": null,
+        "model_number": null,
+        "manufacturer_part_number": null,
+        "manufacturer": null,
+        "best_sellers_rank": null,
+        "asin": null,
+        "bullets": null,
+        "manufacturer_recommended_age": null
+      },
+      "powerchat_verdict": "TP",
+      "powerchat_reason": "Product is a multi-activity learning table/center for infants and toddlers (6-18 months) with interactive elements including musical modes, buttons, lights, and fine motor\nactivities. Aligns with Rule category 'Multi-activity baby walker' and 'Pre-school educational toys'. NOVA VISUAL AI preliminary verdict (TP) confirms classification. Material\n(ABS plastic) and design features support toy classification.",
+      "nova_verdict": "TP",
+      "nova_reason": "The product is a multi-activity baby walker with interactive elements such as musical instruments, toys, and activity panels designed for toddlers and preschool children,\naligning with the category 'Multi-activity baby walker'.\n\n[IMAGES: 1]"
+    },
+    {
+      "asin": "B0BBSK2JVR",
+      "csi_title": "ACTIVE PUZZLES - Prominente Puzzles | Erwachsene | Holzpuzzles, Lasergeschnitten, Nachhaltig und Umweltfreundlich, Hochwertige Verarbeitung (Charles\nChaplin)",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "40 x 40 cm",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Enfant"
+          ],
+          "normalized": null
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": "Bois",
+          "normalized": "Bois"
+        },
+        "bullet_points": {
+          "fr": [
+            "Caractéristiques : le puzzle Chaplin a une taille moyenne, mesure 40 x 40 cm et pèse 465 grammes. Il se compose de 465 pièces en forme de Charlot, cheval,\ntéléphone, moustache, entre autres. Les couleurs utilisées sont dans la gamme multicolore. Le puzzle est livré dans une boîte en bois avec l'imag"
+          ],
+          "en": [],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B0BBSK2JVR_0.jpg",
+        "images": [
+          "./images/B0BBSK2JVR_0.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B0BBSK2JVR",
+        "title": "Fetch Error",
+        "brand_name": null,
+        "included_components": null,
+        "country_of_origin": null,
+        "unit_count": null,
+        "item_type_name": null,
+        "model_name": null,
+        "model_number": null,
+        "manufacturer_part_number": null,
+        "manufacturer": null,
+        "best_sellers_rank": null,
+        "asin": null,
+        "bullets": null,
+        "manufacturer_recommended_age": null
+      },
+      "powerchat_verdict": "FP",
+      "powerchat_reason": "This product is an adult wooden puzzle (40x40cm, 465 pieces) designed for decoration and cognitive exercise. The rule specifies 'Wood or magnetic educational puzzles' for\nPRE-SCHOOL children only. The product evidence explicitly states it's for adults ('Adultes'), targets stress reduction and dementia prevention (adult concerns), and is\nmarketed as decorative art for framing—not a pre-school educational toy. Age range listed as 'Enfant' conflicts with product positioning as adult luxury décor, but the item\nname, description, and marketing clearly position this outside the pre-school toy category covered by the rule.",
+      "nova_verdict": "FP",
+      "nova_reason": "The image shows a jigsaw puzzle featuring a portrait of Charlie Chaplin, but there is no indication that this is a toy intended for children. The puzzle appears to be an\nadult-themed decorative item rather than a children's educational or play toy, thus it does not match any defined toy categories in the rule knowledge.\n[IMAGES: 1]"
+    },
+    {
+      "asin": "B0190G45VE",
+      "csi_title": "SYLVANIAN FAMILIES Flora Katzen-Reinigungsset",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": null,
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [],
+          "normalized": null
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": "Tissu",
+          "normalized": "Tissu"
+        },
+        "bullet_points": {
+          "fr": [],
+          "en": [],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B0190G45VE_0.jpg",
+        "images": [
+          "./images/B0190G45VE_0.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B0190G45VE",
+        "title": "SYLVANIAN FAMILIES Flora Cat Cleaning Kit",
+        "brand_name": "Sylvanian Families\nSet Name: Lava & Clean by Katze Flora",
+        "included_components": null,
+        "country_of_origin": null,
+        "unit_count": null,
+        "item_type_name": null,
+        "model_name": null,
+        "model_number": null,
+        "manufacturer_part_number": null,
+        "manufacturer": "Sylvanian Families",
+        "best_sellers_rank": null,
+        "asin": "B0190G45VE",
+        "bullets": null,
+        "manufacturer_recommended_age": "3 years and up"
+      },
+      "powerchat_verdict": "TP",
+      "powerchat_reason": "Product matches Rule classification. SYLVANIAN FAMILIES Flora Cat Cleaning Kit contains a collectible doll character (Flora cat) with play accessories (washing machine,\ncleaning tools), aligning with 'Figures / Play Worlds and accessories for toddlers and pre-school children' and 'Dolls accessories' categories. NOVA VISUAL AI confirms: doll\nset with accessories for preschool play. Product qualifies as TP.",
+      "nova_verdict": "TP",
+      "nova_reason": "The image shows a doll set with a doll, a washing machine, and cleaning accessories, which aligns with the category of dolls and their accessories for toddlers and preschool\nchildren.\n\n[IMAGES: 1]"
+    },
+    {
+      "asin": "B0D7M6FHX3",
+      "csi_title": "JIANTA 29-teiliges Professionelles Graphitstiften Zeichenstifte Set, Erwachsenen Art Graphitstifte Kohlestiften Knetradiergummi Set(4H-10B), Tragbare Metalletui\nf&#252;r Erwachsene Zeichnung, Skizzierung",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "1 unité (Lot de 29)",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Enfant"
+          ],
+          "normalized": null
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": "Gris anthracite",
+          "normalized": "Gris anthracite"
+        },
+        "bullet_points": {
+          "fr": [
+            "Set complet de crayons à dessin pour dessiner - 6 crayons à charbon (3x tendres, 2x moyens, 1x durs), 15 crayons à dessin set(dureté 4H, 2H, H, HB, B, 3x 2B,\n3x 4B, 5B, 6B, 8B, 10B), 1 gomme, 3 essuie-mains en papier différents pour essuyer, 1 gomme à pétrir, 1 taille-crayon et 2 rallonges de crayon"
+          ],
+          "en": [
+            "Complete drawing pencil set for drawing - 6 charcoal pencils (3 x soft, 2 x medium, 1 x hard), 15 pencils drawing set (hardness 4H, 2H, H, HB, B, 3 x 2B, 3 x 4B, 5B,\n6B, 8B, 10B), 1 eraser, 3 different paper wipers for wiping, 1 kneading eraser, 1 sharpener and 2 pencil extenders, 29 High-quality material - Drawing pencils professional set\nare made of non-toxic and environmentally friendly material. The special process makes the pencil core particularly smooth and shatterproof, easy to sharpen a"
+          ],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B0D7M6FHX3_0.jpg",
+        "images": [
+          "./images/B0D7M6FHX3_0.jpg",
+          "./images/B0D7M6FHX3_1.jpg",
+          "./images/B0D7M6FHX3_2.jpg",
+          "./images/B0D7M6FHX3_3.jpg",
+          "./images/B0D7M6FHX3_4.jpg",
+          "./images/B0D7M6FHX3_5.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B0D7M6FHX3",
+        "title": "JIANTA 29-Piece Professional Graphite Pencils Drawing Pencils Set, Adult Art Graphite Pencils, Charcoal Pencils, Kneading Eraser Set (4H-10B), Portable Metal Case\nfor Adults Drawing, Sketching\nWriting Instrument Form: Graphite Pencil\nInk Colour: Gray\nDrill Point: Extra Fine\nSpecial Features: Ergonomic\nLine Size: 0_5mm\nGrip Type: Smooth\nHardness: 4H-10B\nArtistic Charcoal Form: Compressed Charcoal",
+        "brand_name": null,
+        "included_components": null,
+        "country_of_origin": null,
+        "unit_count": null,
+        "item_type_name": null,
+        "model_name": null,
+        "model_number": null,
+        "manufacturer_part_number": null,
+        "manufacturer": null,
+        "best_sellers_rank": null,
+        "asin": null,
+        "bullets": "Complete drawing pencil set for drawing - 6 charcoal pencils (3 x soft, 2 x medium, 1 x hard), 15 pencils drawing set (hardness 4H, 2H, H, HB, B, 3 x 2B, 3 x 4B, 5B,\n6B, 8B, 10B), 1 eraser, 3 different paper wipers for wiping, 1 kneading eraser, 1 sharpener and 2 pencil extenders, 29 High-quality material - Drawing pencils professional set\nare made of non-toxic and environmentally friendly material. The special process makes the pencil core particularly smooth and shatterproof, easy to sharpen a",
+        "manufacturer_recommended_age": null
+      },
+      "powerchat_verdict": "FP",
+      "powerchat_reason": "This is a professional graphite and charcoal pencil set for drawing and sketching. It does not match any category in the Rule Knowledge, which covers toys such as collectible\nfigures, construction games, dolls, plush toys, musical instruments, craft kits, and play sets. A drawing pencil set is an art supply, not a toy. NOVA VISUAL AI confirms this\nassessment (Verdict: FP), indicating the product falls outside toy classification.",
+      "nova_verdict": "FP",
+      "nova_reason": "The product is a charcoal pencil set, which is not listed in the provided rule knowledge for toys. The rule knowledge focuses on categories such as collectible figures, action\nfigures, construction games, dolls, plush toys, musical instruments, and various play sets, none of which match a charcoal pencil set.\n[IMAGES: 6]"
+    },
+    {
+      "asin": "B09KLZMPZD",
+      "csi_title": "Jumbo Spiele 11349 Portloe 1000 Teile Puzzlespiel, Mehrfarbig, Einheitsgr&#246;&#223;e",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "Taille unique",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Enfant"
+          ],
+          "normalized": null
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": "Carton",
+          "normalized": "Carton"
+        },
+        "bullet_points": {
+          "fr": [
+            "Puzzle de 1 000 pièces, Numéro de modèle: 11349, Multicolore"
+          ],
+          "en": [
+            "Puzzle with 1000 pieces Jumbo Games Falcon Puzzles Multi-coloured High quality"
+          ],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B09KLZMPZD_0.jpg",
+        "images": [
+          "./images/B09KLZMPZD_0.jpg",
+          "./images/B09KLZMPZD_1.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B09KLZMPZD",
+        "title": "Jumbo Spiele 11349 Portloe 1000-Piece Jigsaw Puzzle, Multi-Colour, One Size",
+        "brand_name": "Falcon",
+        "included_components": "No, Number of puzzles: 1, Number of puzzle pieces: 1000 pc(s)\nAge Range Description: 144 months to 1188 months",
+        "country_of_origin": "China",
+        "unit_count": null,
+        "item_type_name": "Puzzle game\nManufacturer Warranty Description: 2 year manufacturer's warranty",
+        "model_name": null,
+        "model_number": "11349",
+        "manufacturer_part_number": "11349",
+        "manufacturer": "Jumbodiset\nGlobal Trade Identification Number: 08710126113493",
+        "best_sellers_rank": "415,402 in Toys (See Top 100 in Toys) 12,552 in Jigsaws (Toys)",
+        "asin": "B09KLZMPZD",
+        "bullets": "Puzzle with 1000 pieces Jumbo Games Falcon Puzzles Multi-coloured High quality",
+        "manufacturer_recommended_age": "12 years and up"
+      },
+      "powerchat_verdict": "FP",
+      "powerchat_reason": "This is a 1000-piece jigsaw puzzle depicting a coastal village scene. It does not match any category in the Rule Knowledge list. Jigsaw puzzles are not included in the\nspecified toy classifications (collectible figures, construction games, dolls, plush toys, musical instruments, craft kits, etc.). NOVA VISUAL AI confirms this is a scenic puzzle\nwithout educational or play-based toy characteristics. Therefore, it falls outside the TP (Toys) classification.",
+      "nova_verdict": "FP",
+      "nova_reason": "The product is a 1000-piece jigsaw puzzle depicting a coastal village scene with boats, houses, and people. It does not match any of the specified toy categories in the rule\nknowledge, such as collectible figures, construction sets, or educational toys. The visual content is purely a scenic puzzle, not a toy designed for play or learning.\n[IMAGES: 2]"
+    },
+    {
+      "asin": "B0DBJ3X4SK",
+      "csi_title": "Xinpinzhou Kreuzstich Set Vorgedruckt Toucan, Stickvorlagen Stickbilder Vorgedruckt Kreuzstich Stickpackungen Stickpackung Cross Stitch Embroidery Kit Tiere\nStickset Sticken Set Erwachsene Anf&#228;nger",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "Toucan",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [],
+          "normalized": null
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": "Coton, Tissu, Toile",
+          "normalized": "Coton, Tissu, Toile"
+        },
+        "bullet_points": {
+          "fr": [
+            "Les numéros de fil sont marqués, faciles à broder, les kits de point de croix pré-imprimés sont un excellent artisanat pour les débutants, fournit également un\nexutoire créatif pour l'expression de soi, réduisant le stress et favorisant la relaxation, Tissu brodé pré-imprimé, point de croix pour adu"
+          ],
+          "en": [
+            "1. Stitches thread counts are marked, easy to embroider, cross stitch kit adults is an excellent craft for beginners to learn, also provides a creative output for\nself-expression, reduces stress and promotes relaxation 2. cross stitch kit for beginners pre printed embroidered cloth cross stitch kits for adults beginners funny fabric clear\nand easy to see, this makes it easy to follow patterns to complete a beautiful cross stitch, therefore it can be used as personalized gifts and home wall decor"
+          ],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B0DBJ3X4SK_0.jpg",
+        "images": [
+          "./images/B0DBJ3X4SK_0.jpg",
+          "./images/B0DBJ3X4SK_1.jpg",
+          "./images/B0DBJ3X4SK_2.jpg",
+          "./images/B0DBJ3X4SK_3.jpg",
+          "./images/B0DBJ3X4SK_4.jpg",
+          "./images/B0DBJ3X4SK_5.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B0DBJ3X4SK",
+        "title": "Xinpinzhou Cross Stitch Set Pre-Printed Toucan, Embroidery Templates Embroidery Pictures Pre-Printed Cross Stitch Embroidery Kits Embroidery Kit Cross Stitch\nEmbroidery Kit Animals Embroidery Set Embr",
+        "brand_name": "Xinpinzhou\nAge Range Description: Adult",
+        "included_components": "Nitrogen, drawings, embroidery needles, embroidery thread, manual",
+        "country_of_origin": "China",
+        "unit_count": "1.0 count",
+        "item_type_name": null,
+        "model_name": "meishi-dazuiniao\nArt Craft Kit Type: Embroidery\nUPC: 742404854437\nCross-Stitch Pattern Type: Stamped\nSet Name: Xinpinzhou",
+        "model_number": "meishi-dazuiniao",
+        "manufacturer_part_number": "meishi-dazuiniao",
+        "manufacturer": "Xinpinzhou",
+        "best_sellers_rank": "708,310 in Home & Kitchen (See Top 100 in Home & Kitchen) 701 in Embroidery Kits",
+        "asin": "B0DBJ3X4SK",
+        "bullets": "1. Stitches thread counts are marked, easy to embroider, cross stitch kit adults is an excellent craft for beginners to learn, also provides a creative output for\nself-expression, reduces stress and promotes relaxation 2. cross stitch kit for beginners pre printed embroidered cloth cross stitch kits for adults beginners funny fabric clear\nand easy to see, this makes it easy to follow patterns to complete a beautiful cross stitch, therefore it can be used as personalized gifts and home wall decor",
+        "manufacturer_recommended_age": null
+      },
+      "powerchat_verdict": "FP",
+      "powerchat_reason": "This is a cross-stitch embroidery kit for adults, not a toy. While the rule knowledge includes 'DIY craft set' and 'DIY jewelry manufacturing kit' as TP categories, cross-stitch kits\nare needlework/embroidery crafts, not toys. NOVA VISUAL AI confirms the product depicts a cross-stitch pattern design (bird and flowers) that falls outside specified toy\ncategories. The product is marketed to adults for relaxation and home décor, not as a toy for play or children's entertainment.",
+      "nova_verdict": "FP",
+      "nova_reason": "The images depict a cross-stitch pattern design featuring a bird and flowers, which does not fall under any of the specified toy categories in the rule knowledge. Cross-stitch\npatterns are craft kits, not toys as defined in the rules.\n[IMAGES: 6]"
+    },
+    {
+      "asin": "B08KWGBP5D",
+      "csi_title": "Konturpuzzle f&#252;r Kinder, Mini Shape Puzzle Faultier, 35 Teile",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": null,
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "36_mois_to_180_mois"
+          ],
+          "normalized": null
+        },
+        "target_gender": null,
+        "material": {
+          "raw": "Carton",
+          "normalized": "Carton"
+        },
+        "bullet_points": {
+          "fr": [
+            "Puzzle de forme colorée unique avec boîte magnifiquement conçue - Cadeau idéal pour les petits fans de puzzle., Avec ce puzzle de contours, vous plongez\ndans un monde décontracté des paresseux, À partir de 3 ans., Dimensions : 40 x 22 cm., Scratch : le design attrayant en Belgique apporte beaucoup d"
+          ],
+          "en": [],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B08KWGBP5D_0.jpg",
+        "images": [
+          "./images/B08KWGBP5D_0.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B08KWGBP5D",
+        "title": "Fetch Error",
+        "brand_name": null,
+        "included_components": null,
+        "country_of_origin": null,
+        "unit_count": null,
+        "item_type_name": null,
+        "model_name": null,
+        "model_number": null,
+        "manufacturer_part_number": null,
+        "manufacturer": null,
+        "best_sellers_rank": null,
+        "asin": null,
+        "bullets": null,
+        "manufacturer_recommended_age": null
+      },
+      "powerchat_verdict": "TP",
+      "powerchat_reason": "Product is a shape puzzle (Konturpuzzle) for children ages 3+. Matches rule category 'Wood or magnetic educational puzzles' (FR: Puzzles éducatifs en bois ou magnétiques).\nNOVA VISUAL AI confirms wooden educational puzzle with animal/nature scenes. Material listed as cardboard, but visual evidence and product name indicate puzzle\nconstruction aligns with educational puzzle category under TP classification.",
+      "nova_verdict": "TP",
+      "nova_reason": "The image shows a wooden educational puzzle featuring animals and nature scenes, which aligns with the category of 'Wood or magnetic educational puzzles'.\n\n[IMAGES: 1]"
+    },
+    {
+      "asin": "B0B4VKXR81",
+      "csi_title": "K&#252;chensp&#252;le Spielzeug Set mit Wasserkreislauf Geschirrsp&#252;ler,Sp&#252;lbecken Kinder Utensilien Geschirrzubeh&#246;r f&#252;r Kinder,\nK&#252;chenspielset mit flie&#223;endem Wasser,Geschenk f&#252;r M&#228;dchen und Jungen\nbullet_point: LE VRAI ÉCOULEMENT DE L'EAUÿ\u001aLe jouet d'évier de cuisine utilise un système de circulation d'eau automatique pour économiser l'eau, et l'eau doit être au\nniveau du trou. Allumez le robinet tournant à 180 ° et observez l'écoulement de l'eau. Pour utiliser l'évier pendant une longue période, il est rec",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "39 cm x 39 cm x 10 cm",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Enfant"
+          ],
+          "normalized": null
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": "Plastique",
+          "normalized": "Plastique"
+        },
+        "bullet_points": {
+          "fr": [],
+          "en": [
+            "Pretend Kitchen Stove Playset: Multifunctional kitchen sink with stove, rich and fun accessories. Washing dishes, dishes, cooking, and more ways to experience the\njoy of cooking Play sink with electric tap: automatic water circulation, 180 degree rotating tap, even water drain double fun of play sink and stove Burr Free, Not Harmful to\nHands: this kids kitchen toy is made of ABS and PP, safe and odorless, smooth and burr-free, baby has fun playing and no harm to hands. Storage of water filters a"
+          ],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B0B4VKXR81_0.jpg",
+        "images": [
+          "./images/B0B4VKXR81_0.jpg",
+          "./images/B0B4VKXR81_1.jpg",
+          "./images/B0B4VKXR81_2.jpg",
+          "./images/B0B4VKXR81_3.jpg",
+          "./images/B0B4VKXR81_4.jpg",
+          "./images/B0B4VKXR81_5.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B0B4VKXR81",
+        "title": "Kitchen Sink Toy Set with Water Circuit, Dishwasher, Children's Utensils, Tableware Accessories for Children, Kitchen Play Set with Running Water, Gift for Girls and\nBoys",
+        "brand_name": "NUKied\nAge Range Description: Kid",
+        "included_components": null,
+        "country_of_origin": "China",
+        "unit_count": "1.0 count",
+        "item_type_name": "kitchen sink toy set",
+        "model_name": null,
+        "model_number": "rose-1",
+        "manufacturer_part_number": "1\nSet Name: Kitchen Sink Toy Set with Water Circuit Dishwasher",
+        "manufacturer": "NUKied",
+        "best_sellers_rank": "67,080 in Toys (See Top 100 in Toys) 184 in Toy Kitchen Playsets",
+        "asin": "B0B4VKXR81",
+        "bullets": "Pretend Kitchen Stove Playset: Multifunctional kitchen sink with stove, rich and fun accessories. Washing dishes, dishes, cooking, and more ways to experience the\njoy of cooking Play sink with electric tap: automatic water circulation, 180 degree rotating tap, even water drain double fun of play sink and stove Burr Free, Not Harmful to\nHands: this kids kitchen toy is made of ABS and PP, safe and odorless, smooth and burr-free, baby has fun playing and no harm to hands. Storage of water filters a",
+        "manufacturer_recommended_age": "12 months - 3 years"
+      },
+      "powerchat_verdict": "TP",
+      "powerchat_reason": "Product matches the rule category 'Pretend play kitchen / supermarket toys and games for preschool children' (FR: Jeux d'imitation cuisines / supermaché pré-scolaires). The\nkitchen sink toy set with water circulation, dishwasher function, and accompanying utensils/dishes/play food is designed for role-play and imaginative play for children. NOVA\nVISUAL AI preliminary verdict (TP) confirms this classification. Product evidence (item name, bullet points, target age 'Enfant') and visual analysis align with the specified rule.",
+      "nova_verdict": "TP",
+      "nova_reason": "The toy set depicts a kitchen sink with various kitchen utensils, dishes, and play food items, aligning with the category of 'Pretend play kitchen / supermarket toys and games\nfor preschool children'.\n[IMAGES: 6]"
+    },
+    {
+      "asin": "B0DP5DC277",
+      "csi_title": "Ravensburger CreArt: Pok&#233;mon Pikachu &#8212; Malen mit Zahlen f&#252;r Kinder ab 9 Jahren, Malset mit Brettern, Rahmen, Pinsel und Farben im\nLieferumfang enthalten, 25 x 18,30 cm, Geschenkideen",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "20 x 26.5 cm",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Unisex"
+          ],
+          "normalized": null
+        },
+        "target_gender": null,
+        "material": {
+          "raw": "Plastique",
+          "normalized": "Plastique"
+        },
+        "bullet_points": {
+          "fr": [
+            "JEUX CRÉATIFS : Le cadeau idéal pour les enfants pour ceux qui aiment peindre avec des chiffres et veulent créer de petits chefs-d'œuvre sur toile à l'aide de\nchiffres et de bordures colorées pour reconnaître les espaces et les couleurs sans quitter les bords, JEUX CRÉATIFS POUR UNE FILLE DE 9 ANS :"
+          ],
+          "en": [
+            "Creative games: the ideal gift for children who like to paint with numbers and want to create small masterpieces on canvas using numbers and coloured borders to\nrecognise rooms and colours without leaving the edges. CREATIVE GAMES FOR A 9 YEAR OLD GIRL: The CreArt kit contains acrylic watercolours in resealable containers,\n1 palette, 1 pre-printed board with decorated edges, 1 wide bristle brush and an instruction manual with this painting with numbers for children. Let your imagination run wild"
+          ],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B0DP5DC277_0.jpg",
+        "images": [
+          "./images/B0DP5DC277_0.jpg",
+          "./images/B0DP5DC277_1.jpg",
+          "./images/B0DP5DC277_2.jpg",
+          "./images/B0DP5DC277_3.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B0DP5DC277",
+        "title": "Ravensburger CreArt: Pokémon Pikachu - Painting with Numbers for Children Aged 9 and Above, Painting Set with Boards, Frames, Brushes and Paints Included, 25 x\n18.30 cm, Gift Ideas",
+        "brand_name": "Ravensburger\nAge Range Description: Baby",
+        "included_components": "1 x painting board, paints, brushes, frame, instructions (English language not guaranteed)\nArt Craft Kit Type: paintings\nGlobal Trade Identification Number: 04005556255566\nSet Name: Creart Series D",
+        "country_of_origin": "Czech Republic",
+        "unit_count": "1 count",
+        "item_type_name": "Toys",
+        "model_name": null,
+        "model_number": "25556",
+        "manufacturer_part_number": "25556",
+        "manufacturer": "Ravensburger",
+        "best_sellers_rank": "73,238 in Toys (See Top 100 in Toys) 503 in Kids' Painting By Numbers",
+        "asin": "B0DP5DC277",
+        "bullets": "Creative games: the ideal gift for children who like to paint with numbers and want to create small masterpieces on canvas using numbers and coloured borders to\nrecognise rooms and colours without leaving the edges. CREATIVE GAMES FOR A 9 YEAR OLD GIRL: The CreArt kit contains acrylic watercolours in resealable containers,\n1 palette, 1 pre-printed board with decorated edges, 1 wide bristle brush and an instruction manual with this painting with numbers for children. Let your imagination run wild",
+        "manufacturer_recommended_age": null
+      },
+      "powerchat_verdict": "TP",
+      "powerchat_reason": "Product matches 'Pixel squares painting (FR: Peinture carrés pixels)' and 'Diamond painting craft kit (FR: Kit de bricolage peinture à diamants)' categories in the rule list.\nDespite NOVA VISUAL AI's preliminary verdict of FP, the product is explicitly a paint-by-numbers creative kit for children aged 9+, which falls under the painting/craft game\ncategories specified in the TP rule. The rule includes multiple painting and creative craft activities (sequins painting, diamond painting, sand painting, glitter painting, pixel\nsquares painting). This product is a structured creative game kit with pre-printed boards, paints, brushes, and instructions—matching the rule's scope for children's\ncreative/craft games. Visual evidence does not override the clear textual match to enumerated TP categories.",
+      "nova_verdict": "FP",
+      "nova_reason": "The product is a coloring kit featuring a Pokémon character, which does not fall under any of the specified toy categories in the rule list. It is categorized as a creative art\nactivity rather than a toy.\n[IMAGES: 4]"
+    },
+    {
+      "asin": "B0D4CY1NFB",
+      "csi_title": "EUZLABBY 52 Teiliges Teeparty Set,Teeservice Kinder,Tin Teekannen-Set,Prinzessinnen Tee Zeit Spielk&#252;chen Spielzeug mit Tassen,Tellern und\nZubeh&#246;r,f&#252;r Geburtstags Ostergeschenke f&#252;r 3-8 Jahre Kinder.",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": null,
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Enfant"
+          ],
+          "normalized": null
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": "Fer blanc, ABS",
+          "normalized": "Fer blanc, ABS"
+        },
+        "bullet_points": {
+          "fr": [
+            "Service à thé de rêve princesse - Chaque petit service à thé est équipé de l'âme d'un conte de fées. La correspondance des couleurs montre simplement les\nrêves et la tendresse. Le design exquis prend non seulement en compte le confort des petites mains délicates des petites princesses, mais il est é"
+          ],
+          "en": [
+            "Dreamy princess tea set - Each little tea set is equipped with the soul of a fairy tale. The colour matching simply shows dreams and tenderness. The exquisite design\nnot only takes into account the comfort of the little delicate hands of little princesses, but is also intelligent. Each drink combines the nobility of the royal family with the charm\nof the child and seems to be a continuation of the princess's unfinished diary. 52 PIECE LUXURY SET Includes not only teapots, teacups and dessert pla"
+          ],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B0D4CY1NFB_0.jpg",
+        "images": [
+          "./images/B0D4CY1NFB_0.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B0D4CY1NFB",
+        "title": "52-Piece Tea Party Set, Tea Service Children, Tin Teapot Set, Princess Tea Time Play Kitchen Toy with Cups, Plates and Accessories, for Birthday Easter Gifts for 3-8\nYears Children",
+        "brand_name": "EUZLABBY\nAge Range Description: Kid",
+        "included_components": "52-piece tea set children",
+        "country_of_origin": null,
+        "unit_count": "52.0 stück\nUPC: 611419139481\nSet Name: 52-piece tea party set",
+        "item_type_name": "Children's tea set",
+        "model_name": null,
+        "model_number": "XiaWuCha-BaBiFen52pc",
+        "manufacturer_part_number": "XWC52PC",
+        "manufacturer": "EUZLABBY",
+        "best_sellers_rank": "157,453 in Toys (See Top 100 in Toys) 76 in Toy Tea Sets",
+        "asin": "B0D4CY1NFB",
+        "bullets": "Dreamy princess tea set - Each little tea set is equipped with the soul of a fairy tale. The colour matching simply shows dreams and tenderness. The exquisite design\nnot only takes into account the comfort of the little delicate hands of little princesses, but is also intelligent. Each drink combines the nobility of the royal family with the charm\nof the child and seems to be a continuation of the princess's unfinished diary. 52 PIECE LUXURY SET Includes not only teapots, teacups and dessert pla",
+        "manufacturer_recommended_age": "0 - 12 years"
+      },
+      "powerchat_verdict": "TP",
+      "powerchat_reason": "Product is a 52-piece pretend play tea party set for children ages 3-8. Matches rule category 'Pretend play kitchen / supermarket toys and games for preschool children' (FR:\nJeux d'imitation cuisines / supermaché pré-scolaires). Includes teapot, cups, plates, play food (cakes, donuts, macarons), and accessories. Also includes costume elements\n(crown, necklace, ring) which align with 'Disguise accessories for children.' NOVA VISUAL AI verdict of TP is consistent with text-based classification. Product clearly qualifies\nas pretend/imitation play toy for preschool-age children.",
+      "nova_verdict": "TP",
+      "nova_reason": "The image shows a set of dolls and accessories, including a dollhouse and various doll accessories, which are classified under 'Dolls accessories' and 'Dollhouse and furniture'\nin the rule list.\n[IMAGES: 1]"
+    },
+    {
+      "asin": "B0D8JXG4DM",
+      "csi_title": "Clementoni Baby Scopro die Welt in 100 Worten &#8211; interaktives Buch 1 Jahr sprechend elektronisch sprechend Buch Kinder p&#228;dagogisch\nzweisprachig mit Ton unterrichtet Italienisch und Englisch, Lernen",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "mittelgroß",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "1-4 ans"
+          ],
+          "normalized": null
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": "Plastique",
+          "normalized": "Plastique"
+        },
+        "bullet_points": {
+          "fr": [
+            "Un livre parlant et interactif pour apprendre les 100 premiers mots, Les 10 pages éducatives plastifiées sont riches en contenus accessibles d'une simple touche.,\nVotre enfant pourra découvrir le monde à travers de nombreuses illustrations et naviguer entre les différents modes de jeu., Avec des cha"
+          ],
+          "en": [
+            "A talking and interactive book for learning the first 100 words The 10 laminated learning pages are rich in content accessible with just one touch. Your child can\ndiscover the world through many illustrations and navigate through the different game modes. With songs, nursery rhymes, sound effects, an illuminated button and a handy\ncarry handle to keep the book with you at all times. 100% bilingual: Italian and English"
+          ],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B0D8JXG4DM_0.jpg",
+        "images": [
+          "./images/B0D8JXG4DM_0.jpg",
+          "./images/B0D8JXG4DM_1.jpg",
+          "./images/B0D8JXG4DM_2.jpg",
+          "./images/B0D8JXG4DM_3.jpg",
+          "./images/B0D8JXG4DM_4.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B0D8JXG4DM",
+        "title": "Clementoni Baby Scopro The World in 100 Words - Interactive Book 1 Year Talking Electronic Talking Book Kids Educational Bilingual with Sound Teaching Italian and\nEnglish Learning",
+        "brand_name": "Clementoni\nAge Range Description: 1-4 years old\nGlobal Trade Identification Number: 08005125179848\nSet Name: Baby Clementoni",
+        "included_components": "Interactive book and batteries",
+        "country_of_origin": null,
+        "unit_count": null,
+        "item_type_name": "Baby Scopro the World in 100 Words - Interactive Book 1 Year Talking Electronic Speaking Book Children Educational Bilingual with Sound Teaching Italian\nand English Learning New Words 17984",
+        "model_name": null,
+        "model_number": "17984",
+        "manufacturer_part_number": "17984",
+        "manufacturer": "Clementoni",
+        "best_sellers_rank": "259,027 in Toys (See Top 100 in Toys) 107 in Interactive Electronic Learning Books",
+        "asin": "B0D8JXG4DM",
+        "bullets": "A talking and interactive book for learning the first 100 words The 10 laminated learning pages are rich in content accessible with just one touch. Your child can\ndiscover the world through many illustrations and navigate through the different game modes. With songs, nursery rhymes, sound effects, an illuminated button and a handy\ncarry handle to keep the book with you at all times. 100% bilingual: Italian and English",
+        "manufacturer_recommended_age": "12 months - 4 years"
+      },
+      "powerchat_verdict": "TP",
+      "powerchat_reason": "Product is an interactive educational book for toddlers (1-4 years) with bilingual learning content, songs, and sound effects. Matches rule category 'Pre-school educational toys'\n(Jouets éducatifs pré-scolaires). NOVA VISUAL AI confirms TP classification as colorful interactive educational toy book designed for toddlers and preschool children. Visual\nevidence aligns with text evidence.",
+      "nova_verdict": "TP",
+      "nova_reason": "The product is a colorful, interactive educational toy book designed for toddlers and preschool children, featuring animal illustrations and educational content, aligning with the\ncategory 'Pre-school educational toys'.\n[IMAGES: 5]"
+    },
+    {
+      "asin": "B0FJRT6D6L",
+      "csi_title": "Puzzle Blume,Puzzle 300 Teile Schmetterling Holzpuzzle Erwachsene mit Geschenkbox,Schwieriges,Unterhaltsames,Herausforderndes,Geeignet f&#252;r\nAnf&#228;nger ab 14 Jahren,Geschenke f&#252;r M&#228;nner/Frauen M-1348\nbullet_point: 0\u0010JIGSAW PUZZLES POUR ADULTES 3000\u0011Prouduct comprend 300 pièces de puzzles; 1 sac en maille; 1 affiche; cartes de partition multiples; Emballage de\nboîte cadeau indépendant, 0\u0010JIGSAW PUZZLE MATERIAL0\u0011Les puzzles de 300 pièces sont coupés avec précision avec du papier recyclé fort, robuste et durable. Ch",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "300 pièces 40x28 cm",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [],
+          "normalized": null
+        },
+        "target_gender": null,
+        "material": {
+          "raw": "Bois",
+          "normalized": "Bois"
+        },
+        "bullet_points": {
+          "fr": [],
+          "en": [],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B0FJRT6D6L_0.jpg",
+        "images": [
+          "./images/B0FJRT6D6L_0.jpg",
+          "./images/B0FJRT6D6L_1.jpg",
+          "./images/B0FJRT6D6L_2.jpg",
+          "./images/B0FJRT6D6L_3.jpg",
+          "./images/B0FJRT6D6L_4.jpg",
+          "./images/B0FJRT6D6L_5.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B0FJRT6D6L",
+        "title": "Puzzle Blume,Puzzle 300 Teile Schmetterling Holzpuzzle Erwachsene mit Geschenkbox,Schwieriges,Unterhaltsames,Herausforderndes,Geeignet für Anfänger ab 14\nJahren,Geschenke für Männer/Frauen M-1348",
+        "brand_name": "Yeogcohe",
+        "included_components": "Ordinary gift box, puzzle pieces, reference picture, mesh bag",
+        "country_of_origin": "China",
+        "unit_count": null,
+        "item_type_name": "puzzle",
+        "model_name": null,
+        "model_number": "Yeogcohe PT 83173",
+        "manufacturer_part_number": "Yeogcohe PT 83173",
+        "manufacturer": "Yeogcohe",
+        "best_sellers_rank": null,
+        "asin": "B0FJRT6D6L\nBullets: 0\u0010JIGSAW PUZZLES FÜR ERWACHSENE 3000\u0011Prouduct enthält 300 Stück Puzzles; 1 Maschenbeutel; 1 Plakat; mehrere Trennplatten; Unabhängige Geschenkbox\nVerpackung 0\u0010JIGSAW PUZZLE MATERIAL0\u0011300 Stück Puzzle werden präzise mit starkem recyceltem, robustem und haltbarem Papier geschnitten. Jedes Puzzle-Stück ist\neinzigartig und nie wiederholt. Staubfreie abgerundete Kanten sind für Sie sicher. Nachdem das Puzzle abgeschlossen ist, kann es als Wandbild verwendet werden\n0\u0010STRESSLINDERUNG & KOGNITIVE VORTEILE0\u0011Ve",
+        "bullets": null,
+        "manufacturer_recommended_age": null
+      },
+      "powerchat_verdict": "FP",
+      "powerchat_reason": "This is a 300-piece jigsaw puzzle for adults. The Rule Knowledge specifies toy categories including figurines, dolls, plush toys, musical instruments, educational toys, vehicles,\ncraft kits, and games—but does not include jigsaw puzzles. The NOVA VISUAL AI preliminary verdict (FP) confirms this product falls outside the defined toy taxonomy. Jigsaw\npuzzles are not listed as a qualifying category for TP classification.",
+      "nova_verdict": "FP",
+      "nova_reason": "The product is a jigsaw puzzle, which does not fall under any of the specified toy categories in the rule knowledge. The rule knowledge focuses on toys such as figurines, dolls,\nplush toys, educational toys, and vehicles, but does not include jigsaw puzzles.\n[IMAGES: 6]"
+    },
+    {
+      "asin": "B0DHXFZH15",
+      "csi_title": "ROBUD Spielk&#252;chen aus Holz f&#252;r Kinder, mit Geschirr, T&#246;pfen, Salatsch&#252;ssel und Gem&#252;se - Geeignet f&#252;r Kinder ab 3 Jahren -\nGr&#252;n",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": null,
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Enfant"
+          ],
+          "normalized": null
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": "Bois d'ingénierie",
+          "normalized": "Bois d'ingénierie"
+        },
+        "bullet_points": {
+          "fr": [
+            "Matériaux de qualité supérieure : l'ensemble de cuisine de jeu ROBUD utilise du bois de haute qualité et de la peinture non toxique pour garantir un\nenvironnement sûr et sain pour les enfants dans lequel ils peuvent profiter de leur jeu de cuisine. Peut être utilisé en rotation à 360 degrés ou incli"
+          ],
+          "en": [
+            "High-quality materials: the ROBUD play kitchen set uses high-quality wood and non-toxic paint to ensure a safe and healthy environment for children to enjoy their\nkitchen game.Can be used 360 degrees rotating or tilting. Diving Games This play kitchen offers a multifaceted gaming experience with faucet and sink, oven, shelves,\ncupboards and a variety of kitchen necessities, similar to a real kitchen. Children can cook, clean and organise ingredients here by immersing themselves in creative role"
+          ],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B0DHXFZH15_0.jpg",
+        "images": [
+          "./images/B0DHXFZH15_0.jpg",
+          "./images/B0DHXFZH15_1.jpg",
+          "./images/B0DHXFZH15_2.jpg",
+          "./images/B0DHXFZH15_3.jpg",
+          "./images/B0DHXFZH15_4.jpg",
+          "./images/B0DHXFZH15_5.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B0DHXFZH15",
+        "title": "ROBUD Wooden Play Kitchen for Children, with Tableware, Pots, Salad Bowl and Vegetables - Suitable for Children from 3 Years - Green",
+        "brand_name": "ROBUD\nAge Range Description: Kid\nUPC: 795958185984\nManufacturer Warranty Description: 30 days",
+        "included_components": "Detailed assembly instructions (English language not",
+        "country_of_origin": "China",
+        "unit_count": "1.0 count",
+        "item_type_name": "play kitchen",
+        "model_name": null,
+        "model_number": "RB-WCF39",
+        "manufacturer_part_number": "RB-WCF39",
+        "manufacturer": "ROBUD",
+        "best_sellers_rank": "56,244 in Toys (See Top 100 in Toys) 157 in Toy Kitchen Playsets",
+        "asin": "B0DHXFZH15",
+        "bullets": "High-quality materials: the ROBUD play kitchen set uses high-quality wood and non-toxic paint to ensure a safe and healthy environment for children to enjoy their\nkitchen game.Can be used 360 degrees rotating or tilting. Diving Games This play kitchen offers a multifaceted gaming experience with faucet and sink, oven, shelves,\ncupboards and a variety of kitchen necessities, similar to a real kitchen. Children can cook, clean and organise ingredients here by immersing themselves in creative role",
+        "manufacturer_recommended_age": "36 months - 10 years"
+      },
+      "powerchat_verdict": "TP",
+      "powerchat_reason": "Product is a wooden play kitchen set with sink, stove, utensils, and accessories designed for children ages 3+. Matches rule category 'Pretend play kitchen / supermarket toys\nand games for preschool children' (FR: Jeux d'imitation cuisines / supermaché pré-scolaires). NOVA VISUAL AI preliminary verdict (TP) confirms classification. Product\nevidence supports pretend play/role-play functionality typical of this toy category.",
+      "nova_verdict": "TP",
+      "nova_reason": "The product is a play kitchen set designed for preschool children, featuring realistic kitchen elements like a sink, stove, and utensils, which aligns with the category 'Pretend\nplay kitchen / supermarket toys and games for preschool children'.\n[IMAGES: 6]"
+    },
+    {
+      "asin": "B0F435RG5X",
+      "csi_title": "Gas-Out-Spiel, Gas Out f&#252;r Familie und Freunde, Furz-Spiele, Familien- und Spielabend, lustige elektronische Furzger&#228;usche aus einer\nKunststoff-Gaswolke",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "20.5 cm x 26.5 cm",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "TOUS"
+          ],
+          "normalized": null
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": "Acrylonitrile butadiène styrène",
+          "normalized": "Acrylonitrile butadiène styrène"
+        },
+        "bullet_points": {
+          "fr": [
+            "Facile à jouer : les joueurs jouent à tour de rôle la carte Gas Out Number dans leurs mains et appuyez sur le nombre de fois que Guster est pressé. Gas Out est\nun jeu amusant qui prend en charge jusqu'à 2 à 6 personnes en même temps., Qui sera le gagnant ? Des cartes spéciales Gas Out telles que Ski"
+          ],
+          "en": [
+            "EASY TO PLAY Players alternately play the gas out number card in their hands and press the number of presses. Gas Out is a fun game that supports up to 2 to 6\npeople at the same time. Who will be the winner? Special game-changing Gas Out cards such as Skip and Reverse keep the game going. Players must carefully choose when\nto play cards to avoid being the one who triggers the throttle. Be the last player to pass on Guster the gas cloud to him without winning and winning! RELAXED AND HAPPY\nWhen G"
+          ],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B0F435RG5X_0.jpg",
+        "images": [
+          "./images/B0F435RG5X_0.jpg",
+          "./images/B0F435RG5X_1.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B0F435RG5X",
+        "title": "Gas Out Game, Gas Out for Family and Friends, Fart Games, Family and Game Night Funny Electronic Fart Sounds from a Plastic Gas Cloud\nAge Range Description: All",
+        "brand_name": "Mounteps",
+        "included_components": "1 x Gas Out Game",
+        "country_of_origin": null,
+        "unit_count": "1.0 count",
+        "item_type_name": "Gas Out Game",
+        "model_name": "Gas Out Game\nSet Name: 1 piece",
+        "model_number": "Gas Out Game",
+        "manufacturer_part_number": "1*Gas Out Game",
+        "manufacturer": "shanghaideduwangluokejiyouxiangongsi",
+        "best_sellers_rank": "339,956 in Toys (See Top 100 in Toys) 3,484 in Dedicated Deck Card Games",
+        "asin": "B0F435RG5X",
+        "bullets": "EASY TO PLAY Players alternately play the gas out number card in their hands and press the number of presses. Gas Out is a fun game that supports up to 2 to 6\npeople at the same time. Who will be the winner? Special game-changing Gas Out cards such as Skip and Reverse keep the game going. Players must carefully choose when\nto play cards to avoid being the one who triggers the throttle. Be the last player to pass on Guster the gas cloud to him without winning and winning! RELAXED AND HAPPY\nWhen G",
+        "manufacturer_recommended_age": "7 years and up"
+      },
+      "powerchat_verdict": "TP",
+      "powerchat_reason": "Product matches 'Tricks and catches' (FR: Farces et attrapes) category per Rule Knowledge. The Gas Out game is a prank-based party game with electronic fart sound effects\ndesigned for family entertainment. NOVA VISUAL AI confirms this classification as a novelty prank toy. Product evidence (gameplay mechanics, family-friendly positioning, age\n6+) supports toy classification under TP categories.",
+      "nova_verdict": "TP",
+      "nova_reason": "The product is a yellow, cartoonish poop-shaped toy with facial features, designed as a novelty item. It matches the category of 'Tricks and catches' (FR: Farces et attrapes)\nunder the rule knowledge, as it is a playful, prank-like toy meant for amusement.\n[IMAGES: 2]"
+    },
+    {
+      "asin": "B01CETNKE2",
+      "csi_title": "Asmod&#233;e Gamewright, Sushi Go Party Game, Card Game, Ages 8+, 2-8 Players, 20 Minutes Playing Time",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "1 pièce",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Enfant"
+          ],
+          "normalized": null
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": "Papier",
+          "normalized": "Papier"
+        },
+        "bullet_points": {
+          "fr": [
+            "Il s'agit d'une partie du plateau de Mega maki, super Sashimi, et edamame infinies dans cette version &eacute;largie du tr&egrave;s populaire jeu de cartes,\nN&eacute;anmoins, vous gagnez des points de pr&eacute;l&egrave;vement gagnante Sushi combos, mais maintenant vous pouvez personnaliser chaque j"
+          ],
+          "en": [],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B01CETNKE2_0.jpg",
+        "images": [
+          "./images/B01CETNKE2_0.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B01CETNKE2",
+        "title": "Fetch Error",
+        "brand_name": null,
+        "included_components": null,
+        "country_of_origin": null,
+        "unit_count": null,
+        "item_type_name": null,
+        "model_name": null,
+        "model_number": null,
+        "manufacturer_part_number": null,
+        "manufacturer": null,
+        "best_sellers_rank": null,
+        "asin": null,
+        "bullets": null,
+        "manufacturer_recommended_age": null
+      },
+      "powerchat_verdict": "FP",
+      "powerchat_reason": "Sushi Go Party! is a strategy card game with collectible cards, not a toy category listed in the rule knowledge. The rule specifies toys like figures, dolls, plush toys, construction\ngames, musical instruments, craft kits, and scientific games—but excludes strategy games. NOVA VISUAL AI confirms this is a strategy card game (FP), which aligns with the\nrule's scope. Card games are explicitly noted as 'Card / stickers to collect - excluding strategy games,' confirming strategy games fall outside TP classification.",
+      "nova_verdict": "FP",
+      "nova_reason": "The product is a strategy card game ( Sushi Go Party! ) featuring collectible cards and game mechanics, which does not fall under any of the specified toy categories in the\nrule knowledge. It is classified as a strategy game rather than a collectible figure or toy.\n\n[IMAGES: 1]"
+    }
+  ]
+}

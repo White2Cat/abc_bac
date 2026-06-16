@@ -1,0 +1,1512 @@
+{
+  "source_file": "DPX_AI_Full_2026-06-16_FR_Toys_1_Toys_1781591223351_Part4.pdf",
+  "records": [
+    {
+      "asin": "B0FVFLZ59R",
+      "csi_title": "J.A.D.E - Ewiger Kalender &amp; Emotionstafel f&#252;r Kinder - Montessori - 141521 - Lernspiel - Stoff - Beruhigung - Spiel f&#252;r Kinder - Datum - Wetter -\nFranz&#246;sisches Design - Ab 3 Jahren",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "42 cm",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Enfant unisexe"
+          ],
+          "normalized": null
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": "Tissu",
+          "normalized": "Tissu"
+        },
+        "bullet_points": {
+          "fr": [
+            "ON EST MARDI : Ce calendrier ludique aide les enfants à se repérer dans le temps, exprimer leurs émotions et adopter une routine positive. Un support\nMontessori qui favorise l’autonomie, l’écoute de soi et le développement de la confiance au quotidien, CONTENU : 1 calendrier recto-verso, + de 100 vi"
+          ],
+          "en": [],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B0FVFLZ59R_0.jpg",
+        "images": [
+          "./images/B0FVFLZ59R_0.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B0FVFLZ59R",
+        "title": "Fetch Error",
+        "brand_name": null,
+        "included_components": null,
+        "country_of_origin": null,
+        "unit_count": null,
+        "item_type_name": null,
+        "model_name": null,
+        "model_number": null,
+        "manufacturer_part_number": null,
+        "manufacturer": null,
+        "best_sellers_rank": null,
+        "asin": null,
+        "bullets": null,
+        "manufacturer_recommended_age": null
+      },
+      "powerchat_verdict": "TP",
+      "powerchat_reason": "```json\n{\n  'verdict': 'TP',\n  'reason': 'Product is an educational calendar toy for children ages 3+ designed for learning time, weather, emotions, and daily routines. It contains fabric calendar, scratch-off\nstickers, and tool cards—structured components for play and learning. This matches BRANCH E (Toys for Toddlers and Preschoolers) as a pre-school educational toy with\nlearning intent. NOVA's FP verdict appears to misclassify this as a board game with competitive rules; however, the product is a Montessori-style learning tool, not a strategy\ngame. No built-in electronics, no exclusions apply. Confidence: 92%.'\n}\n```\n**Key Decision Points:**\n- **STEP 0 (Foundational Definition):** '\u0005 Explicitly designed for children ages 3+, marketed as 'Lernspiel' (learning game) and 'jouets éducatifs' (educational toys).\n- **STEP 1 (Exclusion Check):** '\u0005 Does NOT match Excluded Group B. This is not a board game, card game, or puzzle with competitive rules—it's a structured learning\ncalendar with emotional development components.\n- **STEP 2 (Inclusion Check):** '\u0005 Matches **BRANCH E** — Pre-school educational toy designed for toddlers/preschoolers with learning intent (time, weather, emotions,\nroutine building).\n- **NOVA Override Note:** NOVA's verdict conflicts with the rule. NOVA classified this as a competitive board game, but the product evidence shows it is a Montessori\neducational calendar tool, not a strategy game. Rule-based classification takes precedence.",
+      "nova_verdict": "FP",
+      "nova_reason": "The product is a board game with cards and rules for competitive play, which falls under Excluded Group B (board games, card games, puzzles, and models).\n[IMAGES: 1]"
+    },
+    {
+      "asin": "B0FWCCR9VP",
+      "csi_title": "Axinyijia Origami Papier Cats, 50 Bl&#228;tter Origami Katzen Kit, Handgefertigte 3D Papierkatzen",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": null,
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [],
+          "normalized": null
+        },
+        "target_gender": null,
+        "material": {
+          "raw": "Papier",
+          "normalized": "Papier"
+        },
+        "bullet_points": {
+          "fr": [
+            "Créez vos propres chats en origami: Laissez libre cours à votre imagination avec ce kit créatif chats en origami ! Chaque feuille imprimée de motifs adorables\nvous permet de plier jusqu’à 50 petits chats en 3D dans des poses variées. Parfaits pour décorer votre bureau, votre chambre ou votre espace"
+          ],
+          "en": [],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B0FWCCR9VP_0.jpg",
+        "images": [
+          "./images/B0FWCCR9VP_0.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B0FWCCR9VP",
+        "title": "Fetch Error",
+        "brand_name": null,
+        "included_components": null,
+        "country_of_origin": null,
+        "unit_count": null,
+        "item_type_name": null,
+        "model_name": null,
+        "model_number": null,
+        "manufacturer_part_number": null,
+        "manufacturer": null,
+        "best_sellers_rank": null,
+        "asin": null,
+        "bullets": null,
+        "manufacturer_recommended_age": null
+      },
+      "powerchat_verdict": "FP",
+      "powerchat_reason": "Product fails Step 0 foundational definition check. While marketed with creative language ('créatif,' 'ludique'), the primary evidence indicates this is a decorative craft kit for\nadults and general audiences, not a structured toy designed for children's play. The bullet points emphasize relaxation, stress reduction, office/home decoration, and appeal to\n'cat lovers and DIY enthusiasts' rather than explicit play intent for children. The product lacks clear evidence of being designed or intended for play by children—generic\nphrases like 'fun' and 'all ages' do not establish toy purpose per the rule warning. NOVA VISUAL AI confirms FP classification as home decor rather than a structured children's\ntoy. Additionally, standalone origami paper without structured game components or explicit children's play design falls outside the Creative Hobbies Toys category (Branch G),\nwhich requires 'structured creative or craft kits designed as a toy or game' with clear children's targeting.",
+      "nova_verdict": "FP",
+      "nova_reason": "The product is a decorative craft kit for creating paper cats, marketed as home decor rather than a structured toy for children. It lacks explicit play intent and is not designed for\neducational or play purposes.\n[IMAGES: 1]"
+    },
+    {
+      "asin": "B0GQNNYKYN",
+      "csi_title": "HEEPDD Realistisches Insektenspielzeug aus Kunststoff, PVC-K&#228;fermodell f&#252;r Halloween-Dekoration, Gruseliger Krabbelparty-Streich, Ideal f&#252;r\nund Erwachsene (#2)",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "6 grands coléoptères noirs",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte"
+          ],
+          "normalized": null
+        },
+        "target_gender": null,
+        "material": {
+          "raw": "PVC",
+          "normalized": "PVC"
+        },
+        "bullet_points": {
+          "fr": [
+            "[Conception réaliste d'insectes] coléoptères en plastique réalistes, parfaits pour les décorations d'Halloween et les farces de fête., [Utilisation polyvalente] Idéal\npour les fêtes d'Halloween, les maisons hantées et les décorations effrayantes pour les âges., [Plusieurs options de couleurs] Dispon"
+          ],
+          "en": [
+            "[Realistisches Insektendesign] Lebensechte Plastikkäfer, perfekt für Halloween-Dekorationen und Partystreiche. [Vielseitig einsetzbar] Ideal für Halloween-Partys,\nSpukhäuser und gruselige Dekorationen für alle Altersgruppen. [Mehrere Farboptionen] Erhältlich in Gold und Schwarz, passend zu Ihrem gruseligen Thema. [Leichtes\nPVC-Material] Hergestellt aus strapazierfähigem PVC, einfach zu platzieren und bei Bedarf neu zu positionieren. [Spaß für alle Altersgruppen] Ideal für und Erwachsene, um\njede"
+          ],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B0GQNNYKYN_0.jpg",
+        "images": [
+          "./images/B0GQNNYKYN_0.jpg",
+          "./images/B0GQNNYKYN_1.jpg",
+          "./images/B0GQNNYKYN_2.jpg",
+          "./images/B0GQNNYKYN_3.jpg",
+          "./images/B0GQNNYKYN_4.jpg",
+          "./images/B0GQNNYKYN_5.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B0GQNNYKYN",
+        "title": "HEEPDD Realistisches Insektenspielzeug aus Kunststoff, PVC-Käfermodell für Halloween-Dekoration, Gruseliger Krabbelparty-Streich, Ideal für und Erwachsene (#2)",
+        "brand_name": "HEEPDD\nAge Range Description: Erwachsener\nManufacturer Warranty Description: 3 jahre herstellergarantie ab kaufdatum.",
+        "included_components": "nein",
+        "country_of_origin": "China",
+        "unit_count": "1.0 count",
+        "item_type_name": null,
+        "model_name": null,
+        "model_number": "HEEPDD65an0j7etc-12",
+        "manufacturer_part_number": "HEEPDD65an0j7etc-12",
+        "manufacturer": "HEEPDD",
+        "best_sellers_rank": null,
+        "asin": "B0GQNNYKYN",
+        "bullets": "[Realistisches Insektendesign] Lebensechte Plastikkäfer, perfekt für Halloween-Dekorationen und Partystreiche. [Vielseitig einsetzbar] Ideal für Halloween-Partys,\nSpukhäuser und gruselige Dekorationen für alle Altersgruppen. [Mehrere Farboptionen] Erhältlich in Gold und Schwarz, passend zu Ihrem gruseligen Thema. [Leichtes\nPVC-Material] Hergestellt aus strapazierfähigem PVC, einfach zu platzieren und bei Bedarf neu zu positionieren. [Spaß für alle Altersgruppen] Ideal für und Erwachsene, um\njede",
+        "manufacturer_recommended_age": "18 months - 3 years"
+      },
+      "powerchat_verdict": "FP",
+      "powerchat_reason": "```json\n{\n  'verdict': 'FP',\n  'reason': 'Product fails STEP 0 Foundational Definition Check. While marketed with 'Spielzeug' (toy) in the title and mentions 'fun for all ages,' the core product is realistic\nplastic beetle models for Halloween decoration and party pranks. The primary purpose is decoration and novelty prank items, not play. Additionally, NOVA VISUAL AI analysis\nconfirms these depict realistic beetles (live animals), which are explicitly excluded per STEP 0: 'Products involving live animals such as butterfly growing kits are NOT toys.'\nThe product is a decorative novelty item, not a toy designed for play by children.'\n}\n```\n**ASIN Classification Summary:**\n<p><b>ASIN:</b> Not provided in evidence</p>\n<p><b>Product:</b> HEEPDD Realistic Plastic Insect Toy, PVC Beetle Model for Halloween Decoration</p>\n<p><b>Verdict:</b> FP</p>\n<p><b>Rule Category:</b> STEP 0 Exclusion – Non-toy product (live animal depiction) + Decoration/Novelty Purpose</p>\n<p><b>Confidence:</b> 95%</p>\n<p><b>Reasoning:</b> The product fails the foundational toy definition. Although labeled 'Spielzeug' (toy), it is marketed primarily as Halloween decoration and party prank\nitems for realistic beetle models. STEP 0 explicitly excludes products involving live animals. NOVA VISUAL AI confirms the realistic beetle depiction aligns with live animal\nexclusion. The product's core intent is decoration and novelty, not structured play.</p>",
+      "nova_verdict": "FP",
+      "nova_reason": "The product depicts realistic-looking beetles, which are live animals. According to the rule, products involving live animals such as butterfly growing kits are not toys and are\nexcluded from the FR_Toys_1 category.\n[IMAGES: 6]"
+    },
+    {
+      "asin": "B01B5NJOMK",
+      "csi_title": "Clementoni 39344 Van Gogh &#8211; Sternennacht &#252;ber der Rhone &#8211; Puzzle 1000 Teile, Museum Collection, Geschicklichkeitsspiel f&#252;r die\nganze Familie, Erwachsenenpuzzle ab 14 Jahren",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "Taille unique",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adolescente"
+          ],
+          "normalized": null
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": "Plastique, Bois",
+          "normalized": "Plastique, Bois"
+        },
+        "bullet_points": {
+          "fr": [
+            "Age : à partir de 14 ans, Puzzle de 1000 pièces de dimension de 69 x 50 cm, Voici ce qui caractérise la collection High Quality de Clementoni : des images\ncaptivantes, une impression de qualité, des découpes précises et un matériau résistant; Cette gamme de puzzle élégante a été créée pour ceux qui"
+          ],
+          "en": [
+            "Sun, Moon and Stars: Bring a romantic night sky into the living room with the Starry Night Over the Rhone art puzzle depicting van Gogh's famous masterpiece. For\nlovers of detail: the bright colours, shapes and artistic details on the enchanting artwork easily promote thinking and increase your concentration and learning ability thanks to\n1000 pieces. Box contents: 1 x van Gogh - Starry Night over the Rhone 1000 pieces Museum Collection, colourful thinking game for adults and children aged 14 an"
+          ],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B01B5NJOMK_0.jpg",
+        "images": [
+          "./images/B01B5NJOMK_0.jpg",
+          "./images/B01B5NJOMK_1.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B01B5NJOMK",
+        "title": "Clementoni - 1000 Piece Jigsaw Puzzle - Various Models Available",
+        "brand_name": "Clementoni",
+        "included_components": "Puzzle The Noche Estrellada Rhone Van Gogh Musseum Collection 1000 Pieces\nAge Range Description: From 14 years",
+        "country_of_origin": null,
+        "unit_count": "1.0 count\nSub Brand: Does not apply",
+        "item_type_name": "jigsaw puzzle\nManufacturer Warranty Description: 2 year warranty on all components\nManufacturer Contact Information: Clementoni; Augustinusstr.4.OG Links 11D|50226|Frechen|DE; info@clementoni.de",
+        "model_name": null,
+        "model_number": "39344\nCustomer Package Type: Standard Packaging",
+        "manufacturer_part_number": "393442\nSet Name: Museum Orsay Van Gogh",
+        "manufacturer": "Clementoni\nGlobal Trade Identification Number: 08005125393442",
+        "best_sellers_rank": "216,642 in Toys (See Top 100 in Toys) 6,489 in Jigsaws (Toys)",
+        "asin": "B01B5NJOMK",
+        "bullets": "Sun, Moon and Stars: Bring a romantic night sky into the living room with the Starry Night Over the Rhone art puzzle depicting van Gogh's famous masterpiece. For\nlovers of detail: the bright colours, shapes and artistic details on the enchanting artwork easily promote thinking and increase your concentration and learning ability thanks to\n1000 pieces. Box contents: 1 x van Gogh - Starry Night over the Rhone 1000 pieces Museum Collection, colourful thinking game for adults and children aged 14 an",
+        "manufacturer_recommended_age": "14 years and up"
+      },
+      "powerchat_verdict": "FP",
+      "powerchat_reason": "Product is a 1000-piece jigsaw puzzle explicitly marketed for ages 14+ as an adult puzzle (Erwachsenenpuzzle ab 14 Jahren). Per STEP 1, EXCLUDED GROUP B, all jigsaw\npuzzles of any piece count and any age are excluded from this rule. The product does not qualify as an educational wooden/magnetic puzzle for preschoolers or a 3D puzzle\nrequiring building—it is a flat decorative art puzzle. Verdict: FP.",
+      "nova_verdict": "FP",
+      "nova_reason": "The product is a 1000-piece jigsaw puzzle, which falls under the excluded category of flat or jigsaw puzzles of any piece count, regardless of age. According to the rule, such\npuzzles are not considered toys and should be classified as FP.\n[IMAGES: 2]"
+    },
+    {
+      "asin": "B0FTGBJ3VJ",
+      "csi_title": "Selonis Faltbare B&#228;llebad Mit 100 B&#228;lle F&#252;r Kinder Spielbad, Grau:Wei&#223;/Grau/Mint",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "100 balles",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Enfant"
+          ],
+          "normalized": null
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": "Polyester",
+          "normalized": "Polyester"
+        },
+        "bullet_points": {
+          "fr": [
+            "La piscine pliable avec les balles multicolores., De nombreuses combinaisons de couleurs vous permettent d'adapter une piscine à n'importe quel intérieur.,\nGrâce à la housse la piscine est facile à transporter., La piscine garantit le plaisir incroyable non seulement pour les enfants mais aussi pour"
+          ],
+          "en": [],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B0FTGBJ3VJ_0.jpg",
+        "images": [
+          "./images/B0FTGBJ3VJ_0.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B0FTGBJ3VJ",
+        "title": "Fetch Error",
+        "brand_name": null,
+        "included_components": null,
+        "country_of_origin": null,
+        "unit_count": null,
+        "item_type_name": null,
+        "model_name": null,
+        "model_number": null,
+        "manufacturer_part_number": null,
+        "manufacturer": null,
+        "best_sellers_rank": null,
+        "asin": null,
+        "bullets": null,
+        "manufacturer_recommended_age": null
+      },
+      "powerchat_verdict": "TP",
+      "powerchat_reason": "Product is a foldable ball pit (Selonis Faltbare Bällebad) with 100 balls designed for children's play. Evidence shows: (1) explicit toy purpose in title and description ('pour\nenfants', 'Spielbad'); (2) age target 'Enfant' (Child); (3) sensory development benefit stated; (4) non-toxic materials specified for safety. Passes Step 0 (designed for children's\nplay) and Step 1 (not in excluded groups). Fits Branch E (Toys for Toddlers and Preschoolers) as a pretend/sensory play toy. No built-in electronics present. NOVA visual\nanalysis confirms TP classification. No overrides apply.",
+      "nova_verdict": "TP",
+      "nova_reason": "The product is a soft, portable ball pit designed for children to play with balls, fitting the category of toys for toddlers and preschoolers (Branch E).\n[IMAGES: 1]"
+    },
+    {
+      "asin": "B07QBZ4JZY",
+      "csi_title": "FIESTAS GUIRCA | Indianer Kost&#252;m f&#252;r Baby (12-18 Monate) - T-Shirt und Hose - Kost&#252;me von Ureinwohnern f&#252;r Halloween, Karneval\nund Kost&#252;mpartys - Ideal f&#252;r Kleinkinder - Braun und Beige",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "12-18 mois",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Enfant"
+          ],
+          "normalized": null
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": "Polyester",
+          "normalized": "Polyester"
+        },
+        "bullet_points": {
+          "fr": [
+            "TRANSFORME TON PETIT EN UN COURAGEUX INDIEN ! - Comprend le t-shirt et le pantalon. Ne comprend pas les chaussures ni d'autres accessoires.\nParfait pour les aventures et les fêtes à thème !, DIMENSIONS - Taille 12-18 mois. Parfait pour les tout-petits, idéal pour les fêtes à thème et les déguisement"
+          ],
+          "en": [],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B07QBZ4JZY_0.jpg",
+        "images": [
+          "./images/B07QBZ4JZY_0.jpg",
+          "./images/B07QBZ4JZY_1.jpg",
+          "./images/B07QBZ4JZY_2.jpg",
+          "./images/B07QBZ4JZY_3.jpg",
+          "./images/B07QBZ4JZY_4.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B07QBZ4JZY",
+        "title": "Fiestas GUiRCA Indian Costume for Children Boys - Carnival and Fancy Dress Indian Costume Boy for Toddlers\nDate First Available  \u000f  \u000e: 2 Jan 2020\nManufacturer  \u000f  \u000e: FIESTAS GUIRCA\nASIN  \u000f  \u000e: B0CBQKSBZD\nManufacturer reference  \u000f  \u000e: 87809",
+        "brand_name": null,
+        "included_components": null,
+        "country_of_origin": null,
+        "unit_count": null,
+        "item_type_name": null,
+        "model_name": null,
+        "model_number": null,
+        "manufacturer_part_number": null,
+        "manufacturer": null,
+        "best_sellers_rank": "3,597 in Fancy Dress for Kids & Toddlers",
+        "asin": null,
+        "bullets": null,
+        "manufacturer_recommended_age": null
+      },
+      "powerchat_verdict": "TP",
+      "powerchat_reason": "Product is a children's costume (t-shirt and pants) for toddlers aged 12-18 months, explicitly marketed for dress-up play at Halloween, Carnival, and themed parties. Matches\nBranch H (Exploration Toys and Other Toys) under 'Children disguise outfits including all children costumes for Halloween, cosplay.' NOVA VISUAL AI confirms TP\nclassification. Product passes Step 0 (designed for play by children) and Step 1 (not excluded) and qualifies under Step 2 Branch H.",
+      "nova_verdict": "TP",
+      "nova_reason": "The product is a children's costume designed for dress-up play, which falls under the category of toys for toddlers and preschoolers (Branch E). It is explicitly marketed for\nchildren and intended for imaginative play.\n[IMAGES: 5]"
+    },
+    {
+      "asin": "B0GGGXQVZQ",
+      "csi_title": "CXINLky Sticken Set Erwachsene, DIY Osterhasen Stickset f&#252;r Anf&#228;nger Kreuzstich Set Embroidery Kit - Enth&#228;lt Kattun, Faden, Nadel,\nStickrahmen-01-Osterhase",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": null,
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [],
+          "normalized": null
+        },
+        "target_gender": null,
+        "material": {
+          "raw": "Coton",
+          "normalized": "Coton"
+        },
+        "bullet_points": {
+          "fr": [
+            "Ensemble complet de broderie lapin de Pâques pour débutants : Parfait pour les débutants ou ceux ayant une certaine expérience en broderie, notre kit de\ndémarrage facilite l’apprentissage. Le manuel d'utilisation fourni décrit clairement chaque point et les modèles de point de croix étape par étape."
+          ],
+          "en": [
+            "Complete Beginner Easter Bunny Embroidery Set: Perfect for beginners or those with some embroidery experience, our starter kit makes learning easier. The included\ninstruction manual describes each stitch clearly and step-by-step embroidery templates cross stitch manual ensure that each project is successfully completed. Considerate\nEaster Bunny Pattern Designs:Our beginner embroidery kit contains original patterns with vivid patterns that will bring your creations to life. The washable patterns"
+          ],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B0GGGXQVZQ_0.jpg",
+        "images": [
+          "./images/B0GGGXQVZQ_0.jpg",
+          "./images/B0GGGXQVZQ_1.jpg",
+          "./images/B0GGGXQVZQ_2.jpg",
+          "./images/B0GGGXQVZQ_3.jpg",
+          "./images/B0GGGXQVZQ_4.jpg",
+          "./images/B0GGGXQVZQ_5.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B0GGGXQVZQ",
+        "title": "CXINLky Embroidery Set Adults, DIY Easter Bunny Embroidery Set for Beginners, Cross Stitch Set, Embroidery Kit - Includes Calico, Thread, Needle, Embroidery Hoop\n01 Easter Bunny",
+        "brand_name": "CXINLky",
+        "included_components": "1 x 25cm Nitrogen, 1 x Thread, 1 x Embroidery Hoop, 1 x Instruction, 3 x Embroidery Needles, 1 x Scissors, 1 x Threader, 1 x Seam Ripper\nArt Craft Kit Type: Embroidery\nCross-Stitch Pattern Type: Counted\nSet Name: Adult Cross Stitch Kit,Embroidery Kit for Beginners,Cross Stitch Kit",
+        "country_of_origin": "China",
+        "unit_count": null,
+        "item_type_name": null,
+        "model_name": null,
+        "model_number": null,
+        "manufacturer_part_number": "1",
+        "manufacturer": "CHENGKJ",
+        "best_sellers_rank": "1,575,669 in Home & Kitchen (See Top 100 in Home & Kitchen) 2,085 in Embroidery Kits",
+        "asin": "B0GGGXQVZQ",
+        "bullets": "Complete Beginner Easter Bunny Embroidery Set: Perfect for beginners or those with some embroidery experience, our starter kit makes learning easier. The included\ninstruction manual describes each stitch clearly and step-by-step embroidery templates cross stitch manual ensure that each project is successfully completed. Considerate\nEaster Bunny Pattern Designs:Our beginner embroidery kit contains original patterns with vivid patterns that will bring your creations to life. The washable patterns",
+        "manufacturer_recommended_age": null
+      },
+      "powerchat_verdict": "FP",
+      "powerchat_reason": "Cross-stitch and embroidery kits for adults are explicitly excluded from toy classification per STEP 3 and BRANCH G. The product is marketed as 'Embroidery Set Adults' and\n'for Beginners,' targeting adult crafters. While it contains structured components (thread, needles, hoop, pattern), cross-stitch kits are classified as needlework/adult craft\nsupplies, not toys, regardless of beginner-friendly positioning. The rule states: 'Cross-stitch or embroidery kits for adults are FP because they are needlework not toy category.'\n[IMAGES: 6]",
+      "nova_verdict": "N/A",
+      "nova_reason": ""
+    },
+    {
+      "asin": "B096N4T49D",
+      "csi_title": "jamaikanisch | Alter: 8+| Anzahl der Spieler: 2-6 - Franz&#246;sische Sprache",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "16 Count (Pack of 454)",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Enfant\nsize_map: 29.000000"
+          ],
+          "normalized": null
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": "Carton",
+          "normalized": "Carton"
+        },
+        "bullet_points": {
+          "fr": [
+            "JEU DE SOCIÉTÉ FAMILIAL AUTOUR DE L'ÎLE DE LA JAMAÏQUE : Jamaïca est un jeu de société familial pour enfants dès 8 ans où les joueurs incarnent des\npirates en quête d’or. Faites le tour de l’île en bateau et affrontez vos adversaires dans une course stratégique pleine de rebondissements, COURSE DE B"
+          ],
+          "en": [],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B096N4T49D_0.jpg",
+        "images": [
+          "./images/B096N4T49D_0.jpg",
+          "./images/B096N4T49D_1.jpg",
+          "./images/B096N4T49D_2.jpg",
+          "./images/B096N4T49D_3.jpg",
+          "./images/B096N4T49D_4.jpg",
+          "./images/B096N4T49D_5.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B096N4T49D",
+        "title": "Jamaican | Age: 8+ | Number of Players: 2-6 - French Language",
+        "brand_name": "Asmodee\nGenre: Strategy\nNumber of Players: 2 players\nEdition: Anniversary Edition\nLanguage: Dutch, French",
+        "included_components": null,
+        "country_of_origin": null,
+        "unit_count": "1 unit",
+        "item_type_name": null,
+        "model_name": null,
+        "model_number": "SCJCA03FR",
+        "manufacturer_part_number": "SCJCA03FR",
+        "manufacturer": "ASMODEE\nMinimum Age Recomendation: 96\nGlobal Trade Identification Number: 03558380088264",
+        "best_sellers_rank": "284,290 in Toys (See Top 100 in Toys) 7,294 in Board Games (Toys)",
+        "asin": "B096N4T49D",
+        "bullets": null,
+        "manufacturer_recommended_age": null
+      },
+      "powerchat_verdict": "FP",
+      "powerchat_reason": "This product is a board game (Jamaica - a pirate-themed strategy board game for 2-6 players). Board games are explicitly listed in EXCLUDED GROUP B of the decision tree\nand are out of scope for the FR_Toys_1_Toys rule, regardless of age targeting or family appeal. Verdict: FP per Step 1 Exclusion Check.",
+      "nova_verdict": "FP",
+      "nova_reason": "The product is a strategy board game (Jamaica) with cards and tokens designed for competitive play, falling under Excluded Group B for board games and card games.\n[IMAGES: 6]"
+    },
+    {
+      "asin": "B07SHDX6KK",
+      "csi_title": "Lilliputiens - Klangw&#252;rfel Bauernhof - Interaktives und lehrreiches Spielzeug f&#252;r Babys - F&#246;rdert Motorik und Sinne - Fr&#252;hf&#246;rderndes\nSpielzeug - Ab 10 Monaten - 83156",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "13x13x13 cm (Lot de 1)",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Bébé"
+          ],
+          "normalized": null
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": "Polyester",
+          "normalized": "Polyester"
+        },
+        "bullet_points": {
+          "fr": [
+            "Un jouet interactif et éducatif : Le cube sonore d’activités Ferme de Lilliputiens est conçu pour captiver l’attention de votre bébé avec ses nombreuses activités et\nsons Idéal pour stimuler la curiosité et l’imagination de votre enfant, Stimulez la motricité fine : Chaque face du cube offre une act"
+          ],
+          "en": [
+            "AN INTERACTIVE AND EDUCATIONAL TOY The Lilliputiens Activity Sound Cube Farm is designed to captivate your baby's attention with its many activities and\nsounds. It is ideal for stimulating your child's curiosity and imagination. PROMOTE FINE MOTOR SKILLS - Each side of the cube provides a different activity, promoting fine\nmotor skills development and hand-eye coordination. Perfect for babies from 10 months. HIGH QUALITY MATERIALS This activity cube is made of safe and durable materials\nand is d"
+          ],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B07SHDX6KK_0.jpg",
+        "images": [
+          "./images/B07SHDX6KK_0.jpg",
+          "./images/B07SHDX6KK_1.jpg",
+          "./images/B07SHDX6KK_2.jpg",
+          "./images/B07SHDX6KK_3.jpg",
+          "./images/B07SHDX6KK_4.jpg",
+          "./images/B07SHDX6KK_5.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B07SHDX6KK",
+        "title": "Lilliputiens - Sound cube farm - Interactive and educational toy for babies - Promotes motor skills and senses - Early stimulating toy - From 10 months - 83156",
+        "brand_name": "LILLIPUTIENS\nAge Range Description: 10 months - 06 years\nManufacturer Warranty Description: 6 Months\nSet Name: sound cube farm",
+        "included_components": "1 fabric cube",
+        "country_of_origin": "China",
+        "unit_count": "1.0 unité",
+        "item_type_name": "Lilliputiens - Sound Cube Farm - Interactive and educational toy for babies - Promotes motor skills and senses - Early promoting toy - From 10 months -\n83156",
+        "model_name": null,
+        "model_number": "83156",
+        "manufacturer_part_number": "83156",
+        "manufacturer": "JURATOYS",
+        "best_sellers_rank": "393,013 in Toys (See Top 100 in Toys) 157 in Activity Cubes",
+        "asin": "B07SHDX6KK",
+        "bullets": "AN INTERACTIVE AND EDUCATIONAL TOY The Lilliputiens Activity Sound Cube Farm is designed to captivate your baby's attention with its many activities and\nsounds. It is ideal for stimulating your child's curiosity and imagination. PROMOTE FINE MOTOR SKILLS - Each side of the cube provides a different activity, promoting fine\nmotor skills development and hand-eye coordination. Perfect for babies from 10 months. HIGH QUALITY MATERIALS This activity cube is made of safe and durable materials\nand is d",
+        "manufacturer_recommended_age": "10 months - 6 years"
+      },
+      "powerchat_verdict": "FP",
+      "powerchat_reason": "```json\n{\n  'verdict': 'FP',\n  'reason': 'Product contains built-in, non-separable electronic components (LR44 batteries powering interactive sounds and activities). Per OVERRIDE 1, products with built-in\nelectronic components are FP. The batteries are described as 'included' and 'ensure immediate functioning,' indicating they are integral to the product's operation, not\nseparable. NOVA VISUAL AI's preliminary verdict of TP appears to have misclassified this as a soft plush toy, but the product evidence clearly indicates it is an electronic\nactivity cube with built-in sound/interactive functionality, triggering the electronic component exclusion.'\n}\n```\n**ASIN Classification Summary:**\n<p><b>ASIN:</b> 83156</p>\n<p><b>Product:</b> Lilliputiens - Klangwürfel Bauernhof (Sound Cube Farm)</p>\n<p><b>Verdict:</b> FP</p>\n<p><b>Rule Category:</b> OVERRIDE 1 - Built-in Electronic Component Exclusion</p>\n<p><b>Confidence:</b> 95%</p>\n<p><b>Reasoning:</b> Although this product is designed for toddlers (10+ months) and would normally qualify as a toy under BRANCH E (Toys for Toddlers and\nPreschoolers), it contains built-in, non-separable LR44 batteries that power interactive sound and activity functions. The product description explicitly states batteries are\n'included' and 'ensure immediate functioning upon receipt,' indicating they are integral to the cube's operation. Per OVERRIDE 1, any product with built-in electronic\ncomponents (with or without batteries) must be classified as FP, regardless of toy intent. The NOVA VISUAL AI preliminary verdict should be disregarded as it did not account\nfor the electronic component override.</p>",
+      "nova_verdict": "TP",
+      "nova_reason": "The product is a soft, plush toy designed for toddlers, featuring interactive elements like a duck figure and a ring for grasping. It is intended for play and falls under the category\nof toys for toddlers and preschoolers.\n[IMAGES: 6]"
+    },
+    {
+      "asin": "B0FVMWDB9R",
+      "csi_title": "Topi Games | Gesellschaftsspiel Die Unternehmer | Ernte 1 Millionen Euro und gewinnt das Spiel | Familien- und Stategiespiel | 3 bis 6 Spieler | 30-45 Minuten |\nGeschenkidee f&#252;r Kinder ab 7 Jahren",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "26.5 cm x 7.5 cm",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Enfant"
+          ],
+          "normalized": null
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": "Papier cartonné",
+          "normalized": "Papier cartonné"
+        },
+        "bullet_points": {
+          "fr": [
+            "JEU DE SOCIÉTÉ STRATÉGIQUE D’ENTREPRENEUR : Devenez le meilleur chef d’entreprise ! Investissez, négociez et faites fructifier votre capital pour\natteindre 1 million d’euros avant vos adversaires. Parfait pour familles et fans de stratégie., OBJECTIF : 1 MILLION D’EUROS ! Le premier joueur à atteind"
+          ],
+          "en": [
+            "Strategic Board Game for Entrepreneurs: Become the best corporate leader Invest, trade and make your capital successful to reach 1 million euros ahead of your\nopponents. Perfect for families and strategy fans. Goal: 1 million euros The first player to reach €1,000,000 wins the game. If no one makes it after 10 rounds, the one with the\nmost money wins. An exciting competition between ambition and financial management! Complete and immersive game: 265 cards (action, business, bonus, real estate, e"
+          ],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B0FVMWDB9R_0.jpg",
+        "images": [
+          "./images/B0FVMWDB9R_0.jpg",
+          "./images/B0FVMWDB9R_1.jpg",
+          "./images/B0FVMWDB9R_2.jpg",
+          "./images/B0FVMWDB9R_3.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B0FVMWDB9R",
+        "title": "Topi Games Board Game The Entrepreneurs | Harvest 1 Million Euro and Wins the Game | Family and Strategy Game | 3 to 6 Players | 30-45 Minutes | Gift Idea for\nChildren from 7 Years\nAge Range Description: Kid",
+        "brand_name": "Topi Games",
+        "included_components": "board games",
+        "country_of_origin": null,
+        "unit_count": "1.0 stück",
+        "item_type_name": "board games\nSet Name: Unternehmer",
+        "model_name": null,
+        "model_number": "ENT-222001",
+        "manufacturer_part_number": "ENT-222001",
+        "manufacturer": "Topi games",
+        "best_sellers_rank": null,
+        "asin": "B0FVMWDB9R",
+        "bullets": "Strategic Board Game for Entrepreneurs: Become the best corporate leader Invest, trade and make your capital successful to reach 1 million euros ahead of your\nopponents. Perfect for families and strategy fans. Goal: 1 million euros The first player to reach €1,000,000 wins the game. If no one makes it after 10 rounds, the one with the\nmost money wins. An exciting competition between ambition and financial management! Complete and immersive game: 265 cards (action, business, bonus, real estate, e",
+        "manufacturer_recommended_age": "7 years and up"
+      },
+      "powerchat_verdict": "FP",
+      "powerchat_reason": "This product is a board game with strategy and competitive gameplay mechanics. Per EXCLUDED GROUP B of the decision tree, 'Board games, dice games, word games,\ntravel games, chess' and 'Strategy games and brain teasers' are explicitly excluded from scope. The product contains 265 cards, dice, a game board, and tokens designed for\nstrategic play with 3-6 players over 30-45 minutes. Despite being marketed as a gift for children ages 7+, it falls under the board game exclusion category, making it FP.",
+      "nova_verdict": "FP",
+      "nova_reason": "The product is a board game with strategy elements, falling under Excluded Group B (board games, card games, puzzles, and models). The images show game cards and a\ngame board, confirming it is a strategy-based board game rather than a toy.\n[IMAGES: 4]"
+    },
+    {
+      "asin": "B0FTZ423DZ",
+      "csi_title": "CSI Data Viewer",
+      "csi_status": "TS\nisTombstone: true",
+      "attributes": {
+        "size_info": {
+          "size": "Se référer au descriptif",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Se référer à la description"
+          ],
+          "normalized": null
+        },
+        "target_gender": null,
+        "material": {
+          "raw": "Acrylonitrile butadiène styrène (ABS)",
+          "normalized": "Acrylonitrile butadiène styrène (ABS)"
+        },
+        "bullet_points": {
+          "fr": [
+            "Temps de jeu de bulle interactive: Notre jouet de bain de douche d'éléphant offre une fonction de soufflage de bulles captivantes qui divertit et stimule les sens de\nvotre enfant, ce qui rend le bain plus amusant et interactif que, Toys de douche électrique: jouets de douche créatifs conçus comme un"
+          ],
+          "en": [],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B0FTZ423DZ_0.jpg",
+        "images": [
+          "./images/B0FTZ423DZ_0.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B0FTZ423DZ",
+        "title": "Fetch Error",
+        "brand_name": null,
+        "included_components": null,
+        "country_of_origin": null,
+        "unit_count": null,
+        "item_type_name": null,
+        "model_name": null,
+        "model_number": null,
+        "manufacturer_part_number": null,
+        "manufacturer": null,
+        "best_sellers_rank": null,
+        "asin": null,
+        "bullets": null,
+        "manufacturer_recommended_age": null
+      },
+      "powerchat_verdict": "TP",
+      "powerchat_reason": "Product is a bath toy elephant with bubble-making function designed for toddlers/preschoolers. Matches BRANCH E (Toys for Toddlers and Preschoolers) - specifically 'Bath\ntoys, bath stickers, and bath books.' NOVA VISUAL AI confirms TP classification. Product passed STEP 0 (designed for play by children), STEP 1 (not in excluded groups),\nand qualifies under STEP 2 BRANCH E. Material is ABS plastic, no built-in non-separable electronics mentioned that would trigger OVERRIDE 1.",
+      "nova_verdict": "TP",
+      "nova_reason": "The product is a bath toy designed for toddlers, featuring a cute elephant shape with a built-in bubble maker, aligning with the 'Toys for Toddlers and Preschoolers' category.\n[IMAGES: 1]"
+    },
+    {
+      "asin": "B0FG38BXVH",
+      "csi_title": "Anktily Buntglas-Mosaikfliesen-Set, 12 Blumen mit Bl&#252;tenbl&#228;ttern und flachen Perlen f&#252;r Bastelarbeiten, Heimdekoration und Gartenkunst\n(schillernde Mischung)",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": null,
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [],
+          "normalized": null
+        },
+        "target_gender": null,
+        "material": {
+          "raw": "Verre",
+          "normalized": "Verre"
+        },
+        "bullet_points": {
+          "fr": [
+            "Kit complet de mosaïque florale : comprend 30 grands pétales en verre, 30 petits pétales en verre et 12 perles de verre plates pour créer 12 superbes motifs\nfloraux. Professionnellement emballé dans une boîte cadeau kraft robuste avec rembourrage en mousse protecteur pour une livraison en toute sécu\nproduct_description: Superbe kit de fleurs en mosaïque en vitrail – Fournitures d'artisanat haut de gamme pour projets créatifs </br></br>Caractéristiques du produit : </br>'\u0014\nForme : Motifs élégants de pétales et ronds pour des arrangements floraux authentiques </br>'\u0014 Matériau : vitrail de haute qualité avec bords lisse"
+          ],
+          "en": [
+            "Complete flower mosaic kit: Contains 30 large glass flowers, 30 small glass flowers and 12 flat glass beads to create 12 stunning flower designs. Professionally\npackaged in a sturdy kraft gift box with protective foam padding for safe delivery. READY TO USE PRECUT PARTS: with multi-colored petals (large:1.3 x 1.02 inch, small: 1.02\nx 0.78 inch) and flat beads (0.71 inch and 0.6 inch diameter) with uniform thickness (3mm petals, 5.5mm beads). No cutting required - perfect for quick and easy craft"
+          ],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B0FG38BXVH_0.jpg",
+        "images": [
+          "./images/B0FG38BXVH_0.jpg",
+          "./images/B0FG38BXVH_1.jpg",
+          "./images/B0FG38BXVH_2.jpg",
+          "./images/B0FG38BXVH_3.jpg",
+          "./images/B0FG38BXVH_4.jpg",
+          "./images/B0FG38BXVH_5.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B0FG38BXVH",
+        "title": "Anktily Stained Glass Mosaic Tiles Set, 12 Flowers with Petals and Flat Beads for Crafts, Home Decoration and Garden Art (Iridescent Mix)",
+        "brand_name": "Anktily",
+        "included_components": "No",
+        "country_of_origin": "China",
+        "unit_count": "72.0 count",
+        "item_type_name": null,
+        "model_name": "Stained flower glass mosaic tiles",
+        "model_number": "ATflowermosaicUK",
+        "manufacturer_part_number": "ATflowermosaicUK",
+        "manufacturer": "Anktily",
+        "best_sellers_rank": "1,089,216 in Home & Kitchen (See Top 100 in Home & Kitchen) 395 in Mosaic Tiles",
+        "asin": "B0FG38BXVH",
+        "bullets": "Complete flower mosaic kit: Contains 30 large glass flowers, 30 small glass flowers and 12 flat glass beads to create 12 stunning flower designs. Professionally\npackaged in a sturdy kraft gift box with protective foam padding for safe delivery. READY TO USE PRECUT PARTS: with multi-colored petals (large:1.3 x 1.02 inch, small: 1.02\nx 0.78 inch) and flat beads (0.71 inch and 0.6 inch diameter) with uniform thickness (3mm petals, 5.5mm beads). No cutting required - perfect for quick and easy craft",
+        "manufacturer_recommended_age": null
+      },
+      "powerchat_verdict": "FP",
+      "powerchat_reason": "Product fails STEP 0 foundational definition check. Stained glass mosaic tiles are designed for adult home decoration and garden art, not for play by children. The product\ndescription explicitly markets it for 'home decoration,' 'garden art,' and 'upcycling projects' (picture frames, vases, lamps, tables, chairs, coasters, plates, wine bottles). There is\nno evidence of play intent, educational value for children, or toy purpose in title, description, or bullet points. NOVA VISUAL AI confirms this is decorative home decor, not a\ntoy. Verdict: FP (Non-toy product, excluded at foundational step).",
+      "nova_verdict": "FP",
+      "nova_reason": "The product is a set of stained glass flower mosaic tiles, which are decorative home decor items and not designed for play by children. They fall under the exclusion for non-toy\nproducts as they are not intended for play or educational use.\n\n[IMAGES: 6]"
+    },
+    {
+      "asin": "B0GSXHV854",
+      "csi_title": "Puzzle f&#252;r Erwachsene 1000 Teile Toulouse Capitole Celebration Denkspiel Herausforderung Spielzeug lustiges Geschenk Zeitvertreib im Urlaub\n(Gr&#246;&#223;e 38x52cm)",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "(1000pcs)38x52cm",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "168_months_to_1200_months\nsize_map: Taille 2"
+          ],
+          "normalized": null
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Trois formats au choix pour une expérience et un affichage polyvalents : Choisissez parmi trois formats soigneusement conçus pour s’adapter à votre espace et à\nvos préférences : 38 x 26 cm, 38 x 52 cm et 50 x 75 cm. Que vous préfériez un puzzle compact pour jouer sur une table ou une œuvre d’art gra"
+          ],
+          "en": [
+            "Drei optionale Größen für vielseitige Präsentation und Spielspaß: Wählen Sie aus drei sorgfältig gestalteten Größen die passende für Ihren Raum und Ihre Vorlieben:\n38 x 26 cm, 38 x 52 cm und 50 x 75 cm. Ob Sie ein kompaktes Puzzle für den Spieltisch oder ein großformatiges Kunstwerk für die Wand bevorzugen – jede Größe eignet\nsich perfekt für unterschiedliche Anlässe. Hochwertiges Material und präziser Zuschnitt für optimale Passform: Hergestellt aus hochwertigem Recyclingkarton mit ungiftiger,"
+          ],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B0GSXHV854_0.jpg",
+        "images": [
+          "./images/B0GSXHV854_0.jpg",
+          "./images/B0GSXHV854_1.jpg",
+          "./images/B0GSXHV854_2.jpg",
+          "./images/B0GSXHV854_3.jpg",
+          "./images/B0GSXHV854_4.jpg",
+          "./images/B0GSXHV854_5.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B0GSXHV854",
+        "title": "Puzzle für Erwachsene 1000 Teile Toulouse Capitole Celebration Denkspiel Herausforderung Spielzeug lustiges Geschenk Zeitvertreib im Urlaub (Größe 38x52cm)",
+        "brand_name": "WGLINGX\nAge Range Description: 168_months_to_1200_months",
+        "included_components": null,
+        "country_of_origin": null,
+        "unit_count": "1.0 stück",
+        "item_type_name": null,
+        "model_name": null,
+        "model_number": null,
+        "manufacturer_part_number": null,
+        "manufacturer": "WGLINGX",
+        "best_sellers_rank": null,
+        "asin": "B0GSXHV854",
+        "bullets": "Drei optionale Größen für vielseitige Präsentation und Spielspaß: Wählen Sie aus drei sorgfältig gestalteten Größen die passende für Ihren Raum und Ihre Vorlieben:\n38 x 26 cm, 38 x 52 cm und 50 x 75 cm. Ob Sie ein kompaktes Puzzle für den Spieltisch oder ein großformatiges Kunstwerk für die Wand bevorzugen – jede Größe eignet\nsich perfekt für unterschiedliche Anlässe. Hochwertiges Material und präziser Zuschnitt für optimale Passform: Hergestellt aus hochwertigem Recyclingkarton mit ungiftiger,",
+        "manufacturer_recommended_age": null
+      },
+      "powerchat_verdict": "FP",
+      "powerchat_reason": "This product is a 1000-piece jigsaw puzzle for adults (age range 168-1200 months = 14+ years). Per STEP 1, EXCLUDED GROUP B, 'All jigsaw puzzles of any piece count\n(under 500, exactly 500, over 500, wooden non-educational)' are excluded. The rule explicitly states 'All other flat or jigsaw puzzles of any piece count, any age, including\ndecorative adult wooden puzzles are EXCLUDED. Verdict is FP.' This product matches the exclusion criteria.",
+      "nova_verdict": "FP",
+      "nova_reason": "The product is a flat jigsaw puzzle, which is excluded under the rule as it is not a three-dimensional construction toy or educational puzzle for preschoolers.\n[IMAGES: 6]"
+    },
+    {
+      "asin": "B0C2PFXCY6",
+      "csi_title": "Hochzeitsmalbuch Kinder,6er Malbuch Hochzeit mit 50 Aufkleber,12 Buntstiften,2 Spitzer,Malb&#252;cher Hochzeit f&#252;r Hochzeit\nKinderbesch&#228;ftigung,Besch&#228;ftigung Kinder Hochzeit Spiele,Gastgeschenke Hochzeit",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": null,
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Enfant"
+          ],
+          "normalized": null
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": "en papier",
+          "normalized": "en papier"
+        },
+        "bullet_points": {
+          "fr": [
+            "Lot de 6 livres de coloriage de mariage - Le kit contient 6 livres de coloriage de mariage, 12 crayons de couleur, 2 taille-crayons en forme de cœur et 50\nautocollants de mariage pour être créatif et créer sa propre histoire de mariage unique. Les livres de coloriage contiennent différentes images e"
+          ],
+          "en": [
+            "Wedding colouring book set of 6 – the set contains 6 wedding colouring books, 12 coloured pencils, 2 heart sharpeners and 50 wedding stickers to get creative and\ncreate your own unique wedding story. The colouring books contain various images and activities based on wedding parties, making them perfect for small wedding guests.\nHigh-quality material: our wedding colouring books for children are made of high-quality paper to ensure they last a long time and the colours do not show through. The bo"
+          ],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B0C2PFXCY6_0.jpg",
+        "images": [
+          "./images/B0C2PFXCY6_0.jpg",
+          "./images/B0C2PFXCY6_1.jpg",
+          "./images/B0C2PFXCY6_2.jpg",
+          "./images/B0C2PFXCY6_3.jpg",
+          "./images/B0C2PFXCY6_4.jpg",
+          "./images/B0C2PFXCY6_5.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B0C2PFXCY6",
+        "title": "Children's Wedding Colouring Book, Set of 6 Colouring Books with 50 Stickers, 12 Colouring Pencils, 2 Sharpeners, Wedding Colouring Books for Weddings, Children's\nActivity, Children's Wedding Games, W\nWriting Instrument Form: Colored Pencil\nInk Colour: Multicolour\nDrill Point: Extra Fine\nSpecial Features: Non Toxic\nLine Size: 0.3mm\nIs the Product Left or Right Handed?: Ambidextrous\nGrip Type: Ergonomic handle\nWriting Technique: pencil lead",
+        "brand_name": null,
+        "included_components": null,
+        "country_of_origin": null,
+        "unit_count": null,
+        "item_type_name": null,
+        "model_name": null,
+        "model_number": null,
+        "manufacturer_part_number": null,
+        "manufacturer": null,
+        "best_sellers_rank": null,
+        "asin": null,
+        "bullets": "Wedding colouring book set of 6 – the set contains 6 wedding colouring books, 12 coloured pencils, 2 heart sharpeners and 50 wedding stickers to get creative and\ncreate your own unique wedding story. The colouring books contain various images and activities based on wedding parties, making them perfect for small wedding guests.\nHigh-quality material: our wedding colouring books for children are made of high-quality paper to ensure they last a long time and the colours do not show through. The bo",
+        "manufacturer_recommended_age": null
+      },
+      "powerchat_verdict": "TP",
+      "powerchat_reason": "Product is a structured creative craft kit designed for children. It contains multiple components (6 coloring books, 12 colored pencils, 2 sharpeners, 50 stickers) marketed\nexplicitly for children's play and entertainment at weddings. Matches BRANCH G (Creative Hobbies Toys and Accessories) as a children-targeted structured craft set with\ncoloring, sticker activities, and art supplies bundled together. Passed STEP 0 (designed for play by children), STEP 1 (not excluded), and qualifies under STEP 2 BRANCH G\ncriteria.",
+      "nova_verdict": "FP",
+      "nova_reason": "The product is a standalone set of adult-oriented coloring pages and pencils, not marketed specifically for children. It lacks structured game elements or play intent required for\ntoy classification under the rule.\n[IMAGES: 6]"
+    },
+    {
+      "asin": "B0FH392V8W",
+      "csi_title": "Lansay - DISNEY STICH STICKER - Nachf&#252;llpackung - Gro&#223;es Bastelset f&#252;r Kinder ab 5 Jahren - 250 Extra Stickers &amp; 6 Neue\nMotivbl&#228;tter - Nachhaltiges Zubeh&#246;r f&#252;r das Sticker-Atelier Geschenkidee",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "petit",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Enfant"
+          ],
+          "normalized": null
+        },
+        "target_gender": null,
+        "material": {
+          "raw": "Carton",
+          "normalized": "Carton"
+        },
+        "bullet_points": {
+          "fr": [
+            "RECHARGE STICKERS POUR ENCORE PLUS DE CRÉATION : Ce pack contient 250 stickers et 6 nouvelles feuilles illustrées pour prolonger l’expérience de\nl’atelier Stitch. Idéal pour renouveler le plaisir de coller et décorer avec son personnage Disney préféré., ACTIVITÉ AUTONOME POUR ENFANTS CRÉATIFS : La r"
+          ],
+          "en": [
+            "STICKER REFILL FOR MORE CREATIVITY: 250 stickers and 6 new sheets enhance the stitch experience – creative, economical and sustainable. Autonomous\nactivity for creative children: the refill set extends the sticker experience with new motifs - sustainable, imaginative and without a new main set. Affordable and sustainable: the\nrefill set reduces waste through reuse and expands the stitch game creatively and environmentally consciously. 6 new sheets for more variety: this refill offers stitch moti"
+          ],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B0FH392V8W_0.jpg",
+        "images": [
+          "./images/B0FH392V8W_0.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B0FH392V8W",
+        "title": "Lansay Sticker Stitch - Navulling - Groot Navulpakket for het sticker set with 250 extra stickers, 6 new themavelles en urenlang creatief plezier for 5 years | For Eindeloos\ndecorative plezier",
+        "brand_name": "Lansay\nAge Range Description: Kid",
+        "included_components": "Stickers Stitch\nArt Craft Kit Type: sticker art\nSet Name: Stitch Refill Kit",
+        "country_of_origin": "China",
+        "unit_count": "1 unit",
+        "item_type_name": "Sticker Refill Kit",
+        "model_name": null,
+        "model_number": "88206",
+        "manufacturer_part_number": "88206",
+        "manufacturer": "Lansay",
+        "best_sellers_rank": "736,356 in Toys (See Top 100 in Toys) 12,759 in Kids' Paper & Stickers",
+        "asin": "B0FH392V8W",
+        "bullets": "STICKER REFILL FOR MORE CREATIVITY: 250 stickers and 6 new sheets enhance the stitch experience – creative, economical and sustainable. Autonomous\nactivity for creative children: the refill set extends the sticker experience with new motifs - sustainable, imaginative and without a new main set. Affordable and sustainable: the\nrefill set reduces waste through reuse and expands the stitch game creatively and environmentally consciously. 6 new sheets for more variety: this refill offers stitch moti",
+        "manufacturer_recommended_age": null
+      },
+      "powerchat_verdict": "TP",
+      "powerchat_reason": "```json\n{\n  'verdict': 'TP',\n  'reason': 'Product passes foundational definition check (Step 0): designed for children's play with explicit evidence in title ('Bastelset für Kinder ab 5 Jahren'), description, and\nbullet points emphasizing creative activity. Does not match any exclusion in Step 1. Fits Branch G (Creative Hobbies Toys): sticker activity kit with structured creative\ncomponents (250 stickers + 6 illustrated sheets) designed as a toy/game for children. Stickers for decorating/creating are core toy craft activity, not standalone art supplies.'\n}\n```\n**Classification Details:**\n| Field | Value |\n|-------|-------|\n| **ASIN** | Not provided in evidence |\n| **Product** | Lansay Disney Stitch Sticker Refill Pack |\n| **Verdict** | **TP** |\n| **Rule Category** | Branch G: Creative Hobbies Toys and Accessories |\n| **Confidence** | 95% |\n| **Reasoning** | Product is a structured sticker craft kit explicitly marketed for children ages 5+. Contains 250 stickers and 6 illustrated sheets designed for creative decoration\nactivities. Meets Branch G criteria as a 'structured creative or craft kit designed as a toy or game.' Not a standalone art supply—it's a complete activity set with multiple\ncomponents and clear play/creative intent. |",
+      "nova_verdict": "TP",
+      "nova_reason": "The product is a structured sticker set designed for children, featuring 250 stickers and 6 illustrated scenes, marketed as a creative craft activity for play and learning, aligning\nwith Branch H (Exploration Toys and Other Toys).\n[IMAGES: 1]"
+    },
+    {
+      "asin": "B0CN9SNKGH",
+      "csi_title": "Puzzle 1000 Teile - Dunes d&apos;Hardelot, C&#244;te d&apos;Opale, France",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": null,
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "14 ans et plus"
+          ],
+          "normalized": null
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": "Carton",
+          "normalized": "Carton"
+        },
+        "bullet_points": {
+          "fr": [
+            "Puzzle éducatif, idéal pour développer la concentration."
+          ],
+          "en": [
+            "Lehrreiches Puzzle, ideal zur Förderung der Konzentration."
+          ],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B0CN9SNKGH_0.jpg",
+        "images": [
+          "./images/B0CN9SNKGH_0.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B0CN9SNKGH",
+        "title": "Puzzle 1000 Pieces - Dunes d'Hardelot, Côte d'Opale, France",
+        "brand_name": "Bluebird",
+        "included_components": "puzzle pieces\nAge Range Description: 14 Jahre und älter",
+        "country_of_origin": null,
+        "unit_count": "1.0 stück",
+        "item_type_name": null,
+        "model_name": null,
+        "model_number": "Bluebird-Puzzle-F-90454",
+        "manufacturer_part_number": "90454\nManufacturer Warranty Description: 2 Jahre Herstellergarantie.",
+        "manufacturer": "SAS ALIZE GROUP",
+        "best_sellers_rank": null,
+        "asin": "B0CN9SNKGH",
+        "bullets": "Lehrreiches Puzzle, ideal zur Förderung der Konzentration.",
+        "manufacturer_recommended_age": "14 years and up"
+      },
+      "powerchat_verdict": "FP",
+      "powerchat_reason": "This is a 1000-piece jigsaw puzzle for ages 14+. Per STEP 1, EXCLUDED GROUP B, all jigsaw puzzles of any piece count and any age are excluded from scope. The KEY\nDISTINCTION clarifies that only wooden/magnetic educational puzzles for preschoolers and 3D puzzles requiring building are in scope. This flat jigsaw puzzle does not qualify.\nVerdict is FP.\n[IMAGES: 1]",
+      "nova_verdict": "N/A",
+      "nova_reason": ""
+    },
+    {
+      "asin": "B0FY5DFLHD",
+      "csi_title": "860 Stk Bunte Holzperlen zum Auff&#228;deln, 10mm Holzperlen zum Basteln, Bastelperlen zum Auff&#228;deln, Holzkugeln mit Loch, Holzkugeln Bunte Holz\nPerlen f&#252;r DIY Schmuck Herstellung Halskette Dekorationen",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "10mm",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [],
+          "normalized": null
+        },
+        "target_gender": null,
+        "material": {
+          "raw": "Érable, revêtement coloré sans plomb",
+          "normalized": "Érable, revêtement coloré sans plomb"
+        },
+        "bullet_points": {
+          "fr": [
+            "Matériau de qualité supérieure : Ces perles en bois pour loisirs créatifs sont fabriquées en bois d'érable de haute qualité et recouvertes d'un vernis résistant et\ninaltérable. Leur polissage uniforme leur confère une texture délicate, idéale pour tous vos projets créatifs., Enfilage facile : Avec u"
+          ],
+          "en": [
+            "High-quality materials: the wooden beads are made of premium maple wood with a durable, colourfast coating. They are evenly polished and offer a classy texture that\nperfectly complements your crafts. Easy threading: with a diameter of 10 mm and uniform hole sizes and shapes, the wooden beads can be easily threaded through any cord\nfor threading. This makes crafting effortless - whether beginners or professionals. Infinite creative fun: wooden beads colourful stimulate imagination, improve concen"
+          ],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B0FY5DFLHD_0.jpg",
+        "images": [
+          "./images/B0FY5DFLHD_0.jpg",
+          "./images/B0FY5DFLHD_1.jpg",
+          "./images/B0FY5DFLHD_2.jpg",
+          "./images/B0FY5DFLHD_3.jpg",
+          "./images/B0FY5DFLHD_4.jpg",
+          "./images/B0FY5DFLHD_5.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B0FY5DFLHD",
+        "title": "Pack of 860 Colourful Wooden Beads for Threading, 10 mm Wooden Beads for Crafts, Craft Beads for Threading, Wooden Balls with Hole, Wooden Balls Colourful\nWooden Beads for DIY Jewellery Making",
+        "brand_name": "But the cow\nNumber of Pieces: 860",
+        "included_components": null,
+        "country_of_origin": "China",
+        "unit_count": "860.0 count",
+        "item_type_name": null,
+        "model_name": null,
+        "model_number": "But the cow002",
+        "manufacturer_part_number": "But the cow002",
+        "manufacturer": "But the cow",
+        "best_sellers_rank": "179,964 in Home & Kitchen (See Top 100 in Home & Kitchen) 1,490 in Beads & Bead Assortments",
+        "asin": "B0FY5DFLHD",
+        "bullets": "High-quality materials: the wooden beads are made of premium maple wood with a durable, colourfast coating. They are evenly polished and offer a classy texture that\nperfectly complements your crafts. Easy threading: with a diameter of 10 mm and uniform hole sizes and shapes, the wooden beads can be easily threaded through any cord\nfor threading. This makes crafting effortless - whether beginners or professionals. Infinite creative fun: wooden beads colourful stimulate imagination, improve concen",
+        "manufacturer_recommended_age": null
+      },
+      "powerchat_verdict": "TP",
+      "powerchat_reason": "Product passes foundational definition check (Step 0): designed for play/creative use by children. Passes exclusion checks (Step 1): not an excluded product type. Matches\nBranch G (Creative Hobbies Toys): structured DIY jewelry/craft kit with 860 wooden beads, threading cord, and clear creative intent. Product explicitly marketed for children's\ncrafts, bead jewelry making, and creative projects with educational benefits (imagination, concentration, hand-eye coordination). No built-in electronics. Verdict: TP under\nBranch G - Creative Hobbies Toys and Accessories (DIY jewelry manufacturing kits).",
+      "nova_verdict": "TP",
+      "nova_reason": "The images show colorful wooden beads with holes, intended for crafting or play, which aligns with creative hobbies and accessories for children. The beads are part of a\nstructured craft kit designed for play or educational purposes.\n\n[IMAGES: 6]"
+    },
+    {
+      "asin": "B0C8T59QQC",
+      "csi_title": "Sasibiyb Miniatur Fee Garten 11 St&#252;cke Miniatur Feengarten Ornamente Miniatur Deko Feengarten Miniatur Haus Feengarten Feengarten Dekorationen\nOutdoor Mini Haus Deko Dekoration F&#252;r Blumentopf",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "Environ 5cm",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [],
+          "normalized": null
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": "Résine",
+          "normalized": "Résine"
+        },
+        "bullet_points": {
+          "fr": [
+            "Matériau du Produit : Cette maison de paysage miniature est faite de résine sûre et écologique, durable et résistante à l'oxydation, et peut être stockée et\nréutilisée pendant une longue période, Bricolez Votre Jardin : Notre ensemble de paysage miniature comprend 6 styles différents de maisons ains"
+          ],
+          "en": [
+            "Product material: this miniature landscape house is made of safe and environmentally friendly resin, which is durable and oxidation resistant, and can be stored and\nreused for a long time Craft your garden: our miniature landscape set contains 6 different types of houses as well as frogs, lotus leaves and lotus flowers, you can easily\ndesign your own ideal garden Use your child's imagination: the miniature landscape set is perfect for children to build their own country estate after school and i"
+          ],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B0C8T59QQC_0.jpg",
+        "images": [
+          "./images/B0C8T59QQC_0.jpg",
+          "./images/B0C8T59QQC_1.jpg",
+          "./images/B0C8T59QQC_2.jpg",
+          "./images/B0C8T59QQC_3.jpg",
+          "./images/B0C8T59QQC_4.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B0C8T59QQC",
+        "title": "Miniature Fairy Garden 11 Pieces Miniature Fairy Garden Ornaments Miniature Decoration Fairy Garden Miniature House Fairy Garden Decorations Outdoor Mini House\nDecoration for Flower Pot\nColour: Green\nTheme: Fairy\nStyle: Garden\ncharacter: frog\nFinish Type: Shiny\nCollection Name: sculptures\nOccasion: Housewarming",
+        "brand_name": null,
+        "included_components": null,
+        "country_of_origin": null,
+        "unit_count": null,
+        "item_type_name": null,
+        "model_name": null,
+        "model_number": null,
+        "manufacturer_part_number": null,
+        "manufacturer": null,
+        "best_sellers_rank": null,
+        "asin": null,
+        "bullets": "Product material: this miniature landscape house is made of safe and environmentally friendly resin, which is durable and oxidation resistant, and can be stored and\nreused for a long time Craft your garden: our miniature landscape set contains 6 different types of houses as well as frogs, lotus leaves and lotus flowers, you can easily\ndesign your own ideal garden Use your child's imagination: the miniature landscape set is perfect for children to build their own country estate after school and i",
+        "manufacturer_recommended_age": null
+      },
+      "powerchat_verdict": "FP",
+      "powerchat_reason": "Product is a decorative miniature landscape set designed for home and garden decoration, not for children's play. While the description mentions 'children' and 'imagination,'\nthe primary purpose is decoration (garden, patio, dining table, pond, flowerpot). The product lacks explicit evidence of play intent—it is marketed as ornamental decor for\nadults. Per STEP 0 FOUNDATIONAL DEFINITION CHECK, generic phrases like 'children can use imagination' do NOT establish toy purpose without clear play-focused\ndesign. The set functions as a static decorative display item (miniature houses, frogs, lotus flowers), not an interactive toy or playset. This falls under home decor, not toys.\n[IMAGES: 5]",
+      "nova_verdict": "N/A",
+      "nova_reason": ""
+    },
+    {
+      "asin": "B0G3HDT6KQ",
+      "csi_title": "Aomdom Schaumstoffbausteine Kinder, Kletterger&#252;st Indoor, wasserdichte PU-H&#252;lle Hochelastisch Verdeckter Rei&#223;verschluss, F&#246;rdert\nFitness &amp; Kreativit&#228;t, 1-5 Jahre, Innenbereich/Kindergarten (Hellbunt)",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "91 x 91 x 25 cm",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "nourrisson"
+          ],
+          "normalized": null
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": "Éponge",
+          "normalized": "Éponge"
+        },
+        "bullet_points": {
+          "fr": [
+            "4 pièces de blocs d'escalade souples : fantaisie sans limites : cet ensemble comprend 1 bloc de construction triangulaire, 1 bloc de construction carré, 1 bloc\nsemi-circulaire et 1 bloc de construction en forme d'étagères - invitant les enfants à explorer et à construire leur propre monde imaginaire"
+          ],
+          "en": [],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B0G3HDT6KQ_0.jpg",
+        "images": [
+          "./images/B0G3HDT6KQ_0.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B0G3HDT6KQ",
+        "title": "Fetch Error",
+        "brand_name": null,
+        "included_components": null,
+        "country_of_origin": null,
+        "unit_count": null,
+        "item_type_name": null,
+        "model_name": null,
+        "model_number": null,
+        "manufacturer_part_number": null,
+        "manufacturer": null,
+        "best_sellers_rank": null,
+        "asin": null,
+        "bullets": null,
+        "manufacturer_recommended_age": null
+      },
+      "powerchat_verdict": "TP",
+      "powerchat_reason": "Product passes all decision tree steps. STEP 0: Designed for play by children ages 1-5 (explicit evidence in title, description, and age range). STEP 1: Not excluded—foam\nclimbing blocks are not in Excluded Groups A, B, or C. STEP 2: Fits BRANCH E (Toys for Toddlers and Preschoolers) as a climbing and construction toy promoting motor skills\nand spatial imagination. No built-in electronic components present (foam with PU cover and zippers only). NOVA VISUAL AI confirms: colorful foam play structure for children\nclimbing and play. Verdict: TP under Branch E.",
+      "nova_verdict": "TP",
+      "nova_reason": "The image shows a colorful foam play structure designed for children to climb and play on, fitting the category of toys for toddlers and preschoolers.\n[IMAGES: 1]"
+    },
+    {
+      "asin": "B09JR9GHTL",
+      "csi_title": "Die drei ??? Multi-Spion von KOSMOS, Detektiv Gadget, Detektiv-Spielzeug, Agenten-Ausr&#252;stung f&#252;r Kinder ab 8 Jahre, Die drei Fragezeichen\nSpielzeug, Detektiv Ausr&#252;stung, Detektivset, 2,5 m&#178;",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "2,5 m²",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte"
+          ],
+          "normalized": null
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": "Métal",
+          "normalized": "Métal"
+        },
+        "bullet_points": {
+          "fr": [
+            "Détecteur multi-outils avec de nombreuses fonctions dans la superbe boîte en métal"
+          ],
+          "en": [
+            "Detective multi-tool with many functions in the cool metal tin Special detective tool with numerous functions: depth gauge, ruler, magnifying glass, encryption code,\ntweezers, compass, sundial, mirror, morse alphabet and practical secret compartment Essential tool for investigations for young detectives With practical cord for attaching to\nthe wrist or belt The handy multi-spy is included with every determination - always ready to use Original gadget for fans of Die drei ??? Great gift for child"
+          ],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B09JR9GHTL_0.jpg",
+        "images": [
+          "./images/B09JR9GHTL_0.jpg",
+          "./images/B09JR9GHTL_1.jpg",
+          "./images/B09JR9GHTL_2.jpg",
+          "./images/B09JR9GHTL_3.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B09JR9GHTL",
+        "title": "Die drei ??? KOSMOS Multi-Spy Detective Gadget Detective Toy Agent Equipment for Children Aged 8+ The Three Question Mark Toy, Detective Equipment, Detective\nSet, 2.5 m²",
+        "brand_name": "Die drei ???\nAge Range Description: Kid\nSub Brand: Die drei ???\nManufacturer Warranty Description: Legal Warranty\nGlobal Trade Identification Number: 04002051632427",
+        "included_components": "Multi-spy with magnifying glass, tweezers, spatula, sundial, compass, ruler, secret compartment, morse phabet, mirror and coding disc and\ncolour-illustrated instructions (English language not guaranteed)\nManufacturer Contact Information: info@kosmos.de; info@kosmos.de",
+        "country_of_origin": "China",
+        "unit_count": "1.0 count",
+        "item_type_name": "detective gadget",
+        "model_name": null,
+        "model_number": "632427",
+        "manufacturer_part_number": "632427",
+        "manufacturer": "KOSMOS",
+        "best_sellers_rank": "9,973 in Toys (See Top 100 in Toys) 14 in Detective Toys & Sets",
+        "asin": "B09JR9GHTL",
+        "bullets": "Detective multi-tool with many functions in the cool metal tin Special detective tool with numerous functions: depth gauge, ruler, magnifying glass, encryption code,\ntweezers, compass, sundial, mirror, morse alphabet and practical secret compartment Essential tool for investigations for young detectives With practical cord for attaching to\nthe wrist or belt The handy multi-spy is included with every determination - always ready to use Original gadget for fans of Die drei ??? Great gift for child",
+        "manufacturer_recommended_age": "8 - 12 years"
+      },
+      "powerchat_verdict": "TP",
+      "powerchat_reason": "```json\n{\n  'verdict': 'TP',\n  'reason': 'Product passes foundational definition check (Step 0): explicitly designed for play by children aged 8+, with clear toy purpose in title ('Spielzeug', 'Detective Toy',\n'Detective Set'). Does not match any exclusions in Step 1. Fits Branch H (Exploration Toys): multi-tool detective gadget kit with multiple components (magnifying glass,\ncompass, ruler, encryption code, tweezers, mirror, morse alphabet, secret compartment) designed as a structured exploration/investigation toy for children. No built-in\nnon-separable electronics detected.'\n}\n```\n**Classification Summary:**\n| Field | Value |\n|-------|-------|\n| **ASIN** | Not provided |\n| **Product** | Die drei ??? Multi-Spion KOSMOS Detective Gadget |\n| **Verdict** | **TP** |\n| **Rule Category** | Branch H: Exploration Toys and Other Toys |\n| **Confidence** | 95% |\n| **Reasoning** | Product explicitly targets children aged 8+ with detective/investigation play purpose. Multi-component gadget kit with magnifying glass, compass, ruler,\nencryption code, tweezers, mirror, morse alphabet, and secret compartment qualifies as structured exploration toy. No built-in electronic components present; all tools are\nmechanical/manual. Matches TP criteria for scientific games and exploration kits. |",
+      "nova_verdict": "FP",
+      "nova_reason": "The product is a detective-themed board game accessory (Multi-Spion) marketed for ages 8+, not a standalone toy. It falls under Excluded Group B (board games) as it is a\ngame component designed for strategic play rather than standalone play.\n[IMAGES: 4]"
+    },
+    {
+      "asin": "B09W2KSKFG",
+      "csi_title": "Quiz France St&#228;dte und Regionen f&#252;r Kinder, Quiz, Kartenspiel",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "63.5 x 88 mm",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Enfant"
+          ],
+          "normalized": null
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": "Carton",
+          "normalized": "Carton"
+        },
+        "bullet_points": {
+          "fr": [
+            "UN EXCELLENT DIVERTISSEMENT FAMILIAL ! Il permet à toute la famille de s'intégrer, des plus petits (à partir de 7 ans) aux plus âgés et donne l'occasion de\ns'affronter dans la bonne humeur., UNE RÈGLE DE JEU SIMPLE ET DE NOMBREUSES CARTES COLORÉES ! L'ensemble comprend des cartes, des questions inté"
+          ],
+          "en": [
+            "An excellent family entertainment. It allows the whole family, from the little ones (from 7 years) to the elderly, and gives the opportunity to get in a good mood. Laughter\nis health A simple game rule and lots of colourful cards. The set includes cards, interesting questions and the game instructions that clearly represent the clear principles of the\ngame. The easy-to-read characters make it easy to read. Allows children (and adults) to unfold themselves from smartphones. The questions you have"
+          ],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B09W2KSKFG_0.jpg",
+        "images": [
+          "./images/B09W2KSKFG_0.jpg",
+          "./images/B09W2KSKFG_1.jpg",
+          "./images/B09W2KSKFG_2.jpg",
+          "./images/B09W2KSKFG_3.jpg",
+          "./images/B09W2KSKFG_4.jpg",
+          "./images/B09W2KSKFG_5.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B09W2KSKFG",
+        "title": "Quiz France Children's Cities and Regions Quiz Card Game\nAge Range Description: Kid",
+        "brand_name": "KANGUR",
+        "included_components": "Cards",
+        "country_of_origin": "Poland",
+        "unit_count": "1.0 count",
+        "item_type_name": "Game\nSet Name: Quiz France Cities and Regions for Kids",
+        "model_name": null,
+        "model_number": null,
+        "manufacturer_part_number": null,
+        "manufacturer": "Kangur",
+        "best_sellers_rank": "315,708 in Toys (See Top 100 in Toys) 3,313 in Dedicated Deck Card Games",
+        "asin": "B09W2KSKFG",
+        "bullets": "An excellent family entertainment. It allows the whole family, from the little ones (from 7 years) to the elderly, and gives the opportunity to get in a good mood. Laughter\nis health A simple game rule and lots of colourful cards. The set includes cards, interesting questions and the game instructions that clearly represent the clear principles of the\ngame. The easy-to-read characters make it easy to read. Allows children (and adults) to unfold themselves from smartphones. The questions you have",
+        "manufacturer_recommended_age": "7 years and up"
+      },
+      "powerchat_verdict": "FP",
+      "powerchat_reason": "This product is a card game (Quiz France) that falls under EXCLUDED GROUP B: 'Card games of any type including strategy card games... and any game where players use\ncards with rules and strategy.' The product explicitly contains cards, game rules, and competitive gameplay mechanics. NOVA VISUAL AI preliminary verdict of FP is\nconfirmed. The product does not qualify as a toy under the FR_Toys_1_Toys rule.",
+      "nova_verdict": "FP",
+      "nova_reason": "The product is a board game, which falls under Excluded Group B (board games, card games, puzzles, and models). Board games are explicitly excluded from the toy\nclassification rule.\n[IMAGES: 6]"
+    },
+    {
+      "asin": "B0B25243DD",
+      "csi_title": "PQube White Day: A Labyrinth Named School",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "10.2 cm x 7.0 cm x 0.9 cm",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [],
+          "normalized": null
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": "Plastique",
+          "normalized": "Plastique"
+        },
+        "bullet_points": {
+          "fr": [
+            "Un classique de l'horreur pour une nouvelle génération - Une réimpression contemporaine du célèbre survival horror coréen à la première personne de 2001,\nconsidéré par beaucoup comme l'un des jeux les plus effrayants jamais réalisés. De tous nouveaux effets visuels et sonores, un personnage suppléme"
+          ],
+          "en": [
+            "1207332"
+          ],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B0B25243DD_0.jpg",
+        "images": [
+          "./images/B0B25243DD_0.jpg",
+          "./images/B0B25243DD_1.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B0B25243DD",
+        "title": "PQube White Day: A Labyrinth Named School",
+        "brand_name": "pqube\nManufacturer Warranty Description: 2 year manufacturer",
+        "included_components": null,
+        "country_of_origin": null,
+        "unit_count": "1.00 Count",
+        "item_type_name": null,
+        "model_name": null,
+        "model_number": null,
+        "manufacturer_part_number": null,
+        "manufacturer": "PQUBE",
+        "best_sellers_rank": "119,875 in Computer & Accessories (See Top 100 in Computer & Accessories) 7,528 in Board Games (Toys) 17,161 in Components & Replacement Parts",
+        "asin": "B0B25243DD",
+        "bullets": "1207332",
+        "manufacturer_recommended_age": "0 - 10 years"
+      },
+      "powerchat_verdict": "FP",
+      "powerchat_reason": "This is a video game (survival horror game for PC/console), not a toy. It fails STEP 0 foundational definition: the product is not designed for play by children in the toy sense—it\nis a commercial video game software product rated for mature audiences. Video games are excluded from FR_Toys_1_Toys scope and belong to other regulatory frameworks\n(PEGI/ESRB ratings, software EPR schemes). The physical case is merely packaging for the digital product.",
+      "nova_verdict": "FP",
+      "nova_reason": "The product is a video game rated 18+ and marketed for adult audiences, not a toy designed for children. The cover art and title indicate it is a strategy or narrative-driven\ngame rather than a collectible or play-focused item.\n[IMAGES: 2]"
+    },
+    {
+      "asin": "B0FWKJF4NV",
+      "csi_title": "-Golfspiel-Set | Tragbares Minigolfplatz-Set Mit Zuckerstangenschl&#228;ger Und B&#228;llen | Lustige Weihnachtsparty-Spiele Als F&#252;r Das Homeoffice",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "Voir description",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [],
+          "normalized": null
+        },
+        "target_gender": null,
+        "material": {
+          "raw": "ABS",
+          "normalized": "ABS"
+        },
+        "bullet_points": {
+          "fr": [
+            "Démarrage rapide Activité familiale : ce petit jeu de golf est conçu comme un kit prêt à jouer qui ne nécessite aucun assemblage et contient tout pour un plaisir de\njeu instantané. Il offre aux familles une solution prête à l'emploi pour créer facilement des moments joyeux lors d'occasions festives"
+          ],
+          "en": [],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B0FWKJF4NV_0.jpg",
+        "images": [
+          "./images/B0FWKJF4NV_0.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B0FWKJF4NV",
+        "title": "Fetch Error",
+        "brand_name": null,
+        "included_components": null,
+        "country_of_origin": null,
+        "unit_count": null,
+        "item_type_name": null,
+        "model_name": null,
+        "model_number": null,
+        "manufacturer_part_number": null,
+        "manufacturer": null,
+        "best_sellers_rank": null,
+        "asin": null,
+        "bullets": null,
+        "manufacturer_recommended_age": null
+      },
+      "powerchat_verdict": "TP",
+      "powerchat_reason": "Product is an indoor mini-golf game set with candy cane-themed clubs and balls, designed for family play. It passes Step 0 (designed for play by children and adults), Step 1\n(not in excluded groups - it's an indoor game, not a board game or card game), and qualifies under Branch H (Exploration Toys and Other Toys) as a game/toy for indoor\nentertainment. The NOVA visual analysis appears to reference a different product (gingerbread house) and does not match the actual product evidence provided (golf game\nset). Classification: TP, Branch H, Confidence: 85%.",
+      "nova_verdict": "FP",
+      "nova_reason": "The product is a decorative gingerbread house made of edible materials, not designed for play. It falls under food products, which are explicitly excluded from toy classification\nper Step 0 of the rule.\n[IMAGES: 1]"
+    },
+    {
+      "asin": "B01GIV6E4A",
+      "csi_title": "ACTIV Life Super Cool LED-Rad-Leuchten inklusive Batterien.Sichtbar von allen Blickwinkeln, ultimative Sicherheit und Stil (1 Reifenpaket)., blau, 1-Wheel",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "1-Roue",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [],
+          "normalized": null
+        },
+        "target_gender": null,
+        "material": {
+          "raw": "Silicone",
+          "normalized": "Silicone"
+        },
+        "bullet_points": {
+          "fr": [
+            "Les éclairages pour roues de vélo les plus vendus sont populaires auprès de tous les âges, ce qui les rend parfaits pour les balades estivales. Ils sont faciles à\ninstaller, transforment votre vélo en un spectacle fascinant et constituent d'excellents cadeaux. Ils sont présentés sur NBC, ABC, CBS et"
+          ],
+          "en": [],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B01GIV6E4A_0.jpg",
+        "images": [
+          "./images/B01GIV6E4A_0.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B01GIV6E4A",
+        "title": "Fetch Error",
+        "brand_name": null,
+        "included_components": null,
+        "country_of_origin": null,
+        "unit_count": null,
+        "item_type_name": null,
+        "model_name": null,
+        "model_number": null,
+        "manufacturer_part_number": null,
+        "manufacturer": null,
+        "best_sellers_rank": null,
+        "asin": null,
+        "bullets": null,
+        "manufacturer_recommended_age": null
+      },
+      "powerchat_verdict": "FP",
+      "powerchat_reason": "```json\n{\n  'verdict': 'FP',\n  'reason': 'Product is a bicycle wheel light accessory, not a toy. Per Excluded Group A (Outdoor and ride-on toys), bicycle accessories including lights for bikes are explicitly\nexcluded from this toy classification rule. NOVA VISUAL AI confirms this assessment. While marketing mentions 'gift' and 'all ages,' the product's primary function is\nsafety/visibility for bicycles, not play. The built-in, non-separable LED and battery components (Override 1) further exclude it from toy scope.'\n}\n```\n**Classification Details:**\n<p><b>ASIN:</b> Not provided in evidence</p>\n<p><b>Product:</b> ACTIV Life Super Cool LED-Rad-Leuchten (Bicycle Wheel Lights)</p>\n<p><b>Verdict:</b> FP (False Positive / Out of Scope)</p>\n<p><b>Rule Category:</b> Excluded Group A – Outdoor and ride-on toys</p>\n<p><b>Confidence:</b> 95%</p>\n<p><b>Reasoning:</b></p>\n<ul>\n<li><b>Step 0 Failure:</b> Product is not designed for play. It is a safety accessory for bicycles, not a toy with play intent.</li>\n<li><b>Excluded Group A Match:</b> Bicycle accessories and lights for bikes are explicitly listed as excluded outdoor toy accessories.</li>\n<li><b>Override 1 Applied:</b> Product contains built-in, non-separable LED lights and batteries—electronic components that cannot be removed while maintaining product\nfunction.</li>\n<li><b>NOVA Visual AI Alignment:</b> Visual analysis confirms this is a bicycle accessory, not a standalone toy, overriding generic 'gift' marketing language.</li>\n</ul>",
+      "nova_verdict": "FP",
+      "nova_reason": "The product is a bicycle wheel light accessory, not a standalone toy. It is designed for safety and visibility on bicycles, which falls under the exclusion for outdoor and ride-on\ntoys (Excluded Group A).\n[IMAGES: 1]"
+    },
+    {
+      "asin": "B0BBN6GM32",
+      "csi_title": "Gr&#252;ndl Wolle Filzwolle color - Dicke Wolle zum Filzen in der Waschmaschine f&#252;r 1 Paar Hausschuhe mit Anleitung und Nadel - Weich und\nhautfreundlich - 100% Schurwolle - 4 Kn&#228;uel 50 g/50 m - orange",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "25 x 16 x 7 cm",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte"
+          ],
+          "normalized": null
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": "laine",
+          "normalized": "laine"
+        },
+        "bullet_points": {
+          "fr": [
+            "Respirant, résistant"
+          ],
+          "en": [
+            "Everything included: the Gründl knitting complete set contains everything needed for DIY felt slippers. With 4 balls of Gründl felt wool colour, high-quality needles\nmade of bamboo of thickness 8.0 and easy-to-understand instructions including size chart can be knitted immediately. Bright pattern: the colourful felt wool scores with a\nunique pattern directly from the ball. For colourful DIY slippers that make all feet shine. Tested for harmful substances and warming: the Gründl felt wool is Oeko"
+          ],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B0BBN6GM32_0.jpg",
+        "images": [
+          "./images/B0BBN6GM32_0.jpg",
+          "./images/B0BBN6GM32_1.jpg",
+          "./images/B0BBN6GM32_2.jpg",
+          "./images/B0BBN6GM32_3.jpg",
+          "./images/B0BBN6GM32_4.jpg",
+          "./images/B0BBN6GM32_5.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B0BBN6GM32",
+        "title": "Gründl Wool Felting Wool Colour - Thick Wool for Felting in the Washing Machine for 1 Pair of Slippers with Instructions and Needle - Soft and Skin Friendly - 100%\nVirgin Wool - 4 Balls 50 g/50 m - Or",
+        "brand_name": "120\nAge Range Description: Adult",
+        "included_components": "Needles, instructions, wool",
+        "country_of_origin": null,
+        "unit_count": null,
+        "item_type_name": "Knitting set with instructions and needles",
+        "model_name": "Orange-Fuchsia-Purple Multicoloured\nArt Craft Kit Type: knit felt slipper set\nSet Name: Gründl Wool felting wool colour",
+        "model_number": "2614-A-30",
+        "manufacturer_part_number": "2",
+        "manufacturer": "Gründl",
+        "best_sellers_rank": "157,274 in Home & Kitchen (See Top 100 in Home & Kitchen) 19 in Knitting Kits 2,743 in Yarn",
+        "asin": "B0BBN6GM32",
+        "bullets": "Everything included: the Gründl knitting complete set contains everything needed for DIY felt slippers. With 4 balls of Gründl felt wool colour, high-quality needles\nmade of bamboo of thickness 8.0 and easy-to-understand instructions including size chart can be knitted immediately. Bright pattern: the colourful felt wool scores with a\nunique pattern directly from the ball. For colourful DIY slippers that make all feet shine. Tested for harmful substances and warming: the Gründl felt wool is Oeko",
+        "manufacturer_recommended_age": null
+      },
+      "powerchat_verdict": "FP",
+      "powerchat_reason": "Product is an adult DIY felting/knitting kit for making slippers, not a toy. STEP 0 fails: no evidence of play intent for children. Target audience is 'Adulte' (adult). EXCLUDED\nGROUP C applies: sewing kits with hand tools (needles included) for adult DIY projects belong to FR_DIYNONTHERMIC, not toys. NOVA VISUAL AI confirms: images show\nknitting needles, yarn, and felted slippers—adult craft supplies, not children's play items.",
+      "nova_verdict": "FP",
+      "nova_reason": "The product is a sewing kit and yarn, which are classified under adult DIY repair tools and art supplies, not toys. The images show knitting needles, yarn, and felted slippers,\nwhich are not designed for children's play.\n[IMAGES: 6]"
+    }
+  ]
+}

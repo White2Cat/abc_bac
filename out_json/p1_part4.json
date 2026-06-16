@@ -1,0 +1,1535 @@
+{
+  "source_file": "DPX_AI_Full_2026-06-16_FR_Toys_1_Toys_1781574451025_Part4.pdf",
+  "records": [
+    {
+      "asin": "B0FLWFV14S",
+      "csi_title": "Puzzle f&#252;r Erwachsene, 1000-teiliges Puzzle Mont Saint Michel, geeignet f&#252;r Kinder ab 14 Jahren, Lernspiele f&#252;r Zuhause, DIY-Spielzeug,\nKunstwerk, Geschenk, 50x75cm",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "(50x75cm)1000 pieces",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "168_months_to_1188_months\nsize_map: XX-Large"
+          ],
+          "normalized": null
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Emballage et design haut de gamme : Les puzzles pour adultes avec lettres au dos sont livrés dans une boîte élégante contenant 1000/2000 pièces, ainsi qu'un\nposter de référence pour vous guider lors de l'assemblage. Dimensions finales : 26x38cm (1000 pièces), 50x75cm (1000 pièces), 70x100 cm (2000 p"
+          ],
+          "en": [
+            "Hochwertige Verpackung und Design: Puzzles für Erwachsene mit Buchstaben auf der Rückseite werden in einer edlen Verpackung mit 1000/2000 Puzzleteilen und\neinem Poster geliefert, das Sie beim Zusammenbau unterstützt. Fertige Größe: (1000 Teile) 26x38cm, (1000 Teile) 50x75cm, (2000 Teile) 70x100cm. Hochwertiges Puzzle:\nDie Oberfläche des Puzzles wurde mit fortschrittlicher Folientechnologie beschichtet, um die satten und leuchtenden Farben zu erhalten. Die Puzzles sind hochwertig\nverarbeitet und"
+          ],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B0FLWFV14S_0.jpg",
+        "images": [
+          "./images/B0FLWFV14S_0.jpg",
+          "./images/B0FLWFV14S_1.jpg",
+          "./images/B0FLWFV14S_2.jpg",
+          "./images/B0FLWFV14S_3.jpg",
+          "./images/B0FLWFV14S_4.jpg",
+          "./images/B0FLWFV14S_5.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B0FLWFV14S",
+        "title": "Puzzle für Erwachsene, 1000-teiliges Puzzle Mont Saint Michel, geeignet für Kinder ab 14 Jahren, Lernspiele für Zuhause, DIY-Spielzeug, Kunstwerk, Geschenk,\n50x75cm",
+        "brand_name": "ABKDKMXZ\nAge Range Description: 168_months_to_1188_months",
+        "included_components": null,
+        "country_of_origin": null,
+        "unit_count": "1.0 stück",
+        "item_type_name": null,
+        "model_name": null,
+        "model_number": null,
+        "manufacturer_part_number": null,
+        "manufacturer": "ABKMXDKZ",
+        "best_sellers_rank": null,
+        "asin": "B0FLWFV14S",
+        "bullets": "Hochwertige Verpackung und Design: Puzzles für Erwachsene mit Buchstaben auf der Rückseite werden in einer edlen Verpackung mit 1000/2000 Puzzleteilen und\neinem Poster geliefert, das Sie beim Zusammenbau unterstützt. Fertige Größe: (1000 Teile) 26x38cm, (1000 Teile) 50x75cm, (2000 Teile) 70x100cm. Hochwertiges Puzzle:\nDie Oberfläche des Puzzles wurde mit fortschrittlicher Folientechnologie beschichtet, um die satten und leuchtenden Farben zu erhalten. Die Puzzles sind hochwertig\nverarbeitet und",
+        "manufacturer_recommended_age": null
+      },
+      "powerchat_verdict": "FP",
+      "powerchat_reason": "This product is an adult puzzle (1000 pieces, Mont Saint Michel, 50x75cm) marketed for ages 14+. While the rule knowledge lists 'Wood or magnetic educational puzzles' as\nTP, this product is: (1) not explicitly a wood or magnetic puzzle, (2) positioned as an adult leisure/art product rather than an educational toy, and (3) confirmed by NOVA\nVISUAL AI preliminary verdict as FP, noting the puzzle does not fall under specified toy categories. The product is a decorative/recreational puzzle for adults, not a toy per the\nrule definition.",
+      "nova_verdict": "FP",
+      "nova_reason": "The images depict a poster and a puzzle, which do not fall under any of the specified toy categories in the rule knowledge. The poster is a decorative item, and the puzzle is\nnot explicitly listed as a toy category.\n[IMAGES: 6]"
+    },
+    {
+      "asin": "B0DKBQLBFL",
+      "csi_title": "BAUBAUPLAY 3D Puzzle Holz Flugschiff, DIY Steampunk Flugschiff Holzmodelle Baus&#228;tze, 3D Modellbau Holzbausatz Handwerk Holzbausatz Geschenk\nf&#252;r Erwachsene",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "14 x 13,5 cm",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "168_months_to_1188_months\nsize_map: m"
+          ],
+          "normalized": null
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": "Bois",
+          "normalized": "Bois"
+        },
+        "bullet_points": {
+          "fr": [
+            "Design unique : les couleurs vives, combinées à des éléments steampunk et fantastiques, créent un effet visuel accrocheur. Chaque pièce, de la coque à l'hélice,\na été soigneusement conçue pour souligner le caractère distinctif du navire volant, Éducatif et amusant : ce kit de construction ne consist"
+          ],
+          "en": [
+            "Unique Design The bright colors, combined with steampunk and fantasy elements, provide an eye-catching visual effect. Each part, from the fuselage to the propeller,\nhas been carefully designed to highlight the distinctive character of the flying ship Educational and entertaining: this kit is not only about assembling parts, but also about\ntraining patience, promoting fine motor skills and experiencing the joy of creating something extraordinary HIGH QUALITY MATERIAL This model is made of high qu"
+          ],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B0DKBQLBFL_0.jpg",
+        "images": [
+          "./images/B0DKBQLBFL_0.jpg",
+          "./images/B0DKBQLBFL_1.jpg",
+          "./images/B0DKBQLBFL_2.jpg",
+          "./images/B0DKBQLBFL_3.jpg",
+          "./images/B0DKBQLBFL_4.jpg",
+          "./images/B0DKBQLBFL_5.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B0DKBQLBFL",
+        "title": "3D Puzzle Wooden Flight Ship, DIY Steampunk Flight Ship Wooden Models Construction Kits, 3D Model Building Wooden Kit Craft Wooden Construction Kit Gift for\nAdults",
+        "brand_name": "BAUBAUPLAY",
+        "included_components": "Assembly ship model\nAge Range Description: 168/1188 Months",
+        "country_of_origin": null,
+        "unit_count": "1.0 count",
+        "item_type_name": null,
+        "model_name": null,
+        "model_number": "17VJ12ZY155J2XC",
+        "manufacturer_part_number": "17VJ12ZY155J2XC\nSet Name: Card Set",
+        "manufacturer": "BAUBAUPLAY",
+        "best_sellers_rank": "622,813 in Toys (See Top 100 in Toys) 3,253 in 3-D Puzzles",
+        "asin": "B0DKBQLBFL",
+        "bullets": "Unique Design The bright colors, combined with steampunk and fantasy elements, provide an eye-catching visual effect. Each part, from the fuselage to the propeller,\nhas been carefully designed to highlight the distinctive character of the flying ship Educational and entertaining: this kit is not only about assembling parts, but also about\ntraining patience, promoting fine motor skills and experiencing the joy of creating something extraordinary HIGH QUALITY MATERIAL This model is made of high qu",
+        "manufacturer_recommended_age": "16 years and up"
+      },
+      "powerchat_verdict": "FP",
+      "powerchat_reason": "This product is a 3D wooden puzzle model kit for adults (age 16+), not a toy. While the rule includes 'Construction game / building blocks / bricks,' those categories explicitly\ntarget children and preschoolers. This steampunk airship model is marketed as a collectible craft for adults, similar to model building kits. The age range (168-1188 months =\n14-99 years) and 'Gift for Adults' positioning indicate it falls outside the toy classification scope. Construction kits in the rule are educational toys for children; this is an adult\nhobby/collectible item.\n[IMAGES: 6]",
+      "nova_verdict": "N/A",
+      "nova_reason": ""
+    },
+    {
+      "asin": "B0BTPCFXV1",
+      "csi_title": "Fisher-Price Flap &amp; Go Tukan - Pl&#252;schiges Kinderwagenspielzeug, f&#246;rdert Feinmotorik und sensorische F&#228;higkeiten, f&#252;r Neugeborene\nab der Geburt, HNX66",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "S",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Enfant"
+          ],
+          "normalized": null
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": "Plastique",
+          "normalized": "Plastique"
+        },
+        "bullet_points": {
+          "fr": [
+            "Jouet toucan en peluche pour poussettes avec battement d’ailes et détails sensoriels pour captiver et divertir votre bébé, Tirez, puis relâchez les pieds pour que\nles ailes du toucan battent de haut en bas, Jeu sensoriel pour les nouveau-nés : tissus en peluche doux, bec à texture froissée, pieds à"
+          ],
+          "en": [
+            "Plush toucan stroller toy to take with fun wing strikes and sensory details to keep babies busy and delighted Simply pull on your feet and release to see the toucan's\nwings hit up and down Sensory play for newborns: soft plush fabrics, rattling beak, rattling feet and bell sounds in the stomach when beaten or shaken Easy to attach to the\npram roof or changing bag with practical connection Helps strengthen fine motor skills and promote sensory skills while introducing the concept cause and effect"
+          ],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B0BTPCFXV1_0.jpg",
+        "images": [
+          "./images/B0BTPCFXV1_0.jpg",
+          "./images/B0BTPCFXV1_1.jpg",
+          "./images/B0BTPCFXV1_2.jpg",
+          "./images/B0BTPCFXV1_3.jpg",
+          "./images/B0BTPCFXV1_4.jpg",
+          "./images/B0BTPCFXV1_5.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B0BTPCFXV1",
+        "title": "Fisher-Price Flap & Go Toucan - Plush Pram Toy, Promotes Fine Motor Skills and Sensory Skills, for Newborns from Birth, HNX66",
+        "brand_name": "Fisher-Price\nManufacturer Warranty Description: 10392 year warranty\nGlobal Trade Identification Number: 00194735152445",
+        "included_components": "1 x toy\nManufacturer Contact Information: Mattel; Solmsstr. 83|60486|Frankfurt|DE; info.de@mattel.com",
+        "country_of_origin": null,
+        "unit_count": "1.0 count",
+        "item_type_name": "Toy",
+        "model_name": null,
+        "model_number": "HNX66",
+        "manufacturer_part_number": "HNX66",
+        "manufacturer": "Mattel\nUPC: 194735152445 194735175956",
+        "best_sellers_rank": "71,891 in Toys (See Top 100 in Toys) 238 in Baby Rattles & Plush Rings 789 in Dolls",
+        "asin": "B0BTPCFXV1",
+        "bullets": "Plush toucan stroller toy to take with fun wing strikes and sensory details to keep babies busy and delighted Simply pull on your feet and release to see the toucan's\nwings hit up and down Sensory play for newborns: soft plush fabrics, rattling beak, rattling feet and bell sounds in the stomach when beaten or shaken Easy to attach to the\npram roof or changing bag with practical connection Helps strengthen fine motor skills and promote sensory skills while introducing the concept cause and effect",
+        "manufacturer_recommended_age": "0 months and up"
+      },
+      "powerchat_verdict": "TP",
+      "powerchat_reason": "Product matches multiple TP categories from Rule Knowledge: (1) 'Plush toys for infants' - soft plush toucan designed for newborns from birth; (2) 'Rattles / Rattle toys' -\nincludes rattling beak, feet, and bell sounds; (3) 'Teething rings / toys' - designed with sensory features for oral exploration. NOVA VISUAL AI preliminary verdict (TP) confirms\nclassification. Product evidence (plush material, sensory details, newborn age range, attachment mechanism) aligns with infant toy categories.",
+      "nova_verdict": "TP",
+      "nova_reason": "The toy is a plush bird-shaped rattle with a teething ring attachment, designed for infants. It matches the category of 'Plush toys for infants' and 'Teething rings / toys' as\ndefined in the rule knowledge.\n[IMAGES: 6]"
+    },
+    {
+      "asin": "B0FTL5G295",
+      "csi_title": "CSI Data Viewer",
+      "csi_status": "TS\nisTombstone: true",
+      "attributes": {
+        "size_info": {
+          "size": "31.50X25.50X7.00CM",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [],
+          "normalized": null
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Kits de fabrication de sacs - une fois terminé, il y a un sac à bandoulière à la mode et attrayant, vous tomberez amoureux de lui, kits de fabrication de sacs à dos,\nKit de matériaux faits à la main - le matériau est sûr et fiable, confortable et délicat toucher, kit de fabrication de sacs à main, A"
+          ],
+          "en": [],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B0FTL5G295_0.jpg",
+        "images": [
+          "./images/B0FTL5G295_0.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B0FTL5G295",
+        "title": "Fetch Error",
+        "brand_name": null,
+        "included_components": null,
+        "country_of_origin": null,
+        "unit_count": null,
+        "item_type_name": null,
+        "model_name": null,
+        "model_number": null,
+        "manufacturer_part_number": null,
+        "manufacturer": null,
+        "best_sellers_rank": null,
+        "asin": null,
+        "bullets": null,
+        "manufacturer_recommended_age": null
+      },
+      "powerchat_verdict": "FP",
+      "powerchat_reason": "Product is a DIY bag-making craft kit (kit de fabrication de sacs), which falls under general DIY craft sets. While the rule includes 'DIY craft set' (Set de bricolage DIY) as a TP\ncategory, the NOVA VISUAL AI preliminary verdict identifies this as crafting tools and accessories intended for sewing/crafting rather than play. The product's primary purpose\nis adult/older child creative hobby work (bag construction), not toy play. This contradicts the toy classification rule, and visual evidence overrides text contradictions per the\nanalysis strategy. Classification: FP (False Positive for toy category).",
+      "nova_verdict": "FP",
+      "nova_reason": "The image shows a set of crafting tools and accessories, including scissors, measuring tools, and decorative elements, which do not match any category of toys listed in the\nrule knowledge. The items appear to be intended for crafting or sewing rather than play.\n\n[IMAGES: 1]"
+    },
+    {
+      "asin": "B0F544Q5PR",
+      "csi_title": "CSI Data Viewer",
+      "csi_status": "TS\nisTombstone: true",
+      "attributes": {
+        "size_info": {
+          "size": "Se référer au descriptif",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Se référer à la description"
+          ],
+          "normalized": null
+        },
+        "target_gender": null,
+        "material": {
+          "raw": "Tissu non tissé",
+          "normalized": "Tissu non tissé"
+        },
+        "bullet_points": {
+          "fr": [
+            "Matériau sûr et non irritant : Ce set de sacs à main pour est fabriqué en feutre parfait, offrant une expérience créative sans risque ni irritation. Les peuvent profiter\npleinement de leur activité manuelle tout en étant protégés grâce à un matériau respectueux de la peau. Le feutre garantit une séc"
+          ],
+          "en": [],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B0F544Q5PR_0.jpg",
+        "images": [
+          "./images/B0F544Q5PR_0.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B0F544Q5PR",
+        "title": "Fetch Error",
+        "brand_name": null,
+        "included_components": null,
+        "country_of_origin": null,
+        "unit_count": null,
+        "item_type_name": null,
+        "model_name": null,
+        "model_number": null,
+        "manufacturer_part_number": null,
+        "manufacturer": null,
+        "best_sellers_rank": null,
+        "asin": null,
+        "bullets": null,
+        "manufacturer_recommended_age": null
+      },
+      "powerchat_verdict": "FP",
+      "powerchat_reason": "Product is a felt handbag craft kit, not a toy per rule definition. NOVA VISUAL AI confirms: lacks toy characteristics (no figurines, plush toys, educational toys, vehicles, or other\nspecified categories). The item is a decorative handbag with sewing supplies, classified as a craft accessory rather than a toy.",
+      "nova_verdict": "FP",
+      "nova_reason": "The product is a felt handbag with decorative elements, not a toy as defined in the rule list. It lacks characteristics of any specified toy categories such as figurines, plush toys,\neducational toys, or play vehicles.\n[IMAGES: 1]"
+    },
+    {
+      "asin": "B01H09X3FM",
+      "csi_title": "Eureka 52473368 - Holzpuzzle-Set Extreme 4-teilig",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "Petit",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "8 ans to 99 ans"
+          ],
+          "normalized": null
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": "Bois",
+          "normalized": "Bois"
+        },
+        "bullet_points": {
+          "fr": [
+            "coffret de 4 casse-têtes, logique pure, de junior à extrême"
+          ],
+          "en": [],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B01H09X3FM_0.jpg",
+        "images": [
+          "./images/B01H09X3FM_0.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B01H09X3FM",
+        "title": "Fetch Error",
+        "brand_name": null,
+        "included_components": null,
+        "country_of_origin": null,
+        "unit_count": null,
+        "item_type_name": null,
+        "model_name": null,
+        "model_number": null,
+        "manufacturer_part_number": null,
+        "manufacturer": null,
+        "best_sellers_rank": null,
+        "asin": null,
+        "bullets": null,
+        "manufacturer_recommended_age": null
+      },
+      "powerchat_verdict": "FP",
+      "powerchat_reason": "Product is a wooden puzzle set (Holzpuzzle-Set) featuring logic challenges from junior to extreme difficulty. While the rule includes 'Wood or magnetic educational puzzles,'\nthis product is classified as a strategy/puzzle game rather than a toy per rule definitions. NOVA VISUAL AI preliminary verdict (FP) confirms this assessment—geometric and\nalgebraic puzzle collections fall outside specified toy categories (collectibles, figures, construction kits, dolls, plush toys, musical instruments, craft kits, etc.). The product does\nnot match Rule knowledge base for TP classification.",
+      "nova_verdict": "FP",
+      "nova_reason": "The product is a wooden puzzle collection featuring geometric and algebraic elements, which does not fall under any of the specified toy categories such as collectibles, action\nfigures, or construction kits. It is classified as a strategy/puzzle game rather than a toy per the rule definitions.\n\n[IMAGES: 1]"
+    },
+    {
+      "asin": "B09QH4S72Q",
+      "csi_title": "CMON A Song of Ice and Fire Tabletop Miniatures Game Stark Starter Set",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "12 inches x 12 inches x 4 inches",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Enfant"
+          ],
+          "normalized": null
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": "Papier cartonné",
+          "normalized": "Papier cartonné"
+        },
+        "bullet_points": {
+          "fr": [],
+          "en": [
+            "Vorgefärbte Miniaturen"
+          ],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B09QH4S72Q_0.jpg",
+        "images": [
+          "./images/B09QH4S72Q_0.jpg",
+          "./images/B09QH4S72Q_1.jpg",
+          "./images/B09QH4S72Q_2.jpg",
+          "./images/B09QH4S72Q_3.jpg",
+          "./images/B09QH4S72Q_4.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B09QH4S72Q",
+        "title": "CMON A Song of Ice and Fire Tabletop Miniatures Game Stark Starter Set\nAge Range Description: Kid",
+        "brand_name": "CMON",
+        "included_components": "Cards, Dice",
+        "country_of_origin": "China\nModel Year: 2022",
+        "unit_count": null,
+        "item_type_name": "miniature war game",
+        "model_name": "Strong: starter set\nSet Name: Stark starter set\nUPC: 889696012364",
+        "model_number": "SIF01A",
+        "manufacturer_part_number": "SIF01A",
+        "manufacturer": "CMON",
+        "best_sellers_rank": "471,108 in Toys (See Top 100 in Toys) 1,797 in Tabletop & Miniature Gaming",
+        "asin": "B09QH4S72Q",
+        "bullets": "Vorgefärbte Miniaturen",
+        "manufacturer_recommended_age": "0 months and up"
+      },
+      "powerchat_verdict": "FP",
+      "powerchat_reason": "Product is a tabletop miniatures strategy game (CMON A Song of Ice and Fire) intended for ages 14+, not a children's toy. While it contains miniature figures, it is a hobby\ngaming product with complex ruleset and game mechanics, not a collectible figure or play toy matching the Rule categories (which focus on action figures, Funko figures, play\nsets for toddlers/preschoolers, or construction toys). NOVA VISUAL AI preliminary verdict (FP) confirms this classification—the product falls outside specified toy categories.",
+      "nova_verdict": "FP",
+      "nova_reason": "The product is a tabletop miniatures game starter set featuring pre-assembled figures and game components, which does not fall under any of the specified toy categories in\nthe rule knowledge. It is classified as a hobby gaming product intended for ages 14+, not a children's toy.\n[IMAGES: 5]"
+    },
+    {
+      "asin": "B0B82TN443",
+      "csi_title": "ABYSTYLE - Naruto Shippuden Spiel 7 Familien Naruto Shippuden",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "10 x 19 x 1.5 cm",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [],
+          "normalized": null
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": "Papier, Carton",
+          "normalized": "Papier, Carton"
+        },
+        "bullet_points": {
+          "fr": [
+            "100 % officiel, 42 cartes, Dimensions : 10 x 19 x 1,5 cm, Dès 5 ans., 2 à 6 joueurs, Fabrication française."
+          ],
+          "en": [
+            "100% Official Licensed Product 42 cards 10 x 19 x 1.5 cm 5 years and up. 2 to 6 players Made in France."
+          ],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B0B82TN443_0.jpg",
+        "images": [
+          "./images/B0B82TN443_0.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B0B82TN443",
+        "title": "ABYSTYLE - Naruto Shippuden Game 7 Families Naruto Shippuden\nAge Range Description: Teen",
+        "brand_name": "ABYSTYLE",
+        "included_components": "Cards",
+        "country_of_origin": null,
+        "unit_count": null,
+        "item_type_name": "7 pieces",
+        "model_name": "Naruto Shippuden Happy Families\nSet Name: 7 Families\nGlobal Trade Identification Number: 03665361084501",
+        "model_number": "ABYJDC007",
+        "manufacturer_part_number": "ABYJDC007",
+        "manufacturer": "ABYstyle",
+        "best_sellers_rank": "740,581 in Toys (See Top 100 in Toys) 17,690 in Board Games (Toys)",
+        "asin": "B0B82TN443",
+        "bullets": "100% Official Licensed Product 42 cards 10 x 19 x 1.5 cm 5 years and up. 2 to 6 players Made in France.",
+        "manufacturer_recommended_age": "5 - 13 years"
+      },
+      "powerchat_verdict": "FP",
+      "powerchat_reason": "This is a card-based strategy game (Jeu de 7 familles/Seven Families), not a toy category listed in the Rule Knowledge. While it features Naruto characters, the product is\nfundamentally a board/card game with gameplay mechanics, which falls outside the specified toy classifications (collectible figures, action figures, construction kits, dolls, plush\ntoys, musical instruments, craft kits, etc.). NOVA VISUAL AI preliminary verdict (FP) confirms this assessment—strategy games are explicitly excluded from the TP categories.",
+      "nova_verdict": "FP",
+      "nova_reason": "The product is a board game (Jeu de 7 familles) featuring Naruto characters, which does not match any of the specified toy categories such as collectible figures, action\nfigures, or construction kits. It is a strategy game, not a toy.\n[IMAGES: 1]"
+    },
+    {
+      "asin": "B0D2LDBBQ9",
+      "csi_title": "Precision Carving Craft Messer,Skalpell mit 10 Ersatzklingen,Skalpell Set,Hobby- Schnitzmesser zum Schneiden,Bastelmesser Cuttermesser,f&#252;r DIY Art\nWork Cutting,Scrapbooking\nbullet_point: 0\u0010Package Inclus 0\u0011L'ensemble de couteaux artisanaux comprend 1 couteau de précision et 10 lames de rechange. La tête de coupe est équipée d'un capuchon de\nprotection pour plus de sécurité et de commodité., 0\u0010Material Precision 0\u0011Carving Knife est fait de poignées en alliage d'aluminium, qui sont except",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "14x1.7cm",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [],
+          "normalized": null
+        },
+        "target_gender": null,
+        "material": {
+          "raw": "Aluminium",
+          "normalized": "Aluminium"
+        },
+        "bullet_points": {
+          "fr": [],
+          "en": [
+            "Package includes: the craft knife set contains 1 precision knife and 10 replacement blades. The knife head is equipped with a protective cap for safety and comfort.\nMaterial: Precision carving knife is made of aluminium alloy handles, which are exceptionally strong and comfortable to hold. They are designed for fine engraving to minimize\nfatigue. Blade storage: At the end of the knife there is a pull groove as a storage box in which 10 blades can be stored, which saves space and allows convenien"
+          ],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B0D2LDBBQ9_0.jpg",
+        "images": [
+          "./images/B0D2LDBBQ9_0.jpg",
+          "./images/B0D2LDBBQ9_1.jpg",
+          "./images/B0D2LDBBQ9_2.jpg",
+          "./images/B0D2LDBBQ9_3.jpg",
+          "./images/B0D2LDBBQ9_4.jpg",
+          "./images/B0D2LDBBQ9_5.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B0D2LDBBQ9",
+        "title": "Precision Carving Craft Knife, Scalpel with 10 Replacement Blades, Scalpel Set, Hobby Carving Knife for Cutting, Craft Knife, Cutter Knife, for DIY Art, Work Cutting,\nScrapbooking\nBrand: Zimoer",
+        "brand_name": null,
+        "included_components": "No",
+        "country_of_origin": "China",
+        "unit_count": null,
+        "item_type_name": null,
+        "model_name": null,
+        "model_number": "301-32689",
+        "manufacturer_part_number": null,
+        "manufacturer": "Zimoer\nPart Number: 301-32689",
+        "best_sellers_rank": "171,660 in DIY & Tools (See Top 100 in DIY & Tools) 645 in Utility Knives (DIY & Tools)",
+        "asin": "B0D2LDBBQ9",
+        "bullets": "Package includes: the craft knife set contains 1 precision knife and 10 replacement blades. The knife head is equipped with a protective cap for safety and comfort.\nMaterial: Precision carving knife is made of aluminium alloy handles, which are exceptionally strong and comfortable to hold. They are designed for fine engraving to minimize\nfatigue. Blade storage: At the end of the knife there is a pull groove as a storage box in which 10 blades can be stored, which saves space and allows convenien",
+        "manufacturer_recommended_age": null
+      },
+      "powerchat_verdict": "FP",
+      "powerchat_reason": "This is a precision carving knife/scalpel set with replacement blades designed for detailed cutting tasks (model making, sculpture, scrapbooking, art work). It is a craft tool, not\na toy. The Rule Knowledge specifies toy categories only (figures, dolls, construction games, plush toys, musical instruments, bath toys, vehicles, painting/craft kits, etc.). While\n'DIY craft set' appears in the rule, this product is a cutting tool/utility knife, not a creative craft kit. It does not match any toy classification in the provided rule.\n[IMAGES: 6]",
+      "nova_verdict": "N/A",
+      "nova_reason": ""
+    },
+    {
+      "asin": "B0CYLQFWVK",
+      "csi_title": "Georgie Porgy Kratzbilder Set DIY Bastelsets f&#252;r Erwachsene Kinder Magic Rainbow A3 Kratzpapier f&#252;r Weihnachten Geburtstagsgeschenk mit\nKratzwerkzeuge Kit (Van Gogh)",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "Centre",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Enfant"
+          ],
+          "normalized": null
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": "Papier",
+          "normalized": "Papier"
+        },
+        "bullet_points": {
+          "fr": [
+            "Matériel : Les ensembles de papier à gratter pour l'art sont composés de carton en papier épais, les bâtons de bois sont en bois, non toxiques et sans danger\npour les enfants et les adultes., Kit super valeur : le paquet contient 4 feuilles de papier à gratter Van Gogh (40,5 x 28,5 cm), 1 papier tra"
+          ],
+          "en": [
+            "Material: the scratch paper art kits are made of thick paper cardboard, the wooden pens are made of wood, which are non-toxic and harmless to children and adults.\nSuper value set: the package contains 8 sheets of scratch paper cards (29 x 21 cm), 4 sheets of scratch postcards (20 x 14 cm), 1 scratch pen, 1 repair pen, 1 clean brush, 6\nwooden sticks. Wiping Application This DIY arts and crafts kit is suitable for birthday parties, Christmas parties, family and classroom activities, DIY projects t"
+          ],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B0CYLQFWVK_0.jpg",
+        "images": [
+          "./images/B0CYLQFWVK_0.jpg",
+          "./images/B0CYLQFWVK_1.jpg",
+          "./images/B0CYLQFWVK_2.jpg",
+          "./images/B0CYLQFWVK_3.jpg",
+          "./images/B0CYLQFWVK_4.jpg",
+          "./images/B0CYLQFWVK_5.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B0CYLQFWVK",
+        "title": "Georgie Porgy Scratch Picture Set DIY Craft Sets for Adults Children Magic Rainbow Scratch Paper A4 Art Cardboard Boxes for Christmas Birthday Gift with Scratch\nTools Kit (Beauty Fireworks City)",
+        "brand_name": "Georgie Porgy\nAge Range Description: Adult children",
+        "included_components": "Scratch paper cards (A4, 8 sheets), scratch postcards (4 sheets), wooden sticks (3 pieces), scratch pen, repair pen, cleaning brush, instruction booklet",
+        "country_of_origin": "China",
+        "unit_count": "1.0 count",
+        "item_type_name": "Scratch Paper Set",
+        "model_name": "Scratch Pictures Set DIY Craft Sets for Adults Children Magic Rainbow Scratch Paper A4 Art Cardboard Boxes for Christmas Birthday Gift with Scratch Tools Kit\nArt Craft Kit Type: diy craft kit\nSet Name: Georgie Porgy Magic Rainbow scratch paper set",
+        "model_number": "Scratch Paper Set 6-Beauty+Fireworks",
+        "manufacturer_part_number": "Scratch Paper Set",
+        "manufacturer": "Georgie Porgy",
+        "best_sellers_rank": "13,832 in Toys (See Top 100 in Toys) 14 in Kids' Scratch Art Paper & Pads",
+        "asin": "B09DPDNNBH",
+        "bullets": "Material: the scratch paper art kits are made of thick paper cardboard, the wooden pens are made of wood, which are non-toxic and harmless to children and adults.\nSuper value set: the package contains 8 sheets of scratch paper cards (29 x 21 cm), 4 sheets of scratch postcards (20 x 14 cm), 1 scratch pen, 1 repair pen, 1 clean brush, 6\nwooden sticks. Wiping Application This DIY arts and crafts kit is suitable for birthday parties, Christmas parties, family and classroom activities, DIY projects t",
+        "manufacturer_recommended_age": null
+      },
+      "powerchat_verdict": "TP",
+      "powerchat_reason": "Product is a scratch art/scratch paper DIY craft kit for children. Despite NOVA VISUAL AI's preliminary verdict of FP, the textual evidence clearly indicates this is a scratch\npainting craft set matching the rule category 'Scratch painting (FR: Peinture au sable)' and 'DIY craft set (FR: Set de bricolage DIY)'. The product contains scratch paper\nsheets, scratch tools, and is explicitly marketed for children ages 3+, family activities, and creative play. The rule knowledge explicitly includes scratch-based painting/art\nactivities as TP toy categories. Visual analysis may have misidentified the product type; the CSI and DP evidence consistently describe scratch art materials, not decorative\nglow-in-the-dark paintings.",
+      "nova_verdict": "FP",
+      "nova_reason": "The images depict glow-in-the-dark or light-up paintings of cityscapes and landmarks, not toys. These are decorative art products, not classified under any toy category in the\nrule knowledge.\n[IMAGES: 6]"
+    },
+    {
+      "asin": "B0FJLST7ZV",
+      "csi_title": "U&amp;C Planet 45 cm Christmas H&#252;pfball - Fantastischer Weihnachts Sprungball mit Festlichem Design, Hopperball Geschenk f&#252;r Kinder 3-8 Jahre\ninkl. Luftpumpe &amp; Bouncy Ball Colorbox",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "45 cm",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "3+"
+          ],
+          "normalized": null
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": "PVC",
+          "normalized": "PVC"
+        },
+        "bullet_points": {
+          "fr": [
+            "Motif festif de Noël Cette balle rebondissante aux couleurs vives est ornée de motifs joyeux de Noël, notamment le Père Noël, des rennes, des sapins de Noël et\ndes bonhommes de neige, offrant aux enfants une expérience de jeu joyeuse et festive pendant les fêtes de fin d'année., Matériau PVC Renforc"
+          ],
+          "en": [],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B0FJLST7ZV_0.jpg",
+        "images": [
+          "./images/B0FJLST7ZV_0.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B0FJLST7ZV",
+        "title": "Fetch Error",
+        "brand_name": null,
+        "included_components": null,
+        "country_of_origin": null,
+        "unit_count": null,
+        "item_type_name": null,
+        "model_name": null,
+        "model_number": null,
+        "manufacturer_part_number": null,
+        "manufacturer": null,
+        "best_sellers_rank": null,
+        "asin": null,
+        "bullets": null,
+        "manufacturer_recommended_age": null
+      },
+      "powerchat_verdict": "FP",
+      "powerchat_reason": "Product is a 45cm hopper ball (bouncy ball) with Christmas decorations for children ages 3-8. While it is a toy, it does not match any categories in the Rule Knowledge list. The\nRule specifies allowed toy types (collectible figures, construction games, dolls, plush toys, musical instruments, craft kits, etc.). A hopper/bouncy ball is not listed as an allowed\nTP category. NOVA VISUAL AI confirms this is a bouncy ball, not a water balloon or other specified toy type. Therefore, this ASIN should be classified as FP (False Positive for\nToys category).",
+      "nova_verdict": "FP",
+      "nova_reason": "The product is a green bouncy ball with festive holiday decorations, designed for children to bounce on. It does not match any of the specified toy categories such as\ncollectibles, action figures, or construction sets. The ball is categorized as a water balloon (ballons d'eau) which is not included in the allowed toy types.\n[IMAGES: 1]"
+    },
+    {
+      "asin": "B01CZSSGNC",
+      "csi_title": "ASS Altenburger 22509585 22509585-Stadt, Name, Land, Kartenspiel, ab 7 Jahren, blau",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "Einzelpack",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "7 Jahre to 99 Jahre"
+          ],
+          "normalized": null
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": "Carton",
+          "normalized": "Carton"
+        },
+        "bullet_points": {
+          "fr": [
+            "Âge : à partir de 7 ans, Durée moyenne d'une partie : 15 minutes, Nombre de joueurs : A partir de 2"
+          ],
+          "en": [
+            "The thrilling knowledge game on cards Simple game principle and quickly explained City, Name, Country A name with C? A city with Z? A movie title with E? The\npopular knowledge game for children and the whole family, with countless question and answer options Fast-paced fun with the ultimate fun factor Original ASS Altenburger\nquality"
+          ],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B01CZSSGNC_0.jpg",
+        "images": [
+          "./images/B01CZSSGNC_0.jpg",
+          "./images/B01CZSSGNC_1.jpg",
+          "./images/B01CZSSGNC_2.jpg",
+          "./images/B01CZSSGNC_3.jpg",
+          "./images/B01CZSSGNC_4.jpg",
+          "./images/B01CZSSGNC_5.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B01CZSSGNC",
+        "title": "ASS Card Games\nAge Range Description: From 7 years",
+        "brand_name": "ASS",
+        "included_components": "Cards",
+        "country_of_origin": "Germany",
+        "unit_count": null,
+        "item_type_name": "ASS Altenburger 22509585 - City, Name, Country, Card Game",
+        "model_name": "Città, nome, paese\nSet Name: City, Name, Country\nGlobal Trade Identification Number: 04042677095855",
+        "model_number": "22509585",
+        "manufacturer_part_number": "22509585\nManufacturer Contact Information: info@spielkarten.com; info@spielkarten.com",
+        "manufacturer": "Cartamundi Deutschland",
+        "best_sellers_rank": "31,289 in Toys (See Top 100 in Toys) 647 in Dedicated Deck Card Games",
+        "asin": "B01CZSSGNC",
+        "bullets": "The thrilling knowledge game on cards Simple game principle and quickly explained City, Name, Country A name with C? A city with Z? A movie title with E? The\npopular knowledge game for children and the whole family, with countless question and answer options Fast-paced fun with the ultimate fun factor Original ASS Altenburger\nquality",
+        "manufacturer_recommended_age": "7 - 10 years"
+      },
+      "powerchat_verdict": "FP",
+      "powerchat_reason": "This is a strategy card game (City, Name, Country - a knowledge/trivia game), which is explicitly excluded from the 'Card / stickers to collect' TP category per the rule: 'Card /\nstickers to collect - excluding strategy games.' NOVA VISUAL AI confirms this is a strategy game, not a collectible card product. The rule only classifies collectible\ncards/stickers as TP, not strategy games.",
+      "nova_verdict": "FP",
+      "nova_reason": "The product is a card game designed for ages 2+ and 7+, classified as a strategy game. The rule explicitly excludes strategy games from the 'cards/stickers to collect'\ncategory, making this a false positive match.\n\n[IMAGES: 6]"
+    },
+    {
+      "asin": "B0CTH7MP1Y",
+      "csi_title": "LOCCY Damen Kristall Perlen Mehrschichtiges Steine Armband Boho Modeschmuck Schwarz (Blau)\nbullet_point: Ø<ß8 0\u0010avec une corde élastique0\u0011 - Le bracelet empilable dispose d'une variété de perles de cristal colorées filetées avec une corde élastique. Quatre bracelets dans\nla même combinaison de couleurs rendent l'ensemble du bracelet plus superposé tout en étant élégant et élégant. Le cordon élastique rend",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "Taille unique",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte"
+          ],
+          "normalized": null
+        },
+        "target_gender": "female",
+        "material": {
+          "raw": "perles de cristal",
+          "normalized": "perles de cristal"
+        },
+        "bullet_points": {
+          "fr": [],
+          "en": [],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B0CTH7MP1Y_0.jpg",
+        "images": [
+          "./images/B0CTH7MP1Y_0.jpg",
+          "./images/B0CTH7MP1Y_1.jpg",
+          "./images/B0CTH7MP1Y_2.jpg",
+          "./images/B0CTH7MP1Y_3.jpg",
+          "./images/B0CTH7MP1Y_4.jpg",
+          "./images/B0CTH7MP1Y_5.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B0CTH7MP1Y",
+        "title": "Women's Crystal Beads Multilayer Stones Bracelet - Boho Fashion Jewellery Black\nPackage Dimensions  \u000f  \u000e: 5 x 5 x 2 cm; 50 g\nDate First Available  \u000f  \u000e: 29 Jan 2024\nASIN  \u000f  \u000e: B0CTH7D6H9\nManufacturer reference  \u000f  \u000e: LOCCYSJCZ\nDepartment  \u000f  \u000e: womens",
+        "brand_name": null,
+        "included_components": null,
+        "country_of_origin": null,
+        "unit_count": null,
+        "item_type_name": null,
+        "model_name": null,
+        "model_number": null,
+        "manufacturer_part_number": null,
+        "manufacturer": null,
+        "best_sellers_rank": "139 in Women's Bracelets",
+        "asin": null,
+        "bullets": null,
+        "manufacturer_recommended_age": null
+      },
+      "powerchat_verdict": "FP",
+      "powerchat_reason": "This product is an adult fashion bracelet made of crystal beads, not a toy. It does not match any category in the Rule Knowledge (which covers toys for children and\ncollectibles). The target audience is adult females, and the product is marketed as fashion jewelry/boho accessory. NOVA VISUAL AI confirms this is a fashion accessory, not a\ntoy, which aligns with the evidence provided.",
+      "nova_verdict": "FP",
+      "nova_reason": "The product is a set of glass crystal beaded bracelets, which does not fall under any of the specified toy categories in the rule knowledge. It is a fashion accessory rather than\na toy.\n[IMAGES: 6]"
+    },
+    {
+      "asin": "B0CGD4FYWG",
+      "csi_title": "OBEST 4 St&#252;ck Metallpuzzle Cast Puzzle, Spielzeug Puzzle Magic Unlock Entpacken 3D, Knobelspiele Metall Puzzle Logisches Denken Testspiel,\nErwachsene und Kinder Bildung Herausforderung Spielzeug",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "Klein (4 stuks)",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [],
+          "normalized": null
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": "alliage de zinc",
+          "normalized": "alliage de zinc"
+        },
+        "bullet_points": {
+          "fr": [
+            "Jeu de puzzle en métal: notre jeu de puzzle de 4 pièces comprend 1 cœur de l'océan, 1 trèfle à quatre feuilles, 1 colonne vertébrale dans une cage et 1 serrure à\nclé en bronze; Des possibilités d'apprentissage uniques sont créées pour les adolescents qui peuvent vous donner de la fraîcheur et du pla"
+          ],
+          "en": [
+            "METAL PUZZLE GAME Our 4-piece series of puzzle games includes 1 ocean heart, 1 leaf grass, 1 spine in the cage and 1 key lock with bronze bronze, creating\nunique learning opportunities for teens that provide you with freshness and fun in any leisure time. CHALLENGING UNLOCKING TOYS These metal puzzles are a big\nchallenge. Simple designs may seem insignificant, but in reality they are quite complex, and you have to manipulate these fragments until you can separate them. Educational\ntoy: this is a"
+          ],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B0CGD4FYWG_0.jpg",
+        "images": [
+          "./images/B0CGD4FYWG_0.jpg",
+          "./images/B0CGD4FYWG_1.jpg",
+          "./images/B0CGD4FYWG_2.jpg",
+          "./images/B0CGD4FYWG_3.jpg",
+          "./images/B0CGD4FYWG_4.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B0CGD4FYWG",
+        "title": "OBEST 4 Piece Metal Puzzle Cast Puzzle, Toy Puzzle Magic Unlock Unlock 3D, Puzzle Games Metal Puzzle Logical Thinking Test Game, Adults and Children Education\nChallenge Toy",
+        "brand_name": "OBEST",
+        "included_components": "['4 Pieces']\nCustomer Package Type: POSSIBLY FFP",
+        "country_of_origin": null,
+        "unit_count": "4.0 stück\nUPC: 784482184105",
+        "item_type_name": null,
+        "model_name": null,
+        "model_number": null,
+        "manufacturer_part_number": null,
+        "manufacturer": "OBEST\nSet Name: Brain Teaser",
+        "best_sellers_rank": "293,652 in Toys (See Top 100 in Toys) 1,758 in 3-D Puzzles",
+        "asin": "B0CGD4FYWG",
+        "bullets": "METAL PUZZLE GAME Our 4-piece series of puzzle games includes 1 ocean heart, 1 leaf grass, 1 spine in the cage and 1 key lock with bronze bronze, creating\nunique learning opportunities for teens that provide you with freshness and fun in any leisure time. CHALLENGING UNLOCKING TOYS These metal puzzles are a big\nchallenge. Simple designs may seem insignificant, but in reality they are quite complex, and you have to manipulate these fragments until you can separate them. Educational\ntoy: this is a",
+        "manufacturer_recommended_age": "0 - 10 years"
+      },
+      "powerchat_verdict": "FP",
+      "powerchat_reason": "Product is a metal puzzle game set, not a toy category listed in the rule knowledge. While the product description mentions 'educational toy' and 'learning,' metal puzzles for\nlogic and problem-solving do not match any specified TP categories (collectible figures, construction games, dolls, plush toys, musical instruments, bath toys, vehicles, craft\nkits, etc.). NOVA VISUAL AI confirms this assessment: the images show decorative metallic puzzle pieces that are ornamental in nature and do not align with rule-defined toy\ncategories. The product targets adolescents and adults primarily, positioning it outside the toy classification scope.",
+      "nova_verdict": "FP",
+      "nova_reason": "The images depict decorative metallic key and teething ring designs, which do not match any specified toy categories in the rule knowledge. The key is purely ornamental, and\nthe teething ring lacks typical features such as soft materials or safety certifications for infants.\n[IMAGES: 5]"
+    },
+    {
+      "asin": "B0DTDZ8DQB",
+      "csi_title": "Moyu Spiegelkubus V2, 3x3 Magnetischer Stickerloser Cube 3x3x3 Magischer Speed Cube Original, 3D Puzzle Magic Cube Magnetisch UV-Beschichtete Version\nf&#252;r Kinder, Teenager (Gr&#252;n)",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "3x3",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adolescente"
+          ],
+          "normalized": null
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": "Acrylonitrile butadiène styrène (ABS)",
+          "normalized": "Acrylonitrile butadiène styrène (ABS)"
+        },
+        "bullet_points": {
+          "fr": [
+            "Unique Aesthetic Design, Perfect for Collectors - Moyu mirror cube V2 features an irregular shape and reflective coating, creating a stunning visual effect. It’s not\njust a puzzle but also a piece of art, making it ideal for moyu's cube enthusiasts and collectors who appreciate unique and stylish it"
+          ],
+          "en": [
+            "Unique aesthetic design, perfect for collectors - Moyu mirror cube V2 features an irregular shape and reflective coating, creating a stunning visual effect. It's not just a\npuzzle but also a piece of art, making it ideal for moyu's cube enthusiasts and collectors who appreciate unique and stylish items. High-quality materials for smooth and\ndurable performance - made from premium ABS plastic with a mirror-finish coating, Moyu mirror cubes offer a smooth and durable experience. Mirror cube v2 mag"
+          ],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B0DTDZ8DQB_0.jpg",
+        "images": [
+          "./images/B0DTDZ8DQB_0.jpg",
+          "./images/B0DTDZ8DQB_1.jpg",
+          "./images/B0DTDZ8DQB_2.jpg",
+          "./images/B0DTDZ8DQB_3.jpg",
+          "./images/B0DTDZ8DQB_4.jpg",
+          "./images/B0DTDZ8DQB_5.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B0DTDZ8DQB",
+        "title": "Moyu Mirror Cube V2, 3 x 3 Magnetic Stickerless Cube 3 x 3 x 3 Magic Speed Cube Original, 3D Puzzle Magic Cube Magnetic UV Coated Version for Children,\nTeenagers (Green)",
+        "brand_name": "Moyu",
+        "included_components": "Cube\nAge Range Description: Teen",
+        "country_of_origin": null,
+        "unit_count": null,
+        "item_type_name": null,
+        "model_name": null,
+        "model_number": "8985-2",
+        "manufacturer_part_number": "8985-2",
+        "manufacturer": "Moyu",
+        "best_sellers_rank": "187,028 in Toys (See Top 100 in Toys) 1,194 in 3-D Puzzles",
+        "asin": "B0DTDZ8DQB",
+        "bullets": "Unique aesthetic design, perfect for collectors - Moyu mirror cube V2 features an irregular shape and reflective coating, creating a stunning visual effect. It's not just a\npuzzle but also a piece of art, making it ideal for moyu's cube enthusiasts and collectors who appreciate unique and stylish items. High-quality materials for smooth and\ndurable performance - made from premium ABS plastic with a mirror-finish coating, Moyu mirror cubes offer a smooth and durable experience. Mirror cube v2 mag",
+        "manufacturer_recommended_age": "6 years and up"
+      },
+      "powerchat_verdict": "FP",
+      "powerchat_reason": "The Moyu Mirror Cube V2 is a puzzle/brain teaser toy, not a toy construction game, building blocks, or bricks as specified in the Rule Knowledge. While it is educational and\nsuitable for children/teens, it does not match any of the TP categories listed (construction games, building blocks, Lego, magnetic construction, etc.). The NOVA VISUAL AI\npreliminary verdict confirms this classification—the product features a spinning puzzle mechanism, not construction or building components. Therefore, this ASIN does not\nqualify for TP classification.",
+      "nova_verdict": "FP",
+      "nova_reason": "The product is a mirror cube, which is a type of puzzle or brain teaser, not a construction game / building blocks / bricks as defined in the rule knowledge. The visual features\nshow a stack of mirrored cubes designed for spinning and solving, not for building or construction.\n[IMAGES: 6]"
+    },
+    {
+      "asin": "B0DPSGVR53",
+      "csi_title": "Bullglesup Puzzle f&#252;r Erwachsene 1000 Teile, Coloful Flower mit Poster, Teile Passen Perfekt Ineinander Buchstaben Auf der R&#252;ckseite Kein Staub,\nGeschenk f&#252;r &#196;ltere Senioren (70 x 50cm)",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "1000 pieces, 50 x 70 cm",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte"
+          ],
+          "normalized": null
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": "Carton",
+          "normalized": "Carton"
+        },
+        "bullet_points": {
+          "fr": [
+            "Peinture nette et nette : grâce à la technologie unique de film de surface, le puzzle offre des couleurs vives et belles qui restent fraîches pendant longtemps.\nLorsque vous démissionnez pour regarder le chef-d'œuvre fini, vous ressentirez une satisfaction visuelle et vous verrez une image impressio"
+          ],
+          "en": [
+            "Sharp clear painting: thanks to the unique surface film technology, the puzzle ensures vibrant and beautiful colours that stay fresh for a long time. When you step back\nto view the finished masterpiece, you will experience visual satisfaction and see an impressive picture. Pieces can be easily folded: the 1000-piece puzzles are made from\nrecycled cardboard and are precisely cut so that they fit perfectly into each other. There are no risers on the edges and the parts are not too loose or too fir"
+          ],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B0DPSGVR53_0.jpg",
+        "images": [
+          "./images/B0DPSGVR53_0.jpg",
+          "./images/B0DPSGVR53_1.jpg",
+          "./images/B0DPSGVR53_2.jpg",
+          "./images/B0DPSGVR53_3.jpg",
+          "./images/B0DPSGVR53_4.jpg",
+          "./images/B0DPSGVR53_5.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B0DPSGVR53",
+        "title": "Puzzle for Adults, 1000 Pieces, Coloful Flower with Poster, Pieces Fit Perfectly Inside Each Other, Letters on the Back, No Dust, Gift for Elderly Seniors (70 x 50 cm)",
+        "brand_name": "Bullglesup",
+        "included_components": "puzzle;poster\nAge Range Description: Adult",
+        "country_of_origin": null,
+        "unit_count": null,
+        "item_type_name": null,
+        "model_name": null,
+        "model_number": "B-ZFH219568876",
+        "manufacturer_part_number": "B-ZFH219568876\nManufacturer Warranty Description: 30-day warranty against manufacturer defects",
+        "manufacturer": "Bullglesup",
+        "best_sellers_rank": "258,238 in Toys (See Top 100 in Toys) 7,751 in Jigsaws (Toys)",
+        "asin": "B0DPSGVR53",
+        "bullets": "Sharp clear painting: thanks to the unique surface film technology, the puzzle ensures vibrant and beautiful colours that stay fresh for a long time. When you step back\nto view the finished masterpiece, you will experience visual satisfaction and see an impressive picture. Pieces can be easily folded: the 1000-piece puzzles are made from\nrecycled cardboard and are precisely cut so that they fit perfectly into each other. There are no risers on the edges and the parts are not too loose or too fir",
+        "manufacturer_recommended_age": "14 - 14 years"
+      },
+      "powerchat_verdict": "FP",
+      "powerchat_reason": "This is an adult jigsaw puzzle (1000 pieces, 70x50cm) targeting seniors and adults, not children. The rule knowledge specifies toy categories for children and toddlers\n(pre-school educational toys, construction games, dolls, plush toys, musical instruments, etc.). Adult puzzles fall outside the defined TP categories. NOVA VISUAL AI confirms:\nthe image shows an elderly couple assembling a puzzle, which does not match any specified toy classification. Visual evidence overrides text contradictions.",
+      "nova_verdict": "FP",
+      "nova_reason": "The image depicts an elderly couple assembling a jigsaw puzzle, which does not fall under any of the specified toy categories in the rule knowledge. The puzzle pieces are not\nrelated to collectible figures, action figures, Funko figures, or any other listed toy types.\n[IMAGES: 6]"
+    },
+    {
+      "asin": "B0B31WNDX5",
+      "csi_title": "Folat 68322 Tischkonfetti XL Dino Roars - 45 St&#252;ck",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "XL",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "All ages"
+          ],
+          "normalized": null
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": "Papier",
+          "normalized": "Papier"
+        },
+        "bullet_points": {
+          "fr": [
+            "Confettis de table XL Dino Roars - 45 pièces., Contenu: 45 confettis. Couleur: Multicolore., Vous pouvez utiliser cet article pour les occasions de fête suivantes:\nFête des enfants., Les confettis sont imprimés des deux côtés., Cet article est en papier."
+          ],
+          "en": [
+            "Table Confetti XL Dino Roars - Pack of 45. Contents: 45 confetti. Colour: multi-coloured. You can use this item for the following party occasions: children's party. The\nconfetti is printed on both sides. This item is made of paper."
+          ],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B0B31WNDX5_0.jpg",
+        "images": [
+          "./images/B0B31WNDX5_0.jpg",
+          "./images/B0B31WNDX5_1.jpg",
+          "./images/B0B31WNDX5_2.jpg",
+          "./images/B0B31WNDX5_3.jpg",
+          "./images/B0B31WNDX5_4.jpg",
+          "./images/B0B31WNDX5_5.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B0B31WNDX5",
+        "title": "Folat 68322 Table Confetti XL Dino Roars - Pack of 45",
+        "brand_name": "Folat\nAge Range Description: All Ages\nGlobal Trade Identification Number: 08714572683227\nSet Name: Pack of 45",
+        "included_components": "Pack of 45 confetti",
+        "country_of_origin": "China",
+        "unit_count": null,
+        "item_type_name": "Folat 68322 Table Confetti XL Dino Roars - Pack of 45",
+        "model_name": null,
+        "model_number": "68322",
+        "manufacturer_part_number": "68322",
+        "manufacturer": "Folat",
+        "best_sellers_rank": "663,078 in Home & Kitchen (See Top 100 in Home & Kitchen) 1,875 in Confetti",
+        "asin": "B0B31WNDX5",
+        "bullets": "Table Confetti XL Dino Roars - Pack of 45. Contents: 45 confetti. Colour: multi-coloured. You can use this item for the following party occasions: children's party. The\nconfetti is printed on both sides. This item is made of paper.",
+        "manufacturer_recommended_age": "36 months - 3 years"
+      },
+      "powerchat_verdict": "FP",
+      "powerchat_reason": "Product is table confetti (decorative paper pieces for parties), not a toy. While NOVA VISUAL AI suggests 'stickers to collect,' the CSI evidence clearly identifies this as\n'Confettis de table' (table confetti) made of paper for party decoration. Confetti is a party supply, not a collectible sticker product or toy. The rule specifies 'Card / stickers to\ncollect' which implies collectible items with intended collection value, not single-use decorative confetti. This contradicts the toy classification.",
+      "nova_verdict": "TP",
+      "nova_reason": "The images depict dinosaur-themed stickers and party decorations, which fall under the category of 'Card / stickers to collect - excluding strategy games' as per the rule\nknowledge. The stickers are designed for decorative or collectible purposes, aligning with the specified product type.\n[IMAGES: 6]"
+    },
+    {
+      "asin": "B0DPWYT42X",
+      "csi_title": "Figured&apos;Art Holzpuzzle Erwachsene und Kinder 200 Teile Tiere - Blumen-Eule - Originelles Design 28x39 cm Einzigartige Form mit Premium-Holzkiste\nbullet_point: +P PUZZLE EN BOIS PREMIUM POUR ADULTES – Avec 200 pièces précises et uniques, ce puzzle offre une activité captivante pour stimuler votre esprit tout en\nvous détendant. Parfait à faire seul, en famille et entre amis pour partager un moment de calme et de complicité. Une fois assemblé, votre puzzle de",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "200 pièces",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte"
+          ],
+          "normalized": null
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": "Bois",
+          "normalized": "Bois"
+        },
+        "bullet_points": {
+          "fr": [],
+          "en": [],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B0DPWYT42X_0.jpg",
+        "images": [
+          "./images/B0DPWYT42X_0.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B0DPWYT42X",
+        "title": "Fetch Error",
+        "brand_name": null,
+        "included_components": null,
+        "country_of_origin": null,
+        "unit_count": null,
+        "item_type_name": null,
+        "model_name": null,
+        "model_number": null,
+        "manufacturer_part_number": null,
+        "manufacturer": null,
+        "best_sellers_rank": null,
+        "asin": null,
+        "bullets": null,
+        "manufacturer_recommended_age": null
+      },
+      "powerchat_verdict": "FP",
+      "powerchat_reason": "This is an adult jigsaw puzzle (200 pieces, target age: Adult) featuring decorative artwork (owl and flowers). It does not match any TP categories in the rule knowledge base.\nThe rule specifies toy categories for children and pre-school items (e.g., construction games, educational puzzles, collectible figures), but explicitly excludes adult decorative\npuzzles. NOVA VISUAL AI confirms this is a decorative/artistic puzzle, not a toy. Classification: False Positive.",
+      "nova_verdict": "FP",
+      "nova_reason": "The product is a jigsaw puzzle featuring an owl and floral designs, which does not match any of the specified toy categories such as collectible figures, action figures, or\nconstruction games. It is categorized as a decorative or artistic puzzle rather than a toy.\n[IMAGES: 1]"
+    },
+    {
+      "asin": "B0FW6H6SF6",
+      "csi_title": "Riesiges Poster zum Ausmalen für Weihnachten – leere Leinwand für Kunst, Doodle, Banner, Wanddekoration, großes Poster zum Ausmalen von Weihnachten |\nfür Mädchen, Schlafzimmer, Wohnzimmer, Haus",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "Se référer au descriptif",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [],
+          "normalized": null
+        },
+        "target_gender": null,
+        "material": {
+          "raw": null,
+          "normalized": null
+        },
+        "bullet_points": {
+          "fr": [
+            "Utilisation et Stockage Pratiques: Le poster de coloriage géant de Noël est conçu pour éliminer les étapes complexes de cadrage, permettant aux utilisateurs de\nl'afficher et de le présenter directement avec une grande facilité. Ce matériel prêt à l'emploi rend la décoration créative des espaces de f"
+          ],
+          "en": [
+            "CONVENIENT USE & STORAGE The giant Christmas coloring poster is designed to eliminate complex framing steps, allowing users to view and display it directly.\nThis ready-to-use material makes creative party room decoration effortless, while providing lightweight portability and easy storage for festive atmosphere. Ideal for convenient\nuse and easy storage during the holiday season VIBRANT VISITIVE APPEARANCE Christmas coloring posters allow colors to be evenly distributed across their surfaces, cr"
+          ],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B0FW6H6SF6_0.jpg",
+        "images": [
+          "./images/B0FW6H6SF6_0.jpg",
+          "./images/B0FW6H6SF6_1.jpg",
+          "./images/B0FW6H6SF6_2.jpg",
+          "./images/B0FW6H6SF6_3.jpg",
+          "./images/B0FW6H6SF6_4.jpg",
+          "./images/B0FW6H6SF6_5.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B0FW6H6SF6",
+        "title": "Giant Coloring Poster for Christmas - Blank Canvas for Art Doodle Banner Wall Decor Large Poster for Colouring Christmas | for Girls Bedroom Living Room House",
+        "brand_name": "Générique",
+        "included_components": null,
+        "country_of_origin": null,
+        "unit_count": null,
+        "item_type_name": null,
+        "model_name": "Générique -VSJ21728ZOH7JAAVLQ",
+        "model_number": "VSJ21728ZOH7JAAVLQ",
+        "manufacturer_part_number": "VSJ21728ZOH7JAAVLQ",
+        "manufacturer": "Générique",
+        "best_sellers_rank": null,
+        "asin": "B0FW6H6SF6",
+        "bullets": "CONVENIENT USE & STORAGE The giant Christmas coloring poster is designed to eliminate complex framing steps, allowing users to view and display it directly.\nThis ready-to-use material makes creative party room decoration effortless, while providing lightweight portability and easy storage for festive atmosphere. Ideal for convenient\nuse and easy storage during the holiday season VIBRANT VISITIVE APPEARANCE Christmas coloring posters allow colors to be evenly distributed across their surfaces, cr",
+        "manufacturer_recommended_age": null
+      },
+      "powerchat_verdict": "FP",
+      "powerchat_reason": "This product is a blank coloring poster for Christmas decoration, not a toy category listed in the Rule Knowledge. While it involves creative activity, it is fundamentally a wall\ndecoration/art supply item, not a toy. The Rule Knowledge specifies toy categories like painting games (sequins painting, diamond painting, sand painting), DIY craft sets, and\nmodeling materials—but does not include blank posters or coloring sheets as standalone products. This is wall décor, not a toy.\n[IMAGES: 6]",
+      "nova_verdict": "N/A",
+      "nova_reason": ""
+    },
+    {
+      "asin": "B0FH6RYJ16",
+      "csi_title": "Guniata 640 St&#252;ck Moosgummi Buchstaben,Schaumstoff Buchstaben Selbstklebend,Leuchtende Farben,Klebebuchstaben Schaumstoff,f&#252;r\nKartendekoration,Schul,DIY,Basteln,Scrapbooking(10 Farben)",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": null,
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [],
+          "normalized": null
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": "EVA",
+          "normalized": "EVA"
+        },
+        "bullet_points": {
+          "fr": [
+            "Effet scintillant : le design scintillant accrocheur attire immédiatement l'attention ! Idéal pour ajouter une touche de charme aux travaux manuels, aux cadeaux ou\naux fournitures scolaires personnalisées telles que le scrapbooking et les gourdes., Créativité DIY : améliorez la motricité fine et la"
+          ],
+          "en": [
+            "Glitter effect: the eye-catching glitter design immediately attracts attention! Ideal for adding a touch of charm to crafts, gifts or personalised school supplies such as\nscrapbooks and water bottles. DIY creativity: improve fine motor skills and letter skills through games! Encourage your child to spell names, create words and decorate DIY\nprojects to dress up for imaginative fun. Application Scenarios This foam sticker is suitable for various kinds of creative projects. You can use these glitt"
+          ],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B0FH6RYJ16_0.jpg",
+        "images": [
+          "./images/B0FH6RYJ16_0.jpg",
+          "./images/B0FH6RYJ16_1.jpg",
+          "./images/B0FH6RYJ16_2.jpg",
+          "./images/B0FH6RYJ16_3.jpg",
+          "./images/B0FH6RYJ16_4.jpg",
+          "./images/B0FH6RYJ16_5.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B0FH6RYJ16",
+        "title": "Pack of 640 Foam Rubber Letters, Self-Adhesive Foam Letters, Bright Colours, Adhesive Letters Foam, for Card Decoration, School, DIY, Crafts, Scrapbooking (10\nColours)",
+        "brand_name": "Guniata\nAge Range Description: 1\nManufacturer Warranty Description: 1",
+        "included_components": "foam rubber letters",
+        "country_of_origin": null,
+        "unit_count": "1.0 1",
+        "item_type_name": null,
+        "model_name": null,
+        "model_number": "101",
+        "manufacturer_part_number": "101",
+        "manufacturer": "Guniata",
+        "best_sellers_rank": "718,226 in Toys (See Top 100 in Toys) 12,422 in Kids' Paper & Stickers",
+        "asin": "B0FH6RYJ16",
+        "bullets": "Glitter effect: the eye-catching glitter design immediately attracts attention! Ideal for adding a touch of charm to crafts, gifts or personalised school supplies such as\nscrapbooks and water bottles. DIY creativity: improve fine motor skills and letter skills through games! Encourage your child to spell names, create words and decorate DIY\nprojects to dress up for imaginative fun. Application Scenarios This foam sticker is suitable for various kinds of creative projects. You can use these glitt",
+        "manufacturer_recommended_age": "12 months - 6 years"
+      },
+      "powerchat_verdict": "TP",
+      "powerchat_reason": "Product matches 'DIY craft set' and 'Other writing / alphabet learning games' categories in the Rule Knowledge. The self-adhesive foam letters (640 pieces) with glitter effect\nare designed for DIY crafts, scrapbooking, and alphabet learning activities for children. Product evidence explicitly mentions 'DIY creativity,' 'letter skills,' 'spelling names,' and\n'creative projects,' aligning with toy craft and educational game classifications under TP.\n[IMAGES: 6]",
+      "nova_verdict": "N/A",
+      "nova_reason": ""
+    },
+    {
+      "asin": "B09DBRXWYH",
+      "csi_title": "Operitacx Origami-Papierb&#246;gen, Bastelpapier, Faltpapier f&#252;r Kunst- und Bastelprojekte, Anf&#228;nger, Training und Schule, Basteln, Dekoration,\ngoldfarben, 100 St&#252;ck",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "10X10X0.1CM",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [],
+          "normalized": null
+        },
+        "target_gender": null,
+        "material": {
+          "raw": "Papier",
+          "normalized": "Papier"
+        },
+        "bullet_points": {
+          "fr": [
+            "Quantité Et Taille: Le lot comprend 100 feuilles de papier origami carré mesurant environ 3,9 x 3,9 pouces, idéal pour divers projets de bricolage et d'artisanat de\npapier, Matériau De Qualité: Fabriqué en pâte de bois, ce papier origami est facile à plier, résistant aux déchirures et maintient bien\nproduct_description: 0\u0010Taille0\u0011Le paquet comprend 100 pièces d'origami, la taille est d'environ 10X10cm. 0\u0010Matériau de 0\u0011 Fabriqué en pâte de bois de , durable et facile à\nmanipuler ; capable de retenir efficacement les plis ; ne se déchire pas facilement et ne s'enroule pas sur les bords. 0\u0010Surface perlée0\u0011 L'origami est en"
+          ],
+          "en": [
+            "Size: The package contains 100 origami sheets, the size is approx. 10 x 10 cm. High-quality material: Made of high-quality pulp, durable and easy to handle; can\neffectively suppress wrinkles; not easy to tear or curl the edges. Pearl surface: the origami has a golden colour with irregular bumps on the surface. It looks pearlescent under\nthe light and adds a unique touch to your origami art. Improve practical skills: Give it to children who like origami art, it can stimulate children's creativity"
+          ],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B09DBRXWYH_0.jpg",
+        "images": [
+          "./images/B09DBRXWYH_0.jpg",
+          "./images/B09DBRXWYH_1.jpg",
+          "./images/B09DBRXWYH_2.jpg",
+          "./images/B09DBRXWYH_3.jpg",
+          "./images/B09DBRXWYH_4.jpg",
+          "./images/B09DBRXWYH_5.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B09DBRXWYH",
+        "title": "Operitacx Origami Paper Sheets Craft Paper Folding Paper for Arts and Crafts Projects Beginners Training and School Crafts Decoration 100 Pieces Gold",
+        "brand_name": "Operitacx\nRecommended Uses For Product: origami,art,craft,education",
+        "included_components": null,
+        "country_of_origin": null,
+        "unit_count": null,
+        "item_type_name": null,
+        "model_name": null,
+        "model_number": "100 pièces 10*10 cm\nManufacturer Part Number:  \u000eJ8PC40",
+        "manufacturer_part_number": null,
+        "manufacturer": "Operitacx",
+        "best_sellers_rank": "2,408,235 in Home & Kitchen (See Top 100 in Home & Kitchen) 1,389 in Origami Paper",
+        "asin": "B09DBRXWYH",
+        "bullets": "Size: The package contains 100 origami sheets, the size is approx. 10 x 10 cm. High-quality material: Made of high-quality pulp, durable and easy to handle; can\neffectively suppress wrinkles; not easy to tear or curl the edges. Pearl surface: the origami has a golden colour with irregular bumps on the surface. It looks pearlescent under\nthe light and adds a unique touch to your origami art. Improve practical skills: Give it to children who like origami art, it can stimulate children's creativity",
+        "manufacturer_recommended_age": null
+      },
+      "powerchat_verdict": "FP",
+      "powerchat_reason": "Origami paper sheets are crafting materials, not toys. NOVA VISUAL AI confirms the product depicts origami paper and folded cranes—neither matches the Rule's toy\ncategories (collectible figures, action figures, construction games, dolls, plush toys, musical instruments, bath toys, vehicles, painting/craft kits, etc.). While the product\ndescription mentions 'craft projects' and 'creativity,' origami paper itself is a supply, not a toy. The Rule does not include 'origami paper' or generic 'paper crafting supplies' in its\ncomprehensive toy classification list.",
+      "nova_verdict": "FP",
+      "nova_reason": "The images depict origami paper sheets and a folded origami crane, which are not classified under any of the specified toy categories in the rule knowledge. Origami paper is\na crafting material, not a toy, and does not match any of the listed toy types such as collectible figures, action figures, or construction games.\n[IMAGES: 6]"
+    },
+    {
+      "asin": "B0DL3SSVRM",
+      "csi_title": "Magnetisches Buchstabenspielzeug - K&#252;hlschrank-Alphabet-Spielzeug, magnetische Buchstabenaufkleber | Englisches Rechtschreibspielzeug mit\nmagnetischen Buchstaben",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "Fare riferimento alla descrizione",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [],
+          "normalized": null
+        },
+        "target_gender": null,
+        "material": {
+          "raw": "Se référer à la description",
+          "normalized": "Se référer à la description"
+        },
+        "bullet_points": {
+          "fr": [
+            "[Matériau Premium] Le jouet à lettres magnétiques est fabriqué en matériau PP de haute qualité, extrêmement durable, sûr, durable et de longue durée pour vous\noffrir une expérience parfaite., [Beau jouet pour s'amuser] Le jouet magnétique 'alphabet est un jouet pratique pour l'éducation précoce qui"
+          ],
+          "en": [
+            "[Premium Material] The magnetic letter toy is made of high quality PP material, which is extremely durable, safe, durable and durable, giving you a perfect experience.\nBeautiful toy for fun: The magnetic alphabet toy is a practical toy for early education, which develops children's word recognition and cognitive skills and helps children learn\nand understand 26 English alphabets. [Great Gifts for Kids] The magnetic alphabet toy brings children more joy, a Christmas or New Year gift for children,"
+          ],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B0DL3SSVRM_0.jpg",
+        "images": [
+          "./images/B0DL3SSVRM_0.jpg",
+          "./images/B0DL3SSVRM_1.jpg",
+          "./images/B0DL3SSVRM_2.jpg",
+          "./images/B0DL3SSVRM_3.jpg",
+          "./images/B0DL3SSVRM_4.jpg",
+          "./images/B0DL3SSVRM_5.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B0DL3SSVRM",
+        "title": "Magnetic Letter Toy - Fridge Alphabet Toy, Magnetic Letter Stickers | English Spelling Toy with Magnetic Letters",
+        "brand_name": "Generic\nItem Weight: 0.15 Pounds",
+        "included_components": "See description.",
+        "country_of_origin": null,
+        "unit_count": "1.0 count",
+        "item_type_name": null,
+        "model_name": null,
+        "model_number": "JQU6M6XD7DHWTD9Y",
+        "manufacturer_part_number": "JQU6M6XD7DHWTD9Y",
+        "manufacturer": "Generic\nItem Dimensions L x W x H: 30L x 30W x 30H millimetres",
+        "best_sellers_rank": null,
+        "asin": "B0DL3SSVRM",
+        "bullets": "[Premium Material] The magnetic letter toy is made of high quality PP material, which is extremely durable, safe, durable and durable, giving you a perfect experience.\nBeautiful toy for fun: The magnetic alphabet toy is a practical toy for early education, which develops children's word recognition and cognitive skills and helps children learn\nand understand 26 English alphabets. [Great Gifts for Kids] The magnetic alphabet toy brings children more joy, a Christmas or New Year gift for children,",
+        "manufacturer_recommended_age": null
+      },
+      "powerchat_verdict": "TP",
+      "powerchat_reason": "Product matches rule category 'Other writing / alphabet learning games' (FR: Autres jeux d'écriture / d'apprentissage de l'alphabet). The magnetic letter stickers are designed\nfor early education to teach 26 English alphabets and develop word recognition and cognitive skills in children ages 3+. This aligns with the specified toy classification. NOVA\nVISUAL AI preliminary verdict (TP) confirms this classification.",
+      "nova_verdict": "TP",
+      "nova_reason": "The product consists of magnetic uppercase letters designed for educational use, matching the category of 'Wood or magnetic educational puzzles' and 'Other writing /\nalphabet learning games'.\n[IMAGES: 6]"
+    },
+    {
+      "asin": "B0CSPDW181",
+      "csi_title": "Educa - Puzzle von 1000 Teilen f&#252;r Erwachsene | Dame mit F&#228;cher, Gustav Klimt. Messen: 48 x 68 cm. Beinhaltet die puzzlekleber FixPuzzle. Seit 14\nJahren (19932)\nbullet_point: Ø>Ýé Puzzle de 1000 pièces pour adultes. Dimensions approximatives une fois assemblé: 48 x 68 cm., Ø>Ýà Stimuler votre esprit et votre créativité: les puzzles\nd'Educa sont une activité parfaite pour développer une motricité fine, une mémoire visuelle et des compétences psychomotrices, en plus de stimule",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "48 x 68 cm",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Adulte"
+          ],
+          "normalized": null
+        },
+        "target_gender": "unisex",
+        "material": {
+          "raw": "Carton",
+          "normalized": "Carton"
+        },
+        "bullet_points": {
+          "fr": [],
+          "en": [
+            "1000 pieces for adults. Approximate dimensions after assembly: 48 x 68 cm. For all puzzles from 500 to 2000 pieces (including), we give the special glue with the solid\nadhesive that sticks the finished puzzle. Perfect activity to develop thin motor skills, creativity and visual memory. The puzzles stimulate the fixation of care and the\ndevelopment of psychomotor skills, the curiosity and imagination of children and adults. Product respectful environmental environment due to its production with v"
+          ],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B0CSPDW181_0.jpg",
+        "images": [
+          "./images/B0CSPDW181_0.jpg",
+          "./images/B0CSPDW181_1.jpg",
+          "./images/B0CSPDW181_2.jpg",
+          "./images/B0CSPDW181_3.jpg",
+          "./images/B0CSPDW181_4.jpg",
+          "./images/B0CSPDW181_5.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B0CSPDW181",
+        "title": "Educa - Puzzle of 1000 Pieces for Adults | Lady with Fan Gustav Klimt Measures: 48 x 68 cm. Includes the puzzle glue FixPuzzle. For 14 years (19932)",
+        "brand_name": "Educa",
+        "included_components": "1 x puzzle.\nAge Range Description: 14-99 Years",
+        "country_of_origin": null,
+        "unit_count": "1 unité\nSub Brand: Gustav Klimt",
+        "item_type_name": "1000 Lady with Fan Gustav Klimt\nManufacturer Warranty Description: 24 Months",
+        "model_name": null,
+        "model_number": "19932\nCustomer Package Type: FFP",
+        "manufacturer_part_number": "19932\nSet Name: Educa Puzzle Passion",
+        "manufacturer": "Educa Borras\nGlobal Trade Identification Number: 08412668199323",
+        "best_sellers_rank": "206,867 in Toys (See Top 100 in Toys) 6,172 in Jigsaws (Toys)",
+        "asin": "B0CSPDW181",
+        "bullets": "1000 pieces for adults. Approximate dimensions after assembly: 48 x 68 cm. For all puzzles from 500 to 2000 pieces (including), we give the special glue with the solid\nadhesive that sticks the finished puzzle. Perfect activity to develop thin motor skills, creativity and visual memory. The puzzles stimulate the fixation of care and the\ndevelopment of psychomotor skills, the curiosity and imagination of children and adults. Product respectful environmental environment due to its production with v",
+        "manufacturer_recommended_age": "14 years and up"
+      },
+      "powerchat_verdict": "FP",
+      "powerchat_reason": "Product is a 1000-piece adult puzzle (Gustav Klimt artwork). While puzzles can be educational, this specific product does not match any category in the Rule Knowledge list.\nThe rule explicitly defines toy categories (figurines, dolls, construction games, plush toys, musical instruments, craft kits, etc.) but does not include traditional jigsaw puzzles.\nNOVA VISUAL AI confirms FP verdict—the artistic puzzle content and adult target age (14+) fall outside defined toy classifications. Text evidence (educational benefits) does\nnot override the absence of 'puzzles' as a recognized TP category in the rule knowledge.",
+      "nova_verdict": "FP",
+      "nova_reason": "The product is a 1000-piece puzzle featuring an artistic painting of a woman. While puzzles are educational toys, the specific category listed in the rule knowledge does not\ninclude puzzles as a defined toy type. The visual content does not align with any of the specified toy categories such as figurines, dolls, or construction sets.\n[IMAGES: 6]"
+    },
+    {
+      "asin": "B0BVRP7XWC",
+      "csi_title": "Smoby - Spidey - Be Fun Dreirad f&#252;r Kinder ab 15 Monate - Mitwachsend - mit Schubstange und Sicherheitsgurt",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": "L",
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Petite enfance"
+          ],
+          "normalized": null
+        },
+        "target_gender": "male",
+        "material": {
+          "raw": "Métal et plastique",
+          "normalized": "Métal et plastique"
+        },
+        "bullet_points": {
+          "fr": [
+            "Le TRICYCLE EVOLUTIF SPIDEY vous accompagnera dans toutes vos balades dès les 15 mois de bébé, DIRECTION FACILE : grâce à la canne parentale\nréglable sur 3 positions (jusqu’à 95cms), le système de roue libre et le verrouillage de direction, vous arriverez facilement à diriger le tricycle sans que vo"
+          ],
+          "en": [
+            "Grows with you: the Spidey Be Fun tricycle accompanies your child from 15 months to over the 3rd years of age, when it can pedal itself! Individual: as it grows larger\nand develops its motor skills, you can take off parts of the safety equipment Reliable safety: The Be Fun tricycle is very stable and has all the necessary facilities for the safety\nof your child (metal frame, seat belt, pedal freewheel) Practical accessory for everyday use: small basket and lockable handlebars. The push bar can b"
+          ],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B0BVRP7XWC_0.jpg",
+        "images": [
+          "./images/B0BVRP7XWC_0.jpg",
+          "./images/B0BVRP7XWC_1.jpg",
+          "./images/B0BVRP7XWC_2.jpg",
+          "./images/B0BVRP7XWC_3.jpg",
+          "./images/B0BVRP7XWC_4.jpg",
+          "./images/B0BVRP7XWC_5.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B0BVRP7XWC",
+        "title": "Smoby - Spidey - Be Fun Tricycle for Children from 15 Months - Grows with Push Bar and Safety Belt",
+        "brand_name": "Smoby\nAge Range Description: Kid\nSub Brand: Spidey und seine Super-Freunde\nManufacturer Warranty Description: 2 year manufacturer's warranty\nSet Name: Spidey",
+        "included_components": "Smoby Spidey Be Fun Tricycle",
+        "country_of_origin": "España",
+        "unit_count": "1.0 unità",
+        "item_type_name": "Smoby Spidey Be Fun Tricycle",
+        "model_name": null,
+        "model_number": "7600740337",
+        "manufacturer_part_number": "7600740337",
+        "manufacturer": "Smoby",
+        "best_sellers_rank": "589,012 in Toys (See Top 100 in Toys) 472 in Kids' Trikes",
+        "asin": "B0BVRP7XWC",
+        "bullets": "Grows with you: the Spidey Be Fun tricycle accompanies your child from 15 months to over the 3rd years of age, when it can pedal itself! Individual: as it grows larger\nand develops its motor skills, you can take off parts of the safety equipment Reliable safety: The Be Fun tricycle is very stable and has all the necessary facilities for the safety\nof your child (metal frame, seat belt, pedal freewheel) Practical accessory for everyday use: small basket and lockable handlebars. The push bar can b",
+        "manufacturer_recommended_age": "15 months and up"
+      },
+      "powerchat_verdict": "FP",
+      "powerchat_reason": "The Smoby Spidey Be Fun tricycle is a ride-on vehicle for toddlers, not a toy category listed in the Rule Knowledge. While it's designed for children aged 15 months+, it does\nnot match any specified toy classifications (e.g., push/pull toys, baby walkers, or play vehicles with accessories). The NOVA VISUAL AI preliminary verdict (FP) confirms this\nassessment. Tricycles are motorized/pedal-powered ride-on toys outside the defined toy categories.",
+      "nova_verdict": "FP",
+      "nova_reason": "The product is a tricycle designed for children, featuring a Spider-Man theme and a child seat, which does not match any of the specified toy categories in the rule knowledge.\n[IMAGES: 6]"
+    },
+    {
+      "asin": "B0FD8CN287",
+      "csi_title": "FloraVigo 12 St&#252;ck capybara stifte, 2B Holzstifte-Set, Graphitstifte f&#252;r erwachsene Lehrer, Kollegen, Zeichnen, Schreiben, Schreibwaren f&#252;r\nSchule und B&#252;ro",
+      "csi_status": "Active",
+      "attributes": {
+        "size_info": {
+          "size": null,
+          "size_map": null,
+          "additional_sizes_detected": [],
+          "structured_size": null
+        },
+        "footwear_size": null,
+        "age_range": {
+          "raw_values": [
+            "Enfant"
+          ],
+          "normalized": null
+        },
+        "target_gender": null,
+        "material": {
+          "raw": "Bois, Graphite",
+          "normalized": "Bois, Graphite"
+        },
+        "bullet_points": {
+          "fr": [
+            "Design Capybara : ce crayon Capybara contient 12 ensembles avec une gomme à l'extrémité et est idéal pour les enfants qui veulent s'amuser à apprendre. Ce\ndesign peut susciter l'intérêt des enfants pour l'écriture et le dessin., Matériau de qualité supérieure : ce crayon Capybara est fabriqué en boi"
+          ],
+          "en": [
+            "Capybara design: This Capybara pencil contains 12 sets with an eraser at the end and is ideal for children who want to have fun learning. This design can awaken\nchildren's interest in writing and drawing. High-quality material: This Capybara pencil is made of wood and graphite, is durable, smooth and non-burning, lead-free, round and\nshatterproof, making it very suitable for children. Ideal hardness: this pencil has a hardness of 2B, is very robust and does not break easily. The handwriting is c"
+          ],
+          "other": []
+        }
+      },
+      "dp": {
+        "image": "./images/B0FD8CN287_0.jpg",
+        "images": [
+          "./images/B0FD8CN287_0.jpg",
+          "./images/B0FD8CN287_1.jpg",
+          "./images/B0FD8CN287_2.jpg",
+          "./images/B0FD8CN287_3.jpg",
+          "./images/B0FD8CN287_4.jpg",
+          "./images/B0FD8CN287_5.jpg"
+        ],
+        "fr_dp_url": "https://www.amazon.fr/dp/B0FD8CN287",
+        "title": "Capybara Pens, 2B Wooden Pencils Set, Graphite Pencils for Adult Teachers, Colleagues, Drawing, Writing, Stationery for School and Office, Pack of 12",
+        "brand_name": "FloraVigo",
+        "included_components": null,
+        "country_of_origin": "China",
+        "unit_count": null,
+        "item_type_name": null,
+        "model_name": null,
+        "model_number": "FVDE250615",
+        "manufacturer_part_number": null,
+        "manufacturer": "FloraVigo",
+        "best_sellers_rank": "64,157 in Stationery & Office Supplies (See Top 100 in Stationery & Office Supplies) 726 in Wooden Lead Pencils",
+        "asin": "B0FD8CN287",
+        "bullets": "Capybara design: This Capybara pencil contains 12 sets with an eraser at the end and is ideal for children who want to have fun learning. This design can awaken\nchildren's interest in writing and drawing. High-quality material: This Capybara pencil is made of wood and graphite, is durable, smooth and non-burning, lead-free, round and\nshatterproof, making it very suitable for children. Ideal hardness: this pencil has a hardness of 2B, is very robust and does not break easily. The handwriting is c",
+        "manufacturer_recommended_age": null
+      },
+      "powerchat_verdict": "FP",
+      "powerchat_reason": "This product is a set of 12 wooden graphite pencils (2B hardness) with capybara character designs. While marketed to children, it is stationery/writing supplies, not a toy. The\nrule knowledge specifies toy categories including writing/alphabet learning games, craft kits, and educational toys, but standard pencil sets do not qualify as toys under these\ndefinitions. NOVA VISUAL AI confirms FP classification, noting the product does not fall under specified toy categories. The capybara design and child-friendly marketing do\nnot override the fundamental classification: this is stationery, not a toy.",
+      "nova_verdict": "FP",
+      "nova_reason": "The product shown in the first image is a set of 12 wooden pencils with cartoon characters, which does not fall under any of the specified toy categories in the rule knowledge.\nThe second image depicts a child using a pencil in a bedroom setting but does not show the product itself; it is not relevant to the classification task.\n[IMAGES: 6]"
+    }
+  ]
+}
