@@ -5,110 +5,593 @@
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>CSI JSON Prompt Builder</title>
   <style>
-    body { font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; margin: 18px; }
-    .row { display: flex; gap: 12px; flex-wrap: wrap; align-items: end; }
-    .field { display: flex; flex-direction: column; gap: 6px; }
-    label { font-size: 12px; opacity: .8; }
-    input, button { padding: 10px; font-size: 14px; }
-    input { min-width: 260px; }
-    button { cursor: pointer; }
-    button[disabled]{ opacity:.55; cursor:not-allowed; }
-    .card { border: 1px solid #ddd; border-radius: 10px; padding: 12px; margin-top: 12px; }
-    .muted { opacity: .7; font-size: 13px; }
-    .list { max-height: 260px; overflow: auto; border: 1px solid #eee; border-radius: 10px; padding: 8px; }
-    .asin-item { padding: 8px; border-radius: 8px; display: flex; justify-content: space-between; gap: 10px; align-items:center; }
-    .asin-item:hover { background: #f6f6f6; }
-    .asin-item.active { background: #e9f3ff; border: 1px solid #b8d7ff; }
-    pre { background: #0b1020; color: #dce7ff; padding: 12px; border-radius: 10px; overflow: auto; }
-    .actions { display:flex; gap: 10px; flex-wrap: wrap; align-items: center; }
-    .ok { color: #0a7a2f; }
-    .err { color: #b00020; }
-    .small { font-size: 12px; opacity: .8; }
-    .navbtn { min-width: 92px; }
+    @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&display=swap');
+    
+    :root {
+      --bg-main: #0b0f19;
+      --bg-card: #151c2c;
+      --bg-input: #1e283d;
+      --border-color: #2a3754;
+      --text-main: #f8fafc;
+      --text-muted: #94a3b8;
+      --primary: #3b82f6;
+      --primary-hover: #2563eb;
+      --success: #10b981;
+      --success-hover: #059669;
+      --error: #f43f5e;
+      --error-hover: #e11d48;
+      --accent: #6366f1;
+    }
+
+    body {
+      font-family: 'Outfit', system-ui, -apple-system, sans-serif;
+      background-color: var(--bg-main);
+      color: var(--text-main);
+      margin: 0;
+      padding: 0;
+      min-height: 100vh;
+      line-height: 1.5;
+    }
+
+    /* Sticky Header styling */
+    header.sticky-header {
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      background: rgba(11, 15, 25, 0.85);
+      backdrop-filter: blur(12px);
+      border-bottom: 1px solid var(--border-color);
+      padding: 12px 24px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 16px;
+      box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+    }
+
+    header.sticky-header h2 {
+      margin: 0;
+      font-size: 18px;
+      font-weight: 700;
+      background: linear-gradient(135deg, #fff 30%, #a5b4fc 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      letter-spacing: -0.02em;
+    }
+
+    /* Left Drawer styling */
+    .drawer-trigger {
+      position: fixed;
+      left: 0;
+      top: 0;
+      width: 15px;
+      height: 100vh;
+      z-index: 998;
+      background: transparent;
+    }
+    
+    .asin-drawer {
+      position: fixed;
+      left: 0;
+      top: 0;
+      width: 320px;
+      height: 100vh;
+      background: var(--bg-card);
+      border-right: 1px solid var(--border-color);
+      z-index: 999;
+      transform: translateX(-100%);
+      transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+      box-shadow: 10px 0 30px rgba(0, 0, 0, 0.5);
+      display: flex;
+      flex-direction: column;
+      box-sizing: border-box;
+      padding: 20px;
+    }
+    
+    .asin-drawer.open {
+      transform: translateX(0);
+    }
+
+    .drawer-handle {
+      position: fixed;
+      left: 14px;
+      bottom: 20px;
+      z-index: 990;
+      background: var(--bg-card);
+      border: 1px solid var(--border-color);
+      color: var(--text-main);
+      padding: 10px 14px;
+      border-radius: 30px;
+      cursor: pointer;
+      box-shadow: 0 4px 14px rgba(0, 0, 0, 0.3);
+      font-size: 13px;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      transition: all 0.2s ease;
+      font-weight: 500;
+    }
+    
+    .drawer-handle:hover {
+      border-color: var(--primary);
+      background: var(--bg-input);
+      transform: translateY(-2px);
+    }
+
+    /* Collapsible Card styling */
+    .collapsible-card {
+      background: var(--bg-card);
+      border: 1px solid var(--border-color);
+      border-radius: 12px;
+      margin-bottom: 16px;
+      box-shadow: 0 4px 20px rgba(0, 0, 0, 0.25);
+      overflow: hidden;
+      transition: border-color 0.2s;
+    }
+
+    .collapsible-card:hover {
+      border-color: #3b82f644;
+    }
+
+    .collapsible-header {
+      background: rgba(30, 41, 59, 0.3);
+      padding: 12px 16px;
+      font-weight: 600;
+      font-size: 12px;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      color: var(--text-main);
+      cursor: pointer;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      border-bottom: 1px solid var(--border-color);
+      user-select: none;
+      transition: background-color 0.2s;
+    }
+
+    .collapsible-header:hover {
+      background: rgba(30, 41, 59, 0.5);
+    }
+
+    .collapsible-content {
+      padding: 16px;
+      transition: max-height 0.3s ease-out, padding 0.3s ease-out;
+      max-height: 2000px;
+    }
+
+    .collapsible-card.collapsed .collapsible-content {
+      max-height: 0;
+      padding-top: 0;
+      padding-bottom: 0;
+      overflow: hidden;
+      border-bottom: none;
+    }
+
+    .collapsible-header::after {
+      content: "▼";
+      font-size: 10px;
+      transition: transform 0.2s;
+      color: var(--text-muted);
+    }
+
+    .collapsible-card.collapsed .collapsible-header::after {
+      transform: rotate(-90deg);
+    }
+
+    /* Details Grid styling */
+    .details-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 20px;
+      align-items: start;
+    }
+
+    @media (max-width: 900px) {
+      .details-grid {
+        grid-template-columns: 1fr;
+      }
+    }
+
+    /* General card and styles */
+    .card {
+      background: var(--bg-card);
+      border: 1px solid var(--border-color);
+      border-radius: 12px;
+      padding: 16px;
+      box-shadow: 0 4px 24px rgba(0, 0, 0, 0.35);
+      transition: border-color 0.2s, box-shadow 0.2s;
+    }
+
+    .card:hover {
+      border-color: #3b82f644;
+      box-shadow: 0 6px 30px rgba(59, 130, 246, 0.08);
+    }
+
+    .row {
+      display: flex;
+      gap: 16px;
+      flex-wrap: wrap;
+      align-items: center;
+    }
+
+    .field {
+      display: flex;
+      flex-direction: column;
+      gap: 4px;
+    }
+
+    label {
+      font-size: 11px;
+      font-weight: 500;
+      color: var(--text-muted);
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+
+    input, button {
+      padding: 8px 12px;
+      font-size: 13px;
+      font-family: inherit;
+      border-radius: 6px;
+      transition: all 0.2s ease;
+      outline: none;
+    }
+
+    input {
+      background: var(--bg-input);
+      border: 1px solid var(--border-color);
+      color: var(--text-main);
+      min-width: 180px;
+    }
+
+    input:focus {
+      border-color: var(--primary);
+      box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.25);
+      background: #232e48;
+    }
+
+    input[type="file"] {
+      min-width: unset;
+      padding: 4px;
+      font-size: 11px;
+      cursor: pointer;
+    }
+
+    button {
+      background: #222d44;
+      border: 1px solid var(--border-color);
+      color: var(--text-main);
+      font-weight: 500;
+      cursor: pointer;
+    }
+
+    button:hover:not([disabled]) {
+      background: #2e3e5c;
+      border-color: #4b628a;
+    }
+
+    button[disabled] {
+      opacity: 0.35;
+      cursor: not-allowed;
+    }
+
+    #btnLoad, #btnConfirm {
+      background: linear-gradient(135deg, var(--primary), #1d4ed8);
+      border: none;
+      color: #fff;
+      font-weight: 600;
+      box-shadow: 0 2px 10px rgba(59, 130, 246, 0.3);
+    }
+
+    #btnLoad:hover:not([disabled]), #btnConfirm:hover:not([disabled]) {
+      background: linear-gradient(135deg, #2563eb, #1e40af);
+      box-shadow: 0 4px 14px rgba(59, 130, 246, 0.5);
+      transform: translateY(-1px);
+    }
+
+    #btnCopy {
+      background: linear-gradient(135deg, var(--accent), #4f46e5);
+      border: none;
+      color: #fff;
+      font-weight: 600;
+      box-shadow: 0 2px 10px rgba(99, 102, 241, 0.3);
+    }
+
+    #btnCopy:hover:not([disabled]) {
+      background: linear-gradient(135deg, #4f46e5, #4338ca);
+      box-shadow: 0 4px 14px rgba(99, 102, 241, 0.5);
+      transform: translateY(-1px);
+    }
+
+    #btnNotAgree {
+      background: #991b1b;
+      color: #fff;
+      border: 1px solid #dc2626;
+    }
+    #btnNotAgree:hover:not([disabled]) {
+      background: #b91c1c;
+      box-shadow: 0 0 10px rgba(244, 63, 94, 0.3);
+    }
+
+    #btnClear {
+      background: #374151;
+      color: #cbd5e1;
+      border: 1px solid #4b5563;
+    }
+    #btnClear:hover:not([disabled]) {
+      background: #4b5563;
+    }
+
+    #btnExport {
+      background: linear-gradient(135deg, #059669, #047857);
+      border: none;
+      color: #fff;
+      font-weight: 600;
+      box-shadow: 0 2px 10px rgba(16, 185, 129, 0.3);
+    }
+    #btnExport:hover:not([disabled]) {
+      background: linear-gradient(135deg, #10b981, #059669);
+      box-shadow: 0 4px 14px rgba(16, 185, 129, 0.5);
+    }
+
+    .muted {
+      color: var(--text-muted);
+      font-size: 13px;
+    }
+
+    .list {
+      flex: 1;
+      overflow-y: auto;
+      border: 1px solid var(--border-color);
+      border-radius: 10px;
+      padding: 8px;
+      background: rgba(15, 23, 42, 0.4);
+    }
+
+    .list::-webkit-scrollbar {
+      width: 6px;
+      height: 6px;
+    }
+    .list::-webkit-scrollbar-track {
+      background: transparent;
+    }
+    .list::-webkit-scrollbar-thumb {
+      background: #273549;
+      border-radius: 3px;
+    }
+    .list::-webkit-scrollbar-thumb:hover {
+      background: #3c4f68;
+    }
+
+    .asin-item {
+      padding: 10px 12px;
+      border-radius: 8px;
+      display: flex;
+      justify-content: space-between;
+      gap: 10px;
+      align-items: center;
+      cursor: pointer;
+      margin-bottom: 4px;
+      border: 1px solid transparent;
+      transition: all 0.2s ease;
+      background: rgba(21, 28, 44, 0.6);
+    }
+
+    .asin-item:hover {
+      background: rgba(30, 41, 59, 0.7);
+      border-color: #273549;
+    }
+
+    .asin-item.active {
+      background: rgba(59, 130, 246, 0.15);
+      border: 1px solid var(--primary);
+      box-shadow: inset 0 0 8px rgba(59, 130, 246, 0.15);
+    }
+
+    pre {
+      background: #070a13;
+      color: #93c5fd;
+      padding: 14px;
+      border-radius: 10px;
+      overflow: auto;
+      border: 1px solid var(--border-color);
+      font-family: 'Consolas', 'Courier New', Courier, monospace;
+      font-size: 12px;
+    }
+
+    .actions {
+      display: flex;
+      gap: 10px;
+      flex-wrap: wrap;
+      align-items: center;
+    }
+
+    .ok {
+      color: #34d399;
+      font-weight: 500;
+    }
+
+    .err {
+      color: #fb7185;
+      font-weight: 500;
+    }
+
+    .small {
+      font-size: 12px;
+    }
+
+    .navbtn {
+      min-width: 72px;
+    }
+
     .chip {
-      display:inline-block; padding:4px 8px; border:1px solid #eee; border-radius:999px;
-      margin:4px 6px 0 0; font-size:12px; background:#fff;
+      display: inline-block;
+      padding: 4px 10px;
+      border: 1px solid var(--border-color);
+      border-radius: 999px;
+      margin: 4px 6px 0 0;
+      font-size: 11px;
+      background: rgba(30, 41, 59, 0.8);
+      color: #cbd5e1;
+      font-weight: 500;
     }
-    .kv { display:grid; grid-template-columns: 160px 1fr; gap: 6px 10px; margin-top: 8px; }
-    .dpimg { max-width:160px; border-radius:10px; border:1px solid #eee; }
-    .two-col { display:flex; gap: 12px; flex-wrap: wrap; }
-    .col { flex: 1; min-width: 320px; }
+
+    .kv {
+      display: grid;
+      grid-template-columns: 160px 1fr;
+      gap: 6px 10px;
+      margin-top: 8px;
+    }
+
+    .dpimg {
+      max-width: 100%;
+      max-height: 240px;
+      border-radius: 10px;
+      border: 1px solid var(--border-color);
+      box-shadow: 0 4px 14px rgba(0,0,0,0.3);
+      background: #0f172a;
+    }
+
+    .two-col {
+      display: flex;
+      gap: 18px;
+      flex-wrap: wrap;
+    }
+
+    .col {
+      flex: 1;
+      min-width: 320px;
+    }
+
     .badge {
-      font-size:12px; padding:2px 8px; border-radius:999px; border:1px solid #eee; background:#fff;
-      min-width: 40px; text-align:center;
+      font-size: 11px;
+      font-weight: 600;
+      padding: 2px 8px;
+      border-radius: 999px;
+      border: 1px solid var(--border-color);
+      background: #1e283d;
+      color: #cbd5e1;
+      min-width: 44px;
+      text-align: center;
+      display: inline-block;
     }
-    .badge.tp { border-color:#9ad5ae; background:#eaf7ef; }
-    .badge.fp { border-color:#ffb7b7; background:#ffecec; }
-    .btn-mini { padding: 8px 10px; font-size: 13px; }
+
+    .badge.tp {
+      border-color: #10b981;
+      background: rgba(16, 185, 129, 0.15);
+      color: #34d399;
+    }
+
+    .badge.fp {
+      border-color: #f43f5e;
+      background: rgba(244, 63, 94, 0.15);
+      color: #fb7185;
+    }
+
+    .btn-mini {
+      padding: 6px 10px;
+      font-size: 12px;
+    }
+
+    a {
+      color: #60a5fa;
+      text-decoration: none;
+      font-weight: 500;
+      transition: color 0.1s;
+    }
+    a:hover {
+      color: #93c5fd;
+      text-decoration: underline;
+    }
+
+    /* Modal Overlay */
+    .modal-overlay {
+      display: none;
+      position: fixed;
+      top: 0; left: 0; width: 100%; height: 100%;
+      background: rgba(4, 8, 16, 0.7);
+      backdrop-filter: blur(5px);
+      z-index: 2000;
+      justify-content: center;
+      align-items: center;
+    }
   </style>
 </head>
 <body>
-  <h2>CSI JSON Prompt Builder</h2>
-  <div class="muted">Load a data*.json, search an ASIN, then copy a ready-to-use prompt. Mark TP/FP and export CSV before leaving.</div>
-
-  <div class="card">
-    <div class="row">
-      <div class="field">
-        <label>Primary rule (saved)</label>
-        <input id="primaryRule" placeholder="" />
-      </div>
-
-      <div class="field">
-        <label>Data name (saved)</label>
-        <input id="dataName" placeholder="" />
-      </div>
-
-      <div class="actions">
-        <button id="btnLoad">Load Data</button>
-        <label class="field" style="margin:0;">
-          <span class="small">or choose JSON file</span>
-          <input id="fileInput" type="file" accept=".json,application/json" />
+  <!-- Sticky Header Bar -->
+  <header class="sticky-header">
+    <div style="display:flex; align-items:center; gap:16px; flex-wrap:wrap;">
+      <h2>CSI JSON Prompt Builder</h2>
+      <div class="row" style="gap:8px;">
+        <input id="primaryRule" placeholder="Rule Name" style="min-width: 140px; padding: 6px 10px; font-size: 12px;" />
+        <input id="dataName" placeholder="Data Name" style="min-width: 100px; padding: 6px 10px; font-size: 12px;" />
+        <button id="btnLoad" style="padding: 6px 12px; font-size: 12px;">Load</button>
+        <label style="margin:0; display:flex; align-items:center; gap:4px; font-size:11px; cursor:pointer;">
+          <span class="small" style="color:var(--text-muted);">or JSON file:</span>
+          <input id="fileInput" type="file" accept=".json,application/json" style="padding: 2px; font-size: 11px;" />
         </label>
+        <span id="loadStatus" class="small" style="margin-left: 6px;"></span>
       </div>
     </div>
+    <div class="actions" style="gap: 8px;">
+      <button id="btnPrev" class="navbtn" style="padding: 6px 10px; font-size:12px;" disabled>Prev</button>
+      <button id="btnNext" class="navbtn" style="padding: 6px 10px; font-size:12px;" disabled>Next</button>
+      <button id="btnCopy" style="padding: 6px 12px; font-size: 12px;" disabled>Copy Prompt</button>
+      <span style="width:1px; height:20px; background:var(--border-color);"></span>
+      <button id="btnNotAgree" class="btn-mini" style="padding: 6px 10px; font-size:12px;" disabled>Not Agree ❌</button>
+      <button id="btnClear" class="btn-mini" style="padding: 6px 10px; font-size:12px;" disabled>Reset</button>
+      <span id="decisionText" class="small muted" style="font-size:11px;">Agreement: Agree (Default) 👍</span>
+      <span style="width:1px; height:20px; background:var(--border-color);"></span>
+      <button id="btnExport" class="btn-mini" style="padding: 6px 12px; font-size:12px;" disabled>Export CSV</button>
+    </div>
+  </header>
 
-    <div id="loadStatus" class="small" style="margin-top:10px;"></div>
+  <!-- Left Drawer Hover Trigger Zone -->
+  <div class="drawer-trigger" id="drawerTrigger"></div>
+  
+  <!-- Drawer Open Handle at the Bottom Left -->
+  <button class="drawer-handle" id="drawerHandle">
+    <span>☰</span> <span>ASIN List</span>
+  </button>
+
+  <!-- Slide-Out Sidebar ASIN Drawer -->
+  <div class="asin-drawer" id="asinDrawer">
+    <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:16px;">
+      <span style="font-weight: 750; color:#fff; font-size: 14px; text-transform: uppercase; letter-spacing:0.05em;">ASIN Navigation</span>
+      <button id="btnCloseDrawer" style="padding:4px 8px; font-size:11px; background:#222d44; border:1px solid var(--border-color); border-radius:6px; color:#fff; cursor:pointer;">Close</button>
+    </div>
+    <div class="field" style="margin-bottom:16px;">
+      <label>Search ASIN</label>
+      <div style="display:flex; gap:6px;">
+        <input id="asinInput" placeholder="e.g. B0DL5H68TB" style="flex:1; min-width:unset; padding:6px 10px; font-size:12px;" />
+        <button id="btnConfirm" style="padding:6px 10px; font-size:12px;">Go</button>
+      </div>
+    </div>
+    <div class="muted" style="font-size:11px; margin-bottom:8px; font-weight:600; text-transform:uppercase; letter-spacing:0.05em; color:var(--text-muted);">ASINs in file</div>
+    <div class="list" id="asinList"></div>
   </div>
 
-  <div class="card">
-    <div class="row">
-      <div class="field">
-        <label>Search ASIN</label>
-        <input id="asinInput" placeholder="e.g. B0D7HY2VS4" />
-      </div>
-
-      <div class="actions">
-        <button id="btnConfirm">Confirm</button>
-        <button id="btnPrev" class="navbtn" disabled>Prev</button>
-        <button id="btnNext" class="navbtn" disabled>Next</button>
-
-        <button id="btnCopy" disabled>Copy Prompt</button>
-
-        <span style="width:1px;height:26px;background:#ddd;display:inline-block;margin:0 2px;"></span>
-
-        <button id="btnTP" class="btn-mini" disabled>TP</button>
-        <button id="btnFP" class="btn-mini" disabled>FP</button>
-        <button id="btnClear" class="btn-mini" disabled>Clear</button>
-        <span id="decisionText" class="small muted">Decision: -</span>
-
-        <span style="width:1px;height:26px;background:#ddd;display:inline-block;margin:0 2px;"></span>
-
-        <button id="btnExport" class="btn-mini" disabled>Export CSV</button>
+  <!-- Main Inspect Area -->
+  <main style="padding: 24px; box-sizing: border-box;">
+    <div id="humanView">
+      <div class="muted" style="text-align: center; margin-top: 120px; font-size: 14px;">
+        Please load a dataset name above (e.g. <b>p1_part1</b>) or choose a local JSON file to begin.<br/>
+        <span style="display:inline-block; margin-top:12px; font-size:12px; color:var(--primary);">← Move your mouse to the left edge of the screen or click "☰ ASIN List" at the bottom-left to browse ASINs.</span>
       </div>
     </div>
+  </main>
 
-    <div class="two-col" style="margin-top:12px;">
-      <div class="col">
-        <div class="muted">ASIN list (in file order)</div>
-        <div class="list" id="asinList"></div>
-      </div>
-
-      <div class="col" style="flex:2; min-width: 360px;">
-        <div class="muted">Human-readable (for quick decision)</div>
-        <div id="humanView" class="card" style="margin-top:8px;"></div>
-
-        <div class="muted" style="margin-top:12px;">Selected record JSON (for copy/trace)</div>
-        <pre id="jsonView">{}</pre>
+  <!-- Export Choice Modal -->
+  <div id="exportModal" class="modal-overlay">
+    <div class="card" style="width: 100%; max-width: 420px; padding: 24px; text-align: center; border-color: var(--border-color); background: var(--bg-card);">
+      <h3 style="margin-top:0; color:#fff; font-weight:700;">Export CSV Options</h3>
+      <p class="muted" style="margin-bottom: 24px;">Choose the range of data you want to export to CSV.</p>
+      <div style="display: flex; flex-direction: column; gap: 12px;">
+        <button id="btnExportAll" style="background: linear-gradient(135deg, var(--primary), #1d4ed8); border: none; color: #fff; font-weight: 600; padding: 12px 16px; border-radius: 8px;">Export All ASINs</button>
+        <button id="btnExportDisagreed" style="background: linear-gradient(135deg, var(--success), var(--success-hover)); border: none; color: #fff; font-weight: 600; padding: 12px 16px; border-radius: 8px;">Export Disagreed Only</button>
+        <button id="btnExportCancel" style="background: #374151; border: 1px solid #4b5563; color: #cbd5e1; padding: 10px 16px; border-radius: 8px;">Cancel</button>
       </div>
     </div>
   </div>
@@ -119,8 +602,12 @@
   const LS_DATA    = "csi_ui_data_name";
 
   // Decisions storage:
-  // LS_DECISIONS = { [dataName]: { [asin]: "TP" | "FP" } }
+  // LS_DECISIONS = { [dataName]: { [asin]: "Disagree" | null } }
   const LS_DECISIONS = "csi_ui_decisions_map_v1";
+
+  // AI Checks storage:
+  // LS_AI_CHECKS = { [dataName]: { [asin]: { powerchat: "Right"|"Wrong", nova: "Right"|"Wrong" } } }
+  const LS_AI_CHECKS = "csi_ui_ai_checks_v2";
 
   // Export markers:
   // LS_LAST_EXPORT = { [dataName]: timestamp_ms }
@@ -142,15 +629,24 @@
   const $btnNext = document.getElementById("btnNext");
   const $btnCopy = document.getElementById("btnCopy");
 
-  const $btnTP = document.getElementById("btnTP");
-  const $btnFP = document.getElementById("btnFP");
+  const $btnNotAgree = document.getElementById("btnNotAgree");
   const $btnClear = document.getElementById("btnClear");
   const $decisionText = document.getElementById("decisionText");
 
   const $btnExport = document.getElementById("btnExport");
 
+  const $exportModal = document.getElementById("exportModal");
+  const $btnExportAll = document.getElementById("btnExportAll");
+  const $btnExportDisagreed = document.getElementById("btnExportDisagreed");
+  const $btnExportCancel = document.getElementById("btnExportCancel");
+
+  // Left Drawer Elements
+  const $asinDrawer = document.getElementById("asinDrawer");
+  const $drawerTrigger = document.getElementById("drawerTrigger");
+  const $drawerHandle = document.getElementById("drawerHandle");
+  const $btnCloseDrawer = document.getElementById("btnCloseDrawer");
+
   const $asinList = document.getElementById("asinList");
-  const $jsonView = document.getElementById("jsonView");
   const $humanView = document.getElementById("humanView");
 
   let currentData = null;
@@ -158,6 +654,28 @@
   let selectedRecord = null;
   let selectedIndex = -1;
   let currentDataKey = ""; // data name used for saving decisions
+
+  // ---------- Left Drawer Events ----------
+  function openDrawer() {
+    $asinDrawer.classList.add("open");
+  }
+  function closeDrawer() {
+    $asinDrawer.classList.remove("open");
+  }
+
+  $drawerTrigger.addEventListener("mouseenter", openDrawer);
+  $asinDrawer.addEventListener("mouseleave", closeDrawer);
+  $drawerHandle.addEventListener("click", openDrawer);
+  $btnCloseDrawer.addEventListener("click", closeDrawer);
+
+  // ---------- Collapsible Card Toggle Helper ----------
+  function toggleCard(headerEl) {
+    const card = headerEl.closest('.collapsible-card');
+    if (card) {
+      card.classList.toggle('collapsed');
+    }
+  }
+  window.toggleCard = toggleCard;
 
   // ---------- localStorage helpers ----------
   function loadJsonLS(key, fallback) {
@@ -171,6 +689,34 @@
   function saveJsonLS(key, val) {
     localStorage.setItem(key, JSON.stringify(val));
   }
+
+  function getAiChecksMap() {
+    return loadJsonLS(LS_AI_CHECKS, {});
+  }
+
+  function setAiCheck(aiType, checkVal) {
+    if (!currentDataKey || !selectedRecord) return;
+    const asin = selectedRecord.asin;
+    
+    const map = getAiChecksMap();
+    map[currentDataKey] = map[currentDataKey] || {};
+    map[currentDataKey][asin] = map[currentDataKey][asin] || {};
+    
+    if (map[currentDataKey][asin][aiType] === checkVal) {
+      delete map[currentDataKey][asin][aiType];
+    } else {
+      map[currentDataKey][asin][aiType] = checkVal;
+    }
+    saveJsonLS(LS_AI_CHECKS, map);
+    
+    const dirty = loadJsonLS(LS_DIRTY, {});
+    dirty[currentDataKey] = true;
+    saveJsonLS(LS_DIRTY, dirty);
+    
+    updateDecisionUI();
+    renderAsinList();
+  }
+  window.setAiCheck = setAiCheck;
 
   function getDecisionsMap() {
     return loadJsonLS(LS_DECISIONS, {});
@@ -224,6 +770,7 @@
     return JSON.stringify(obj, null, 2);
   }
 
+  // Auto-saves selection and triggers UI updates
   function updateNavButtons() {
     const hasSel = selectedIndex >= 0 && selectedIndex < currentRecords.length;
     $btnPrev.disabled = !(hasSel && selectedIndex > 0);
@@ -234,17 +781,52 @@
     const hasSel = !!selectedRecord && !!currentDataKey;
     const asin = hasSel ? (selectedRecord.asin || "") : "";
     const d = hasSel ? getDecision(currentDataKey, asin) : "";
+    const isDisagreed = (d === "Disagree");
 
-    $btnTP.disabled = !hasSel;
-    $btnFP.disabled = !hasSel;
+    $btnNotAgree.disabled = !hasSel;
     $btnClear.disabled = !hasSel;
     $btnExport.disabled = !currentDataKey || !currentRecords.length;
 
-    $decisionText.textContent = `Decision: ${d || "-"}`;
+    $decisionText.textContent = isDisagreed ? "Disagree ❌" : "Agree (Default) 👍";
 
-    // optional: visually indicate active
-    $btnTP.style.outline = (d === "TP") ? "2px solid #2e7d32" : "none";
-    $btnFP.style.outline = (d === "FP") ? "2px solid #b00020" : "none";
+    // Dynamic style indicating disagreement
+    if (isDisagreed) {
+      $btnNotAgree.style.background = "var(--error)";
+      $btnNotAgree.style.borderColor = "var(--error)";
+      $btnNotAgree.style.color = "#fff";
+      $btnNotAgree.style.fontWeight = "bold";
+    } else {
+      $btnNotAgree.style.background = "";
+      $btnNotAgree.style.borderColor = "";
+      $btnNotAgree.style.color = "";
+      $btnNotAgree.style.fontWeight = "";
+    }
+
+    const checks = hasSel ? (getAiChecksMap()[currentDataKey]?.[asin] || {}) : {};
+    const $btnPC_Right = document.getElementById("btnPC_Right");
+    const $btnPC_Wrong = document.getElementById("btnPC_Wrong");
+    const $btnNova_Right = document.getElementById("btnNova_Right");
+    const $btnNova_Wrong = document.getElementById("btnNova_Wrong");
+
+    if ($btnPC_Right && $btnPC_Wrong) {
+      $btnPC_Right.style.background = (checks.powerchat === 'Right') ? "rgba(16, 185, 129, 0.15)" : "";
+      $btnPC_Right.style.border = (checks.powerchat === 'Right') ? "1px solid #10b981" : "";
+      $btnPC_Right.style.color = (checks.powerchat === 'Right') ? "#34d399" : "";
+      
+      $btnPC_Wrong.style.background = (checks.powerchat === 'Wrong') ? "rgba(244, 63, 94, 0.15)" : "";
+      $btnPC_Wrong.style.border = (checks.powerchat === 'Wrong') ? "1px solid #f43f5e" : "";
+      $btnPC_Wrong.style.color = (checks.powerchat === 'Wrong') ? "#fb7185" : "";
+    }
+
+    if ($btnNova_Right && $btnNova_Wrong) {
+      $btnNova_Right.style.background = (checks.nova === 'Right') ? "rgba(16, 185, 129, 0.15)" : "";
+      $btnNova_Right.style.border = (checks.nova === 'Right') ? "1px solid #10b981" : "";
+      $btnNova_Right.style.color = (checks.nova === 'Right') ? "#34d399" : "";
+      
+      $btnNova_Wrong.style.background = (checks.nova === 'Wrong') ? "rgba(244, 63, 94, 0.15)" : "";
+      $btnNova_Wrong.style.border = (checks.nova === 'Wrong') ? "1px solid #f43f5e" : "";
+      $btnNova_Wrong.style.color = (checks.nova === 'Wrong') ? "#fb7185" : "";
+    }
   }
 
   function renderBadge(decision) {
@@ -266,14 +848,25 @@
       const asin = r.asin || "";
       const decision = currentDataKey ? getDecision(currentDataKey, asin) : "";
 
+      const isDisagreed = (decision === "Disagree");
+      const aiVerdict = r.powerchat_verdict || "FP";
+      const finalHumanVerdict = isDisagreed ? (aiVerdict === "TP" ? "FP" : "TP") : aiVerdict;
+
+      // Agreement Tag
+      const agreementTag = isDisagreed
+        ? `<span class="small" style="font-size:10px; font-weight:bold; color:#f43f5e; background:rgba(244,63,94,0.15); padding:2px 6px; border-radius:4px; border:1px solid #f43f5e; margin-left:6px;">Disagree ❌</span>`
+        : `<span class="small" style="font-size:10px; font-weight:bold; color:#10b981; background:rgba(16,185,129,0.1); padding:2px 6px; border-radius:4px; border:1px solid #10b981; margin-left:6px;">Agree 👍</span>`;
+
       div.className = "asin-item" + (active ? " active" : "");
       div.innerHTML = `
         <div style="display:flex;gap:10px;align-items:center;">
           <div><b>${idx + 1}.</b></div>
-          <div>${asin}</div>
+          <div style="display:flex;align-items:center;">
+            ${asin} ${agreementTag}
+          </div>
         </div>
         <div style="display:flex;gap:10px;align-items:center;">
-          ${renderBadge(decision)}
+          ${renderBadge(finalHumanVerdict)}
           <div class="small muted">${(r.csi_status || "")}</div>
         </div>
       `;
@@ -302,7 +895,14 @@
   }
 
   function renderHuman(record) {
-    if (!record) return `<div class="muted">No record selected.</div>`;
+    if (!record) {
+      return `
+        <div class="muted" style="text-align: center; margin-top: 120px; font-size: 14px;">
+          Please load a dataset name above (e.g. <b>p1_part1</b>) or choose a local JSON file to begin.<br/>
+          <span style="display:inline-block; margin-top:12px; font-size:12px; color:var(--primary);">← Move your mouse to the left edge of the screen or click "☰ ASIN List" at the bottom-left to browse ASINs.</span>
+        </div>
+      `;
+    }
 
     const dp = record.dp || {};
     const attrs = record.attributes || {};
@@ -317,16 +917,29 @@
     const enBullets = Array.isArray(bullets.en) ? bullets.en : [];
     const otherBullets = Array.isArray(bullets.other) ? bullets.other : [];
 
+    const mainImgId = "main_product_image";
     const imgHtml = dp.image
-      ? `<img class="dpimg" src="${esc(dp.image)}" alt="DP image" />`
-      : `<div class="muted">No DP image</div>`;
+      ? `<div>
+           <img id="${mainImgId}" class="dpimg" src="${esc(dp.image)}" alt="DP image" style="width: 100%; max-height: 240px; display: block; margin: 0 auto 12px auto; object-fit: contain;" />
+           ${dp.images && dp.images.length > 1 ? `
+             <div style="display: flex; gap: 6px; overflow-x: auto; padding: 4px; justify-content: center; margin: 0 auto; max-width: 100%;">
+               ${dp.images.map((imgUrl, i) => `
+                 <img src="${esc(imgUrl)}" style="width: 40px; height: 40px; object-fit: cover; border: 1px solid var(--border-color); border-radius: 6px; cursor: pointer; transition: transform 0.1s;" 
+                      onclick="document.getElementById('${mainImgId}').src='${esc(imgUrl)}'"
+                      onmouseover="this.style.transform='scale(1.15)'"
+                      onmouseout="this.style.transform='scale(1)'" />
+               `).join('')}
+             </div>
+           ` : ''}
+         </div>`
+      : `<div class="muted" style="text-align:center; padding: 24px;">No DP image</div>`;
 
     const linkHtml = dp.fr_dp_url
-      ? `<a href="${esc(dp.fr_dp_url)}" target="_blank" rel="noopener">Open FR DP ↗</a>`
+      ? `<a href="${esc(dp.fr_dp_url)}" target="_blank" rel="noopener">Open FR DP page ↗</a>`
       : `<span class="muted">No DP link</span>`;
 
     const tags =
-      chip(age.normalized ? `age: ${age.normalized}` : "") +
+      chip(age.normalized ? `age: ${age.normalized}` : (age.raw_values && age.raw_values.length ? `age: ${age.raw_values.join(', ')}` : "")) +
       chip(attrs.target_gender ? `target_gender: ${attrs.target_gender}` : "") +
       chip(ssz.gender ? `csi_gender: ${ssz.gender}` : "") +
       chip(ssz.numeric_size ? `EU: ${ssz.numeric_size}` : (sizeInfo.size ? `size: ${sizeInfo.size}` : "")) +
@@ -340,49 +953,163 @@
       ssz.age_group ? `age_group=${ssz.age_group}` : ""
     ].filter(Boolean).join(", ");
 
-    return `
-      <div style="display:flex;gap:14px;flex-wrap:wrap;">
-        <div style="min-width:180px;">
-          ${imgHtml}
-          <div style="margin-top:8px;">${linkHtml}</div>
-          <div class="small muted" style="margin-top:6px;">ASIN: <b>${esc(record.asin)}</b></div>
+    // Verdict banners
+    const pcVerdict = record.powerchat_verdict || "FP";
+    const nvVerdict = record.nova_verdict || "FP";
+    const isConflict = (pcVerdict !== nvVerdict);
+
+    const conflictAlertHtml = isConflict
+      ? `<div style="background: rgba(244, 63, 94, 0.12); border: 1px solid var(--error); color: #fb7185; padding: 12px 16px; border-radius: 8px; font-weight: 500; font-size: 13px; display: flex; align-items: center; gap: 10px; margin-bottom: 16px;">
+           <span style="font-size:16px;">⚠️</span>
+           <span><strong>Verdicts Conflict Warning:</strong> Powerchat final verdict is <b>${pcVerdict}</b>, but Nova AI predicted <b>${nvVerdict}</b>. Please review carefully!</span>
+         </div>`
+      : '';
+
+    const decision = currentDataKey ? getDecision(currentDataKey, record.asin) : "";
+    const isDisagreed = (decision === "Disagree");
+    const finalHumanVerdict = isDisagreed ? (pcVerdict === "TP" ? "FP" : "TP") : pcVerdict;
+
+    const verdictBannersHtml = `
+      <div style="display: flex; gap: 12px; flex-wrap: wrap; margin-bottom: 16px;">
+        <div style="flex: 1; min-width: 200px; display:flex; justify-content:space-between; align-items:center; background: rgba(30, 41, 59, 0.6); padding: 12px 16px; border-radius: 8px; border: 1px solid var(--border-color);">
+          <div>
+            <span style="font-weight: 500; font-size: 11px; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.05em; display:block; margin-bottom:2px;">Final Verdict by AI (Powerchat)</span>
+            <span style="font-size: 15px; font-weight: 700; color: #fff;">${pcVerdict === 'TP' ? 'True Positive (TP)' : 'False Positive (FP)'}</span>
+          </div>
+          ${renderBadge(pcVerdict)}
         </div>
 
-        <div style="flex:1;min-width:260px;">
-          <div style="font-size:16px;font-weight:750;line-height:1.3;">
-            ${esc(record.csi_title || "(No CSI title)")}
+        <div style="flex: 1; min-width: 200px; display:flex; justify-content:space-between; align-items:center; background: ${isDisagreed ? 'rgba(244, 63, 94, 0.1)' : 'rgba(16, 185, 129, 0.1)'}; padding: 12px 16px; border-radius: 8px; border: 1px solid ${isDisagreed ? 'var(--error)' : 'var(--success)'};">
+          <div>
+            <span style="font-weight: 500; font-size: 11px; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.05em; display:block; margin-bottom:2px;">Human Checked Verdict</span>
+            <span style="font-size: 15px; font-weight: 700; color: ${isDisagreed ? '#fb7185' : '#34d399'};">
+              ${finalHumanVerdict === 'TP' ? 'True Positive (TP)' : 'False Positive (FP)'}
+            </span>
           </div>
-          <div class="small muted" style="margin-top:6px;">
-            CSI status: <b>${esc(record.csi_status || "")}</b>
-          </div>
+          ${renderBadge(finalHumanVerdict)}
+        </div>
+      </div>
+    `;
 
-          <div style="margin-top:10px;">${tags || `<span class="muted">No key tags</span>`}</div>
-
-          <div style="margin-top:12px;">
-            <div class="muted">Quick facts</div>
-            <div class="kv small">
-              <div><b>Size (display)</b></div><div>${esc(sizeInfo.size || "")}</div>
-              <div><b>Size map</b></div><div>${esc(sizeInfo.size_map || "")}</div>
-              <div><b>Additional sizes</b></div><div>${esc(addSizes || "")}</div>
-              <div><b>Structured size</b></div><div>${esc(structuredFacts || "")}</div>
+    return `
+      ${conflictAlertHtml}
+      ${verdictBannersHtml}
+      
+      <div class="details-grid">
+        <!-- LEFT COLUMN -->
+        <div style="display:flex; flex-direction:column; gap:16px;">
+          
+          <!-- Card 1: Product Media Gallery -->
+          <div class="collapsible-card">
+            <div class="collapsible-header" onclick="window.toggleCard(this)">Product Image Gallery</div>
+            <div class="collapsible-content">
+              ${imgHtml}
+              <div style="margin-top:12px; text-align: center; font-size: 13px;">${linkHtml}</div>
+              <div class="small muted" style="margin-top:6px; text-align: center;">ASIN: <b>${esc(record.asin)}</b></div>
             </div>
           </div>
 
-          <div style="margin-top:12px;">
-            <div class="muted">Bullet points (FR)</div>
-            ${bulletList(frBullets)}
+          <!-- Card 2: DP Page Information -->
+          <div class="collapsible-card">
+            <div class="collapsible-header" onclick="window.toggleCard(this)">DP Page Information</div>
+            <div class="collapsible-content">
+              <div class="kv small">
+                <div><b>Title</b></div><div>${esc(dp.title || "N/A")}</div>
+                <div><b>Brand Name</b></div><div>${esc(dp.brand_name || "N/A")}</div>
+                <div><b>Included Components</b></div><div>${esc(dp.included_components || "N/A")}</div>
+                <div><b>Country Of Origin</b></div><div>${esc(dp.country_of_origin || "N/A")}</div>
+                <div><b>Unit Count</b></div><div>${esc(dp.unit_count || "N/A")}</div>
+                <div><b>Item Type Name</b></div><div>${esc(dp.item_type_name || "N/A")}</div>
+                <div><b>Model Name</b></div><div>${esc(dp.model_name || "N/A")}</div>
+                <div><b>Model Number</b></div><div>${esc(dp.model_number || "N/A")}</div>
+                <div><b>Manufacturer Part Number</b></div><div>${esc(dp.manufacturer_part_number || "N/A")}</div>
+                <div><b>Manufacturer</b></div><div>${esc(dp.manufacturer || "N/A")}</div>
+                <div><b>Best Sellers Rank</b></div><div>${esc(dp.best_sellers_rank || "N/A")}</div>
+                <div><b>ASIN</b></div><div>${esc(dp.asin || record.asin || "N/A")}</div>
+                <div><b>Manufacturer recommended age</b></div><div>${esc(dp.manufacturer_recommended_age || "N/A")}</div>
+                <div><b>Bullets</b></div><div style="white-space: pre-wrap;">${esc(dp.bullets || "N/A")}</div>
+              </div>
+            </div>
           </div>
 
-          <div style="margin-top:12px;">
-            <div class="muted">Bullet points (EN)</div>
-            ${bulletList(enBullets)}
+        </div>
+
+        <!-- RIGHT COLUMN -->
+        <div style="display:flex; flex-direction:column; gap:16px;">
+          
+          <!-- Card 4: AI Verdicts Explanation -->
+          <div class="collapsible-card">
+            <div class="collapsible-header" onclick="window.toggleCard(this)">AI Verdict Explanation</div>
+            <div class="collapsible-content">
+              <div style="display: flex; gap: 12px; flex-wrap: wrap; margin-bottom: 12px;">
+                <div style="flex: 1; min-width: 120px; padding: 6px; border: 1px solid var(--border-color); border-radius: 6px; background: rgba(15, 23, 42, 0.4);">
+                  <div class="small muted" style="font-size: 11px;">Powerchat Verdict</div>
+                  <div style="display: flex; align-items: center; gap: 6px; margin-top: 4px;">
+                    ${renderBadge(record.powerchat_verdict)}
+                  </div>
+                </div>
+                
+                <div style="flex: 1; min-width: 120px; padding: 6px; border: 1px solid var(--border-color); border-radius: 6px; background: rgba(15, 23, 42, 0.4);">
+                  <div class="small muted" style="font-size: 11px;">Nova AI Verdict</div>
+                  <div style="display: flex; align-items: center; gap: 6px; margin-top: 4px;">
+                    ${renderBadge(record.nova_verdict)}
+                  </div>
+                </div>
+              </div>
+              
+              ${record.powerchat_reason ? `
+                <div style="margin-top: 8px;">
+                  <div class="small" style="font-weight: bold; color: #cbd5e1; font-size: 11px;">Powerchat Explanation:</div>
+                  <div class="small" style="white-space: pre-wrap; background: rgba(15, 23, 42, 0.5); border: 1px solid var(--border-color); padding: 8px; border-radius: 6px; margin-top: 4px; color: #e2e8f0; line-height: 1.4; max-height: 120px; overflow-y: auto;">
+                    ${esc(record.powerchat_reason)}
+                  </div>
+                </div>
+              ` : ''}
+              
+              ${record.nova_reason ? `
+                <div style="margin-top: 10px;">
+                  <div class="small" style="font-weight: bold; color: #cbd5e1; font-size: 11px;">Nova AI Explanation:</div>
+                  <div class="small" style="white-space: pre-wrap; background: rgba(15, 23, 42, 0.5); border: 1px solid var(--border-color); padding: 8px; border-radius: 6px; margin-top: 4px; color: #e2e8f0; line-height: 1.4; max-height: 120px; overflow-y: auto;">
+                    ${esc(record.nova_reason)}
+                  </div>
+                </div>
+              ` : ''}
+            </div>
           </div>
 
-          ${otherBullets.length ? `
-          <div style="margin-top:12px;">
-            <div class="muted">Bullet points (Other)</div>
-            ${bulletList(otherBullets)}
-          </div>` : ""}
+          <!-- Card 5: CSI Details & Bullet points -->
+          <div class="collapsible-card">
+            <div class="collapsible-header" onclick="window.toggleCard(this)">CSI Attributes & Bullets</div>
+            <div class="collapsible-content">
+              <div style="font-size: 15px; font-weight: 700; line-height: 1.4; margin-bottom: 8px; color:#fff;">
+                ${esc(record.csi_title || "(No CSI title)")}
+              </div>
+              <div class="small muted" style="margin-bottom: 12px;">
+                CSI status: <b>${esc(record.csi_status || "")}</b>
+              </div>
+
+              <div style="margin-top: 10px; margin-bottom: 16px;">
+                ${tags || `<span class="muted">No key tags</span>`}
+              </div>
+
+              <div style="margin-top:12px;">
+                <div class="muted" style="font-weight:600; font-size:11px;">Bullet points (FR)</div>
+                ${bulletList(frBullets)}
+              </div>
+
+              <div style="margin-top:12px;">
+                <div class="muted" style="font-weight:600; font-size:11px;">Bullet points (EN)</div>
+                ${bulletList(enBullets)}
+              </div>
+
+              ${otherBullets.length ? `
+              <div style="margin-top:12px;">
+                <div class="muted" style="font-weight:600; font-size:11px;">Bullet points (Other)</div>
+                ${bulletList(otherBullets)}
+              </div>` : ""}
+            </div>
+          </div>
+
         </div>
       </div>
     `;
@@ -396,7 +1123,6 @@
     selectedRecord = currentRecords[idx];
 
     $asinInput.value = selectedRecord.asin || "";
-    $jsonView.textContent = pretty(selectedRecord);
     $humanView.innerHTML = renderHuman(selectedRecord);
 
     $btnCopy.disabled = false;
@@ -421,24 +1147,44 @@
     return true;
   }
 
-  // ---------- export ----------
-  function exportCsvForCurrentData() {
+  // ---------- export trigger ----------
+  function triggerExportCsv(disagreedOnly) {
     if (!currentDataKey || !currentRecords.length) return;
 
     // CSV header
-    const rows = [["data_name", "asin", "decision"]];
+    const rows = [[
+      "data_name", "asin", "powerchat_verdict", "nova_verdict", "user_agreement", "final_verdict"
+    ]];
 
+    const map = getDecisionsMap()[currentDataKey] || {};
+
+    let count = 0;
     for (const r of currentRecords) {
       const asin = r.asin || "";
-      const decision = getDecision(currentDataKey, asin) || "";
-      rows.push([currentDataKey, asin, decision]);
+      const dec = map[asin] || "";
+      const isDisagreed = (dec === "Disagree");
+      
+      if (disagreedOnly && !isDisagreed) {
+        continue;
+      }
+
+      const pc_v = r.powerchat_verdict || "FP";
+      const nv_v = r.nova_verdict || "FP";
+      const user_agreement = isDisagreed ? "Disagree" : "Agree";
+      const final_verdict = isDisagreed ? (pc_v === "TP" ? "FP" : "TP") : pc_v;
+      
+      rows.push([currentDataKey, asin, pc_v, nv_v, user_agreement, final_verdict]);
+      count++;
+    }
+
+    if (count === 0) {
+      setStatus("No records matched the export filter.", "err");
+      return;
     }
 
     const csv = rows.map(cols => cols.map(v => {
       const s = String(v ?? "");
-      // escape quotes
       const escaped = s.replace(/"/g, '""');
-      // quote if needed
       return /[",\n]/.test(escaped) ? `"${escaped}"` : escaped;
     }).join(",")).join("\n");
 
@@ -446,7 +1192,8 @@
     const url = URL.createObjectURL(blob);
 
     const ts = new Date().toISOString().replace(/[:.]/g, "-");
-    const filename = `${currentDataKey}_tp_fp_${ts}.csv`;
+    const suffix = disagreedOnly ? "disagreed_only" : "all";
+    const filename = `${currentDataKey}_verdicts_${suffix}_${ts}.csv`;
 
     const a = document.createElement("a");
     a.href = url;
@@ -463,7 +1210,7 @@
     last[currentDataKey] = Date.now();
     saveJsonLS(LS_LAST_EXPORT, last);
 
-    setStatus(`Exported CSV: ${filename} ✅`, "ok");
+    setStatus(`Exported ${count} ASINs to CSV: ${filename} ✅`, "ok");
     renderAsinList();
     updateDecisionUI();
   }
@@ -476,8 +1223,7 @@
     else if (json && Array.isArray(json.records)) currentRecords = json.records;
     else currentRecords = [];
 
-    // Determine dataKey:
-    // Prefer the input dataName; fallback to file stem (filename without .json)
+    // Determine dataKey
     let dk = ($dataName.value || "").trim();
     if (!dk && filenameHint) dk = filenameHint.replace(/\.json$/i, "");
     currentDataKey = dk || "data";
@@ -487,7 +1233,6 @@
     selectedIndex = -1;
 
     $btnCopy.disabled = true;
-    $jsonView.textContent = "{}";
     $humanView.innerHTML = renderHuman(null);
 
     updateNavButtons();
@@ -497,7 +1242,6 @@
     const sf = (json && json.source_file) ? json.source_file : filenameHint;
     setStatus(`Loaded source: ${sf}. dataKey=${currentDataKey}. records=${currentRecords.length}`, "ok");
 
-    // enable export even before selecting
     $btnExport.disabled = !currentDataKey || !currentRecords.length;
   }
 
@@ -505,11 +1249,9 @@
     if (!currentDataKey) return true;
     if (!isDirty(currentDataKey)) return true;
 
-    // Offer export now
-    const ok = confirm(`You have un-exported TP/FP decisions for "${currentDataKey}".\n\nPress OK to Export CSV now, or Cancel to continue without exporting.`);
-    if (ok) exportCsvForCurrentData();
-    // allow switching regardless (user chose)
-    return true;
+    // Show export options overlay
+    const ok = confirm(`You have un-exported agreement decisions for "${currentDataKey}".\n\nClick OK to keep working, or Cancel to discard markers.`);
+    return ok;
   }
 
   async function loadByDataName() {
@@ -538,7 +1280,6 @@
       currentDataKey = "";
 
       renderAsinList();
-      $jsonView.textContent = "{}";
       $humanView.innerHTML = renderHuman(null);
 
       $btnCopy.disabled = true;
@@ -560,7 +1301,6 @@
       const text = await f.text();
       const json = JSON.parse(text);
 
-      // If user picked data1.json, auto-fill dataName = data1
       const base = f.name.replace(/\.json$/i, "");
       if (base) {
         $dataName.value = base;
@@ -591,7 +1331,6 @@
       selectedRecord = null;
       selectedIndex = -1;
       $btnCopy.disabled = true;
-      $jsonView.textContent = "{}";
       $humanView.innerHTML = renderHuman(null);
       updateNavButtons();
       renderAsinList();
@@ -631,33 +1370,63 @@ ${JSON.stringify(selectedRecord, null, 2)}`;
     }
   });
 
-  // TP/FP/Clear
-  $btnTP.addEventListener("click", () => {
+  // Not Agree Toggle
+  $btnNotAgree.addEventListener("click", () => {
     if (!selectedRecord || !currentDataKey) return;
-    setDecision(currentDataKey, selectedRecord.asin, "TP");
-    setStatus(`Saved decision TP for ${selectedRecord.asin}`, "ok");
+    const asin = selectedRecord.asin;
+    const currentDec = getDecision(currentDataKey, asin);
+    if (currentDec === "Disagree") {
+      setDecision(currentDataKey, asin, null); // Reset to default Agree
+      setStatus(`Agreed with AI verdict for ${asin}`, "ok");
+    } else {
+      setDecision(currentDataKey, asin, "Disagree");
+      setStatus(`Disagreed with AI verdict for ${asin}`, "ok");
+    }
     renderAsinList();
+    $humanView.innerHTML = renderHuman(selectedRecord);
     updateDecisionUI();
   });
 
-  $btnFP.addEventListener("click", () => {
-    if (!selectedRecord || !currentDataKey) return;
-    setDecision(currentDataKey, selectedRecord.asin, "FP");
-    setStatus(`Saved decision FP for ${selectedRecord.asin}`, "ok");
-    renderAsinList();
-    updateDecisionUI();
-  });
-
+  // Clear/Reset Agreement
   $btnClear.addEventListener("click", () => {
     if (!selectedRecord || !currentDataKey) return;
     setDecision(currentDataKey, selectedRecord.asin, null);
-    setStatus(`Cleared decision for ${selectedRecord.asin}`, "ok");
+    setStatus(`Reset agreement to Agree (Default) for ${selectedRecord.asin}`, "ok");
     renderAsinList();
+    $humanView.innerHTML = renderHuman(selectedRecord);
     updateDecisionUI();
   });
 
-  // Export
-  $btnExport.addEventListener("click", exportCsvForCurrentData);
+  // Export Button Click - Opens Modal
+  $btnExport.addEventListener("click", () => {
+    if (!currentDataKey || !currentRecords.length) return;
+    
+    // Count how many disagreements we have
+    const map = getDecisionsMap()[currentDataKey] || {};
+    let disagreedCount = 0;
+    for (const asin in map) {
+      if (map[asin] === "Disagree") disagreedCount++;
+    }
+    
+    $btnExportAll.textContent = `Export All ASINs (${currentRecords.length})`;
+    $btnExportDisagreed.textContent = `Export Disagreed Only (${disagreedCount})`;
+    
+    $exportModal.style.display = "flex";
+  });
+
+  $btnExportCancel.addEventListener("click", () => {
+    $exportModal.style.display = "none";
+  });
+
+  $btnExportAll.addEventListener("click", () => {
+    $exportModal.style.display = "none";
+    triggerExportCsv(false);
+  });
+
+  $btnExportDisagreed.addEventListener("click", () => {
+    $exportModal.style.display = "none";
+    triggerExportCsv(true);
+  });
 
   // Warn before close/refresh if dirty
   window.addEventListener("beforeunload", (e) => {
